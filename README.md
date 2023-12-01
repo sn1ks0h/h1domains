@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Dec  1 07:17:46 UTC 2023)
+## Domains with Bounties (Last Updated Fri Dec  1 08:20:01 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -1449,12 +1449,6 @@ fetlife.com
 *.fetlife.com
 *.fetlife.com
 fetlife.com
-socket.remitano.com
-www.remitano.com
-api.remitano.com
-www.remitano.com
-api.remitano.com
-socket.remitano.com
 nvio.ar
 nvio.mx
 api.bitso.com
@@ -2665,9 +2659,9 @@ api.foliofn.com
 *.advisorsolutions.gs.com
 *.gs.de
 *.gsam.com
-*.gs.com
 marquee.gs.com
 *.folioinstitutional.com
+*.folioclient.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3251,8 +3245,8 @@ api.deriv.com
 *.derivws.com
 secure-dfadmin.deriv.com
 *.binary.com
-*.deriv.com
 smarttrader.deriv.com
+*.deriv.com
 *.deriv.cloud
 oauth.deriv.com
 app.deriv.com
@@ -3702,11 +3696,11 @@ ctf.hacker101.com
 hackerone-ext-content.com
 www.hackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
-hackerone.live
 errors.hackerone.net
 app.pullrequest.com
 b5s.hackerone-ext-content.com
 cover-photos.hackerone-user-content.com
+hackerone.live
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -3852,6 +3846,12 @@ westpoint.edu
 *.panther.com
 *.runpanther.io
 *.runpanther.com
+socket.remitano.com
+www.remitano.com
+api.remitano.com
+www.remitano.com
+api.remitano.com
+socket.remitano.com
 www.aiven.io
 help.aiven.io
 api.aiven.io
