@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Dec  4 21:16:32 UTC 2023)
+## Domains with Bounties (Last Updated Mon Dec  4 22:17:44 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -187,8 +187,8 @@ dashboard.gamma.redoxstage.com
 help.redoxengine.com
 eets.gamma.redoxstage.com
 webhooks.gamma.redoxstage.com
-testapp.redoxengine.com
 10x.redoxengine.com
+testapp.redoxengine.com
 docs.redoxengine.com
 api.gamma.redoxstage.com
 gamma.redoxstage.com
@@ -3181,8 +3181,8 @@ moneybird.com
 moneybirdstorage.com
 moneybird.com
 moneybirdstorage.com
-npmjs.com
 api.github.com
+npmjs.com
 classroom.github.com
 *.githubapp.com
 education.github.com
@@ -3350,9 +3350,9 @@ shop.app
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
+*.shopify.com
 admin.shopify.com
 accounts.shopify.com
-*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
