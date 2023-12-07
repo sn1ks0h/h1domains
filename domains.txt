@@ -1108,8 +1108,8 @@ api-sandbox.gocardless.com
 pay-sandbox.gocardless.com
 *.gocardless.dev
 xero-sandbox.gocardless.com
-oauth-sandbox.gocardless.com
 *.gocardless.com
+oauth-sandbox.gocardless.com
 *.gocardless-cicd.io
 *.gocardless-staging.io
 www.gocardless.com
@@ -3467,8 +3467,8 @@ thailand.airasiago.com
 http://www.cruiseshipcenters.com/api/searchcenter
 eng.magiceden.io
 *.magiceden.workers.dev
-eng.magiceden.dev
 *.magiceden.io
+eng.magiceden.dev
 *.magiceden.dev
 magiceden.io
 magiceden.io
@@ -5363,8 +5363,8 @@ help.krisp.ai
 jobs.krisp.ai
 url5145.krisp.ai
 upld.krisp.ai
-*.krisp.ai
 account.krisp.ai
+*.krisp.ai
 teams.krisp.ai
 api.krisp.ai
 download.krisp.ai
@@ -10262,8 +10262,8 @@ business.snapchat.com
 www.bitmoji.com
 geofilters.snapchat.com
 *.sc-corp.net
-web.snapchat.com
 spectacles.com
+web.snapchat.com
 developer.playcanvas.com
 launch.playcanvas.com
 www.bitstrips.com

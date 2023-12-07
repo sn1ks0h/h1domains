@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Dec  7 11:16:56 UTC 2023)
+## Domains with Bounties (Last Updated Thu Dec  7 12:27:24 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -1051,8 +1051,8 @@ marketplace.databricks.com
 *.payoneer.com
 analytics.krisp.ai
 upld.krisp.ai
-*.krisp.ai
 account.krisp.ai
+*.krisp.ai
 teams.krisp.ai
 api.krisp.ai
 download.krisp.ai
@@ -3393,8 +3393,8 @@ business.snapchat.com
 www.bitmoji.com
 geofilters.snapchat.com
 *.sc-corp.net
-web.snapchat.com
 spectacles.com
+web.snapchat.com
 developer.playcanvas.com
 launch.playcanvas.com
 www.bitstrips.com
