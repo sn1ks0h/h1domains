@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Dec  7 01:59:40 UTC 2023)
+## Domains with Bounties (Last Updated Thu Dec  7 02:32:01 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -1965,8 +1965,8 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 www.alibabagroup.com
 *.tmall.com
-*.alibabacloud.com
 *.alibaba.com
+*.alibabacloud.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.aliyun-inc.com
