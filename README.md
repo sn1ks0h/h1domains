@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Dec  7 03:17:28 UTC 2023)
+## Domains with Bounties (Last Updated Thu Dec  7 04:20:08 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -43,8 +43,8 @@ careers.booking.com
 experiences.booking.com
 supplier.auth.toag.booking.com
 flights.booking.com
-booking.com
 admin.booking.com
+booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -587,8 +587,8 @@ api.sokos.fi
 cfapi.voikukka.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.skypicker.com
 *.kiwi.com
+*.skypicker.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -1609,8 +1609,8 @@ academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
 careers.tiktok.com
 business.tiktok.com
-*.tiktok.com
 *.tiktokv.com
+*.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
 shop.tiktok.com
@@ -3556,8 +3556,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-*.twitter.com
 x.com
+*.twitter.com
 grok.x.ai
 *.twimg.com
 gnip.com
