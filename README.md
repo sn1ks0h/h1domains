@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Dec  8 06:21:41 UTC 2023)
+## Domains with Bounties (Last Updated Fri Dec  8 07:15:28 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -217,8 +217,8 @@ explore.redoxengine.com
 www.redoxengine.com
 help.redoxengine.com
 www.mobile-phantom.com
-www.tecno-mobile.com
 *.palm.tech
+www.tecno-mobile.com
 security.tecno.com
 *.palm.tech
 www.tecno-mobile.com
@@ -3353,9 +3353,9 @@ shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-*.shopify.com
 accounts.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
