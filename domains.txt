@@ -1108,8 +1108,8 @@ api-sandbox.gocardless.com
 pay-sandbox.gocardless.com
 *.gocardless.dev
 xero-sandbox.gocardless.com
-oauth-sandbox.gocardless.com
 *.gocardless.com
+oauth-sandbox.gocardless.com
 *.gocardless-cicd.io
 *.gocardless-staging.io
 www.gocardless.com
@@ -5294,8 +5294,8 @@ https://oreo.ru
 https://xn--80abwto.xn--p1ai
 https://xn--90aiakgkqi1l.xn--p1ai
 *.veeam.com
-*.kasten.io
 *.veeamgov.com
+*.kasten.io
 *.veeam.com
 *.kasten.io
 *.veeamgov.com
