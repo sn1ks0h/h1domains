@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Dec 10 01:04:44 UTC 2023)
+## Domains with Bounties (Last Updated Sun Dec 10 02:07:52 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
@@ -2052,10 +2052,10 @@ sso.marriott.com
 mgs.marriott.com
 www.marriott.com
 dcfgatewaytst1.marriott.com
-gatewaydsaptst1.marriott.com
 activities.marriott.com
 jobs.marriott.com
 reservations.all-inclusive.marriott.com
+gatewaydsaptst1.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
 www.ritzcarlton.com
