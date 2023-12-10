@@ -4870,8 +4870,8 @@ www.alohi.com
 *.cartus.com
 *.leadrouter.com
 *.era.com
-*.century21.*
 *.bhgre.*
+*.century21.*
 *.nrtllc.*
 *.sothebysrealty.*
 *.corcoran.*
