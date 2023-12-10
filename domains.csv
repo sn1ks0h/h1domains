@@ -1502,8 +1502,8 @@ aven_response,*.aven.com,False
 aven_response,aven.com,False
 aven_response,my.aven.com,False
 aven_response,notary.aven.com,False
-servicenow-disclosure,*.service-now.com,False
 servicenow-disclosure,*.servicenow.com,False
+servicenow-disclosure,*.service-now.com,False
 servicenow-disclosure,*.servicenow.com,False
 servicenow-disclosure,*.service-now.com,False
 shi_vdp,durango.shi.com,False
@@ -1536,8 +1536,8 @@ redox_bbp,dashboard.gamma.redoxstage.com,True
 redox_bbp,help.redoxengine.com,True
 redox_bbp,eets.gamma.redoxstage.com,True
 redox_bbp,webhooks.gamma.redoxstage.com,True
-redox_bbp,10x.redoxengine.com,True
 redox_bbp,testapp.redoxengine.com,True
+redox_bbp,10x.redoxengine.com,True
 redox_bbp,docs.redoxengine.com,True
 redox_bbp,api.gamma.redoxstage.com,True
 redox_bbp,gamma.redoxstage.com,True
@@ -7797,10 +7797,10 @@ alibaba,*.aliexpress.ru,True
 alibaba,*.alibaba-inc.com,True
 alibaba,*.aliyun-inc.com,True
 alibaba,*.alimama.com,True
-alibaba,*.Daraz.com,True
 alibaba,*.aliexpress.com,True
 alibaba,*.1688.com,True
 alibaba,*.aliyun.com,True
+alibaba,*.Daraz.com,True
 alibaba,*.taobao.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.com,True
@@ -10242,8 +10242,8 @@ snapchat,create.snapchat.com,True
 snapchat,msg.playcanvas.com,True
 snapchat,businesshelp.snapchat.com,True
 snapchat,ads.snapchat.com,True
-snapchat,forum.playcanvas.com,True
 snapchat,accounts.snapchat.com,True
+snapchat,forum.playcanvas.com,True
 snapchat,scan.snapchat.com,True
 snapchat,blog.playcanvas.com,True
 snapchat,relay.playcanvas.com,True
