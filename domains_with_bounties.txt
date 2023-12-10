@@ -1018,9 +1018,9 @@ docs.databricks.com
 accounts.cloud.databricks.com
 kb.databricks.com
 support.databricks.com
-labs.databricks.com
 marketplace.databricks.com
 community.databricks.com
+labs.databricks.com
 advocates.databricks.com
 help.databricks.com
 customer-academy.databricks.com
