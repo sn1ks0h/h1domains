@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Dec 11 02:02:01 UTC 2023)
+## Domains with Bounties (Last Updated Mon Dec 11 02:32:51 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
@@ -488,8 +488,8 @@ hiltonhotels.jp
 https://www.okx.com/docs-v5/en/#market-maker-program
 https://www.okx.com/docs/en/
 ab-platform-api.eu-east-1.indriverapp.com
-cargo.indrive.com
 *.indrive.com
+cargo.indrive.com
 messenger.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 new-order.eu-east-1.indriverapp.com
@@ -2866,8 +2866,8 @@ secure.lahitapiola.fi
 lisasijoitus.lahitapiola.fi
 verovelvollisuustiedot.lahitapiola.fi
 privatetarget-1-www.zigzag
-www.lahitapiola.fi
 *.tapiola.fi
+www.lahitapiola.fi
 www.tapiola.fi
 asiointi.lahitapiola.fi
 *.lahitapiolarahoitus.fi

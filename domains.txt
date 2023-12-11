@@ -2893,8 +2893,8 @@ manage.fastly.com
 api.fastly.com
 docs.fastly.com
 ab-platform-api.eu-east-1.indriverapp.com
-cargo.indrive.com
 *.indrive.com
+cargo.indrive.com
 messenger.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 new-order.eu-east-1.indriverapp.com
@@ -2972,8 +2972,8 @@ abb.com.br
 *.cms.abb
 *.abb.at
 *.pl.abb.com
-*.abb.com
 *.baldor.com
+*.abb.com
 *.busch-jaeger.nl
 *.fi.abb.com
 *.motors.abb.com.cn
@@ -9658,8 +9658,8 @@ secure.lahitapiola.fi
 lisasijoitus.lahitapiola.fi
 verovelvollisuustiedot.lahitapiola.fi
 privatetarget-1-www.zigzag
-www.lahitapiola.fi
 *.tapiola.fi
+www.lahitapiola.fi
 www.tapiola.fi
 asiointi.lahitapiola.fi
 *.lahitapiolarahoitus.fi
