@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Dec 11 18:20:28 UTC 2023)
+## Domains with Bounties (Last Updated Mon Dec 11 19:16:47 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
@@ -13,13 +13,13 @@ www.mercadolivre.com.br
 www.mercadolibre.cl
 www.mercadopago.com.pe
 www.mercadopago.com.co
-api.mercadopago.com
-www.mercadolibre.com.ar
 www.mercadolibre.com.co
 www.mercadopago.com.ar
+api.mercadopago.com
+www.mercadolibre.com.ar
 www.mercadopago.com.mx
-www.mercadopago.com.br
 api.mercadolibre.com
+www.mercadopago.com.br
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -345,8 +345,8 @@ app.kolesa.kz
 id.kolesa.kz
 api.kolesa.kz
 app.avtoelon.uz
-m.krisha.kz
 avtoelon.uz
+m.krisha.kz
 id.avtoelon.uz
 kolesa.kz
 m.avtoelon.uz
@@ -1615,8 +1615,8 @@ academy-outbound-ads.tiktok.com
 business.tiktok.com
 *.tiktokv.com
 creatormarketplace.tiktok.com
-*.tiktok.com
 careers.tiktok.com
+*.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
 shop.tiktok.com
@@ -2671,8 +2671,8 @@ api.foliofn.com
 *.advisorsolutions.gs.com
 *.gsam.com
 marquee.gs.com
-*.gs.de
 *.folioinstitutional.com
+*.gs.de
 *.gs.com
 *.goldmansachs.com
 *.gs.com
@@ -3359,9 +3359,9 @@ shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-*.shopify.com
-admin.shopify.com
 accounts.shopify.com
+admin.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3392,11 +3392,11 @@ map.snapchat.com
 rt.playcanvas.com
 store.snapchat.com
 snappublisher.snapchat.com
-my.snapchat.com
 www.bitmoji.com
 playcanvas.com
 app.snapchat.com
 business.snapchat.com
+my.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 web.snapchat.com
