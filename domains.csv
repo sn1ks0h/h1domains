@@ -2894,8 +2894,8 @@ fastly-vdp,manage.fastly.com,False
 fastly-vdp,api.fastly.com,False
 fastly-vdp,docs.fastly.com,False
 indrive,ab-platform-api.eu-east-1.indriverapp.com,True
-indrive,*.indrive.com,True
 indrive,cargo.indrive.com,True
+indrive,*.indrive.com,True
 indrive,messenger.eu-east-1.indriverapp.com,True
 indrive,truck-api.eu-east-1.indriverapp.com,True
 indrive,new-order.eu-east-1.indriverapp.com,True
@@ -7446,9 +7446,9 @@ watson_group,www10.watsons.com.ph,True
 watson_group,www.watsons.com.ph,True
 watson_group,www10.watsons.com.hk,True
 watson_group,www20.watsons.co.th,True
-watson_group,www.watsons.co.id,True
 watson_group,www.watsons.com.tr,True
 watson_group,www.marionnaud.fr,True
+watson_group,www.watsons.co.id,True
 watson_group,app.marionnaud.cz,True
 watson_group,app.marionnaud.it,True
 watson_group,app.marionnaud.ro,True
@@ -7612,8 +7612,8 @@ playstation,store.playstation.com,True
 playstation,direct.playstation.com,True
 playstation,my.playstation.com,True
 playstation,*.playstation.net,True
-playstation,ca.account.sony.com,True
 playstation,my.account.sony.com,True
+playstation,ca.account.sony.com,True
 playstation,*.playstation.net,True
 playstation,*.sonyentertainmentnetwork.com,True
 playstation,*.api.playstation.com,True

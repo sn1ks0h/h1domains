@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Dec 10 23:16:57 UTC 2023)
+## Domains with Bounties (Last Updated Mon Dec 11 01:02:05 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
@@ -488,8 +488,8 @@ hiltonhotels.jp
 https://www.okx.com/docs-v5/en/#market-maker-program
 https://www.okx.com/docs/en/
 ab-platform-api.eu-east-1.indriverapp.com
-*.indrive.com
 cargo.indrive.com
+*.indrive.com
 messenger.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 new-order.eu-east-1.indriverapp.com
@@ -1694,9 +1694,9 @@ www10.watsons.com.ph
 www.watsons.com.ph
 www10.watsons.com.hk
 www20.watsons.co.th
-www.watsons.co.id
 www.watsons.com.tr
 www.marionnaud.fr
+www.watsons.co.id
 app.marionnaud.cz
 app.marionnaud.it
 app.marionnaud.ro
@@ -1824,8 +1824,8 @@ store.playstation.com
 direct.playstation.com
 my.playstation.com
 *.playstation.net
-ca.account.sony.com
 my.account.sony.com
+ca.account.sony.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
