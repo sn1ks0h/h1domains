@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Dec 11 01:02:05 UTC 2023)
+## Domains with Bounties (Last Updated Mon Dec 11 02:02:01 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
@@ -43,8 +43,8 @@ experiences.booking.com
 careers.booking.com
 supplier.auth.toag.booking.com
 flights.booking.com
-admin.booking.com
 booking.com
+admin.booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -2666,7 +2666,7 @@ api.foliofn.com
 *.gsam.com
 marquee.gs.com
 *.folioclient.com
-*.gs.com
+*.folioinstitutional.com
 *.gs.de
 *.goldmansachs.com
 *.gs.com
