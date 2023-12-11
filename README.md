@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Dec 11 16:22:58 UTC 2023)
+## Domains with Bounties (Last Updated Mon Dec 11 17:18:22 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
@@ -91,8 +91,8 @@ api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 http://help.front.com
-*.boozt.com
 *.booztlet.com
+*.boozt.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -347,9 +347,9 @@ api.kolesa.kz
 app.avtoelon.uz
 m.krisha.kz
 avtoelon.uz
-m.avtoelon.uz
 id.avtoelon.uz
 kolesa.kz
+m.avtoelon.uz
 m.kolesa.kz
 app.krisha.kz
 api.avtoelon.uz
@@ -1472,8 +1472,8 @@ caldav.larksuite.com
 passport.larksuite.com
 internal-api-drive-stream.larksuite.com
 hackers_chosendomain.larksuite.com
-larksuite.com
 internal-api.larksuite.com
+larksuite.com
 api.larksuite.com
 internal-api-lark-api.larksuite.com
 open.larksuite.com
@@ -1614,9 +1614,9 @@ www.pangleglobal.com
 academy-outbound-ads.tiktok.com
 business.tiktok.com
 *.tiktokv.com
-careers.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktok.com
+careers.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
 shop.tiktok.com
@@ -1939,8 +1939,8 @@ affiliate-program.amazon.com
 chat.amazon.com
 manufacturing.amazon.com
 apay-us.amazon.com
-music.amazon.com
 api.amazon.com
+music.amazon.com
 smile.amazon.*
 flex.amazon.*
 logistics.amazon.*
@@ -2671,8 +2671,8 @@ api.foliofn.com
 *.advisorsolutions.gs.com
 *.gsam.com
 marquee.gs.com
-*.gs.de
 *.folioinstitutional.com
+*.gs.de
 *.gs.com
 *.goldmansachs.com
 *.gs.com
@@ -3566,8 +3566,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-x.com
 *.twitter.com
+x.com
 grok.x.ai
 *.twimg.com
 gnip.com
