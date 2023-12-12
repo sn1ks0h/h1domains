@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Dec 12 16:22:50 UTC 2023)
+## Domains with Bounties (Last Updated Tue Dec 12 17:18:51 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
@@ -763,6 +763,28 @@ api.zerobounce.in
 zerobounce.in
 api.zerobounce.in
 zerobounce.net
+*.gravitational.com
+*.teleport.dev
+*.gravitational.co
+cloud.gravitational.io
+askpam.ai
+*.teleportinfra.sh
+teleport.sh
+*.gravitational.io
+h1-your-domain.teleport.sh
+platform.teleport.sh
+*.goteleport.com
+*.goteleport.com
+*.gravitational.com
+*.teleport.dev
+*.teleportinfra.sh
+*.gravitational.co
+*.gravitational.io
+teleport.sh
+h1-your-domain.teleport.sh
+platform.teleport.sh
+cloud.gravitational.io
+askpam.ai
 *.gravitational.com
 *.teleport.dev
 *.gravitational.co
@@ -2057,8 +2079,8 @@ mgs.marriott.com
 www.marriott.com
 dcfgatewaytst1.marriott.com
 activities.marriott.com
-reservations.all-inclusive.marriott.com
 gatewaydsaptst1.marriott.com
+reservations.all-inclusive.marriott.com
 jobs.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
@@ -2100,8 +2122,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2259,8 +2281,8 @@ app.command.cysiv.com
 admin.rezserver.com
 reservations.rezserver.com
 www.bookingholdings.com
-www.priceline.com
 www.getaroom.com
+www.priceline.com
 api.rezserver.com
 secure.rezserver.com
 flyiin.com
@@ -3550,8 +3572,8 @@ api.greenhouse.io
 support.greenhouse.io
 jss.greenhouse.io
 app.greenhouse.io
-boards.greenhouse.io
 interseller.io
+boards.greenhouse.io
 www.greenhouse.io
 app.interseller.io
 app.greenhouse.io
