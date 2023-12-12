@@ -2,8 +2,36 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Dec 12 17:18:51 UTC 2023)
+## Domains with Bounties (Last Updated Tue Dec 12 18:22:17 UTC 2023)
 ```
+research.23andme.com
+mediacenter.23andme.com
+www.lemonaidhealth.com
+clinic.lemonaidhealth.com
+pd-api.polkadoc.com
+store.23andme.com
+education.23andme.com
+sapi-live.lh.us-west-2.prd.23andme.us
+blog.23andme.com
+auth.23andme.com
+api.23andme.com
+you.23andme.com
+therapeutics.23andme.com
+medical.23andme.com
+api.23andme.com
+auth.23andme.com
+blog.23andme.com
+education.23andme.com
+mediacenter.23andme.com
+medical.23andme.com
+store.23andme.com
+therapeutics.23andme.com
+you.23andme.com
+clinic.lemonaidhealth.com
+www.lemonaidhealth.com
+sapi-live.lh.us-west-2.prd.23andme.us
+pd-api.polkadoc.com
+research.23andme.com
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
 www.mercadopago.cl
@@ -785,28 +813,6 @@ h1-your-domain.teleport.sh
 platform.teleport.sh
 cloud.gravitational.io
 askpam.ai
-*.gravitational.com
-*.teleport.dev
-*.gravitational.co
-cloud.gravitational.io
-askpam.ai
-*.teleportinfra.sh
-teleport.sh
-*.gravitational.io
-h1-your-domain.teleport.sh
-platform.teleport.sh
-*.goteleport.com
-*.goteleport.com
-*.gravitational.com
-*.teleport.dev
-*.teleportinfra.sh
-*.gravitational.co
-*.gravitational.io
-teleport.sh
-h1-your-domain.teleport.sh
-platform.teleport.sh
-cloud.gravitational.io
-askpam.ai
 pb.deribit.com
 test.deribit.com
 insights.deribit.com
@@ -1041,9 +1047,9 @@ admin.instacart.com
 shoppers.instacart.com
 demo.cloud.databricks.com
 academy.databricks.com
-databricks.com
 accounts.cloud.databricks.com
 docs.databricks.com
+databricks.com
 kb.databricks.com
 support.databricks.com
 marketplace.databricks.com
@@ -2079,8 +2085,8 @@ mgs.marriott.com
 www.marriott.com
 dcfgatewaytst1.marriott.com
 activities.marriott.com
-gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
+gatewaydsaptst1.marriott.com
 jobs.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
