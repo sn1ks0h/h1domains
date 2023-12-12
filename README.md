@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Dec 12 02:33:36 UTC 2023)
+## Domains with Bounties (Last Updated Tue Dec 12 03:19:00 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
