@@ -2,12 +2,12 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Dec 13 09:18:32 UTC 2023)
+## Domains with Bounties (Last Updated Wed Dec 13 10:19:19 UTC 2023)
 ```
 research.23andme.com
-www.lemonaidhealth.com
 mediacenter.23andme.com
 clinic.lemonaidhealth.com
+www.lemonaidhealth.com
 education.23andme.com
 store.23andme.com
 pd-api.polkadoc.com
@@ -73,10 +73,10 @@ kyc-onboarding.booking.com
 careers.booking.com
 supplier.auth.toag.booking.com
 flights.booking.com
-booking.com
 admin.booking.com
 supply-xml.booking.com
 *.booking.com
+booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -92,9 +92,9 @@ paymentcomponent.booking.com
 paynotifications.booking.com
 webhooks.booking.com
 secure.booking.com
-cars.booking.com
 paybridge.booking.com
 account.booking.com
+cars.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -537,9 +537,9 @@ hiltonhotels.jp
 *.okx.com
 https://www.okx.com/docs-v5/en/#market-maker-program
 https://www.okx.com/docs/en/
-cargo.indrive.com
 ab-platform-api.eu-east-1.indriverapp.com
 *.indrive.com
+cargo.indrive.com
 messenger.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 new-order.eu-east-1.indriverapp.com
@@ -1449,8 +1449,8 @@ global-api.citymapper.com
 remix.com
 eu.remix.com
 platform.remix.com
-*.scopely.com
 *.withbuddies.com
+*.scopely.com
 *.scopely.io
 *.scopely.io
 *.scopely.com
@@ -2107,8 +2107,8 @@ mgs.marriott.com
 www.marriott.com
 dcfgatewaytst1.marriott.com
 activities.marriott.com
-reservations.all-inclusive.marriott.com
 gatewaydsaptst1.marriott.com
+reservations.all-inclusive.marriott.com
 jobs.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
