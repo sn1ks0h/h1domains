@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Dec 13 08:20:30 UTC 2023)
+## Domains with Bounties (Last Updated Wed Dec 13 09:18:32 UTC 2023)
 ```
 research.23andme.com
 www.lemonaidhealth.com
@@ -68,9 +68,9 @@ www.temu.com
 www.temu.com
 chat.booking.com
 experiences.booking.com
-careers.booking.com
 indicative-pricing.taxi.booking.com
 kyc-onboarding.booking.com
+careers.booking.com
 supplier.auth.toag.booking.com
 flights.booking.com
 booking.com
@@ -82,8 +82,8 @@ portal.taxi.booking.com
 distribution-xml.booking.com
 accommodations.booking.com
 phone-validation.taxi.booking.com
-*.rentalcars.com
 taxis.booking.com
+*.rentalcars.com
 taxi.booking.com
 autocomplete.booking.com
 secure-supply-xml.booking.com
