@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Dec 14 22:16:27 UTC 2023)
+## Domains with Bounties (Last Updated Thu Dec 14 23:18:13 UTC 2023)
 ```
 research.23andme.com
 www.lemonaidhealth.com
@@ -93,8 +93,8 @@ paynotifications.booking.com
 webhooks.booking.com
 secure.booking.com
 paybridge.booking.com
-cars.booking.com
 account.booking.com
+cars.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -2712,10 +2712,10 @@ apigw.foliofn.com
 *.foliofirst.com
 *.gsselect.com
 *.marcus.co.uk
-*.foliofn.com
 *.unitedcp.com
 *.goldman.com
 *.ayco.com
+*.foliofn.com
 *.goldmanpfm.com
 *.finlifepartners.com
 *.foliodigitalwealth.com
