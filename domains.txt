@@ -1214,11 +1214,11 @@ bathandbodyworks.ro/
 bathandbodyworks.ro
 shayakahve.com.tr
 *.mothercare.com.eg
-*.victoriassecret.com.qa
 *.americaneagle.com.kw
 *.alshayaenterprises.com
 *.starbuckscardtr.com
 card.starbucks.com.kz
+*.victoriassecret.com.qa
 boysweb.shaya.com.tr
 kw.hm.com
 kw.cosstores.com
