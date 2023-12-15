@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Dec 15 18:19:44 UTC 2023)
+## Domains with Bounties (Last Updated Fri Dec 15 19:14:32 UTC 2023)
 ```
 research.23andme.com
 mediacenter.23andme.com
@@ -1600,6 +1600,14 @@ netlify-rum.netlify.app
 list-v2--netlify-plugins.netlify.app
 internal-docs.netlify.com
 supportal.netlify.app
+*.hey.com
+world.hey.com
+launchpad.37signals.com
+3.basecamp.com
+*.hey.com
+3.basecamp.com
+launchpad.37signals.com
+world.hey.com
 api.sharefile.com
 sf-rp-eu.sharefile.com
 *.browser.cloud.com
@@ -3359,30 +3367,6 @@ yourcompany.udemy.com
 www.udemy.com
 www.udemy.com
 yourcompany.udemy.com
-arrive-server.shopifycloud.com
-your-store.myshopify.com
-linkpop.com
-*.shopifycloud.com
-shop.app
-shopifyinbox.com
-*.shopifykloud.com
-partners.shopify.com
-shopify.plus
-admin.shopify.com
-accounts.shopify.com
-*.shopify.com
-*.shopify.com
-*.shopifykloud.com
-*.shopifycloud.com
-your-store.myshopify.com
-partners.shopify.com
-accounts.shopify.com
-shop.app
-shopify.plus
-arrive-server.shopifycloud.com
-admin.shopify.com
-linkpop.com
-shopifyinbox.com
 arrive-server.shopifycloud.com
 your-store.myshopify.com
 linkpop.com
