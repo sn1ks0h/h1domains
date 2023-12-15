@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Dec 15 17:16:15 UTC 2023)
+## Domains with Bounties (Last Updated Fri Dec 15 18:19:44 UTC 2023)
 ```
 research.23andme.com
 mediacenter.23andme.com
@@ -549,8 +549,8 @@ ingest.clairvoyance.indrive.tech
 new-order.eu-east-1.indriverapp.com
 profile-api.eu-east-1.indriverapp.com
 *.indriver.com
-ci.indrive.dev
 argocd.indrive.dev
+ci.indrive.dev
 priority.eu-east-1.indriverapp.com
 *.indriverapp.com
 watchdocs.indriverapp.com
@@ -1424,8 +1424,8 @@ oauth.reddit.com
 mod.reddit.com
 accounts.reddit.com
 matrix.redditspace.com
-www.reddit.com
 *.reddithelp.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -3383,6 +3383,30 @@ arrive-server.shopifycloud.com
 admin.shopify.com
 linkpop.com
 shopifyinbox.com
+arrive-server.shopifycloud.com
+your-store.myshopify.com
+linkpop.com
+*.shopifycloud.com
+shop.app
+shopifyinbox.com
+*.shopifykloud.com
+partners.shopify.com
+shopify.plus
+admin.shopify.com
+accounts.shopify.com
+*.shopify.com
+*.shopify.com
+*.shopifykloud.com
+*.shopifycloud.com
+your-store.myshopify.com
+partners.shopify.com
+accounts.shopify.com
+shop.app
+shopify.plus
+arrive-server.shopifycloud.com
+admin.shopify.com
+linkpop.com
+shopifyinbox.com
 story.snapchat.com
 create.snapchat.com
 msg.playcanvas.com
@@ -3888,14 +3912,6 @@ api.remitano.com
 www.remitano.com
 api.remitano.com
 socket.remitano.com
-*.hey.com
-world.hey.com
-launchpad.37signals.com
-3.basecamp.com
-*.hey.com
-3.basecamp.com
-launchpad.37signals.com
-world.hey.com
 www.aiven.io
 help.aiven.io
 api.aiven.io
