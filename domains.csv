@@ -9,10 +9,10 @@ egress-vdp,www.egress.com,False
 23andme_bbp,mediacenter.23andme.com,True
 23andme_bbp,education.23andme.com,True
 23andme_bbp,store.23andme.com,True
-23andme_bbp,you.23andme.com,True
 23andme_bbp,api.23andme.com,True
 23andme_bbp,blog.23andme.com,True
 23andme_bbp,auth.23andme.com,True
+23andme_bbp,you.23andme.com,True
 23andme_bbp,medical.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,api.23andme.com,True
@@ -9975,11 +9975,11 @@ starbucks,www.starbucksreserve.com,True
 starbucks,www.starbucks.co.uk,True
 starbucks,www.starbucks.com.br,True
 starbucks,card.starbucks.com.sg,True
-starbucks,secureui.starbucks.com,True
 starbucks,www.starbucks.de,True
 starbucks,www.starbucks.com.sg,True
 starbucks,www.starbucks.com,True
 starbucks,app.starbucks.com,True
+starbucks,secureui.starbucks.com,True
 starbucks,www.starbucks.co.jp,True
 starbucks,login.starbucks.co.jp,True
 starbucks,www.starbucks.com.cn,True
