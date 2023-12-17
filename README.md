@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Dec 17 07:17:01 UTC 2023)
+## Domains with Bounties (Last Updated Sun Dec 17 08:20:12 UTC 2023)
 ```
 research.23andme.com
 mediacenter.23andme.com
@@ -772,8 +772,8 @@ www.cheaptickets.com
 www.travelocity.ca
 www.carrentals.com
 www.bookabach.co.nz
-www.expedia.com
 www.fewo-direkt.de
+www.expedia.com
 www.expediapartnercentral.com
 www.ebookers.fi
 www.stayz.com.au
@@ -1448,8 +1448,8 @@ app.spiketrap.io
 www.spiketrap.io
 www.coinspot.com.au
 www.coinspot.com.au
-platform.remix.com
 remix.com
+platform.remix.com
 eu.remix.com
 global-api.citymapper.com
 global-api.citymapper.com
@@ -3575,8 +3575,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-x.com
 *.twitter.com
+x.com
 grok.x.ai
 *.twimg.com
 gnip.com
