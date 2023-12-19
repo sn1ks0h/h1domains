@@ -2,16 +2,16 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Dec 19 17:15:55 UTC 2023)
+## Domains with Bounties (Last Updated Tue Dec 19 18:18:15 UTC 2023)
 ```
 mediacenter.23andme.com
 research.23andme.com
 education.23andme.com
 store.23andme.com
 api.23andme.com
+auth.23andme.com
 blog.23andme.com
 you.23andme.com
-auth.23andme.com
 medical.23andme.com
 therapeutics.23andme.com
 api.23andme.com
@@ -66,9 +66,9 @@ careers.booking.com
 supplier.auth.toag.booking.com
 flights.booking.com
 supply-xml.booking.com
-*.booking.com
-booking.com
 admin.booking.com
+booking.com
+*.booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -2034,8 +2034,8 @@ www.alibabagroup.com
 *.alimama.com
 *.aliexpress.com
 *.1688.com
-*.aliyun.com
 *.Daraz.com
+*.aliyun.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -2157,8 +2157,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -3574,8 +3574,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-*.twitter.com
 x.com
+*.twitter.com
 grok.x.ai
 *.twimg.com
 gnip.com
