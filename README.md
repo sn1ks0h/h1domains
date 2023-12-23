@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Dec 23 08:19:11 UTC 2023)
+## Domains with Bounties (Last Updated Sat Dec 23 09:15:28 UTC 2023)
 ```
 https://passport.eufy.com/?app=eufy-us
 research.23andme.com
@@ -67,9 +67,9 @@ experiences.booking.com
 supplier.auth.toag.booking.com
 flights.booking.com
 admin.booking.com
-supply-xml.booking.com
 *.booking.com
 booking.com
+supply-xml.booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -198,8 +198,8 @@ api.wisdomtreeprimeapp.com
 fhir.redoxengine.com
 launch.gamma.redoxstage.com
 clientcert.gamma.redoxstage.com
-www.redoxengine.com
 testapi.redoxengine.com
+www.redoxengine.com
 eets-sftp-listener.gamma.redoxstage.com
 blob.gamma.redoxstage.com
 dashboard.gamma.redoxstage.com
@@ -2293,8 +2293,8 @@ app.command.cysiv.com
 admin.rezserver.com
 reservations.rezserver.com
 www.bookingholdings.com
-www.getaroom.com
 www.priceline.com
+www.getaroom.com
 api.rezserver.com
 secure.rezserver.com
 flyiin.com
@@ -2570,8 +2570,8 @@ scrutiny.swiftfinancial.com
 paypal.me
 *.hyperwallet.com
 my.loanbuilder.com
-*.venmo.com
 *.paypal.com
+*.venmo.com
 pigeon.swiftfinancial.com
 *.paydiant.com
 *.braintree.tools
@@ -3449,8 +3449,8 @@ www.hoteltonight.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
-www.airbnb.com
 api.airbnb.com
+www.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
