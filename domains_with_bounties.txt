@@ -140,8 +140,8 @@ api.mergify.com
 dashboard.mergify.com
 www.compass.com
 www.compass.com
-*.hypr.com
 pentesting2.gethypr.com
+*.hypr.com
 pentesting3.gethypr.com
 pentesting.gethypr.com
 hypr37448.gethypr.com
@@ -1639,9 +1639,9 @@ creatormarketplace.tiktok.com
 careers.tiktok.com
 *.tiktokv.com
 *.tiktok.com
-effecthouse.tiktok.com
 developers.tiktok.com
 shop.tiktok.com
+effecthouse.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
