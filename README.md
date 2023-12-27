@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Dec 26 23:19:09 UTC 2023)
+## Domains with Bounties (Last Updated Wed Dec 27 00:57:01 UTC 2023)
 ```
 https://passport.eufy.com/?app=eufy-us
 research.23andme.com
@@ -655,6 +655,7 @@ sso.8x8pilot.com
 user-profile.8x8.com
 sms.8x8.com
 *.wavecell.com
+pay.8x8.com
 *.8x8.vc
 *.jit.si
 *.jitsi.net
