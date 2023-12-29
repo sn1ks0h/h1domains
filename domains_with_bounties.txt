@@ -2682,7 +2682,7 @@ marquee.gs.com
 *.gsam.com
 *.folioinstitutional.com
 *.folioclient.com
-*.gs.com
+*.gs.de
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
