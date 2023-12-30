@@ -9517,8 +9517,8 @@ www.crypto.com
 tax.crypto.com
 merchant.crypto.com
 js.crypto.com
-pay.crypto.com
 app.mona.co
+pay.crypto.com
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -10575,8 +10575,8 @@ blog.irccloud.com
 custody.coinbase.com
 *.cbhq.net
 prime.coinbase.com
-pro.coinbase.com
 *.coinbase.com
+pro.coinbase.com
 international.coinbase.com
 cloud.coinbase.com
 api.coinbase.com
