@@ -3181,8 +3181,8 @@ education.github.com
 npmjs.org
 *.github.net
 gist.github.com
-github.com
 *.githubusercontent.com
+github.com
 github.com
 api.github.com
 gist.github.com

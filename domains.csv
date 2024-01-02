@@ -6320,10 +6320,10 @@ zebra_vdp,*.zams-eu.zebra.com,False
 zebra_vdp,downloads.zebra.com,False
 zebra_vdp,*.zams.zebra.com,False
 zebra_vdp,supportcommunity.zebra.com,False
-zebra_vdp,*.profitect.com,False
 zebra_vdp,*.zebrasports.com,False
 zebra_vdp,reflexisinc.com/,False
 zebra_vdp,cmm01.sl.zebra.com,False
+zebra_vdp,*.profitect.com,False
 zebra_vdp,zebratradeinprogram.com,False
 zebra_vdp,docs.zebra.com,False
 zebra_vdp,design.zebra.com,False
@@ -10032,8 +10032,8 @@ github,education.github.com,True
 github,npmjs.org,True
 github,*.github.net,True
 github,gist.github.com,True
-github,github.com,True
 github,*.githubusercontent.com,True
+github,github.com,True
 github,github.com,True
 github,api.github.com,True
 github,gist.github.com,True
