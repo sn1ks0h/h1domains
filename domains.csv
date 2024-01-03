@@ -6,8 +6,8 @@ hostinger,hpanel.hostinger.com,True
 hostinger,payments.hosting24.com,True
 hostinger,hpanel.hosting24.com,True
 hostinger,www.hosting24.com,True
-hostinger,www.hostinger.com,True
 hostinger,*.000webhost.com,True
+hostinger,www.hostinger.com,True
 hostinger,cpanel.hostinger.com,True
 hostinger,logo.zyro.com,True
 hostinger,partner.niagahoster.co.id,True
@@ -44,8 +44,8 @@ egress-vdp,www.egress.com,False
 23andme_bbp,blog.23andme.com,True
 23andme_bbp,auth.23andme.com,True
 23andme_bbp,api.23andme.com,True
-23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,medical.23andme.com,True
+23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,api.23andme.com,True
 23andme_bbp,auth.23andme.com,True
 23andme_bbp,blog.23andme.com,True
@@ -3674,8 +3674,8 @@ resmed,produktion.api.praxispad.de/,False
 resmed,referenzkunden.api.praxispad.de,False
 resmed,app.medifox-therapie.de/,False
 resmed,app.citushealth.com/,False
-resmed,shop.resmed.com,False
 resmed,patient.propellerhealth.biz,False
+resmed,shop.resmed.com,False
 resmed,resmed.co.in,False
 resmed,resmed.es,False
 resmed,www.citushealth.com,False
