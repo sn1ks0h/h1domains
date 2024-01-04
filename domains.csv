@@ -2888,8 +2888,8 @@ shutterfly_vdp,wgwebservices.snapfish.com,False
 shutterfly_vdp,https://www.cvs.com/photo/,False
 six-group,www.six-group.com,True
 six-group,www.six-group.com,True
-msd,*.merck.com,False
 msd,*.msd.com,False
+msd,*.merck.com,False
 msd,*.merck.com,False
 msd,*.msd.com,False
 prolinx-vdp,mail1.wspsecure.co.uk,False
@@ -9541,8 +9541,8 @@ goldmansachs,marquee.gs.com,True
 goldmansachs,*.gs.de,True
 goldmansachs,*.folioclient.com,True
 goldmansachs,*.advisorsolutions.gs.com,True
-goldmansachs,*.gsam.com,True
 goldmansachs,*.gs.com,True
+goldmansachs,*.folioinstitutional.com,True
 goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.gs.com,True
 goldmansachs,*.goldman.com,True
@@ -10625,8 +10625,8 @@ greenhouse,app.interseller.io,True
 greenhouse,www.greenhouse.io,True
 x,*.vine.co,True
 x,twitterflightschool.com,False
-x,x.com,True
 x,*.twitter.com,True
+x,x.com,True
 x,t.co,False
 x,grok.x.ai,True
 x,*.twimg.com,True
@@ -10770,8 +10770,8 @@ yahoo,onepush.query.yahoo.com,True
 yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
-security,api.hackerone.com,True
 security,hackerone-user-content.com,True
+security,api.hackerone.com,True
 security,hackerone.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
