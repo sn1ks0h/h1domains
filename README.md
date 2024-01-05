@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jan  5 06:20:57 UTC 2024)
+## Domains with Bounties (Last Updated Fri Jan  5 07:16:33 UTC 2024)
 ```
 cpanel.hosting24.com
 www.niagahoster.co.id
@@ -2052,8 +2052,8 @@ www.alibabagroup.com
 *.1688.com
 *.aliyun-inc.com
 *.aliyun.com
-*.Daraz.com
 *.aliexpress.com
+*.Daraz.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -3157,11 +3157,11 @@ www.starbucks.co.uk
 www.starbucks.com.br
 cart.starbucks.co.jp
 www.starbucks.de
-www.starbucks.com
 app.starbucks.com
 card.starbucks.com.sg
 www.starbucks.com.sg
 secureui.starbucks.com
+www.starbucks.com
 www.starbucks.co.kr
 login.starbucks.co.jp
 www.starbucks.co.jp

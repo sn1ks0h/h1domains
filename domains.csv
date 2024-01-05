@@ -6207,8 +6207,8 @@ usps,id.usps.com,False
 usps,store.usps.com,False
 usps,reg.usps.com,False
 usps,www.liteblue.usps.gov,False
-usps,www.usps.com,False
 usps,pi.usps.com,False
+usps,www.usps.com,False
 usps,retail-pi.usps.com,False
 usps,iv.usps.com,False
 usps,id.usps.com,False
@@ -7921,8 +7921,8 @@ alibaba,*.alimama.com,True
 alibaba,*.1688.com,True
 alibaba,*.aliyun-inc.com,True
 alibaba,*.aliyun.com,True
-alibaba,*.Daraz.com,True
 alibaba,*.aliexpress.com,True
+alibaba,*.Daraz.com,True
 alibaba,*.taobao.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.com,True
@@ -10008,11 +10008,11 @@ starbucks,www.starbucks.co.uk,True
 starbucks,www.starbucks.com.br,True
 starbucks,cart.starbucks.co.jp,True
 starbucks,www.starbucks.de,True
-starbucks,www.starbucks.com,True
 starbucks,app.starbucks.com,True
 starbucks,card.starbucks.com.sg,True
 starbucks,www.starbucks.com.sg,True
 starbucks,secureui.starbucks.com,True
+starbucks,www.starbucks.com,True
 starbucks,www.starbucks.co.kr,True
 starbucks,login.starbucks.co.jp,True
 starbucks,www.starbucks.co.jp,True

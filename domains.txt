@@ -6206,8 +6206,8 @@ id.usps.com
 store.usps.com
 reg.usps.com
 www.liteblue.usps.gov
-www.usps.com
 pi.usps.com
+www.usps.com
 retail-pi.usps.com
 iv.usps.com
 id.usps.com
@@ -7920,8 +7920,8 @@ www.alibabagroup.com
 *.1688.com
 *.aliyun-inc.com
 *.aliyun.com
-*.Daraz.com
 *.aliexpress.com
+*.Daraz.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -10007,11 +10007,11 @@ www.starbucks.co.uk
 www.starbucks.com.br
 cart.starbucks.co.jp
 www.starbucks.de
-www.starbucks.com
 app.starbucks.com
 card.starbucks.com.sg
 www.starbucks.com.sg
 secureui.starbucks.com
+www.starbucks.com
 www.starbucks.co.kr
 login.starbucks.co.jp
 www.starbucks.co.jp
