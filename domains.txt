@@ -1756,8 +1756,8 @@ www.practicalmoneyskills.org
 *.bharatbenz.com
 *.freightliner.com
 *evobus.com
-*.mitsubishi-fuso.com
 *fleetboard.com
+*.mitsubishi-fuso.com
 *exceleratorparts.com
 *.mercedes-benz-trucks.com
 *.mitsubishi-fuso.com
@@ -2998,8 +2998,8 @@ manage.fastly.com
 api.fastly.com
 docs.fastly.com
 ab-platform-api.eu-east-1.indriverapp.com
-*.indrive.com
 cargo.indrive.com
+*.indrive.com
 messenger.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 external.indrive.dev
@@ -10131,8 +10131,8 @@ education.github.com
 npmjs.org
 *.github.net
 gist.github.com
-github.com
 *.githubusercontent.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -10201,9 +10201,9 @@ derivws.com
 api.deriv.com
 *.derivws.com
 smarttrader.deriv.com
-secure-dfadmin.deriv.com
 *.binary.com
 *.deriv.com
+secure-dfadmin.deriv.com
 *.deriv.cloud
 oauth.deriv.com
 app.deriv.com
@@ -10538,8 +10538,8 @@ next.airbnb.com
 *.airbnbcitizen.com
 www.hoteltonight.com
 *.muscache.com
-*.hoteltonight-test.com
 *.airbnb.com
+*.hoteltonight-test.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
