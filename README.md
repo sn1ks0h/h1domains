@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jan  5 00:59:15 UTC 2024)
+## Domains with Bounties (Last Updated Fri Jan  5 02:00:24 UTC 2024)
 ```
 cpanel.hosting24.com
 www.niagahoster.co.id
@@ -2737,8 +2737,8 @@ marquee.gs.com
 *.gs.de
 *.folioclient.com
 *.advisorsolutions.gs.com
+*.gsam.com
 *.gs.com
-*.folioinstitutional.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
