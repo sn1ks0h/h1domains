@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jan  5 16:19:07 UTC 2024)
+## Domains with Bounties (Last Updated Fri Jan  5 17:18:41 UTC 2024)
 ```
 cpanel.hosting24.com
 hpanel.hostinger.com
@@ -35,8 +35,8 @@ payments.hosting24.com
 www.niagahoster.co.id
 partner.niagahoster.co.id
 https://passport.eufy.com/?app=eufy-us
-research.23andme.com
 mediacenter.23andme.com
+research.23andme.com
 education.23andme.com
 store.23andme.com
 api.23andme.com
@@ -2044,8 +2044,8 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 *.tmall.com
 www.alibabagroup.com
-*.alibaba.com
 *.alibabacloud.com
+*.alibaba.com
 *.alibaba-inc.com
 *.aliexpress.ru
 *.alimama.com
@@ -2837,8 +2837,8 @@ insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
 one.newrelic.com
-*.newrelic.com
 *.nr-ops.net
+*.newrelic.com
 synthetics.eu.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
@@ -3398,9 +3398,9 @@ shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-admin.shopify.com
 accounts.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3554,9 +3554,9 @@ donations.livestream.com
 api.vimeo.com
 vimeo.magisto.com
 vhx.tv
-api.vhx.tv
 *.magisto.com
 *.livestream.com
+api.vhx.tv
 *.new.livestream.com
 checkout.vimeo.com
 staging.magisto.com
@@ -3604,8 +3604,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-*.twitter.com
 x.com
+*.twitter.com
 grok.x.ai
 *.twimg.com
 gnip.com
@@ -3744,8 +3744,8 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
-api.hackerone.com
 hackerone-user-content.com
+api.hackerone.com
 hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
