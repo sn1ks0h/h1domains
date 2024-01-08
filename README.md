@@ -2,11 +2,11 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jan  8 12:30:00 UTC 2024)
+## Domains with Bounties (Last Updated Mon Jan  8 13:22:28 UTC 2024)
 ```
 www.niagahoster.co.id
-payments.hostinger.com
 cpanel.hosting24.com
+payments.hostinger.com
 hpanel.hostinger.com
 hpanel.hosting24.com
 payments.hosting24.com
@@ -727,9 +727,13 @@ admin.8x8.com
 *.magicjackpot.ro
 *.luckydays.com
 *.superbet.ro
+*.superbet.com
 *.luckydays.ca
 *.spinaway.com
+*.superbet.rs
 *.superbet.ro
+*.superbet.rs
+*.superbet.com
 *.magicjackpot.ro
 *.spinaway.com
 *.luckydays.com
