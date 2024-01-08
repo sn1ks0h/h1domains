@@ -2,12 +2,12 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jan  8 03:18:53 UTC 2024)
+## Domains with Bounties (Last Updated Mon Jan  8 04:21:24 UTC 2024)
 ```
 www.niagahoster.co.id
-payments.hostinger.com
 cpanel.hosting24.com
 hpanel.hostinger.com
+payments.hostinger.com
 www.hosting24.com
 hpanel.hosting24.com
 *.000webhost.com
@@ -412,8 +412,8 @@ id.avtoelon.uz
 kolesa.kz
 app.krisha.kz
 m.kolesa.kz
-api.avtoelon.uz
 krisha.kz
+api.avtoelon.uz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -2139,14 +2139,14 @@ lawmanager.marriott.com
 giftcards.marriott.com
 cpp.marriott.com
 marriottfranchisetransactions.marriott.com
-all-inclusive.marriott.com
 www.ritzcarlton.com
+all-inclusive.marriott.com
 *uat.marriott.com
 gatewaydsapdev2.marriott.com
 homes-and-villas.marriott.com
 hotel-deals.marriott.com
-marrtool.com
 passwordchallenge.marriott.com
+marrtool.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
