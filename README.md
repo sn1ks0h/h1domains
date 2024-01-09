@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jan  9 21:15:46 UTC 2024)
+## Domains with Bounties (Last Updated Tue Jan  9 22:18:42 UTC 2024)
 ```
 app.dynamic.xyz
 app.dynamic-preprod.xyz
@@ -16,8 +16,8 @@ www.niagahoster.co.id
 hpanel.hostinger.com
 hpanel.hosting24.com
 payments.hosting24.com
-www.hosting24.com
 www.hostinger.com
+www.hosting24.com
 *.000webhost.com
 cpanel.hostinger.com
 logo.zyro.com
@@ -166,8 +166,8 @@ app.frontapp.com
 api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
-*.booztlet.com
 *.boozt.com
+*.booztlet.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -695,8 +695,8 @@ platform.8x8pilot.com
 cloud8.8x8.com
 platform.8x8.com
 voapi.8x8.com
-*.8x8staging.com
 *.packet8.net
+*.8x8staging.com
 sso.8x8pilot.com
 *.p8t.us
 user-profile.8x8.com
@@ -1661,9 +1661,9 @@ api.sharefile.eu
 sf-rp.sharefile.com
 us.cloud.com
 (yoursubdomain).us.iws.cloud.com
-(yoursubdomain).ap.iws.cloud.com
 citrix.cloud.com
 *.citrixworkspacesapi.net
+(yoursubdomain).ap.iws.cloud.com
 citrix.cloud.com
 www.cloud.com
 ap-s.cloud.com
@@ -1702,8 +1702,8 @@ www.pangleglobal.com
 academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
 careers.tiktok.com
-business.tiktok.com
 *.tiktokv.com
+business.tiktok.com
 *.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
@@ -2121,8 +2121,8 @@ unibet.me
 *.unibet.fr
 maria.casino
 *.kindredext.net
-*.mariacasino.com
 *.unibet.com
+*.mariacasino.com
 *.storspiller.com
 *.ottokasino.com
 www.32red.com
@@ -2730,12 +2730,12 @@ www.shipt.com
 *.gs-mosaic.gs.com
 apigw.foliofn.com
 *.foliofirst.com
-*.gsselect.com
 *.marcus.co.uk
 *.unitedcp.com
 *.foliofn.com
 *.goldman.com
 *.ayco.com
+*.gsselect.com
 *.goldmanpfm.com
 *.finlifepartners.com
 *.foliodigitalwealth.com
@@ -3407,8 +3407,8 @@ yourcompany.udemy.com
 www.udemy.com
 www.udemy.com
 yourcompany.udemy.com
-arrive-server.shopifycloud.com
 your-store.myshopify.com
+arrive-server.shopifycloud.com
 linkpop.com
 shop.app
 *.shopifycloud.com
@@ -3763,8 +3763,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-hackerone.com
 api.hackerone.com
+hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
@@ -3776,8 +3776,8 @@ profile-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 hackathon-photos.hackerone-user-content.com
 ctf.hacker101.com
-hackerone-ext-content.com
 www.hackerone.com
+hackerone-ext-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 hackerone.live
 errors.hackerone.net
