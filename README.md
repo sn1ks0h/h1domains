@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jan  9 13:27:24 UTC 2024)
+## Domains with Bounties (Last Updated Tue Jan  9 14:18:38 UTC 2024)
 ```
 cpanel.hosting24.com
 payments.hostinger.com
@@ -41,8 +41,8 @@ store.23andme.com
 education.23andme.com
 auth.23andme.com
 blog.23andme.com
-you.23andme.com
 api.23andme.com
+you.23andme.com
 medical.23andme.com
 therapeutics.23andme.com
 api.23andme.com
@@ -98,8 +98,8 @@ supplier.auth.toag.booking.com
 admin.booking.com
 supply-xml.booking.com
 flights.booking.com
-booking.com
 *.booking.com
+booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -2727,9 +2727,9 @@ apigw.foliofn.com
 *.gsselect.com
 *.marcus.co.uk
 *.unitedcp.com
-*.ayco.com
 *.foliofn.com
 *.goldman.com
+*.ayco.com
 *.goldmanpfm.com
 *.finlifepartners.com
 *.foliodigitalwealth.com
@@ -3401,8 +3401,8 @@ yourcompany.udemy.com
 www.udemy.com
 www.udemy.com
 yourcompany.udemy.com
-your-store.myshopify.com
 arrive-server.shopifycloud.com
+your-store.myshopify.com
 linkpop.com
 shop.app
 *.shopifycloud.com
@@ -3734,8 +3734,8 @@ slack-redir.net
 *.quip.com
 app.slack.com
 edgeapi.slack.com
-slack-imgs.com
 slack.com
+slack-imgs.com
 www.quip.com
 slack.com
 api.slack.com
