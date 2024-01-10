@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jan 10 15:18:50 UTC 2024)
+## Domains with Bounties (Last Updated Wed Jan 10 16:25:35 UTC 2024)
 ```
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -2076,8 +2076,8 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 *.tmall.com
 www.alibabagroup.com
-*.alibabacloud.com
 *.alibaba.com
+*.alibabacloud.com
 *.alibaba-inc.com
 *.aliexpress.ru
 *.alimama.com
@@ -2465,8 +2465,8 @@ vacations.us.palladiumhotelgroup.com
 reservations.wynnvacations.com
 www.wynnvacations.com
 res.universalorlandovacations.com
-www.hyattinclusivecollection.com
 booking.applevacations.com
+www.hyattinclusivecollection.com
 confluence.hyattdev.com
 ebsext.oft.hyatt.com
 newsroom.images.hyatt.com
@@ -2759,8 +2759,8 @@ apigw.foliofn.com
 *.unitedcp.com
 *.foliofn.com
 *.goldman.com
-*.ayco.com
 *.gsselect.com
+*.ayco.com
 *.goldmanpfm.com
 *.finlifepartners.com
 *.foliodigitalwealth.com
@@ -3436,15 +3436,15 @@ yourcompany.udemy.com
 arrive-server.shopifycloud.com
 your-store.myshopify.com
 linkpop.com
-shop.app
 *.shopifycloud.com
+shop.app
 shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
 *.shopify.com
-admin.shopify.com
 accounts.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3634,8 +3634,8 @@ api.greenhouse.io
 support.greenhouse.io
 jss.greenhouse.io
 interseller.io
-boards.greenhouse.io
 app.greenhouse.io
+boards.greenhouse.io
 www.greenhouse.io
 app.interseller.io
 app.greenhouse.io
