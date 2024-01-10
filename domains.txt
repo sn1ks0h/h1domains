@@ -2857,8 +2857,8 @@ snapfish.it
 snapfish.fr
 snapfish.ie
 *.photoccino.com
-*.lifetouch.com
 photo.walgreens.com
+*.lifetouch.com
 snapfish.de
 prestigeportraits.com
 lifetouch.com
@@ -7417,8 +7417,8 @@ api.adm.cloud.com
 *developer.cloud.com
 ads.tiktok.com
 partner.tiktokshop.com
-tiktok.com
 live-backstage.tiktok.com
+tiktok.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
