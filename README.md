@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jan 10 05:12:03 UTC 2024)
+## Domains with Bounties (Last Updated Wed Jan 10 06:21:23 UTC 2024)
 ```
 app.dynamic.xyz
 app.dynamic-preprod.xyz
@@ -625,8 +625,8 @@ http://miro.com/blog
 *.mb-cosmos.com
 *.cloud.malwarebytes.com
 cloud.malwarebytes.com
-my.malwarebytes.com
 *.mwbsys.com
+my.malwarebytes.com
 *.mbamupdates.com
 *.threatdown.com
 *.mwb-threatintel.com
@@ -1385,9 +1385,9 @@ main.trafficfactory.biz
 *.found.io
 *.eops.nl
 *.elasticnet.co
-cloud.elastic.co
 *.elstc.co
 *.swiftype.com
+cloud.elastic.co
 www.elastic.co
 *.elastic.co
 *.elastic.co
@@ -2193,8 +2193,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.roblox.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2637,8 +2637,8 @@ scrutiny.swiftfinancial.com
 paypal.me
 *.hyperwallet.com
 my.loanbuilder.com
-*.venmo.com
 *.paypal.com
+*.venmo.com
 pigeon.swiftfinancial.com
 *.paydiant.com
 *.braintree.tools
@@ -3717,8 +3717,8 @@ pro.coinbase.com
 prime.coinbase.com
 *.coinbase.com
 custody.coinbase.com
-cloud.coinbase.com
 api.coinbase.com
+cloud.coinbase.com
 international.coinbase.com
 api.custody.coinbase.com
 institutional.coinbase.com
@@ -3783,9 +3783,9 @@ reviewer.pullrequest.com
 profile-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 hackathon-photos.hackerone-user-content.com
-www.hackerone.com
 hackerone-ext-content.com
 ctf.hacker101.com
+www.hackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 hackerone.live
 cover-photos.hackerone-user-content.com
