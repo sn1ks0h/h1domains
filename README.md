@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jan 10 06:21:23 UTC 2024)
+## Domains with Bounties (Last Updated Wed Jan 10 07:16:23 UTC 2024)
 ```
 app.dynamic.xyz
 app.dynamic-preprod.xyz
@@ -399,8 +399,8 @@ www.practicalmoneyskills.org
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
 yourdomain.freshdesk.com
-yourdomain.myfreshworks.com
 yourdomain.freshchat.com
+yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -625,8 +625,8 @@ http://miro.com/blog
 *.mb-cosmos.com
 *.cloud.malwarebytes.com
 cloud.malwarebytes.com
-*.mwbsys.com
 my.malwarebytes.com
+*.mwbsys.com
 *.mbamupdates.com
 *.threatdown.com
 *.mwb-threatintel.com
@@ -734,13 +734,13 @@ admin.8x8.com
 *.magicjackpot.ro
 *.napoleondice.be
 *.napoleongames.be
-*.superbet.ro
 *.superbet.com
+*.superbet.ro
 *.luckydays.ca
 *.napoleoncasino.be
 *.spinaway.com
-*.superbet.rs
 *.napoleonsports.be
+*.superbet.rs
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -1745,8 +1745,8 @@ meetiobook.com
 www.logicool.co.jp
 logitechg.com.cn
 gaming.logicool.co.jp
-www.figma.com
 api.figma.com
+www.figma.com
 www.figma.com
 api.figma.com
 wiki.cs.money
@@ -3669,9 +3669,9 @@ simperium.com
 gravatar.com
 simplenote.com
 assets.tumblr.com
-intensedebate.com
 api.tumblr.com
 wordpress.com
+intensedebate.com
 safe.tumblr.com
 t.umblr.com
 *.tumblr.com
