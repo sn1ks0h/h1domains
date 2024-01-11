@@ -3421,8 +3421,8 @@ superbet,*.luckydays.com,True
 superbet,*.magicjackpot.ro,True
 superbet,*.napoleondice.be,True
 superbet,*.superbet.ro,True
-superbet,*.superbet.com,True
 superbet,*.napoleongames.be,True
+superbet,*.superbet.com,True
 superbet,*.luckydays.ca,True
 superbet,*.napoleoncasino.be,True
 superbet,*.spinaway.com,True
@@ -7437,10 +7437,10 @@ tiktok,tiktok.com,True
 tiktok,www.pangleglobal.com,True
 tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
-tiktok,careers.tiktok.com,True
 tiktok,*.tiktokv.com,True
 tiktok,business.tiktok.com,True
 tiktok,*.tiktok.com,True
+tiktok,careers.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,developers.tiktok.com,True
 tiktok,shop.tiktok.com,True
