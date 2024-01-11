@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jan 11 18:20:46 UTC 2024)
+## Domains with Bounties (Last Updated Thu Jan 11 19:16:54 UTC 2024)
 ```
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -26,10 +26,10 @@ www.niagahoster.co.id
 payments.hostinger.com
 hpanel.hostinger.com
 cpanel.hosting24.com
-hpanel.hosting24.com
 payments.hosting24.com
 www.hosting24.com
 *.000webhost.com
+hpanel.hosting24.com
 www.hostinger.com
 cpanel.hostinger.com
 partner.niagahoster.co.id
@@ -1932,9 +1932,9 @@ social.playstation.com
 api.direct.playstation.com
 transact.playstation.com
 direct.playstation.com
-store.playstation.com
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
+store.playstation.com
 my.playstation.com
 *.playstation.net
 my.account.sony.com
@@ -3483,8 +3483,8 @@ snappublisher.snapchat.com
 map.snapchat.com
 www.bitmoji.com
 business.snapchat.com
-playcanvas.com
 app.snapchat.com
+playcanvas.com
 geofilters.snapchat.com
 spectacles.com
 *.sc-corp.net
