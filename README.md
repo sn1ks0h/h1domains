@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jan 11 12:29:14 UTC 2024)
+## Domains with Bounties (Last Updated Thu Jan 11 13:21:34 UTC 2024)
 ```
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -473,10 +473,10 @@ firefox-ci-tc.services.mozilla.com
 crash-stats.allizom.org
 firefox.settings.services.mozilla.com
 accounts.firefox.com
-push.services.mozilla.com
 sync.services.mozilla.com
 merino.services.mozilla.com
 bugzilla.mozilla.org
+push.services.mozilla.com
 shavar.services.mozilla.com
 lando.services.mozilla.com
 addons.allizom.org
@@ -1806,9 +1806,9 @@ www.watsons.com.ph
 www10.watsons.com.hk
 www20.watsons.co.th
 www.watsons.com.tr
-www.marionnaud.fr
 www.marionnaud.ro
 www.watsons.co.id
+www.marionnaud.fr
 app.marionnaud.cz
 app.marionnaud.it
 app.marionnaud.ro
