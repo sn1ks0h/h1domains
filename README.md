@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jan 12 18:21:54 UTC 2024)
+## Domains with Bounties (Last Updated Fri Jan 12 19:18:09 UTC 2024)
 ```
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -1202,9 +1202,9 @@ fallguys.com
 *.unrealtournament.com
 *.jellychat.com
 *.popjam.com
-*.mediatonic.co.uk
 fortnite.com
 capturingreality.com
+*.mediatonic.co.uk
 *.3lateral.com
 *.hmxwebservices.com
 *.rocketleague.com
@@ -3444,8 +3444,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3567,9 +3567,9 @@ next.airbnb.com
 *.byairbnb.com
 *.airbnbcitizen.com
 *.muscache.com
-*.airbnb.com
 www.hoteltonight.com
 *.hoteltonight-test.com
+*.airbnb.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
