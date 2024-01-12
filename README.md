@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jan 12 10:18:26 UTC 2024)
+## Domains with Bounties (Last Updated Fri Jan 12 11:16:21 UTC 2024)
 ```
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -2211,8 +2211,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.roblox.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -3413,46 +3413,6 @@ ruddercms.com
 ruddercms.nl
 dropr.nl
 devmaximum.com
-maxcldapp.net
-werkenbijderet.nl
-dropr.nl
-werkenbijdnb.nl
-acme-challenge.nl
-nossl.nl
-ruddercms.com
-werkenbijdefensie.nl
-wp-mail.nl
-*.maximum.nl
-mijnkombijdepolitie.nl
-no-reply.cloud
-maximum-status.com
-preprod.nl
-ruddercms.nl
-devmaximum.com
-www.werkenbijbakertilly.nl
-doorstromen.mijnkombijdepolitie.nl
-qatest.nl
-rudderplatform.com
-*.maximum.nl
-werkenbijdefensie.nl
-werkenbijderet.nl
-www.werkenbijbakertilly.nl
-mijnkombijdepolitie.nl
-doorstromen.mijnkombijdepolitie.nl
-acme-challenge.nl
-no-reply.cloud
-wp-mail.nl
-maxcldapp.net
-maximum-status.com
-preprod.nl
-qatest.nl
-rudderplatform.com
-werkenbijdnb.nl
-nossl.nl
-ruddercms.com
-ruddercms.nl
-dropr.nl
-devmaximum.com
 developer.zendesk.com
 smooch.io
 h1-your-domain.zendesk.com
@@ -3675,8 +3635,8 @@ applause1.magisto.com
 www.livestream.com
 donations.livestream.com
 *.vine.co
-x.com
 *.twitter.com
+x.com
 grok.x.ai
 *.twimg.com
 gnip.com
