@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jan 12 14:19:39 UTC 2024)
+## Domains with Bounties (Last Updated Fri Jan 12 15:20:06 UTC 2024)
 ```
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -24,8 +24,8 @@ demo.dynamic.xyz
 app.dynamic.xyz
 www.niagahoster.co.id
 cpanel.hosting24.com
-payments.hostinger.com
 hpanel.hostinger.com
+payments.hostinger.com
 payments.hosting24.com
 www.hosting24.com
 hpanel.hosting24.com
@@ -35,8 +35,8 @@ cpanel.hostinger.com
 partner.niagahoster.co.id
 editor.zyro.com
 backend.zyro.com
-logo.zyro.com
 www.zyro.com
+logo.zyro.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -1709,9 +1709,9 @@ api.adm.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
 ads.tiktok.com
-partner.tiktokshop.com
 live-backstage.tiktok.com
 tiktok.com
+partner.tiktokshop.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
@@ -3447,8 +3447,8 @@ shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-*.shopify.com
 accounts.shopify.com
+*.shopify.com
 admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
@@ -3571,9 +3571,9 @@ next.airbnb.com
 *.byairbnb.com
 *.airbnbcitizen.com
 *.muscache.com
-*.hoteltonight-test.com
 *.airbnb.com
 www.hoteltonight.com
+*.hoteltonight-test.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
