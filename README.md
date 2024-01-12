@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jan 11 23:17:27 UTC 2024)
+## Domains with Bounties (Last Updated Fri Jan 12 01:02:04 UTC 2024)
 ```
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -662,9 +662,9 @@ mobile.s-pankki.fi
 digili.s-cloud.fi
 cfapi.voikukka.fi
 extranet.s-pankki.fi
-tunnistus.s-ryhma.fi
 www.prisma.fi
 www.s-pankki.fi
+tunnistus.s-ryhma.fi
 www.sokos.fi
 www.s-kaupat.fi
 online.s-pankki.fi
@@ -707,8 +707,8 @@ platform.8x8pilot.com
 cloud8.8x8.com
 platform.8x8.com
 voapi.8x8.com
-*.8x8staging.com
 *.packet8.net
+*.8x8staging.com
 sso.8x8pilot.com
 *.p8t.us
 user-profile.8x8.com
@@ -1125,8 +1125,8 @@ shoppers.instacart.com
 demo.cloud.databricks.com
 docs.databricks.com
 academy.databricks.com
-accounts.cloud.databricks.com
 databricks.com
+accounts.cloud.databricks.com
 kb.databricks.com
 support.databricks.com
 marketplace.databricks.com
@@ -2164,8 +2164,8 @@ maria.casino
 www.32red.com
 gatewaydsaptst2.marriott.com
 sso.marriott.com
-www.marriott.com
 mgs.marriott.com
+www.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
