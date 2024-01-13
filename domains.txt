@@ -1782,8 +1782,8 @@ www.practicalmoneyskills.org
 *.freightliner.com
 *.bharatbenz.com
 *evobus.com
-*fleetboard.com
 *.mitsubishi-fuso.com
+*fleetboard.com
 *exceleratorparts.com
 *.mercedes-benz-trucks.com
 *.mitsubishi-fuso.com
@@ -10784,8 +10784,8 @@ slackatwork.com
 slack-redir.net
 app.slack.com
 edgeapi.slack.com
-slack-imgs.com
 slack.com
+slack-imgs.com
 www.quip.com
 slack.com
 api.slack.com
@@ -10807,8 +10807,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-api.hackerone.com
 hackerone.com
+api.hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
