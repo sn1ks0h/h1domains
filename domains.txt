@@ -4617,8 +4617,8 @@ banfieldexchange.com
 *.royalcanin.pl
 *.jornadasroyalcanin.com.ar
 *.banfieldassets.com
-*.royalcanin.co.uk
 *.royalcanin.com
+*.royalcanin.co.uk
 *.moncse-royalcanin-siege.com
 *.monespaceveto.com
 *.royalcanin.cz
@@ -6475,6 +6475,7 @@ wfc.zebra.com
 www.matrox.com
 test-marketing-api.zebra.com
 stage-www.zebra.com
+connect.zebra.com
 *.cto-si.zebra.com
 zebratradeinprogram.com
 docs.zebra.com
@@ -10758,8 +10759,8 @@ international.coinbase.com
 api.coinbase.com
 api.custody.coinbase.com
 institutional.coinbase.com
-coinbase.com
 *.base.org
+coinbase.com
 commerce.coinbase.com
 *.coinbase.com
 *.cbhq.net
