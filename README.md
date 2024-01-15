@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jan 15 15:21:02 UTC 2024)
+## Domains with Bounties (Last Updated Mon Jan 15 16:20:07 UTC 2024)
 ```
 www.fireblocks.com
 sandbox.fireblocks.io
@@ -138,10 +138,10 @@ secure-supply-xml.booking.com
 paymentcomponent.booking.com
 autocomplete.booking.com
 paynotifications.booking.com
-account.booking.com
 cars.booking.com
 webhooks.booking.com
 paybridge.booking.com
+account.booking.com
 secure.booking.com
 *.booking.com
 *.rentalcars.com
@@ -242,8 +242,8 @@ xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless-cicd.io
 *.gocardless-staging.io
-manage-sandbox.gocardless.com
 www.gocardless.com
+manage-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -425,9 +425,9 @@ yourdomain.freshservice.com
 yourdomain.freshchat.com
 yourdomain.freshcaller.com
 yourdomain.myfreshworks.com
-api.krisha.kz
 api.kolesa.kz
 app.kolesa.kz
+api.krisha.kz
 id.kolesa.kz
 avtoelon.uz
 m.krisha.kz
@@ -476,14 +476,14 @@ login.tide.co
 app.tide.co
 api.tideplatform.in
 www.tide.co
-firefox.settings.services.mozilla.com
 accounts.firefox.com
+firefox.settings.services.mozilla.com
 crash-stats.allizom.org
 firefox-ci-tc.services.mozilla.com
+merino.services.mozilla.com
 bugzilla.mozilla.org
 sync.services.mozilla.com
 push.services.mozilla.com
-merino.services.mozilla.com
 contile.services.mozilla.com
 aus5.mozilla.org
 hg.mozilla.org
@@ -521,8 +521,8 @@ monitor.firefox.com
 www.mozilla.org
 profiler.firefox.com
 community-tc.services.mozilla.com
-vpn.mozilla.org
 api.profiler.firefox.com
+vpn.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -699,8 +699,8 @@ auth.skypicker.com
 tequila.kiwi.com
 http://www.kiwi.com/stories
 jobs.kiwi.com
-*.8x8.vc
 *.jitsi.net
+*.8x8.vc
 connect.8x8.com
 sso.8x8.com
 work.8x8.com
@@ -710,8 +710,8 @@ uc.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
 *.chalet.8x8.com
-*.8x8.id
 cloud8.8x8.com
+*.8x8.id
 *.8x8staging.com
 platform.8x8.com
 voapi.8x8.com
@@ -878,11 +878,11 @@ zerobounce.in
 api.zerobounce.in
 zerobounce.net
 *.gravitational.com
-*.teleport.dev
 *.gravitational.co
 *.teleportinfra.sh
 cloud.gravitational.io
 askpam.ai
+*.teleport.dev
 teleport.sh
 *.gravitational.io
 *.goteleport.com
@@ -1186,8 +1186,8 @@ admin.wickr.com
 cache.judge.me
 shop.judge.me
 woocommerce-adapter.judge.me
-judge.me
 bigcommerce-adapter.judge.me
+judge.me
 judge.me
 https://judge.me/reviews
 shop.judge.me
@@ -1273,8 +1273,8 @@ wonderboxdev.com
 capturingreality.com
 *.tinderops.net
 *.tinder.com
-*.gotinder.com
 *.tstaging.com
+*.gotinder.com
 *.tstaging.tools
 *.tinderwebstaging.com
 *.tinder.com
@@ -1429,9 +1429,9 @@ cloud.elastic.co
 *.touchtechpayments.com
 js.stripe.com
 app.taxjar.com
-api.taxjar.com
 *.getbouncer.com
 *.reckostaging.com
+api.taxjar.com
 api.stripe.com
 api.stripe.com
 *.stripe.com
@@ -1450,10 +1450,10 @@ www.urbancompany.com
 www.urbanclap.com
 www.urbancompany.com
 www.urbanclap.com
+gql.reddit.com
 old.reddit.com
 api.reddit.com
 ads.reddit.com
-gql.reddit.com
 *.redditmedia.com
 app.spiketrap.io
 new.reddit.com
@@ -1720,10 +1720,10 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 ads.tiktok.com
 tiktok.com
-partner.tiktokshop.com
 live-backstage.tiktok.com
-www.pangleglobal.com
+partner.tiktokshop.com
 fp-sg.tiktokv.com
+www.pangleglobal.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 academy-outbound-ads.tiktok.com
@@ -2129,8 +2129,8 @@ configure.bmw.de
 configure.mini.de
 konfigurator.bmw-motorrad.de
 api.magic.link
-api.fortmatic.com
 dashboard.fortmatic.com
+api.fortmatic.com
 fortmatic.com
 auth.magic.link
 dashboard.magic.link
@@ -2183,11 +2183,11 @@ dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 jobs.marriott.com
 activities.marriott.com
+all-inclusive.marriott.com
+cpp.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 www.ritzcarlton.com
-all-inclusive.marriott.com
-cpp.marriott.com
 homes-and-villas.marriott.com
 marrtool.com
 gatewaydsapdev2.marriott.com
@@ -2481,9 +2481,10 @@ www.wynnvacations.com
 res.vacations.buschgardens.com
 www.hyattinclusivecollection.com
 booking.applevacations.com
+ebsext.oft.hyatt.com
 newsroom.images.hyatt.com
 confluence.hyattdev.com
-ebsext.oft.hyatt.com
+login.www.vaxvacationaccess.com
 holidays-au.fijiairways.com
 holidays-sg.fijiairways.com
 vacations.hotelcasavelas.com
@@ -2495,7 +2496,6 @@ holidays-nz.fijiairways.com
 res.en.travelbrandsagent.com
 res.funjet.com
 res.secretsresorts.com
-login.www.vaxvacationaccess.com
 world.hyatt.com
 assets.hyatt.com
 roominglist.hyatt.com
@@ -2712,8 +2712,8 @@ swiftcapital.com
 *.paypalcorp.com
 *.hyperwallet.com
 *.paylution.com
-secure.chaturbate.com
 *.highwebmedia.com
+secure.chaturbate.com
 m.chaturbate.com
 *.securegatewayaccess.com
 *.mmcdn.com
@@ -2860,8 +2860,8 @@ playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
 *.mona.co
-auth.crypto.com
 www.crypto.com
+auth.crypto.com
 *.crypto.com
 tax.crypto.com
 merchant.crypto.com
@@ -2881,9 +2881,9 @@ https://crypto.com/defi/
 https://crypto.com/nft
 tax.crypto.com
 https://crypto.com/price
-docs.newrelic.com
 insights.eu.newrelic.com
 *.eu.newrelic.com
+docs.newrelic.com
 *.infrastructure-data.newrelic.com
 rpm.newrelic.com
 infrastructure.eu.newrelic.com
@@ -2891,8 +2891,8 @@ developer.newrelic.com
 learn.newrelic.com
 *.newrelic.com
 infrastructure.newrelic.com
-insights.newrelic.com
 *.blog.newrelic.com
+insights.newrelic.com
 one.newrelic.com
 *.nr-data.net
 *.nr-ops.net
@@ -2991,9 +2991,9 @@ sijoitusvakuutus.lahitapiola.fi
 ext-gw.lahitapiola.fi
 privatetarget-2-secure.zigzag
 secure.lahitapiola.fi
-tunnistus.lahitapiola.fi
 lisasijoitus.lahitapiola.fi
 verovelvollisuustiedot.lahitapiola.fi
+tunnistus.lahitapiola.fi
 api.lahitapiola.fi
 *.tapiola.fi
 privatetarget-1-www.zigzag
@@ -3398,11 +3398,11 @@ no-reply.cloud
 maximum-status.com
 preprod.nl
 ruddercms.nl
-www.werkenbijbakertilly.nl
 devmaximum.com
+www.werkenbijbakertilly.nl
+doorstromen.mijnkombijdepolitie.nl
 qatest.nl
 rudderplatform.com
-doorstromen.mijnkombijdepolitie.nl
 *.maximum.nl
 werkenbijdefensie.nl
 werkenbijderet.nl
@@ -3490,9 +3490,9 @@ www.bitmoji.com
 snappublisher.snapchat.com
 app.snapchat.com
 map.snapchat.com
-store.snapchat.com
 business.snapchat.com
 my.snapchat.com
+store.snapchat.com
 playcanvas.com
 rt.playcanvas.com
 geofilters.snapchat.com
@@ -3806,10 +3806,10 @@ ctf.hacker101.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 www.hackerone.com
 errors.hackerone.net
-app.pullrequest.com
 b5s.hackerone-ext-content.com
 cover-photos.hackerone-user-content.com
 profile-photos-us-east-2.hackerone-user-content.com
+app.pullrequest.com
 hackerone.live
 hackerone.com
 api.hackerone.com
