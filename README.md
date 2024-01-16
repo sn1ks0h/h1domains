@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jan 16 10:20:52 UTC 2024)
+## Domains with Bounties (Last Updated Tue Jan 16 11:18:28 UTC 2024)
 ```
 sandbox.fireblocks.io
 sandbox.fireblocks.io
@@ -40,8 +40,8 @@ cpanel.hostinger.com
 backend.zyro.com
 editor.zyro.com
 partner.niagahoster.co.id
-logo.zyro.com
 www.zyro.com
+logo.zyro.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -136,11 +136,11 @@ paymentcomponent.booking.com
 autocomplete.booking.com
 paynotifications.booking.com
 taxi.booking.com
-cars.booking.com
 webhooks.booking.com
 paybridge.booking.com
 secure.booking.com
 account.booking.com
+cars.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -423,9 +423,9 @@ yourdomain.freshservice.com
 yourdomain.freshchat.com
 yourdomain.freshcaller.com
 yourdomain.myfreshworks.com
+api.krisha.kz
 api.kolesa.kz
 app.kolesa.kz
-api.krisha.kz
 id.kolesa.kz
 avtoelon.uz
 m.krisha.kz
@@ -476,12 +476,12 @@ api.tideplatform.in
 www.tide.co
 crash-stats.allizom.org
 firefox-ci-tc.services.mozilla.com
-firefox.settings.services.mozilla.com
 accounts.firefox.com
-merino.services.mozilla.com
-bugzilla.mozilla.org
+firefox.settings.services.mozilla.com
 sync.services.mozilla.com
 push.services.mozilla.com
+merino.services.mozilla.com
+bugzilla.mozilla.org
 contile.services.mozilla.com
 aus5.mozilla.org
 hg.mozilla.org
@@ -519,8 +519,8 @@ monitor.firefox.com
 www.mozilla.org
 profiler.firefox.com
 community-tc.services.mozilla.com
-vpn.mozilla.org
 api.profiler.firefox.com
+vpn.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -697,8 +697,8 @@ auth.skypicker.com
 tequila.kiwi.com
 http://www.kiwi.com/stories
 jobs.kiwi.com
-*.8x8.vc
 *.jitsi.net
+*.8x8.vc
 connect.8x8.com
 sso.8x8.com
 work.8x8.com
@@ -708,8 +708,8 @@ uc.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
 *.chalet.8x8.com
-*.8x8.id
 cloud8.8x8.com
+*.8x8.id
 *.8x8staging.com
 platform.8x8.com
 voapi.8x8.com
@@ -1022,8 +1022,8 @@ ws.sorare.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
-my.exness.com
 exnessaffiliates.com
+my.exness.com
 pay.ibex.exchange
 exness.com
 pwapi.ex2b.com
@@ -1045,11 +1045,11 @@ api.smtp2go.com
 smtp2go.com
 app.smtp2go.com
 api.smtp2go.com
+delta.app
 push-d-hap.cloud.etoro.com
 push-demo-lightstreamer.cloud.etoro.com
 sts.etoro.com
 watchlistapi.etoro.com
-delta.app
 www.etoro.com
 aggregator.etoro.com
 cashier.etoro.com
@@ -1429,9 +1429,9 @@ cloud.elastic.co
 *.touchtechpayments.com
 js.stripe.com
 app.taxjar.com
-api.taxjar.com
 *.getbouncer.com
 *.reckostaging.com
+api.taxjar.com
 api.stripe.com
 api.stripe.com
 *.stripe.com
@@ -1450,10 +1450,10 @@ www.urbancompany.com
 www.urbanclap.com
 www.urbancompany.com
 www.urbanclap.com
+gql.reddit.com
 old.reddit.com
 api.reddit.com
 ads.reddit.com
-gql.reddit.com
 *.redditmedia.com
 app.spiketrap.io
 *.redditinc.com
@@ -1466,8 +1466,8 @@ new.reddit.com
 gateway.reddit.com
 s.reddit.com
 www.spiketrap.io
-*.reddit.com
 ads-api.reddit.com
+*.reddit.com
 *.redditblog.com
 amp.reddit.com
 reddit.secure.force.com
@@ -1612,8 +1612,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-www.yotisign.com
 api.yoti.com
+www.yotisign.com
 core.yoti.com
 ccloud.yoti.com
 code.yoti.com
@@ -1730,9 +1730,9 @@ academy-outbound-ads.tiktok.com
 business.tiktok.com
 *.tiktokv.com
 *.tiktok.com
-developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
+developers.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1812,8 +1812,6 @@ helpcenter.affirm.com
 www.iciparisxl.lu
 app.marionnaud.hu
 www.marionnaud.ro
-www.marionnaud.fr
-www.watsons.com.tr
 mapi-sim.fortress.com.hk
 www10.watsons.com.tw
 www10.watsons.com.ph
@@ -1821,6 +1819,8 @@ www.watsons.com.ph
 www10.watsons.com.hk
 www20.watsons.co.th
 www.watsons.co.id
+www.marionnaud.fr
+www.watsons.com.tr
 www.kruidvat.nl
 www.kruidvat.be
 www.theperfumeshop.com
@@ -2131,8 +2131,8 @@ configure.bmw.de
 configure.mini.de
 konfigurator.bmw-motorrad.de
 api.magic.link
-dashboard.fortmatic.com
 api.fortmatic.com
+dashboard.fortmatic.com
 fortmatic.com
 auth.magic.link
 dashboard.magic.link
@@ -2185,11 +2185,11 @@ dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 activities.marriott.com
 jobs.marriott.com
+all-inclusive.marriott.com
+cpp.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 www.ritzcarlton.com
-all-inclusive.marriott.com
-cpp.marriott.com
 homes-and-villas.marriott.com
 marrtool.com
 gatewaydsapdev2.marriott.com
@@ -2316,9 +2316,9 @@ obs-sensors.iris.production.forescoutcloud.net
 datapod-2-druid-ingest.production.forescoutcloud.net
 uk.forescout.cloud
 de.forescout.cloud
+datapod-1-druid-ingest.production.forescoutcloud.net
 www.forescout.com
 datapod-2-ingest.acceptance.forescoutcloud.net
-datapod-1-druid-ingest.production.forescoutcloud.net
 updates.forescout.com
 app.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.acceptance.forescoutcloud.net
@@ -2657,10 +2657,10 @@ matomo.cloud
 https://github.com/matomo-org/docker
 *.xoom.com
 py.pl
-*.braintreepayments.com
-*.braintree-api.com
 www.swiftfinancial.com
 swiftfinancial.com
+*.braintreepayments.com
+*.braintree-api.com
 *.paylution.com
 paypal.me
 www.swiftcapital.com
@@ -2677,12 +2677,12 @@ my.loanbuilder.com
 pigeon.swiftfinancial.com
 *.braintreegateway.com
 paypalobjects.com
-prequal.swiftfinancial.com
-decision.swiftfinancial.com
 www.loanbuilder.com
 api.swiftfinancial.com
 api.loanbuilder.com
 loanbuilder.com
+prequal.swiftfinancial.com
+decision.swiftfinancial.com
 *.paypalcorp.com
 www.paypal-*.com
 *.xoom.com
@@ -2768,11 +2768,11 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
+*.ayco.com
 *.goldman.com
 *.marcus.co.uk
 *.gsselect.com
 *.gs-mosaic.gs.com
-*.ayco.com
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
@@ -2792,8 +2792,8 @@ goldmansachsindices.com
 *.gsam.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
-marquee.gs.com
 research.gs.com
+marquee.gs.com
 *.gs.de
 api.foliofn.com
 *.advisorsolutions.gs.com
@@ -2868,8 +2868,8 @@ www.crypto.com
 tax.crypto.com
 merchant.crypto.com
 app.mona.co
-pay.crypto.com
 js.crypto.com
+pay.crypto.com
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -2993,9 +2993,9 @@ sijoitusvakuutus.lahitapiola.fi
 ext-gw.lahitapiola.fi
 privatetarget-2-secure.zigzag
 secure.lahitapiola.fi
+tunnistus.lahitapiola.fi
 lisasijoitus.lahitapiola.fi
 verovelvollisuustiedot.lahitapiola.fi
-tunnistus.lahitapiola.fi
 api.lahitapiola.fi
 *.tapiola.fi
 privatetarget-1-www.zigzag
@@ -3400,11 +3400,11 @@ no-reply.cloud
 maximum-status.com
 preprod.nl
 ruddercms.nl
-www.werkenbijbakertilly.nl
 devmaximum.com
+www.werkenbijbakertilly.nl
+doorstromen.mijnkombijdepolitie.nl
 qatest.nl
 rudderplatform.com
-doorstromen.mijnkombijdepolitie.nl
 *.maximum.nl
 werkenbijdefensie.nl
 werkenbijderet.nl
@@ -3616,9 +3616,9 @@ api.vimeo.com
 donations.livestream.com
 vimeo.magisto.com
 vhx.tv
-*.magisto.com
 *.livestream.com
 api.vhx.tv
+*.magisto.com
 *.new.livestream.com
 checkout.vimeo.com
 *.vhx.tv
@@ -3684,10 +3684,10 @@ waf.cumulusfire.net
 *.srvcs.tumblr.com
 akismet.com
 embed.tumblr.com
-happy.tools
 simplenote.com
 simperium.com
 my.pressable.com
+happy.tools
 gravatar.com
 api.tumblr.com
 assets.tumblr.com
@@ -3733,11 +3733,11 @@ irccloud.com
 irc.irccloud.com
 team-irc.irccloud.com
 blog.irccloud.com
-*.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 prime.coinbase.com
 *.cbhq.net
+*.coinbase.com
 api.coinbase.com
 cloud.coinbase.com
 international.coinbase.com
