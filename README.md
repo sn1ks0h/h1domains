@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jan 16 06:21:16 UTC 2024)
+## Domains with Bounties (Last Updated Tue Jan 16 07:17:52 UTC 2024)
 ```
 sandbox.fireblocks.io
 sandbox.fireblocks.io
@@ -1210,11 +1210,11 @@ api.evernote.com
 fallguys.com
 fortnite.com
 harmonixmusic.com
-capturingreality.com
 wonderboxdev.com
+capturingreality.com
 *.psyonix.com
-*.3lateral.com
 *.fortnite.com
+*.3lateral.com
 *.dropmix.com
 *.harmonixmusic.com
 *.hmxwebservices.com
@@ -1428,9 +1428,9 @@ cloud.elastic.co
 *.touchtechpayments.com
 js.stripe.com
 app.taxjar.com
+api.taxjar.com
 *.getbouncer.com
 *.reckostaging.com
-api.taxjar.com
 api.stripe.com
 api.stripe.com
 *.stripe.com
@@ -1611,8 +1611,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-api.yoti.com
 www.yotisign.com
+api.yoti.com
 core.yoti.com
 ccloud.yoti.com
 code.yoti.com
@@ -1682,11 +1682,11 @@ launch.cloud.com
 sf-rp.sharefile.com
 api.sharefile.eu
 api.adm.cloud.com
-(yoursubdomain).us.iws.cloud.com
-(yoursubdomain).ap.iws.cloud.com
 citrix.cloud.com
 us.cloud.com
 *.citrixworkspacesapi.net
+(yoursubdomain).ap.iws.cloud.com
+(yoursubdomain).us.iws.cloud.com
 citrix.cloud.com
 www.cloud.com
 ap-s.cloud.com
@@ -1829,6 +1829,7 @@ app.marionnaud.ro
 www.marionnaud.sk
 www.pns.hk
 www.watsons.com.tw
+api.watsons.com.tw
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -1944,8 +1945,8 @@ transact.playstation.com
 api.direct.playstation.com
 *.api.playstation.com
 direct.playstation.com
-store.playstation.com
 *.sonyentertainmentnetwork.com
+store.playstation.com
 my.playstation.com
 *.playstation.net
 ca.account.sony.com
@@ -2100,8 +2101,8 @@ www.alibabagroup.com
 *.1688.com
 *.aliyun-inc.com
 *.alimama.com
-*.Daraz.com
 *.aliexpress.com
+*.Daraz.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -2183,11 +2184,11 @@ dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 jobs.marriott.com
 activities.marriott.com
-all-inclusive.marriott.com
-cpp.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 www.ritzcarlton.com
+all-inclusive.marriott.com
+cpp.marriott.com
 homes-and-villas.marriott.com
 marrtool.com
 gatewaydsapdev2.marriott.com
@@ -2314,9 +2315,9 @@ obs-sensors.iris.production.forescoutcloud.net
 datapod-2-druid-ingest.production.forescoutcloud.net
 uk.forescout.cloud
 de.forescout.cloud
+datapod-1-druid-ingest.production.forescoutcloud.net
 www.forescout.com
 datapod-2-ingest.acceptance.forescoutcloud.net
-datapod-1-druid-ingest.production.forescoutcloud.net
 updates.forescout.com
 app.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.acceptance.forescoutcloud.net
@@ -2655,10 +2656,10 @@ matomo.cloud
 https://github.com/matomo-org/docker
 *.xoom.com
 py.pl
-*.braintreepayments.com
-*.braintree-api.com
 www.swiftfinancial.com
 swiftfinancial.com
+*.braintreepayments.com
+*.braintree-api.com
 *.paylution.com
 paypal.me
 www.swiftcapital.com
@@ -2675,12 +2676,12 @@ my.loanbuilder.com
 pigeon.swiftfinancial.com
 *.braintreegateway.com
 paypalobjects.com
-prequal.swiftfinancial.com
-decision.swiftfinancial.com
 www.loanbuilder.com
 api.swiftfinancial.com
 api.loanbuilder.com
 loanbuilder.com
+prequal.swiftfinancial.com
+decision.swiftfinancial.com
 *.paypalcorp.com
 www.paypal-*.com
 *.xoom.com
@@ -3139,6 +3140,7 @@ api.wordpress.org
 irclogs.wordpress.org
 *.wordpress.net
 gutenberg.run
+doaction.org
 codex.wordpress.org
 codex.bbpress.org
 codex.buddypress.org
@@ -3147,7 +3149,6 @@ mercantile.wordpress.org
  *.svn.wordpress.org
  *.git.wordpress.org
  github.com/WordPress
-doaction.org
 *.wordpress.org
 *.buddypress.org
 bbpress.org
@@ -3295,8 +3296,8 @@ classroom.github.com
 gist.github.com
 *.github.net
 education.github.com
-*.githubusercontent.com
 npmjs.org
+*.githubusercontent.com
 github.com
 github.com
 api.github.com
@@ -3682,10 +3683,10 @@ waf.cumulusfire.net
 *.srvcs.tumblr.com
 akismet.com
 embed.tumblr.com
-happy.tools
 simplenote.com
 simperium.com
 my.pressable.com
+happy.tools
 gravatar.com
 api.tumblr.com
 assets.tumblr.com
@@ -3807,10 +3808,10 @@ profile-photos.hackerone-user-content.com
 hackerone-ext-content.com
 errors.hackerone.net
 app.pullrequest.com
-b5s.hackerone-ext-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 hackerone.live
 cover-photos.hackerone-user-content.com
+b5s.hackerone-ext-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
