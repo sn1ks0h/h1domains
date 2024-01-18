@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jan 18 17:39:35 UTC 2024)
+## Domains with Bounties (Last Updated Thu Jan 18 18:30:35 UTC 2024)
 ```
 sandbox.fireblocks.io
 sandbox.fireblocks.io
@@ -469,9 +469,9 @@ crash-stats.allizom.org
 firefox-ci-tc.services.mozilla.com
 firefox.settings.services.mozilla.com
 accounts.firefox.com
-merino.services.mozilla.com
 sync.services.mozilla.com
 push.services.mozilla.com
+merino.services.mozilla.com
 bugzilla.mozilla.org
 aus5.mozilla.org
 hg.mozilla.org
@@ -510,8 +510,8 @@ www.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
 community-tc.services.mozilla.com
-vpn.mozilla.org
 api.profiler.firefox.com
+vpn.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -799,9 +799,9 @@ hv-mtl.com
 dookeydash.com
 hv-mtl.com
 www.hotels.com
+www.expediaagents.com
 www.hotwirepartnercentral.com
 www.expediapartnersolutions.com
-www.expediaagents.com
 www.abritel.fr
 www.expediagroup.com
 www.orbitz.com
@@ -813,16 +813,16 @@ www.flights.com
 www.cheaptickets.com
 www.lastminute.co.nz
 www.lastminute.com.au
-www.travelocity.ca
 www.carrentals.com
+www.travelocity.ca
 www.bookabach.co.nz
 www.fewo-direkt.de
 www.expedia.com
 www.expediapartnercentral.com
-www.hotwire.com
-www.ebookers.fi
-www.wotif.com
 www.expediacruises.com
+www.ebookers.fi
+www.hotwire.com
+www.wotif.com
 www.stayz.com.au
 www.hotels.com
 www.expedia.com
@@ -1034,11 +1034,11 @@ api.smtp2go.com
 smtp2go.com
 app.smtp2go.com
 api.smtp2go.com
+delta.app
 push-d-hap.cloud.etoro.com
 push-demo-lightstreamer.cloud.etoro.com
 sts.etoro.com
 watchlistapi.etoro.com
-delta.app
 www.etoro.com
 aggregator.etoro.com
 cashier.etoro.com
@@ -1397,9 +1397,9 @@ main.trafficfactory.biz
 *.found.io
 *.swiftype.com
 *.elstc.co
-*.elasticnet.co
 *.eops.nl
 cloud.elastic.co
+*.elasticnet.co
 www.elastic.co
 *.elastic.co
 *.elastic.co
@@ -1438,9 +1438,9 @@ www.urbancompany.com
 www.urbanclap.com
 www.urbancompany.com
 www.urbanclap.com
-gql.reddit.com
 api.reddit.com
 ads.reddit.com
+gql.reddit.com
 *.redditmedia.com
 app.spiketrap.io
 old.reddit.com
@@ -2143,10 +2143,10 @@ maria.casino
 *.unibet.com
 *.mariacasino.com
 *.kindredext.net
+*.vladcazino.ro
 *.storspiller.com
 *.casinohuone.com
 *.ottokasino.com
-*.vladcazino.ro
 www.32red.com
 *.kes.kindredext.net
 *.unibet.com
@@ -2397,8 +2397,8 @@ press.priceline.com
 www.bookingholdings.com
 developers.smartsheet.com
 help.smartsheet.com
-admin.smartsheet.com
 app.smartsheet.com
+admin.smartsheet.com
 app.smartsheet.com
 http://api.smartsheet.com/2.0
 admin.smartsheet.com
@@ -2879,13 +2879,13 @@ rpm.newrelic.com
 infrastructure.eu.newrelic.com
 developer.newrelic.com
 learn.newrelic.com
-*.newrelic.com
 infrastructure.newrelic.com
 insights.newrelic.com
 *.blog.newrelic.com
 one.newrelic.com
 *.nr-data.net
 *.nr-ops.net
+*.newrelic.com
 synthetics.eu.newrelic.com
 support.newrelic.com
 blog.newrelic.com
@@ -3129,6 +3129,7 @@ api.wordpress.org
 irclogs.wordpress.org
 *.wordpress.net
 gutenberg.run
+doaction.org
 codex.wordpress.org
 codex.bbpress.org
 codex.buddypress.org
@@ -3137,7 +3138,6 @@ mercantile.wordpress.org
  *.svn.wordpress.org
  *.git.wordpress.org
  github.com/WordPress
-doaction.org
 *.wordpress.org
 *.buddypress.org
 bbpress.org
@@ -3447,9 +3447,9 @@ shop.app
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
+admin.shopify.com
 *.shopify.com
 accounts.shopify.com
-admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3480,9 +3480,9 @@ www.bitmoji.com
 snappublisher.snapchat.com
 app.snapchat.com
 map.snapchat.com
+store.snapchat.com
 business.snapchat.com
 my.snapchat.com
-store.snapchat.com
 rt.playcanvas.com
 playcanvas.com
 geofilters.snapchat.com
