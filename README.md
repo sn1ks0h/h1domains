@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jan 20 16:20:15 UTC 2024)
+## Domains with Bounties (Last Updated Sat Jan 20 17:16:57 UTC 2024)
 ```
 sandbox.fireblocks.io
 sandbox.fireblocks.io
@@ -510,8 +510,8 @@ developer.mozilla.org
 monitor.firefox.com
 profiler.firefox.com
 community-tc.services.mozilla.com
-api.profiler.firefox.com
 vpn.mozilla.org
+api.profiler.firefox.com
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -1198,12 +1198,12 @@ api.evernote.com
 fallguys.com
 fortnite.com
 harmonixmusic.com
-wonderboxdev.com
 capturingreality.com
+wonderboxdev.com
 *.mediatonic.co.uk
 *.psyonix.com
-*.fortnite.com
 *.3lateral.com
+*.fortnite.com
 *.dropmix.com
 *.harmonixmusic.com
 *.hmxwebservices.com
@@ -1438,9 +1438,9 @@ www.urbancompany.com
 www.urbanclap.com
 www.urbancompany.com
 www.urbanclap.com
-gql.reddit.com
 api.reddit.com
 ads.reddit.com
+gql.reddit.com
 *.redditmedia.com
 app.spiketrap.io
 old.reddit.com
@@ -1600,8 +1600,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-www.yotisign.com
 api.yoti.com
+www.yotisign.com
 core.yoti.com
 ccloud.yoti.com
 code.yoti.com
@@ -1671,11 +1671,11 @@ launch.cloud.com
 sf-rp.sharefile.com
 api.sharefile.eu
 api.adm.cloud.com
+(yoursubdomain).us.iws.cloud.com
+(yoursubdomain).ap.iws.cloud.com
 citrix.cloud.com
 us.cloud.com
 *.citrixworkspacesapi.net
-(yoursubdomain).ap.iws.cloud.com
-(yoursubdomain).us.iws.cloud.com
 citrix.cloud.com
 www.cloud.com
 ap-s.cloud.com
@@ -2143,10 +2143,10 @@ maria.casino
 *.unibet.com
 *.mariacasino.com
 *.kindredext.net
-*.vladcazino.ro
 *.storspiller.com
 *.casinohuone.com
 *.ottokasino.com
+*.vladcazino.ro
 www.32red.com
 *.kes.kindredext.net
 *.unibet.com
@@ -2173,9 +2173,9 @@ dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 jobs.marriott.com
 activities.marriott.com
-all-inclusive.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
+all-inclusive.marriott.com
 www.ritzcarlton.com
 cpp.marriott.com
 homes-and-villas.marriott.com
@@ -2756,10 +2756,10 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
-*.ayco.com
 *.goldman.com
 *.marcus.co.uk
 *.gs-mosaic.gs.com
+*.ayco.com
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
@@ -2981,9 +2981,9 @@ sijoitusvakuutus.lahitapiola.fi
 ext-gw.lahitapiola.fi
 privatetarget-2-secure.zigzag
 secure.lahitapiola.fi
-tunnistus.lahitapiola.fi
 lisasijoitus.lahitapiola.fi
 verovelvollisuustiedot.lahitapiola.fi
+tunnistus.lahitapiola.fi
 api.lahitapiola.fi
 *.tapiola.fi
 privatetarget-1-www.zigzag
@@ -3129,7 +3129,6 @@ api.wordpress.org
 irclogs.wordpress.org
 *.wordpress.net
 gutenberg.run
-doaction.org
 codex.wordpress.org
 codex.bbpress.org
 codex.buddypress.org
@@ -3138,6 +3137,7 @@ mercantile.wordpress.org
  *.svn.wordpress.org
  *.git.wordpress.org
  github.com/WordPress
+doaction.org
 *.wordpress.org
 *.buddypress.org
 bbpress.org
@@ -3267,8 +3267,8 @@ yelptop100.com
 *.yelpwifi.com
 yelptop100.com
 harvestapp.com
-id.getharvest.com
 getharvest.com
+id.getharvest.com
 forecastapp.com
 harvestapp.com
 forecastapp.com
@@ -3479,9 +3479,9 @@ playcanv.as
 www.bitmoji.com
 snappublisher.snapchat.com
 map.snapchat.com
+store.snapchat.com
 business.snapchat.com
 my.snapchat.com
-store.snapchat.com
 rt.playcanvas.com
 playcanvas.com
 app.snapchat.com
