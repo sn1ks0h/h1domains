@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jan 21 21:16:35 UTC 2024)
+## Domains with Bounties (Last Updated Sun Jan 21 22:16:47 UTC 2024)
 ```
 sandbox.fireblocks.io
 sandbox.fireblocks.io
@@ -469,9 +469,9 @@ crash-stats.allizom.org
 firefox.settings.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
 accounts.firefox.com
+merino.services.mozilla.com
 sync.services.mozilla.com
 push.services.mozilla.com
-merino.services.mozilla.com
 bugzilla.mozilla.org
 aus5.mozilla.org
 hg.mozilla.org
@@ -1034,11 +1034,11 @@ smtp2go.com
 smtp2go.com
 app.smtp2go.com
 api.smtp2go.com
-delta.app
 push-d-hap.cloud.etoro.com
 push-demo-lightstreamer.cloud.etoro.com
 sts.etoro.com
 watchlistapi.etoro.com
+delta.app
 www.etoro.com
 aggregator.etoro.com
 cashier.etoro.com
@@ -1104,8 +1104,8 @@ watchlistapi.etoro.com
 rankings.etoro.com
 delta.app
 bullsheet.me
-api.instacart.com
 *.instacart.tools
+api.instacart.com
 www.instacart.com
 shoppers.instacart.com
 admin.instacart.com
@@ -1198,12 +1198,12 @@ api.evernote.com
 fallguys.com
 fortnite.com
 harmonixmusic.com
-wonderboxdev.com
 capturingreality.com
+wonderboxdev.com
 *.mediatonic.co.uk
 *.psyonix.com
-*.fortnite.com
 *.3lateral.com
+*.fortnite.com
 *.dropmix.com
 *.harmonixmusic.com
 *.hmxwebservices.com
@@ -1601,8 +1601,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-api.yoti.com
 www.yotisign.com
+api.yoti.com
 core.yoti.com
 ccloud.yoti.com
 code.yoti.com
@@ -1935,8 +1935,8 @@ api.direct.playstation.com
 transact.playstation.com
 direct.playstation.com
 store.playstation.com
-*.sonyentertainmentnetwork.com
 *.api.playstation.com
+*.sonyentertainmentnetwork.com
 my.playstation.com
 *.playstation.net
 ca.account.sony.com
@@ -2144,10 +2144,10 @@ maria.casino
 *.unibet.com
 *.mariacasino.com
 *.kindredext.net
+*.vladcazino.ro
 *.storspiller.com
 *.casinohuone.com
 *.ottokasino.com
-*.vladcazino.ro
 www.32red.com
 *.kes.kindredext.net
 *.unibet.com
@@ -2398,8 +2398,8 @@ press.priceline.com
 www.bookingholdings.com
 developers.smartsheet.com
 help.smartsheet.com
-admin.smartsheet.com
 app.smartsheet.com
+admin.smartsheet.com
 app.smartsheet.com
 http://api.smartsheet.com/2.0
 admin.smartsheet.com
@@ -2757,10 +2757,10 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
+*.ayco.com
 *.goldman.com
 *.marcus.co.uk
 *.gs-mosaic.gs.com
-*.ayco.com
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
@@ -2881,8 +2881,8 @@ infrastructure.eu.newrelic.com
 developer.newrelic.com
 learn.newrelic.com
 infrastructure.newrelic.com
-insights.newrelic.com
 *.blog.newrelic.com
+insights.newrelic.com
 one.newrelic.com
 *.nr-data.net
 *.nr-ops.net
@@ -3285,8 +3285,8 @@ classroom.github.com
 *.githubapp.com
 gist.github.com
 *.github.net
-npmjs.org
 *.githubusercontent.com
+npmjs.org
 education.github.com
 github.com
 github.com
@@ -3480,9 +3480,9 @@ playcanv.as
 www.bitmoji.com
 snappublisher.snapchat.com
 map.snapchat.com
-store.snapchat.com
 business.snapchat.com
 my.snapchat.com
+store.snapchat.com
 rt.playcanvas.com
 playcanvas.com
 app.snapchat.com
@@ -3492,9 +3492,9 @@ spectacles.com
 web.snapchat.com
 www.bitstrips.com
 kit.snapchat.com
-*.sc-core.net
 developer.playcanvas.com
 launch.playcanvas.com
+*.sc-core.net
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3687,10 +3687,10 @@ waf.cumulusfire.net
 *.srvcs.tumblr.com
 akismet.com
 embed.tumblr.com
-happy.tools
 simplenote.com
 simperium.com
 my.pressable.com
+happy.tools
 gravatar.com
 api.tumblr.com
 assets.tumblr.com
@@ -3814,8 +3814,8 @@ hackerone.live
 errors.hackerone.net
 profile-photos-us-east-2.hackerone-user-content.com
 app.pullrequest.com
-cover-photos.hackerone-user-content.com
 b5s.hackerone-ext-content.com
+cover-photos.hackerone-user-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
