@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jan 30 21:18:33 UTC 2024)
+## Domains with Bounties (Last Updated Tue Jan 30 22:16:09 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -76,8 +76,8 @@ editor.zyro.com
 logo.zyro.com
 www.niagahoster.co.id
 https://passport.eufy.com/?app=eufy-us
-research.23andme.com
 mediacenter.23andme.com
+research.23andme.com
 education.23andme.com
 store.23andme.com
 blog.23andme.com
@@ -706,8 +706,8 @@ jobs.kiwi.com
 *.jitsi.net
 work.8x8.com
 *.8x8.vc
-connect.8x8.com
 sso.8x8.com
+connect.8x8.com
 *.jit.si
 platform.8x8pilot.com
 uc.8x8pilot.com
@@ -2300,8 +2300,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
