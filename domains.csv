@@ -1634,8 +1634,8 @@ greenfly,portal.greenfly.com,False
 greenfly,api.greenfly.com,False
 greenfly,api.greenfly.com,False
 greenfly,portal.greenfly.com,False
-aven_response,my.aven.com,False
 aven_response,*.aven.com,False
+aven_response,my.aven.com,False
 aven_response,notary.aven.com,False
 aven_response,aven.com,False
 aven_response,*.aven.com,False
@@ -1817,8 +1817,8 @@ daimler_truck,*.mercedes-benz-trucks.com,False
 daimler_truck,*detroitconnect.com,False
 daimler_truck,*.daimlertruck.com,False
 daimler_truck,*.westernstar.com,False
-daimler_truck,*fleetboard.de,False
 daimler_truck,*.freightliner.com,False
+daimler_truck,*fleetboard.de,False
 daimler_truck,*.bharatbenz.com,False
 daimler_truck,*evobus.com,False
 daimler_truck,*.mitsubishi-fuso.com,False
@@ -2773,8 +2773,8 @@ clarivate,biology-browser.com,False
 clarivate,biologybrowser.com,False
 clarivate,biologybrowser.org,False
 clarivate,biologyfinder.com,False
-freshworks,yourdomain.freshservice.com,True
 freshworks,yourdomain.freshcaller.com,True
+freshworks,yourdomain.freshservice.com,True
 freshworks,yourdomain.freshdesk.com,True
 freshworks,yourdomain.freshchat.com,True
 freshworks,yourdomain.myfreshworks.com,True
@@ -2871,8 +2871,8 @@ mozilla_core_services,hg.mozilla.org,True
 mozilla_core_services,stage.taskcluster.nonprod.cloudops.mozgcp.net,True
 mozilla_core_services,support.mozilla.org,True
 mozilla_core_services,monitor.firefox.com,True
-mozilla_core_services,www.mozilla.org,True
 mozilla_core_services,developer.mozilla.org,True
+mozilla_core_services,www.mozilla.org,True
 mozilla_core_services,profiler.firefox.com,True
 mozilla_core_services,community-tc.services.mozilla.com,True
 mozilla_core_services,api.profiler.firefox.com,True
@@ -4522,8 +4522,8 @@ mars,*.royalcanin.fr,False
 mars,*.royalcanin-pethealthday.com,False
 mars,*.teile-deine-erfahrung-mit-royal-canin.com,False
 mars,banfieldfoundation.org,False
-mars,*.vcahospitals.com,False
 mars,spsah2.securevetsource.com,False
+mars,*.vcahospitals.com,False
 mars,*.marschocolate.com,False
 mars,*.dovechocolate.com,False
 mars,*.royal-canin.com,False
@@ -5034,6 +5034,7 @@ mondelez,winter.lu.be,False
 mondelez,favourites.milka.de,False
 mondelez,futisviikonloppu.marabou.fi,False
 mondelez,giveasmile.belvitasnacks.com,False
+mondelez,nabiscoseasonofgiving.com,False
 mondelez,weihnachten.milka.de,False
 mondelez,cadburygift.com,False
 mondelez,epack.mondelezinternational.com,False
@@ -5044,7 +5045,6 @@ mondelez,marabouchokladhus.se,False
 mondelez,oreo.kz,False
 mondelez,secretsanta.cadbury.co.uk,False
 mondelez,vyhrajschuti.cz,False
-mondelez,nabiscoseasonofgiving.com,False
 mondelez,mondelezinternational.com,False
 mondelez,ir.mondelezinternational.com,False
 mondelez,cadbury.co.uk,False
@@ -5411,8 +5411,8 @@ tennessee-valley-authority,energyright.efficientchoice.com,False
 krisp,analytics.krisp.ai,True
 krisp,help.krisp.ai,False
 krisp,jobs.krisp.ai,False
-krisp,help-jp.krisp.ai,False
 krisp,resources.krisp.ai,False
+krisp,help-jp.krisp.ai,False
 krisp,url5145.krisp.ai,False
 krisp,account.krisp.ai,True
 krisp,upld.krisp.ai,True
@@ -6230,8 +6230,8 @@ cedars-sinai,*Huntingtonhealthnetwork.com,False
 cedars-sinai,*Huntingtonhealthnetwork.net,False
 cedars-sinai,*huntingtonhospital.org,False
 cedars-sinai,*appofchoice.huntingtonhospital.com/,False
-cedars-sinai,*sourcedrive.org,False
 cedars-sinai,*app.sourcedrive.org,False
+cedars-sinai,*sourcedrive.org,False
 cedars-sinai,*Huntingtonhealtheconnect.com,False
 cedars-sinai,*SANGABRIELVALLEYHEALTHECONNECT.COM,False
 cedars-sinai,*sgveconnect.com,False
@@ -7801,8 +7801,8 @@ insulet_corporation,www.omnipod.com,False
 insulet_corporation,www.insulet.com,False
 amazonvrp,track.amazon.com,True
 amazonvrp,address-photos.amazon.com,True
-amazonvrp,cscentral.amazon.com,True
 amazonvrp,av-na.amazon.com,True
+amazonvrp,cscentral.amazon.com,True
 amazonvrp,dcape-na.amazon.com,True
 amazonvrp,mag-na.amazon.com,True
 amazonvrp,kca.amazon.com,True
@@ -7911,8 +7911,8 @@ amazonvrp,updates.amazon.com,True
 amazonvrp,amazonpayinsurance.in,True
 alibaba,*.tmall.com,True
 alibaba,www.alibabagroup.com,True
-alibaba,*.alibaba.com,True
 alibaba,*.alibabacloud.com,True
+alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.ru,True
 alibaba,*.alibaba-inc.com,True
 alibaba,*.1688.com,True
@@ -8042,8 +8042,8 @@ kindred_group,*.kindredext.net,True
 kindred_group,*.storspiller.com,True
 kindred_group,*.casinohuone.com,True
 kindred_group,*.vladcazino.ro,True
-kindred_group,www.32red.com,True
 kindred_group,*.ottokasino.com,True
+kindred_group,www.32red.com,True
 kindred_group,*.kes.kindredext.net,True
 kindred_group,*.unibet.com,True
 kindred_group,*.unibet.fr,True
@@ -8299,8 +8299,8 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,connect.8x8.com,False
 8x8,*.fuze.com,False
 8x8,*.thinkingphones.net,False
-8x8,cloud8.8x8.com,False
 8x8,sms.8x8.com,False
+8x8,cloud8.8x8.com,False
 8x8,supersite.8x8.com,False
 8x8,*.8x8staging.com,False
 8x8,user-profile.8x8.com,False
@@ -9209,7 +9209,6 @@ ford,*.motorcraft.com,False
 ford,*.omnicraftautoparts.com,False
 hyatt,mobileapp.hyatt.com,True
 hyatt,public.hyatt.com,True
-hyatt,res.vacations.buschgardens.com,True
 hyatt,book.booktandl.com,True
 hyatt,res.blueskytours.globalbookingsolutions.com,True
 hyatt,res.universalorlandovacations.com,True
@@ -9220,6 +9219,7 @@ hyatt,res.vacations.discoverycove.com,True
 hyatt,vacations.universalstudioshollywood.com,True
 hyatt,vacations.us.palladiumhotelgroup.com,True
 hyatt,www.wynnvacations.com,True
+hyatt,res.vacations.buschgardens.com,True
 hyatt,www.hyattinclusivecollection.com,True
 hyatt,booking.applevacations.com,True
 hyatt,newsroom.images.hyatt.com,True
@@ -9242,14 +9242,14 @@ hyatt,assets.hyatt.com,True
 hyatt,roominglist.hyatt.com,True
 hyatt,sso.oft.hyatt.com,True
 hyatt,upsell.hyatt.com,True
-hyatt,holidays-hk.fijiairways.com,True
-hyatt,vacations.velasvallarta.com,True
-hyatt,www.blueskytours.com,True
 hyatt,book.extraholidaysvacations.com,True
 hyatt,res.vacations.seaworld.com,True
 hyatt,www.beachbound.com,True
 hyatt,shop.wyndhamvacationownership.trisept.travel,True
 hyatt,vacations.united.com,True
+hyatt,holidays-hk.fijiairways.com,True
+hyatt,vacations.velasvallarta.com,True
+hyatt,www.blueskytours.com,True
 hyatt,res.hyattinclusivecollection.com,True
 hyatt,res.skyteam.com,True
 hyatt,www.hyatt.com,True
@@ -9517,8 +9517,8 @@ liberapay,*.liberapay.com,True
 liberapay,*.liberapay.com,True
 goldmansachs,*.marcus.co.uk,True
 goldmansachs,*.gsselect.com,True
-goldmansachs,*.gs-mosaic.gs.com,True
 goldmansachs,*.ayco.com,True
+goldmansachs,*.gs-mosaic.gs.com,True
 goldmansachs,*.unitedcp.com,True
 goldmansachs,apigw.foliofn.com,True
 goldmansachs,*.foliofirst.com,True
@@ -9526,8 +9526,8 @@ goldmansachs,*.foliofn.com,True
 goldmansachs,*.goldman.com,True
 goldmansachs,*.honestdollar.com,True
 goldmansachs,*.goldmansachs.com,True
-goldmansachs,*.global-liquidity.gs.com,True
 goldmansachs,goldmansachsindices.com,True
+goldmansachs,*.global-liquidity.gs.com,True
 goldmansachs,*.gspublishing.com,True
 goldmansachs,*.goldmanpfm.com,True
 goldmansachs,*.finlife.com,True
@@ -9536,10 +9536,10 @@ goldmansachs,*.foliodigitalwealth.com,True
 goldmansachs,*.vennhypotheken.nl,True
 goldmansachs,*.nextcapital.com,True
 goldmansachs,*.gs.com,True
+goldmansachs,research.gs.com,True
 goldmansachs,*.gs-mosaic.qa.gs.com,True
 goldmansachs,*.qaglobal-liquidity.gs.com,True
 goldmansachs,marquee.gs.com,True
-goldmansachs,research.gs.com,True
 goldmansachs,*.gs.de,True
 goldmansachs,api.foliofn.com,True
 goldmansachs,*.advisorsolutions.gs.com,True
@@ -9792,8 +9792,8 @@ semrush,*.prowly.com,False
 semrush,*.semrush.net,True
 semrush,*.seoquake.com,True
 semrush,workflows.semrush.com,False
-semrush,*.sellzone.com,True
 semrush,*.scatec.io,True
+semrush,*.sellzone.com,True
 semrush,investors.semrush.com,False
 semrush,*.semrush.com,True
 semrush,*.myinsights.io,True
@@ -10288,8 +10288,8 @@ shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
 shopify,accounts.shopify.com,True
-shopify,*.shopify.com,True
 shopify,admin.shopify.com,True
+shopify,*.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
@@ -10415,6 +10415,7 @@ adobe,app.frame.io,False
 adobe,nicetryapril.na1.echosignsandbox.com,False
 adobe,accounts.frame.io,False
 adobe,*.adobe.com,False
+adobe,*.tt.omtrdc.net,False
 adobe,*.marketo.com,False
 adobe,*.omniture.com,False
 adobe,*.typekit.com,False
@@ -10423,7 +10424,6 @@ adobe,create.adobe.com,False
 adobe,creativecloud.adobe.com,False
 adobe,documentcloud.adobe.com,False
 adobe,status.adobe.com,False
-adobe,*.tt.omtrdc.net,False
 adobe,*.proofhq.com,False
 adobe,magentolive.com,True
 adobe,applications.frame.io,False
@@ -11282,6 +11282,7 @@ vanilla,*.vanilladevelopment.com,True
 vanilla,*.vanillacommunity.com,True
 infogram,infogram.com,False
 infogram,infogram.com,False
+tts,*.login.gov,True
 tts,federalist-proxy.app.cloud.gov,True
 tts,cloud.gov,True
 tts,account.fr.cloud.gov,True
@@ -11292,7 +11293,6 @@ tts,vote.gov,False
 tts,idp.fr.cloud.gov,True
 tts,admin.fr.cloud.gov,True
 tts,opslogin.fr.cloud.gov,True
-tts,*.login.gov,True
 tts,dashboard-beta.fr.cloud.gov,True
 tts,federalist.18f.gov,True
 tts,login.fr.cloud.gov,True
@@ -11300,12 +11300,12 @@ tts,alertmanager.fr.cloud.gov,True
 tts,grafana.fr.cloud.gov,True
 tts,api.fr.cloud.gov,True
 tts,api.data.gov,True
+tts,ssh.fr.cloud.gov,True
 tts,ci.fr.cloud.gov,True
 tts,logs.fr.cloud.gov,True
 tts,federation.data.gov,True
 tts,inventory.data.gov,True
 tts,18f.gsa.gov,False
-tts,ssh.fr.cloud.gov,True
 tts,tock.18f.gov,True
 tts,*.code.gov,True
 tts,marketplace.fedramp.gov,True
