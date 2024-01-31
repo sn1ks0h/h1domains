@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jan 31 04:18:28 UTC 2024)
+## Domains with Bounties (Last Updated Wed Jan 31 05:17:58 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -1732,8 +1732,8 @@ academy-outbound-ads.tiktok.com
 careers.tiktok.com
 business.tiktok.com
 creatormarketplace.tiktok.com
-*.tiktok.com
 *.tiktokv.com
+*.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -2466,8 +2466,8 @@ reservations.rezserver.com
 admin.rezserver.com
 www.getaroom.com
 www.priceline.com
-www.bookingholdings.com
 priceline.com
+www.bookingholdings.com
 secure.rezserver.com
 api.rezserver.com
 flyiin.com
@@ -2753,8 +2753,8 @@ loanbuilder.com
 prequal.swiftfinancial.com
 decision.swiftfinancial.com
 paypalobjects.com
-*.braintreegateway.com
 *.paypalcorp.com
+*.braintreegateway.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -2938,8 +2938,8 @@ www.crypto.com
 *.crypto.com
 tax.crypto.com
 merchant.crypto.com
-pay.crypto.com
 app.mona.co
+pay.crypto.com
 js.crypto.com
 *.crypto.com
 *.mona.co
