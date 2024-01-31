@@ -7322,8 +7322,8 @@ tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,careers.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
-tiktok,*.tiktokv.com,True
 tiktok,*.tiktok.com,True
+tiktok,*.tiktokv.com,True
 tiktok,developers.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,shop.tiktok.com,True
@@ -10314,12 +10314,12 @@ shopify,admin.shopify.com,True
 shopify,linkpop.com,True
 shopify,shopifyinbox.com,True
 snapchat,story.snapchat.com,True
-snapchat,create.snapchat.com,True
 snapchat,businesshelp.snapchat.com,True
 snapchat,forum.playcanvas.com,True
 snapchat,msg.playcanvas.com,True
 snapchat,accounts.snapchat.com,True
 snapchat,ads.snapchat.com,True
+snapchat,create.snapchat.com,True
 snapchat,scan.snapchat.com,True
 snapchat,code.playcanvas.com,True
 snapchat,login.playcanvas.com,True
