@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb  2 06:19:26 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb  2 07:15:20 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -82,8 +82,8 @@ education.23andme.com
 store.23andme.com
 blog.23andme.com
 api.23andme.com
-you.23andme.com
 auth.23andme.com
+you.23andme.com
 medical.23andme.com
 therapeutics.23andme.com
 api.23andme.com
@@ -211,6 +211,7 @@ dashboard.mergify.com
 api.mergify.com
 api.mergify.com
 dashboard.mergify.com
+www.compass.com
 www.compass.com
 pentesting2.gethypr.com
 *.hypr.com
@@ -745,8 +746,8 @@ https://webrtc.8x8.com/
 cloud8.8x8.com
 pay.8x8.com
 admin.8x8.com
-*.magicjackpot.ro
 *.luckydays.com
+*.magicjackpot.ro
 *.napoleondice.be
 *.napoleongames.be
 *.superbet.ro
@@ -1045,41 +1046,6 @@ smtp2go.com
 smtp2go.com
 app.smtp2go.com
 api.smtp2go.com
-push-d-hap.cloud.etoro.com
-push-demo-lightstreamer.cloud.etoro.com
-sts.etoro.com
-watchlistapi.etoro.com
-delta.app
-www.etoro.com
-aggregator.etoro.com
-cashier.etoro.com
-cashier-src.etoro.com
-kyc-src.etoro.com
-tapi-demo.etoro.com
-uapi-front.etoro.com
-wallet.etoro.com
-etoropartners.com
-api.etoro.com
-billing.etoro.com
-charts.etoro.com
-push-hap.cloud.etoro.com
-push-n-hap.cloud.etoro.com
-kyc.etoro.com
-streams.etoro.com
-tapi-real.etoro.com
-partners.etoro.com
-candle.etoro.com
-push-d-gw.cloud.etoro.com
-r.etoro.com
-rankings.etoro.com
-billing-pci.etoro.com
-candle-src.etoro.com
-push-demo-hk-lightstreamer.cloud.etoro.com
-push-dn-hap.cloud.etoro.com
-push-lightstreamer.cloud.etoro.com
-push-real-hk-lightstreamer.cloud.etoro.com
-etorologsapi.etoro.com
-bullsheet.me
 www.etoro.com
 etoropartners.com
 partners.etoro.com
@@ -2664,8 +2630,8 @@ www.applevacations.com
 res.hyattinclusivecollection.com
 www.hyattinclusivecollection.com
 booking.applevacations.com
-*.grammarly.com
 *.grammarlyaws.com
+*.grammarly.com
 *.grammarly.io
 grammarly.ai
 *.grammarly.io
