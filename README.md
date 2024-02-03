@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Feb  3 19:14:02 UTC 2024)
+## Domains with Bounties (Last Updated Sat Feb  3 20:17:34 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -1730,8 +1730,8 @@ business.tiktok.com
 careers.tiktok.com
 *.tiktok.com
 effecthouse.tiktok.com
-developers.tiktok.com
 shop.tiktok.com
+developers.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
