@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Feb  3 06:18:37 UTC 2024)
+## Domains with Bounties (Last Updated Sat Feb  3 07:16:12 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -701,8 +701,8 @@ jobs.kiwi.com
 work.8x8.com
 *.8x8.vc
 sso.8x8.com
-connect.8x8.com
 *.jitsi.net
+connect.8x8.com
 platform.8x8pilot.com
 uc.8x8pilot.com
 work-staging.8x8.com
@@ -2067,8 +2067,8 @@ relay.amazon.com
 affiliate-program.amazon.com
 imdbtv-backend-na.amazon.com
 advertising.amazon.com
-paragon-na.amazon.com
 av-na.amazon.com
+paragon-na.amazon.com
 aca-livecards-service.amazon.com
 cloudaccesstelemetry-us-east-1.amazon.com
 dss-na.amazon.com
@@ -2961,8 +2961,8 @@ developer.newrelic.com
 infrastructure.newrelic.com
 insights.newrelic.com
 *.blog.newrelic.com
-*.nr-data.net
 *.newrelic.com
+*.nr-data.net
 *.nr-ops.net
 one.newrelic.com
 support.newrelic.com
@@ -3865,8 +3865,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-hackerone.com
 api.hackerone.com
+hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
