@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb  2 23:16:57 UTC 2024)
+## Domains with Bounties (Last Updated Sat Feb  3 00:57:07 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -864,8 +864,8 @@ www.expediagroup.com
 www.flights.com
 *.magiceden.workers.dev
 *.magiceden.io
-magiceden.io
 *.magiceden.dev
+magiceden.io
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -2067,8 +2067,8 @@ relay.amazon.com
 affiliate-program.amazon.com
 imdbtv-backend-na.amazon.com
 advertising.amazon.com
-paragon-na.amazon.com
 av-na.amazon.com
+paragon-na.amazon.com
 aca-livecards-service.amazon.com
 cloudaccesstelemetry-us-east-1.amazon.com
 dss-na.amazon.com
@@ -2175,8 +2175,8 @@ www.alibabagroup.com
 *.aliyun-inc.com
 *.alimama.com
 *.Daraz.com
-*.aliexpress.com
 *.aliyun.com
+*.aliexpress.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -2961,8 +2961,8 @@ developer.newrelic.com
 infrastructure.newrelic.com
 insights.newrelic.com
 *.blog.newrelic.com
-*.newrelic.com
 *.nr-data.net
+*.newrelic.com
 *.nr-ops.net
 one.newrelic.com
 support.newrelic.com
