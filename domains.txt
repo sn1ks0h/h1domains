@@ -4663,8 +4663,8 @@ www.mycustomcase.com
 www.photoaffections.com
 *.mycustomcase.com
 www.simplytoimpress.com
-iseeme.com
 www.cafepress.com
+iseeme.com
 www.canvasworld.com
 *.gifts.com
 *.photoaffections.com
