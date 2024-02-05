@@ -144,8 +144,8 @@ www.mercadolibre.com.co
 www.mercadolibre.com.ar
 api.mercadopago.com
 www.mercadopago.com.br
-api.mercadolibre.com
 www.mercadopago.com.mx
+api.mercadolibre.com
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -10972,9 +10972,9 @@ www.woolshed.com
 www.drugs.com
 newsletters.drugs.com
 www.medicine.com
-www.question.com
 blog.drugs.com
 www.woolshed.com
+www.question.com
 argocd.upchieve.org
 hackers.upchieve.org
 argocd.upchieve.org

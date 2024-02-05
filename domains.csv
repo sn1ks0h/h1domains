@@ -145,8 +145,8 @@ mercadolibre,www.mercadolibre.com.co,True
 mercadolibre,www.mercadolibre.com.ar,True
 mercadolibre,api.mercadopago.com,True
 mercadolibre,www.mercadopago.com.br,True
-mercadolibre,api.mercadolibre.com,True
 mercadolibre,www.mercadopago.com.mx,True
+mercadolibre,api.mercadolibre.com,True
 mercadolibre,api.mercadopago.com,True
 mercadolibre,www.mercadopago.com.ar,True
 mercadolibre,www.mercadopago.com.br,True
@@ -10973,9 +10973,9 @@ drugs_com,www.woolshed.com,False
 drugs_com,www.drugs.com,False
 drugs_com,newsletters.drugs.com,False
 drugs_com,www.medicine.com,False
-drugs_com,www.question.com,False
 drugs_com,blog.drugs.com,False
 drugs_com,www.woolshed.com,False
+drugs_com,www.question.com,False
 upchieve,argocd.upchieve.org,False
 upchieve,hackers.upchieve.org,False
 upchieve,argocd.upchieve.org,False
