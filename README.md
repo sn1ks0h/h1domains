@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Feb  5 06:21:16 UTC 2024)
+## Domains with Bounties (Last Updated Mon Feb  5 07:17:02 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -139,8 +139,8 @@ supplier.auth.toag.booking.com
 supply-xml.booking.com
 flights.booking.com
 booking.com
-*.booking.com
 admin.booking.com
+*.booking.com
 metasearch-api.booking.com
 taxis.booking.com
 phone-validation.taxi.booking.com
@@ -1460,8 +1460,8 @@ strapi.reddit.com
 m.reddit.com
 meta-api.reddit.com
 sh.reddit.com
-*.snooguts.net
 *.redditinc.com
+*.snooguts.net
 gateway.reddit.com
 s.reddit.com
 www.spiketrap.io
@@ -2842,8 +2842,8 @@ www.shipt.com
 apigw.foliofn.com
 *.foliofirst.com
 *.foliofn.com
-*.unitedcp.com
 *.goldman.com
+*.unitedcp.com
 *.honestdollar.com
 *.goldmansachs.com
 *.global-liquidity.gs.com
