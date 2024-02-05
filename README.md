@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Feb  5 20:19:20 UTC 2024)
+## Domains with Bounties (Last Updated Mon Feb  5 21:15:27 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -90,8 +90,8 @@ mediacenter.23andme.com
 research.23andme.com
 education.23andme.com
 store.23andme.com
-blog.23andme.com
 auth.23andme.com
+blog.23andme.com
 api.23andme.com
 you.23andme.com
 therapeutics.23andme.com
@@ -345,10 +345,10 @@ visa.com.ua
 www.visa.co.jp
 www.fraedom.com
 www.practicalmoneyskills.org
-www.practicalmoneyskills.com
 sandbox.secure.checkout.visa.com
 www.visainfinite.ca
 www.yellowpepper.com
+www.practicalmoneyskills.com
 www.visa.com.mx
 visa.com.ru
 www.visa.com.cy
@@ -1127,8 +1127,8 @@ rankings.etoro.com
 delta.app
 bullsheet.me
 *.instacart.tools
-www.instacart.com
 api.instacart.com
+www.instacart.com
 shoppers.instacart.com
 admin.instacart.com
 *.instacart.com
@@ -1470,8 +1470,8 @@ strapi.reddit.com
 m.reddit.com
 meta-api.reddit.com
 sh.reddit.com
-*.snooguts.net
 *.redditinc.com
+*.snooguts.net
 gateway.reddit.com
 s.reddit.com
 www.spiketrap.io
@@ -1735,10 +1735,10 @@ fp-sg.tiktokv.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
 business.tiktok.com
-careers.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktok.com
 *.tiktokv.com
+careers.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
 shop.tiktok.com
@@ -2736,8 +2736,8 @@ https://github.com/matomo-org/docker
 py.pl
 www.swiftfinancial.com
 swiftfinancial.com
-*.braintree-api.com
 *.paylution.com
+*.braintree-api.com
 *.braintreepayments.com
 paypal.me
 www.swiftcapital.com
