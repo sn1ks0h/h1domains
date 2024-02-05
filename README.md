@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Feb  5 21:15:27 UTC 2024)
+## Domains with Bounties (Last Updated Mon Feb  5 22:18:08 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -149,8 +149,8 @@ supplier.auth.toag.booking.com
 supply-xml.booking.com
 flights.booking.com
 admin.booking.com
-*.booking.com
 booking.com
+*.booking.com
 metasearch-api.booking.com
 taxis.booking.com
 phone-validation.taxi.booking.com
@@ -961,8 +961,8 @@ checksw.com
 royal.checksw.com
 *.cornershop.io/*
 *.superpal.com/*
-*.cornershopapp.com/*
 *.superpal.io/*
+*.cornershopapp.com/*
 *.cornershopapp.com/*
 *.superpal.com/*
 *.cornershop.io/*
@@ -1470,8 +1470,8 @@ strapi.reddit.com
 m.reddit.com
 meta-api.reddit.com
 sh.reddit.com
-*.redditinc.com
 *.snooguts.net
+*.redditinc.com
 gateway.reddit.com
 s.reddit.com
 www.spiketrap.io
@@ -1740,8 +1740,8 @@ creatormarketplace.tiktok.com
 *.tiktokv.com
 careers.tiktok.com
 effecthouse.tiktok.com
-developers.tiktok.com
 shop.tiktok.com
+developers.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2475,8 +2475,8 @@ www.getaroom.com
 priceline.com
 www.priceline.com
 api.rezserver.com
-flyiin.com
 secure.rezserver.com
+flyiin.com
 cruises.priceline.com
 press.priceline.com
 www.priceline.com
@@ -2736,8 +2736,8 @@ https://github.com/matomo-org/docker
 py.pl
 www.swiftfinancial.com
 swiftfinancial.com
-*.paylution.com
 *.braintree-api.com
+*.paylution.com
 *.braintreepayments.com
 paypal.me
 www.swiftcapital.com
@@ -3526,9 +3526,9 @@ shop.app
 shopifyinbox.com
 partners.shopify.com
 accounts.shopify.com
-admin.shopify.com
 *.shopify.com
 shopify.plus
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
