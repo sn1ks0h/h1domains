@@ -148,8 +148,8 @@ mercadolibre,www.mercadopago.cl,True
 mercadolibre,www.mercadolibre.com.pe,True
 mercadolibre,www.mercadolibre.com.mx,True
 mercadolibre,www.mercadolibre.com.uy,True
-mercadolibre,www.mercadolibre.cl,True
 mercadolibre,www.mercadolivre.com.br,True
+mercadolibre,www.mercadolibre.cl,True
 mercadolibre,www.mercadopago.com.co,True
 mercadolibre,www.mercadopago.com.pe,True
 mercadolibre,www.mercadopago.com.ar,True
@@ -3089,10 +3089,10 @@ indrive,debug.clairvoyance.indrive.tech,True
 indrive,watchdocs.indriverapp.com,True
 indrive,*.indriverapp.com,True
 indrive,file-storage-front.eu-east-1.indriverapp.com,True
-indrive,volans.tech,True
 indrive,wga.volans.tech,True
 indrive,super-services.indriverapp.com,True
 indrive,injob.indriver.com,True
+indrive,volans.tech,True
 indrive,*.indriverapp.com,True
 indrive,*.indrive.com,True
 indrive,*.indriver.com,True
@@ -6353,8 +6353,8 @@ zebra_vdp,zsbsupport.zebra.com,False
 zebra_vdp,*.zams-eu.zebra.com,False
 zebra_vdp,reflexisinc.com/,False
 zebra_vdp,cmm01.sl.zebra.com,False
-zebra_vdp,*.zebrasports.com,False
 zebra_vdp,*.profitect.com,False
+zebra_vdp,*.zebrasports.com,False
 zebra_vdp,supportcommunity.zebra.com,False
 zebra_vdp,*.zams.zebra.com,False
 zebra_vdp,zebratradeinprogram.com,False
@@ -9671,10 +9671,10 @@ newrelic,developer.newrelic.com,True
 newrelic,infrastructure.newrelic.com,True
 newrelic,insights.newrelic.com,True
 newrelic,*.blog.newrelic.com,True
-newrelic,*.newrelic.com,True
 newrelic,*.nr-data.net,True
 newrelic,*.nr-ops.net,True
 newrelic,one.newrelic.com,True
+newrelic,*.newrelic.com,True
 newrelic,support.newrelic.com,True
 newrelic,blog.newrelic.com,True
 newrelic,alerts.newrelic.com,True

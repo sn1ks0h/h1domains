@@ -147,8 +147,8 @@ www.mercadopago.cl
 www.mercadolibre.com.pe
 www.mercadolibre.com.mx
 www.mercadolibre.com.uy
-www.mercadolibre.cl
 www.mercadolivre.com.br
+www.mercadolibre.cl
 www.mercadopago.com.co
 www.mercadopago.com.pe
 www.mercadopago.com.ar
@@ -3088,10 +3088,10 @@ debug.clairvoyance.indrive.tech
 watchdocs.indriverapp.com
 *.indriverapp.com
 file-storage-front.eu-east-1.indriverapp.com
-volans.tech
 wga.volans.tech
 super-services.indriverapp.com
 injob.indriver.com
+volans.tech
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -6352,8 +6352,8 @@ zsbsupport.zebra.com
 *.zams-eu.zebra.com
 reflexisinc.com/
 cmm01.sl.zebra.com
-*.zebrasports.com
 *.profitect.com
+*.zebrasports.com
 supportcommunity.zebra.com
 *.zams.zebra.com
 zebratradeinprogram.com
@@ -9670,10 +9670,10 @@ developer.newrelic.com
 infrastructure.newrelic.com
 insights.newrelic.com
 *.blog.newrelic.com
-*.newrelic.com
 *.nr-data.net
 *.nr-ops.net
 one.newrelic.com
+*.newrelic.com
 support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
