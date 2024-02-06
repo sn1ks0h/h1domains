@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Feb  6 00:57:20 UTC 2024)
+## Domains with Bounties (Last Updated Tue Feb  6 01:47:47 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -107,12 +107,12 @@ therapeutics.23andme.com
 you.23andme.com
 research.23andme.com
 www.mercadopago.com.uy
-www.mercadolibre.com.pe
 www.mercadopago.cl
+www.mercadolibre.com.pe
 www.mercadolibre.com.mx
 www.mercadolibre.com.uy
-www.mercadolivre.com.br
 www.mercadolibre.cl
+www.mercadolivre.com.br
 www.mercadopago.com.co
 www.mercadopago.com.pe
 www.mercadopago.com.ar
@@ -346,8 +346,8 @@ www.visa.co.jp
 www.fraedom.com
 www.practicalmoneyskills.org
 sandbox.secure.checkout.visa.com
-www.visainfinite.ca
 www.yellowpepper.com
+www.visainfinite.ca
 www.practicalmoneyskills.com
 www.visa.com.mx
 visa.com.ru
@@ -837,9 +837,9 @@ www.lastminute.co.nz
 www.lastminute.com.au
 www.travelocity.ca
 www.carrentals.com
-www.bookabach.co.nz
 www.fewo-direkt.de
 www.expedia.com
+www.bookabach.co.nz
 www.expediapartnercentral.com
 www.ebookers.fi
 www.wotif.com
@@ -1463,8 +1463,8 @@ old.reddit.com
 gql.reddit.com
 *.redditmedia.com
 app.spiketrap.io
-ads.reddit.com
 api.reddit.com
+ads.reddit.com
 new.reddit.com
 strapi.reddit.com
 m.reddit.com
@@ -1740,8 +1740,8 @@ creatormarketplace.tiktok.com
 careers.tiktok.com
 *.tiktok.com
 effecthouse.tiktok.com
-shop.tiktok.com
 developers.tiktok.com
+shop.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
