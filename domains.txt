@@ -1322,12 +1322,12 @@ shayakahve.com.tr
 *.alshayaenterprises.com
 bathandbodyworks.ro/
 bathandbodyworks.ro
-kw.boots.com
+*.starbuckscardtr.com
 *.westelm.com.kw
+*.footlocker.com.eg
 *.aloyoga.com.kw
 sa.hm.com
-*.starbuckscardtr.com
-*.footlocker.com.eg
+kw.boots.com
 *.americaneagle.com.bh
 *.victoriassecret.com.qa
 *.americaneagle.com.kw
@@ -6352,8 +6352,8 @@ zsbsupport.zebra.com
 *.zams-eu.zebra.com
 reflexisinc.com/
 cmm01.sl.zebra.com
-*.profitect.com
 *.zebrasports.com
+*.profitect.com
 supportcommunity.zebra.com
 *.zams.zebra.com
 zebratradeinprogram.com
@@ -7331,9 +7331,9 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 *developer.cloud.com
 ads.tiktok.com
-partner.tiktokshop.com
 live-backstage.tiktok.com
 tiktok.com
+partner.tiktokshop.com
 fp-sg.tiktokv.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
