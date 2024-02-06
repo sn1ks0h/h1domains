@@ -185,8 +185,8 @@ supplier.auth.toag.booking.com
 supply-xml.booking.com
 flights.booking.com
 admin.booking.com
-*.booking.com
 booking.com
+*.booking.com
 metasearch-api.booking.com
 taxis.booking.com
 phone-validation.taxi.booking.com
@@ -3085,8 +3085,8 @@ ci.indrive.dev
 priority.eu-east-1.indriverapp.com
 auth2.indrive.tech
 debug.clairvoyance.indrive.tech
-watchdocs.indriverapp.com
 *.indriverapp.com
+watchdocs.indriverapp.com
 file-storage-front.eu-east-1.indriverapp.com
 wga.volans.tech
 super-services.indriverapp.com
@@ -4675,8 +4675,8 @@ www.mycustomcase.com
 *.mycustomcase.com
 www.photoaffections.com
 iseeme.com
-www.cafepress.com
 www.simplytoimpress.com
+www.cafepress.com
 www.canvasworld.com
 *.gifts.com
 *.photoaffections.com
@@ -7340,8 +7340,8 @@ academy-outbound-ads.tiktok.com
 business.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktokv.com
-*.tiktok.com
 careers.tiktok.com
+*.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
 developers.tiktok.com
@@ -7941,8 +7941,8 @@ updates.amazon.com
 amazonpayinsurance.in
 *.tmall.com
 www.alibabagroup.com
-*.alibabacloud.com
 *.alibaba.com
+*.alibabacloud.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.aliyun-inc.com
@@ -8431,9 +8431,7 @@ fs-prdfus.mtn.com
 ecap.mtn.com
 mtnholdingsptyltd.net
 mtnatwork.com
-mtndeveloper.com
 mtnbanking.net
-mtnhomeland.com
 mtnrank.com
 mtngaming.com
 mtnwireless.net
@@ -10437,8 +10435,8 @@ community.adobe.com
 accounts.frame.io
 *.adobe.com
 auth.services.adobe.com
-app.frame.io
 nicetryapril.na1.echosignsandbox.com
+app.frame.io
 *.marketo.com
 *.omniture.com
 *.typekit.com
@@ -10641,8 +10639,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-x.com
 *.twitter.com
+x.com
 t.co
 xadsacademy.com
 grok.x.ai
