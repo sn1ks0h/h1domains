@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Feb  6 08:20:57 UTC 2024)
+## Domains with Bounties (Last Updated Tue Feb  6 09:17:19 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -68,8 +68,8 @@ app.dynamic.xyz
 www.niagahoster.co.id
 payments.hostinger.com
 hpanel.hostinger.com
-*.000webhost.com
 www.hostinger.com
+*.000webhost.com
 cpanel.hostinger.com
 editor.zyro.com
 logo.zyro.com
@@ -111,8 +111,8 @@ www.mercadopago.cl
 www.mercadolibre.com.pe
 www.mercadolibre.com.mx
 www.mercadolibre.com.uy
-www.mercadolibre.cl
 www.mercadolivre.com.br
+www.mercadolibre.cl
 www.mercadopago.com.co
 www.mercadopago.com.pe
 www.mercadopago.com.ar
@@ -120,8 +120,8 @@ www.mercadolibre.com.ar
 api.mercadopago.com
 www.mercadolibre.com.co
 www.mercadopago.com.mx
-api.mercadolibre.com
 www.mercadopago.com.br
+api.mercadolibre.com
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -346,8 +346,8 @@ www.visa.co.jp
 www.fraedom.com
 www.practicalmoneyskills.org
 sandbox.secure.checkout.visa.com
-www.yellowpepper.com
 www.visainfinite.ca
+www.yellowpepper.com
 www.practicalmoneyskills.com
 www.visa.com.mx
 visa.com.ru
@@ -1740,8 +1740,8 @@ creatormarketplace.tiktok.com
 careers.tiktok.com
 *.tiktok.com
 effecthouse.tiktok.com
-shop.tiktok.com
 developers.tiktok.com
+shop.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2183,10 +2183,10 @@ www.alibabagroup.com
 *.alibaba-inc.com
 *.aliyun-inc.com
 *.alimama.com
-*.aliexpress.com
 *.1688.com
-*.aliyun.com
 *.Daraz.com
+*.aliexpress.com
+*.aliyun.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -2265,9 +2265,9 @@ mgs.marriott.com
 www.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
-reservations.all-inclusive.marriott.com
 activities.marriott.com
 jobs.marriott.com
+reservations.all-inclusive.marriott.com
 cpp.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
