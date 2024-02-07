@@ -152,8 +152,8 @@ api.23andme.com
 auth.23andme.com
 blog.23andme.com
 you.23andme.com
-therapeutics.23andme.com
 medical.23andme.com
+therapeutics.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -3091,8 +3091,8 @@ manage.fastly.com
 api.fastly.com
 docs.fastly.com
 ab-platform-api.eu-east-1.indriverapp.com
-cargo.indrive.com
 *.indrive.com
+cargo.indrive.com
 messenger.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 external.indrive.dev
@@ -4457,9 +4457,9 @@ practice.securevetsource.com
 *.twix.com
 *.royalcanin.nl
 *.myroyalcanin.gr
-*.banfield.com
-*.royalcanin.pt
 *.royalcanin.be
+*.royalcanin.pt
+*.banfield.com
 *.orbitgum.com
 *.jornadasroyalcanin.com.ar
 *.monespaceeleveur.fr
@@ -4877,8 +4877,8 @@ www.alohi.com
 *.cartus.com
 *.leadrouter.com
 *.bhgre.*
-*.era.com
 *.century21.*
+*.era.com
 *.corcoran.*
 *.nrtllc.*
 *.sothebysrealty.*
@@ -7470,6 +7470,7 @@ app.marionnaud.ro
 www.marionnaud.sk
 www.pns.hk
 app.watsons.com.tr
+api.watsons.com.tw
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -10605,8 +10606,8 @@ cloudflareworkers.com
 one.dash.cloudflare.com
 *.cloudflare.com
 *.cloudflarepartners.com
-api.cloudflare.com
 waf.cumulusfire.net
+api.cloudflare.com
 dash.cloudflare.com
 dash.cloudflare.com
 cloudflareworkers.com
@@ -10741,8 +10742,8 @@ hackathon-photos.hackerone-user-content.com
 ctf.hacker101.com
 hackerone-ext-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-www.hackerone.com
 profile-photos.hackerone-user-content.com
+www.hackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 b5s.hackerone-ext-content.com
 hackerone.live
