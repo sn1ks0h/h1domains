@@ -2944,8 +2944,8 @@ shutterfly_vdp,wgwebservices.snapfish.com,False
 shutterfly_vdp,*.sbs.shutterfly.com,False
 shutterfly_vdp,snapfish.com,False
 shutterfly_vdp,admin.spoonflower.com,False
-shutterfly_vdp,*.snapfish.com,False
 shutterfly_vdp,shutterfly.com,False
+shutterfly_vdp,*.snapfish.com,False
 shutterfly_vdp,tinyprints.com,False
 shutterfly_vdp,preschoolsmiles.com,False
 shutterfly_vdp,snapfish.co.uk,False
@@ -3167,10 +3167,10 @@ miro,http://miro.com/blog,True
 abb,*.abb.com.cn,False
 abb,*.cylon.com,False
 abb,*.tnb.com,False
-abb,*.abb.com,False
 abb,*.abb.com.tr,False
 abb,*.baldor.com,False
 abb,abb.com.br,False
+abb,*.abb.com,False
 abb,*.abb.com,False
 abb,*.tnb.com,False
 abb,*.abb.com.tr,False
@@ -4459,8 +4459,8 @@ mars,*.twix.com,False
 mars,*.royalcanin.nl,False
 mars,*.myroyalcanin.gr,False
 mars,*.banfield.com,False
-mars,*.royalcanin.pt,False
 mars,*.royalcanin.be,False
+mars,*.royalcanin.pt,False
 mars,*.orbitgum.com,False
 mars,*.jornadasroyalcanin.com.ar,False
 mars,*.monespaceeleveur.fr,False
@@ -6454,9 +6454,9 @@ reddit,redditforbusiness.com,True
 reddit,mod.reddit.com,True
 reddit,matrix.redditspace.com,True
 reddit,*.reddithelp.com,True
-reddit,www.reddit.com,True
 reddit,oauth.reddit.com,True
 reddit,accounts.reddit.com,True
+reddit,www.reddit.com,True
 reddit,*.snooguts.net,True
 reddit,*.redditmedia.com,True
 reddit,*.reddit.com,True
@@ -7275,8 +7275,8 @@ citrix,(youriwssubdomain).cloud.com,True
 citrix,*developer.cloud.com,False
 tiktok,ads.tiktok.com,True
 tiktok,live-backstage.tiktok.com,True
-tiktok,partner.tiktokshop.com,True
 tiktok,tiktok.com,True
+tiktok,partner.tiktokshop.com,True
 tiktok,fp-sg.tiktokv.com,True
 tiktok,www.pangleglobal.com,True
 tiktok,academy-outbound-ads.tiktok.com,True
@@ -9364,8 +9364,8 @@ paypal,*.xoom.com,True
 paypal,py.pl,True
 paypal,www.swiftfinancial.com,True
 paypal,swiftfinancial.com,True
-paypal,*.paylution.com,True
 paypal,*.braintree-api.com,True
+paypal,*.paylution.com,True
 paypal,*.braintreepayments.com,True
 paypal,paypal.me,True
 paypal,www.swiftcapital.com,True
@@ -10582,8 +10582,8 @@ greenhouse,interseller.io,True
 greenhouse,app.interseller.io,True
 greenhouse,www.greenhouse.io,True
 x,*.vine.co,True
-x,x.com,True
 x,*.twitter.com,True
+x,x.com,True
 x,t.co,False
 x,xadsacademy.com,False
 x,grok.x.ai,True
