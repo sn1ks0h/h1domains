@@ -64,8 +64,8 @@ arkose_labs,www.arkoselabs.com,True
 arkose_labs,customer-sessions.arkoselabs.com,True
 arkose_labs,verify.arkoselabs.com,True
 arkose_labs,iframe.arkoselabs.com,True
-arkose_labs,cdn.arkoselabs.com,True
 arkose_labs,client-api.arkoselabs.com,True
+arkose_labs,cdn.arkoselabs.com,True
 arkose_labs,portal.arkoselabs.com,True
 arkose_labs,client-api.arkoselabs.com,True
 arkose_labs,cdn.arkoselabs.com,True
@@ -7894,8 +7894,8 @@ alibaba,*.alibaba-inc.com,True
 alibaba,*.aliyun-inc.com,True
 alibaba,*.alimama.com,True
 alibaba,*.aliyun.com,True
-alibaba,*.1688.com,True
 alibaba,*.Daraz.com,True
+alibaba,*.1688.com,True
 alibaba,*.aliexpress.com,True
 alibaba,*.taobao.com,True
 alibaba,*.alibaba.com,True
@@ -10292,8 +10292,8 @@ snapchat,snappublisher.snapchat.com,True
 snapchat,playcanvas.com,True
 snapchat,www.bitmoji.com,True
 snapchat,app.snapchat.com,True
-snapchat,business.snapchat.com,True
 snapchat,my.snapchat.com,True
+snapchat,business.snapchat.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,spectacles.com,True
 snapchat,*.sc-corp.net,True

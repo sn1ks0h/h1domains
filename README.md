@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb  8 12:27:53 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb  8 13:19:50 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -19,8 +19,8 @@ www.arkoselabs.com
 customer-sessions.arkoselabs.com
 verify.arkoselabs.com
 iframe.arkoselabs.com
-cdn.arkoselabs.com
 client-api.arkoselabs.com
+cdn.arkoselabs.com
 portal.arkoselabs.com
 client-api.arkoselabs.com
 cdn.arkoselabs.com
@@ -2182,8 +2182,8 @@ www.alibabagroup.com
 *.aliyun-inc.com
 *.alimama.com
 *.aliyun.com
-*.1688.com
 *.Daraz.com
+*.1688.com
 *.aliexpress.com
 *.taobao.com
 *.alibaba.com
@@ -3560,8 +3560,8 @@ snappublisher.snapchat.com
 playcanvas.com
 www.bitmoji.com
 app.snapchat.com
-business.snapchat.com
 my.snapchat.com
+business.snapchat.com
 geofilters.snapchat.com
 spectacles.com
 *.sc-corp.net
