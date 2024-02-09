@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb  9 17:18:55 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb  9 18:21:45 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -149,8 +149,8 @@ supplier.auth.toag.booking.com
 supply-xml.booking.com
 flights.booking.com
 admin.booking.com
-*.booking.com
 booking.com
+*.booking.com
 metasearch-api.booking.com
 taxis.booking.com
 phone-validation.taxi.booking.com
@@ -211,8 +211,8 @@ app.frontapp.com
 api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
-*.booztlet.com
 *.boozt.com
+*.booztlet.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -1725,8 +1725,8 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 ads.tiktok.com
 live-backstage.tiktok.com
-partner.tiktokshop.com
 tiktok.com
+partner.tiktokshop.com
 fp-sg.tiktokv.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
@@ -2174,8 +2174,8 @@ updates.amazon.com
 amazonpayinsurance.in
 *.tmall.com
 *.alibabacloud.com
-*.alibaba.com
 www.alibabagroup.com
+*.alibaba.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.alimama.com
@@ -3523,9 +3523,9 @@ shop.app
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
+admin.shopify.com
 *.shopify.com
 accounts.shopify.com
-admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
