@@ -10589,8 +10589,8 @@ greenhouse,interseller.io,True
 greenhouse,app.interseller.io,True
 greenhouse,www.greenhouse.io,True
 x,*.vine.co,True
-x,*.twitter.com,True
 x,x.com,True
+x,*.twitter.com,True
 x,t.co,False
 x,xadsacademy.com,False
 x,grok.x.ai,True
@@ -10713,8 +10713,8 @@ slack,slack-redir.net,True
 slack,*.quip.com,True
 slack,app.slack.com,True
 slack,edgeapi.slack.com,True
-slack,slack.com,True
 slack,slack-imgs.com,True
+slack,slack.com,True
 slack,www.quip.com,True
 slack,slack.com,True
 slack,api.slack.com,True
