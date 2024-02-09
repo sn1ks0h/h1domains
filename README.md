@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb  9 16:22:26 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb  9 17:18:55 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -91,9 +91,9 @@ mediacenter.23andme.com
 store.23andme.com
 education.23andme.com
 api.23andme.com
-blog.23andme.com
 auth.23andme.com
 you.23andme.com
+blog.23andme.com
 therapeutics.23andme.com
 medical.23andme.com
 api.23andme.com
@@ -211,8 +211,8 @@ app.frontapp.com
 api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
-*.boozt.com
 *.booztlet.com
+*.boozt.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -1221,8 +1221,8 @@ harmonixmusic.com
 wonderboxdev.com
 capturingreality.com
 fortnite.com
-*.mediatonic.co.uk
 *.easy.ac
+*.mediatonic.co.uk
 *.psyonix.com
 *.3lateral.com
 *.hmxwebservices.com
@@ -1466,8 +1466,8 @@ strapi.reddit.com
 m.reddit.com
 meta-api.reddit.com
 sh.reddit.com
-*.redditinc.com
 *.snooguts.net
+*.redditinc.com
 s.reddit.com
 www.spiketrap.io
 ads-api.reddit.com
@@ -1673,21 +1673,21 @@ sf-rp-eu.sharefile.com
 api.sharefile.com
 onboarding.cloud.com
 sf-rp-us.sharefile.com
-secure.sharefile.com
 eu.cloud.com
 (yoursubdomain).sf-api.com
 (yoursubdomain).sf-api.eu
 (yoursubdomain).sharefile.eu
+secure.sharefile.com
 ap-s.cloud.com
 accounts-internal.cloud.com
-secure.sharefile.eu
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
 adm.cloud.com
+secure.sharefile.eu
 launch.cloud.com
 sf-rp.sharefile.com
-api.sharefile.eu
 api.adm.cloud.com
+api.sharefile.eu
 us.cloud.com
 *.citrixworkspacesapi.net
 (yoursubdomain).us.iws.cloud.com
@@ -1725,8 +1725,8 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 ads.tiktok.com
 live-backstage.tiktok.com
-tiktok.com
 partner.tiktokshop.com
+tiktok.com
 fp-sg.tiktokv.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
@@ -2182,8 +2182,8 @@ www.alibabagroup.com
 *.Daraz.com
 *.aliexpress.com
 *.aliyun.com
-*.1688.com
 *.aliyun-inc.com
+*.1688.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -2735,8 +2735,8 @@ py.pl
 www.swiftfinancial.com
 swiftfinancial.com
 *.braintree-api.com
-*.paylution.com
 *.braintreepayments.com
+*.paylution.com
 paypal.me
 www.swiftcapital.com
 my.swiftfinancial.com
@@ -2745,8 +2745,8 @@ partner.swiftfinancial.com
 scrutiny.swiftfinancial.com
 *.hyperwallet.com
 my.loanbuilder.com
-*.paypal.com
 *.venmo.com
+*.paypal.com
 *.paydiant.com
 *.braintree.tools
 pigeon.swiftfinancial.com
@@ -3419,8 +3419,8 @@ api.grofers.com
 blinkit.com
 winecellar.zomato.com
 *.zdev.net
-*.zomans.com
 *.zomato.com
+*.zomans.com
 *.runnr.in
 *.zomato.com
 *.zdev.net
@@ -3523,9 +3523,9 @@ shop.app
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-admin.shopify.com
 *.shopify.com
 accounts.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
