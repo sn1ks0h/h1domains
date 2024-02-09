@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb  9 21:17:53 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb  9 22:16:54 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -1060,8 +1060,8 @@ push-d-hap.cloud.etoro.com
 push-demo-lightstreamer.cloud.etoro.com
 sts.etoro.com
 watchlistapi.etoro.com
-delta.app
 www.etoro.com
+delta.app
 aggregator.etoro.com
 cashier.etoro.com
 cashier-src.etoro.com
@@ -2817,6 +2817,18 @@ api-staging.airtable.com
 *.staging.airtable.com
 staging.airtable.com
 api-staging.airtable.com
+shop.shipt.com
+staging-api.shipt.com
+admin.shipt.com
+staging-shop.shipt.com
+staging-app.shipt.com
+staging-shoppingcart.shipt.com
+*.shipt.com
+app.shipt.com
+shoppingcart.shipt.com
+api.shipt.com
+staging-admin.shipt.com
+www.shipt.com
 *.shipt.com
 app.shipt.com
 api.shipt.com
@@ -2858,9 +2870,9 @@ research.gs.com
 *.gs.de
 api.foliofn.com
 *.advisorsolutions.gs.com
-*.folioinstitutional.com
 *.folioclient.com
 *.gsam.com
+*.gs.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3511,9 +3523,9 @@ shop.app
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-admin.shopify.com
 *.shopify.com
 accounts.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -4070,6 +4082,21 @@ www.opentech.fund
 sandbox.opentech.fund
 www.opentech.fund
 apply.opentech.fund
+app.upserve.com
+hq.breadcrumb.com
+mossy.breadcrumb.com
+orders.upserve.com
+cards.swipely.com
+api.breadcrumb.com
+pos.swipely.com
+reports.breadcrumb.com
+swipely-merchant-assets.s3.amazonaws.com
+payments.upserve.com
+d2evh2mef3r450.cloudfront.net
+inventory.upserve.com
+teamhelp.upserve.com
+payments.breadcrumb.com
+hq-api.upserve.com
 app.upserve.com
 hq.breadcrumb.com
 cards.swipely.com
