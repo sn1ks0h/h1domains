@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Feb 10 22:15:39 UTC 2024)
+## Domains with Bounties (Last Updated Sat Feb 10 23:17:33 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -1459,8 +1459,8 @@ gql.reddit.com
 *.redditmedia.com
 app.spiketrap.io
 old.reddit.com
-ads.reddit.com
 api.reddit.com
+ads.reddit.com
 new.reddit.com
 strapi.reddit.com
 m.reddit.com

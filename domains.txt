@@ -34,8 +34,8 @@ www.tarilabs.com
 tlu.tarilabs.com
 www.hangar51.com
 *.iaggbs.com
-*.iairgroup.com
 *.iagcargo.com
+*.iairgroup.com
 www.avios.com
 www.iairgroup.com
 www.iaggbs.com
@@ -6436,8 +6436,8 @@ gql.reddit.com
 *.redditmedia.com
 app.spiketrap.io
 old.reddit.com
-ads.reddit.com
 api.reddit.com
+ads.reddit.com
 new.reddit.com
 strapi.reddit.com
 m.reddit.com

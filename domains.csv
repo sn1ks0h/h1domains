@@ -35,8 +35,8 @@ tari_labs,www.tarilabs.com,True
 tari_labs,tlu.tarilabs.com,False
 international_airlines_group,www.hangar51.com,False
 international_airlines_group,*.iaggbs.com,False
-international_airlines_group,*.iairgroup.com,False
 international_airlines_group,*.iagcargo.com,False
+international_airlines_group,*.iairgroup.com,False
 international_airlines_group,www.avios.com,False
 international_airlines_group,www.iairgroup.com,False
 international_airlines_group,www.iaggbs.com,False
@@ -6437,8 +6437,8 @@ reddit,gql.reddit.com,True
 reddit,*.redditmedia.com,True
 reddit,app.spiketrap.io,True
 reddit,old.reddit.com,True
-reddit,ads.reddit.com,True
 reddit,api.reddit.com,True
+reddit,ads.reddit.com,True
 reddit,new.reddit.com,True
 reddit,strapi.reddit.com,True
 reddit,m.reddit.com,True
