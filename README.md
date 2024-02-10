@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Feb 10 02:20:25 UTC 2024)
+## Domains with Bounties (Last Updated Sat Feb 10 03:16:40 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -90,10 +90,10 @@ research.23andme.com
 mediacenter.23andme.com
 store.23andme.com
 education.23andme.com
-api.23andme.com
 auth.23andme.com
 blog.23andme.com
 you.23andme.com
+api.23andme.com
 therapeutics.23andme.com
 medical.23andme.com
 api.23andme.com
@@ -1295,9 +1295,9 @@ app.recordedfuture.com
 therecord.media
 api.recordedfuture.com
 hatching.io
-geminiadvisory.io
 securitytrails.com
 www.recordedfuture.com
+geminiadvisory.io
 id.recordedfuture.com
 tria.ge
 www.recordedfuture.com
@@ -1459,8 +1459,8 @@ gql.reddit.com
 *.redditmedia.com
 app.spiketrap.io
 api.reddit.com
-ads.reddit.com
 old.reddit.com
+ads.reddit.com
 new.reddit.com
 strapi.reddit.com
 m.reddit.com
@@ -2173,9 +2173,9 @@ read.amazon.com
 updates.amazon.com
 amazonpayinsurance.in
 *.tmall.com
-*.alibabacloud.com
 www.alibabagroup.com
 *.alibaba.com
+*.alibabacloud.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.alimama.com
