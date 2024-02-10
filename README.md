@@ -2,13 +2,13 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Feb 10 07:14:51 UTC 2024)
+## Domains with Bounties (Last Updated Sat Feb 10 08:18:53 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
-www.tarilabs.com
 rfc.tari.com
 textexplore.tari.com
+www.tarilabs.com
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
@@ -1458,9 +1458,9 @@ www.urbanclap.com
 gql.reddit.com
 *.redditmedia.com
 app.spiketrap.io
-api.reddit.com
 old.reddit.com
 ads.reddit.com
+api.reddit.com
 new.reddit.com
 strapi.reddit.com
 m.reddit.com
@@ -2093,6 +2093,7 @@ manufacturing.amazon.com
 aax-us-iad.amazon.com
 completion.amazon.com
 dolphin.amazon.com
+ftvmps-na.amazon.com
 smile.amazon.*
 flex.amazon.*
 logistics.amazon.*
@@ -2735,8 +2736,8 @@ py.pl
 www.swiftfinancial.com
 swiftfinancial.com
 *.braintree-api.com
-*.braintreepayments.com
 *.paylution.com
+*.braintreepayments.com
 paypal.me
 www.swiftcapital.com
 my.swiftfinancial.com
