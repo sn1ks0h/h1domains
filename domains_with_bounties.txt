@@ -161,8 +161,8 @@ widget.rentalcars.com
 webhooks.booking.com
 paybridge.booking.com
 cars.booking.com
-secure.booking.com
 account.booking.com
+secure.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -548,8 +548,8 @@ api-eu.floqast.app
 *.eu.floqast.app
 *.floqast.app
 api-eu.floqast.app
-*.hiltonhotels.jp
 *.hilton.io
+*.hiltonhotels.jp
 hiltonhotels.jp
 *.hiltonbusinessonline.com
 hilton.io
@@ -1718,8 +1718,8 @@ api.adm.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
 ads.tiktok.com
-tiktok.com
 partner.tiktokshop.com
+tiktok.com
 live-backstage.tiktok.com
 fp-sg.tiktokv.com
 www.pangleglobal.com
