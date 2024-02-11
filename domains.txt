@@ -6299,9 +6299,9 @@ zsbsupport.zebra.com
 *.zams.zebra.com
 *.profitect.com
 reflexisinc.com/
-*.zebrasports.com
 supportcommunity.zebra.com
 cmm01.sl.zebra.com
+*.zebrasports.com
 zebratradeinprogram.com
 docs.zebra.com
 design.zebra.com
@@ -7277,9 +7277,9 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 *developer.cloud.com
 ads.tiktok.com
-live-backstage.tiktok.com
-tiktok.com
 partner.tiktokshop.com
+tiktok.com
+live-backstage.tiktok.com
 fp-sg.tiktokv.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
@@ -7961,8 +7961,8 @@ www.cloudways.com
 do.co
 hacktoberfest.com
 hackathon-tracker.digitalocean.com
-www.digitalocean.com
 platform.cloudways.com
+www.digitalocean.com
 *.digitalocean.com
 cloud.digitalocean.com
 api.digitalocean.com

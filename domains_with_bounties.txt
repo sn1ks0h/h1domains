@@ -1718,9 +1718,9 @@ api.adm.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
 ads.tiktok.com
-live-backstage.tiktok.com
-tiktok.com
 partner.tiktokshop.com
+tiktok.com
+live-backstage.tiktok.com
 fp-sg.tiktokv.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
