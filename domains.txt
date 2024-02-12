@@ -125,8 +125,8 @@ www.hostinger.com
 cpanel.hostinger.com
 editor.zyro.com
 www.zyro.com
-backend.zyro.com
 logo.zyro.com
+backend.zyro.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -2941,11 +2941,11 @@ snapfish.de
 www.borrowlenses.com
 jcpportraits.com
 wgwebservices.snapfish.com
-*.sbs.shutterfly.com
 snapfish.com
 shutterfly.com
 *.snapfish.com
 admin.spoonflower.com
+*.sbs.shutterfly.com
 tinyprints.com
 preschoolsmiles.com
 snapfish.co.uk
@@ -9515,7 +9515,7 @@ api.foliofn.com
 *.advisorsolutions.gs.com
 *.folioclient.com
 *.gsam.com
-*.gs.com
+*.folioinstitutional.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -10257,8 +10257,8 @@ yourcompany.udemy.com
 arrive-server.shopifycloud.com
 your-store.myshopify.com
 linkpop.com
-shop.app
 *.shopifycloud.com
+shop.app
 *.shopifykloud.com
 shopifyinbox.com
 partners.shopify.com
