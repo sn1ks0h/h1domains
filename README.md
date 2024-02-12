@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Feb 12 04:20:15 UTC 2024)
+## Domains with Bounties (Last Updated Mon Feb 12 05:18:07 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -368,9 +368,9 @@ bq.visa.com
 www.visa.com.kh
 www.visa.co.il
 visa.co.ni
+www.cardinalcommerce.com
 usa.visa.com
 aw.visa.com
-www.cardinalcommerce.com
 bm.visa.com
 visa.com.au
 www.visa.co.th
@@ -1733,8 +1733,8 @@ academy-outbound-ads.tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktokv.com
-*.tiktok.com
 business.tiktok.com
+*.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -2175,8 +2175,8 @@ updates.amazon.com
 amazonpayinsurance.in
 *.tmall.com
 www.alibabagroup.com
-*.alibabacloud.com
 *.alibaba.com
+*.alibabacloud.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.alimama.com
@@ -3518,8 +3518,8 @@ yourcompany.udemy.com
 arrive-server.shopifycloud.com
 your-store.myshopify.com
 linkpop.com
-shop.app
 *.shopifycloud.com
+shop.app
 *.shopifykloud.com
 shopifyinbox.com
 partners.shopify.com
@@ -3560,8 +3560,8 @@ snappublisher.snapchat.com
 www.bitmoji.com
 my.snapchat.com
 playcanvas.com
-app.snapchat.com
 business.snapchat.com
+app.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
@@ -3717,9 +3717,9 @@ onboarding.greenhouse.io
 support.greenhouse.io
 api.greenhouse.io
 jss.greenhouse.io
-interseller.io
 boards.greenhouse.io
 app.greenhouse.io
+interseller.io
 www.greenhouse.io
 app.interseller.io
 app.greenhouse.io
