@@ -33,8 +33,8 @@ www.tari.com
 www.tarilabs.com
 tlu.tarilabs.com
 www.hangar51.com
-*.iagcargo.com
 *.iaggbs.com
+*.iagcargo.com
 *.iairgroup.com
 *.aerlingus.com
 www.avios.com
@@ -129,8 +129,8 @@ www.hostinger.com
 cpanel.hostinger.com
 editor.zyro.com
 www.zyro.com
-logo.zyro.com
 backend.zyro.com
+logo.zyro.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -182,8 +182,8 @@ www.mercadolibre.com.co
 www.mercadopago.com.ar
 www.mercadolibre.com.ar
 www.mercadopago.com.mx
-www.mercadopago.com.br
 api.mercadolibre.com
+www.mercadopago.com.br
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -1590,9 +1590,9 @@ retailelectricity.com.ph
 snaboitizpower.com
 *.visayanelectric.com
 aboitizpower.info
-*.aboitizpower.com
 *.davaolight.com
 *.oilbu.com
+*.aboitizpower.com
 *.snaboitiz.com
 *.cotabatolight.com
 *.apps.sofa.csg.aboitizpower.org
@@ -4630,10 +4630,10 @@ www.cafepress.com
 www.canvasworld.com
 *.gifts.com
 *.canvasworld.com
-*.iseeme.com
 *.personalcreations.com
 www.gifts.com
 *.cafepress.com
+*.iseeme.com
 *.cafepress.com
 *.canvasworld.com
 *.gifts.com
@@ -7410,8 +7410,8 @@ nft.io
 platform.enjin.io
 api.enjinx.io
 enjinx.io
-www.figma.com
 api.figma.com
+www.figma.com
 www.figma.com
 api.figma.com
 wiki.cs.money
@@ -9347,8 +9347,8 @@ mobile-prod.tvg.com
 m.4njbets.tvg.com
 promos.tvg.com
 us.tvg.com
-tvg.com
 *.fanduel.com
+tvg.com
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -10120,9 +10120,9 @@ classroom.github.com
 gist.github.com
 *.github.net
 education.github.com
-npmjs.org
 *.githubusercontent.com
 github.com
+npmjs.org
 github.com
 api.github.com
 gist.github.com
@@ -10398,10 +10398,10 @@ firefly.adobe.com
 community.adobe.com
 auth.services.adobe.com
 app.frame.io
-*.adobe.com
 magento.com
 nicetryapril.na1.echosignsandbox.com
 accounts.frame.io
+*.adobe.com
 *.marketo.com
 *.omniture.com
 *.typekit.com
@@ -10522,8 +10522,8 @@ www.hoteltonight.com
 api.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
-assets.airbnb.com
 www.airbnb.com
+assets.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -10702,8 +10702,8 @@ cloud.coinbase.com
 api.coinbase.com
 institutional.coinbase.com
 *.base.org
-coinbase.com
 api.custody.coinbase.com
+coinbase.com
 commerce.coinbase.com
 *.coinbase.com
 *.cbhq.net
@@ -10728,8 +10728,8 @@ slack-redir.net
 *.quip.com
 app.slack.com
 edgeapi.slack.com
-slack-imgs.com
 slack.com
+slack-imgs.com
 www.quip.com
 slack.com
 api.slack.com
