@@ -81,8 +81,8 @@ www.sheer.com
 www.sheer.com
 my.sheer.com
 www.analvids.com
-www.ddfcontent.com
 www.pornbox.com
+www.ddfcontent.com
 www.pornworld.com
 www.pornbox.com
 www.analvids.com
@@ -4628,10 +4628,10 @@ www.cafepress.com
 www.canvasworld.com
 *.gifts.com
 *.personalcreations.com
-*.cafepress.com
 *.iseeme.com
 www.gifts.com
 *.canvasworld.com
+*.cafepress.com
 *.cafepress.com
 *.canvasworld.com
 *.gifts.com
