@@ -1,8 +1,8 @@
 explore.tari.com
 www.tari.com
-textexplore.tari.com
 rfc.tari.com
 www.tarilabs.com
+textexplore.tari.com
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
