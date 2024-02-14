@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb 14 19:16:23 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb 14 20:17:45 UTC 2024)
 ```
 textexplore.tari.com
 rfc.tari.com
@@ -94,8 +94,8 @@ medical.23andme.com
 mediacenter.23andme.com
 research.23andme.com
 blog.23andme.com
-you.23andme.com
 store.23andme.com
+you.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -164,10 +164,10 @@ cars.booking.com
 widget.rentalcars.com
 careers.booking.com
 admin.booking.com
-account.booking.com
 booking.com
 secure.booking.com
 *.rentalcars.com
+account.booking.com
 *.booking.com
 *.booking.com
 *.rentalcars.com
@@ -466,8 +466,8 @@ app.kolesa.kz
 id.kolesa.kz
 m.avtoelon.uz
 krisha.kz
-avtoelon.uz
 kolesa.kz
+avtoelon.uz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -533,8 +533,8 @@ support.mozilla.org
 www.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 monitor.firefox.com
-hg.mozilla.org
 relay.firefox.com
+hg.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -562,9 +562,9 @@ hiltonhotels.jp
 *.hiltonbusinessonline.com
 hilton.com
 *.hiltonhotels.jp
-*.hilton.com.tr
-*.hilton.io
 hiltonbusinessonline.com
+*.hilton.io
+*.hilton.com.tr
 *.hilton.com
 *.hilton.com
 *.hilton.io
@@ -764,9 +764,9 @@ admin.8x8.com
 *.luckydays.com
 *.superbet.rs
 *.superbet.com
+*.superbet.ro
 *.superbet.pl
 *.magicjackpot.ro
-*.superbet.ro
 *.napoleongames.be
 *.superbet.ro
 *.superbet.rs
@@ -910,8 +910,8 @@ pb.deribit.com
 tools.deribit.com
 metrics.deribit.com
 test.deribit.com
-*.deribit.com
 insights.deribit.com
+*.deribit.com
 *.deribit.com
 test.deribit.com
 insights.deribit.com
@@ -1518,9 +1518,9 @@ global-api.citymapper.com
 remix.com
 eu.remix.com
 platform.remix.com
-*.scopely.io
 *.withbuddies.com
 *.scopely.com
+*.scopely.io
 *.scopely.io
 *.scopely.com
 *.withbuddies.com
@@ -1952,8 +1952,8 @@ ca.account.sony.com
 direct.playstation.com
 store.playstation.com
 my.playstation.com
-my.account.sony.com
 *.sonyentertainmentnetwork.com
+my.account.sony.com
 *.playstation.net
 *.playstation.net
 *.sonyentertainmentnetwork.com
@@ -2288,8 +2288,8 @@ marrtool.com
 hotel-deals.marriott.com
 cpp.marriott.com
 gatewaydsaptst1.marriott.com
-mgs.marriott.com
 www.marriott.com
+mgs.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -2488,7 +2488,6 @@ admin.rezserver.com
 www.priceline.com
 www.getaroom.com
 priceline.com
-flyiin.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -3537,8 +3536,8 @@ accounts.shopify.com
 admin.shopify.com
 shop.app
 partners.shopify.com
-*.shopifycs.com
 your-store.myshopify.com
+*.shopifycs.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
