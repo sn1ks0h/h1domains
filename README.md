@@ -2,13 +2,13 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb 14 14:18:14 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb 14 15:20:04 UTC 2024)
 ```
 textexplore.tari.com
 rfc.tari.com
 www.tarilabs.com
-www.tari.com
 explore.tari.com
+www.tari.com
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
@@ -36,8 +36,8 @@ www.sheer.com
 my.sheer.com
 www.pornworld.com
 www.ddfcontent.com
-www.analvids.com
 www.pornbox.com
+www.analvids.com
 www.pornbox.com
 www.analvids.com
 www.ddfcontent.com
@@ -164,11 +164,11 @@ cars.booking.com
 widget.rentalcars.com
 careers.booking.com
 admin.booking.com
+*.rentalcars.com
 *.booking.com
 account.booking.com
 booking.com
 secure.booking.com
-*.rentalcars.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -910,8 +910,8 @@ pb.deribit.com
 tools.deribit.com
 metrics.deribit.com
 test.deribit.com
-insights.deribit.com
 *.deribit.com
+insights.deribit.com
 *.deribit.com
 test.deribit.com
 insights.deribit.com
@@ -1478,8 +1478,8 @@ old.reddit.com
 api.reddit.com
 *.redditmedia.com
 ads.reddit.com
-*.reddit.com
 redditforbusiness.com
+*.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1792,8 +1792,8 @@ cs.money
 support.cs.money
 wiki.cs.money
 3d.cs.money
-api.faraday.ai
 app.faraday.ai
+api.faraday.ai
 app.faraday.ai
 api.faraday.ai
 *-api-*.acronis.com
@@ -2288,8 +2288,8 @@ marrtool.com
 hotel-deals.marriott.com
 cpp.marriott.com
 gatewaydsaptst1.marriott.com
-www.marriott.com
 mgs.marriott.com
+www.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -3383,9 +3383,9 @@ education.github.com
 npmjs.com
 *.githubapp.com
 npmjs.org
-api.github.com
 classroom.github.com
 github.com
+api.github.com
 github.com
 api.github.com
 gist.github.com
@@ -3533,11 +3533,11 @@ shopify.plus
 linkpop.com
 accounts.shopify.com
 *.shopify.com
-partners.shopify.com
 *.shopifycloud.com
-your-store.myshopify.com
-shop.app
 admin.shopify.com
+shop.app
+partners.shopify.com
+your-store.myshopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3744,8 +3744,8 @@ ide.x.ai
 grok.x.ai
 *.twimg.com
 *.twitter.com
-x.com
 api.x.ai
+x.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -3831,8 +3831,8 @@ api.coinbase.com
 api.custody.coinbase.com
 coinbase.com
 *.coinbase.com
-cloud.coinbase.com
 pro.coinbase.com
+cloud.coinbase.com
 *.coinbase.com
 *.cbhq.net
 pro.coinbase.com
@@ -3897,11 +3897,11 @@ hackerone.live
 errors.hackerone.net
 app.pullrequest.com
 api.hackerone.com
-hackerone-user-content.com
 cover-photos.hackerone-user-content.com
 www.hackerone.com
-hackerone.com
 b5s.hackerone-ext-content.com
+hackerone-user-content.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
