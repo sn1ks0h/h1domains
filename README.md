@@ -2,12 +2,12 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb 14 23:18:52 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb 15 00:58:18 UTC 2024)
 ```
 rfc.tari.com
 www.tarilabs.com
-explore.tari.com
 www.tari.com
+explore.tari.com
 textexplore.tari.com
 explore.tari.com
 rfc.tari.com
@@ -92,9 +92,9 @@ api.23andme.com
 auth.23andme.com
 mediacenter.23andme.com
 research.23andme.com
+blog.23andme.com
 store.23andme.com
 you.23andme.com
-blog.23andme.com
 medical.23andme.com
 api.23andme.com
 auth.23andme.com
@@ -562,9 +562,9 @@ hiltonhotels.jp
 *.hiltonbusinessonline.com
 hilton.com
 *.hiltonhotels.jp
-*.hilton.io
-*.hilton.com.tr
 *.hilton.com
+*.hilton.com.tr
+*.hilton.io
 hiltonbusinessonline.com
 *.hilton.com
 *.hilton.io
@@ -987,8 +987,8 @@ checkout.razorpay.com
 invoices.razorpay.com
 payroll.razorpay.com
 api.razorpay.com
-dashboard.razorpay.com
 x.razorpay.com
+dashboard.razorpay.com
 dashboard.razorpay.com
 api.razorpay.com
 checkout.razorpay.com
@@ -1519,8 +1519,8 @@ remix.com
 eu.remix.com
 platform.remix.com
 *.withbuddies.com
-*.scopely.com
 *.scopely.io
+*.scopely.com
 *.scopely.io
 *.scopely.com
 *.withbuddies.com
@@ -1619,8 +1619,8 @@ ccloud.yoti.com
 code.yoti.com
 api.yoti.com
 identity.yoti.com
-www.yotisign.com
 hub.yoti.com
+www.yotisign.com
 core.yoti.com
 api.yoti.com
 ccloud.yoti.com
@@ -1817,7 +1817,6 @@ hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
 www.superdrug.com
-www.kruidvat.nl
 www.kruidvat.be
 app.marionnaud.cz
 app.marionnaud.it
@@ -1952,8 +1951,8 @@ ca.account.sony.com
 direct.playstation.com
 store.playstation.com
 my.playstation.com
-*.sonyentertainmentnetwork.com
 my.account.sony.com
+*.sonyentertainmentnetwork.com
 *.playstation.net
 *.playstation.net
 *.sonyentertainmentnetwork.com
@@ -2288,8 +2287,8 @@ marrtool.com
 hotel-deals.marriott.com
 cpp.marriott.com
 gatewaydsaptst1.marriott.com
-www.marriott.com
 mgs.marriott.com
+www.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -2768,8 +2767,8 @@ decision.swiftfinancial.com
 *.paylution.com
 paypalobjects.com
 *.braintreegateway.com
-*.paypalcorp.com
 *.paypal.com
+*.paypalcorp.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -2949,9 +2948,9 @@ app.mona.co
 pay.crypto.com
 js.crypto.com
 merchant.crypto.com
-*.crypto.com
 tax.crypto.com
 www.crypto.com
+*.crypto.com
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3135,8 +3134,8 @@ gifts.grab.com
 grab.careers
 kartaview.org
 *.taralite.com
-*.ovo.id
 *.grab.com
+*.ovo.id
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3746,8 +3745,8 @@ ide.x.ai
 grok.x.ai
 *.twimg.com
 *.twitter.com
-x.com
 api.x.ai
+x.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -3883,27 +3882,27 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 *.vpn.hackerone.net
-cover-photos-us-east-2.hackerone-user-content.com
 hackathon-photos.hackerone-user-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 www.wearehackerone.com
 profile-photos.hackerone-user-content.com
 mta-sts.wearehackerone.com
 reviewer.pullrequest.com
-hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-ctf.hacker101.com
-hackerone-ext-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
-a5s.hackerone-ext-content.com
 hackerone.live
-errors.hackerone.net
 app.pullrequest.com
-api.hackerone.com
-hackerone-user-content.com
 www.hackerone.com
-cover-photos.hackerone-user-content.com
-b5s.hackerone-ext-content.com
+cover-photos-us-east-2.hackerone-user-content.com
+errors.hackerone.net
+ctf.hacker101.com
+hackerone-user-content.com
+hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 hackerone.com
+hackerone-ext-content.com
+a5s.hackerone-ext-content.com
+b5s.hackerone-ext-content.com
+api.hackerone.com
+cover-photos.hackerone-user-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
