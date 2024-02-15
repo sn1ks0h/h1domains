@@ -2,12 +2,12 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb 15 01:50:04 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb 15 02:23:57 UTC 2024)
 ```
 rfc.tari.com
 www.tarilabs.com
-explore.tari.com
 www.tari.com
+explore.tari.com
 textexplore.tari.com
 explore.tari.com
 rfc.tari.com
@@ -19,9 +19,9 @@ iframe.arkoselabs.com
 client-api.arkoselabs.com
 portal.arkoselabs.com
 demo.arkoselabs.com
+cdn.arkoselabs.com
 customer-sessions.arkoselabs.com
 www.arkoselabs.com
-cdn.arkoselabs.com
 client-api.arkoselabs.com
 cdn.arkoselabs.com
 customer-sessions.arkoselabs.com
@@ -533,8 +533,8 @@ support.mozilla.org
 www.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 monitor.firefox.com
-relay.firefox.com
 hg.mozilla.org
+relay.firefox.com
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -764,9 +764,9 @@ admin.8x8.com
 *.luckydays.com
 *.superbet.rs
 *.superbet.com
-*.superbet.ro
 *.superbet.pl
 *.magicjackpot.ro
+*.superbet.ro
 *.napoleongames.be
 *.superbet.ro
 *.superbet.rs
@@ -987,8 +987,8 @@ checkout.razorpay.com
 invoices.razorpay.com
 payroll.razorpay.com
 api.razorpay.com
-dashboard.razorpay.com
 x.razorpay.com
+dashboard.razorpay.com
 dashboard.razorpay.com
 api.razorpay.com
 checkout.razorpay.com
@@ -1734,8 +1734,8 @@ www.pangleglobal.com
 ads.tiktok.com
 live-backstage.tiktok.com
 tiktok.com
-*.tiktokv.com
 partner.tiktokshop.com
+*.tiktokv.com
 *.tiktok.com
 *.tiktok.com
 business.tiktok.com
@@ -1799,9 +1799,9 @@ api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
-account.acronis.com
 *.acronis.work
 beta-cloud.acronis.com
+account.acronis.com
 *.acronis.com
 *-api-*.acronis.com
 *.acronis.com
@@ -1951,8 +1951,8 @@ ca.account.sony.com
 direct.playstation.com
 store.playstation.com
 my.playstation.com
-*.sonyentertainmentnetwork.com
 my.account.sony.com
+*.sonyentertainmentnetwork.com
 *.playstation.net
 *.playstation.net
 *.sonyentertainmentnetwork.com
@@ -3530,9 +3530,9 @@ shopify.plus
 linkpop.com
 accounts.shopify.com
 *.shopifycloud.com
-your-store.myshopify.com
 shop.app
 partners.shopify.com
+your-store.myshopify.com
 admin.shopify.com
 *.shopify.com
 *.shopifycs.com
@@ -3744,8 +3744,8 @@ ide.x.ai
 grok.x.ai
 *.twimg.com
 *.twitter.com
-api.x.ai
 x.com
+api.x.ai
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -3891,17 +3891,17 @@ hackathon-photos-us-east-2.hackerone-user-content.com
 hackerone.live
 app.pullrequest.com
 www.hackerone.com
-cover-photos-us-east-2.hackerone-user-content.com
-errors.hackerone.net
 ctf.hacker101.com
 hackerone-user-content.com
+cover-photos-us-east-2.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
+errors.hackerone.net
 hackerone.com
 hackerone-ext-content.com
 a5s.hackerone-ext-content.com
 b5s.hackerone-ext-content.com
-cover-photos.hackerone-user-content.com
 api.hackerone.com
+cover-photos.hackerone-user-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
