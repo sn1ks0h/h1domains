@@ -2,12 +2,12 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb 15 03:17:43 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb 15 04:18:56 UTC 2024)
 ```
 rfc.tari.com
 www.tarilabs.com
-explore.tari.com
 www.tari.com
+explore.tari.com
 textexplore.tari.com
 explore.tari.com
 rfc.tari.com
@@ -70,11 +70,11 @@ cpanel.hostinger.com
 www.niagahoster.co.id
 www.zyro.com
 *.000webhost.com
-www.hostinger.com
 backend.zyro.com
 logo.zyro.com
 payments.hostinger.com
 hpanel.hostinger.com
+www.hostinger.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -458,16 +458,16 @@ m.kolesa.kz
 m.krisha.kz
 app.krisha.kz
 app.avtoelon.uz
-api.kolesa.kz
 id.avtoelon.uz
 api.avtoelon.uz
 app.kolesa.kz
 m.avtoelon.uz
-kolesa.kz
 avtoelon.uz
 api.krisha.kz
+kolesa.kz
 id.kolesa.kz
 krisha.kz
+api.kolesa.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -533,8 +533,8 @@ support.mozilla.org
 www.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 monitor.firefox.com
-hg.mozilla.org
 relay.firefox.com
+hg.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -562,9 +562,9 @@ hiltonhotels.jp
 *.hiltonbusinessonline.com
 hilton.com
 *.hiltonhotels.jp
-*.hilton.com
-*.hilton.com.tr
 *.hilton.io
+*.hilton.com.tr
+*.hilton.com
 hiltonbusinessonline.com
 *.hilton.com
 *.hilton.io
@@ -987,8 +987,8 @@ checkout.razorpay.com
 invoices.razorpay.com
 payroll.razorpay.com
 api.razorpay.com
-x.razorpay.com
 dashboard.razorpay.com
+x.razorpay.com
 dashboard.razorpay.com
 api.razorpay.com
 checkout.razorpay.com
@@ -1028,8 +1028,8 @@ sorare.com
 api.sorare.com
 ws.sorare.com
 *.sheingsp.com
-*.shein.com
 *.romwe.com
+*.shein.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
@@ -1519,8 +1519,8 @@ remix.com
 eu.remix.com
 platform.remix.com
 *.withbuddies.com
-*.scopely.io
 *.scopely.com
+*.scopely.io
 *.scopely.io
 *.scopely.com
 *.withbuddies.com
@@ -1619,8 +1619,8 @@ ccloud.yoti.com
 code.yoti.com
 api.yoti.com
 identity.yoti.com
-www.yotisign.com
 hub.yoti.com
+www.yotisign.com
 core.yoti.com
 api.yoti.com
 ccloud.yoti.com
@@ -1799,9 +1799,9 @@ api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
+account.acronis.com
 *.acronis.work
 beta-cloud.acronis.com
-account.acronis.com
 *.acronis.com
 *-api-*.acronis.com
 *.acronis.com
@@ -1951,8 +1951,8 @@ ca.account.sony.com
 direct.playstation.com
 store.playstation.com
 my.playstation.com
-*.sonyentertainmentnetwork.com
 my.account.sony.com
+*.sonyentertainmentnetwork.com
 *.playstation.net
 *.playstation.net
 *.sonyentertainmentnetwork.com
@@ -3530,12 +3530,12 @@ shopify.plus
 linkpop.com
 accounts.shopify.com
 *.shopifycloud.com
+your-store.myshopify.com
 shop.app
 partners.shopify.com
-your-store.myshopify.com
 admin.shopify.com
-*.shopify.com
 *.shopifycs.com
+*.shopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3744,8 +3744,8 @@ ide.x.ai
 grok.x.ai
 *.twimg.com
 *.twitter.com
-x.com
 api.x.ai
+x.com
 *.twitter.com
 *.vine.co
 *.twimg.com
