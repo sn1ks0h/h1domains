@@ -23,8 +23,8 @@ partners.vendasta.com
 tlu.tarilabs.com
 rfc.tari.com
 www.tarilabs.com
-www.tari.com
 explore.tari.com
+www.tari.com
 textexplore.tari.com
 explore.tari.com
 rfc.tari.com
@@ -34,8 +34,8 @@ www.tarilabs.com
 tlu.tarilabs.com
 www.avios.com
 www.iairgroup.com
-*.iaggbs.com
 *.iagcargo.com
+*.iaggbs.com
 *.iairgroup.com
 www.iaggbs.com
 *.aerlingus.com
@@ -1717,11 +1717,11 @@ clientcert.gamma.redoxstage.com
 eets.gamma.redoxstage.com
 evening-earth.gamma.redoxstage.com
 launch.gamma.redoxstage.com
-testapp.redoxengine.com
 explore.redoxengine.com
 10x.redoxengine.com
 www.redoxengine.com
 dashboard.gamma.redoxstage.com
+testapp.redoxengine.com
 10x.redoxengine.com
 testapp.redoxengine.com
 testapi.redoxengine.com
@@ -1854,7 +1854,6 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 *.setra.de
 *fleetboard.de
 *evobus.com
-*fleetboard.com
 *detroitconnect.com
 *.bharatbenz.com
 *omniplus.com
@@ -1863,6 +1862,7 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 *exceleratorparts.com
 *.mercedes-benz-trucks.com
 *.daimlertruck.com
+*fleetboard.com
 *exceleratorparts.com
 *.mercedes-benz-trucks.com
 *.mitsubishi-fuso.com
@@ -1881,8 +1881,8 @@ onlinebanking.53.com
 zta.nube.53.com
 ztc.nube.53.com
 locations.53.com
-www.53.com
 *53.com
+www.53.com
 *53.com
 express.53.com
 https://ablreporter.53.com/
@@ -2834,10 +2834,10 @@ app.kolesa.kz
 m.avtoelon.uz
 avtoelon.uz
 api.krisha.kz
-kolesa.kz
 id.kolesa.kz
 api.kolesa.kz
 krisha.kz
+kolesa.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -2908,8 +2908,8 @@ support.mozilla.org
 www.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 monitor.firefox.com
-relay.firefox.com
 hg.mozilla.org
+relay.firefox.com
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -3002,9 +3002,9 @@ hiltonhotels.jp
 *.hiltonbusinessonline.com
 hilton.com
 *.hiltonhotels.jp
-*.hilton.com
-*.hilton.com.tr
 *.hilton.io
+*.hilton.com.tr
+*.hilton.com
 hiltonbusinessonline.com
 *.hilton.com
 *.hilton.io
@@ -3071,8 +3071,8 @@ submission.apnic.net
 *.okx.com
 *.okx.com
 https://www.okx.com/docs-v5/en/#market-maker-program
-*.lacity.org
 *.lacity.gov
+*.lacity.org
 *.lacity.org
 *.lacity.gov
 docs.fastly.com
@@ -3162,8 +3162,8 @@ http://miro.com/blog
 *.baldor.com
 abb.com.br
 *.cylon.com
-*.abb.com.cn
 *.abb.com
+*.abb.com.cn
 *.tnb.com
 *.abb.com
 *.tnb.com
@@ -3251,8 +3251,8 @@ auth.skypicker.com
 jobs.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
-*.skypicker.com
 www.kiwi.com
+*.skypicker.com
 *.kiwi.com
 *.skypicker.com
 www.kiwi.com
@@ -3496,7 +3496,6 @@ www.hotels.com
 www.expediapartnercentral.com
 www.hotwirepartnercentral.com
 www.ebookers.fi
-www.orbitz.com
 www.mrjet.se
 www.travelocity.ca
 www.expediapartnersolutions.com
@@ -3518,6 +3517,7 @@ www.abritel.fr
 www.expediagroup.com
 www.vrbo.com
 www.ebookers.com
+www.orbitz.com
 www.hotels.com
 www.expedia.com
 www.expediapartnercentral.com
@@ -4614,7 +4614,6 @@ paetec.net
 *.wealthscape.com
 *.fidelity.com
 www.simplytoimpress.com
-*.photoaffections.com
 iseeme.com
 www.photoaffections.com
 www.canvasworld.com
@@ -4625,11 +4624,12 @@ www.mycustomcase.com
 www.gifts.com
 ai.planetart.com
 *.simplytoimpress.com
-*.cafepress.com
 *.personalcreations.com
+*.cafepress.com
 *.canvasworld.com
 www.cafepress.com
 *.mycustomcase.com
+*.photoaffections.com
 *.cafepress.com
 *.canvasworld.com
 *.gifts.com
@@ -4887,9 +4887,9 @@ www.alohi.com
 *.sothebysrealty.*
 *.corcoran.*
 *.mycbdesk.com
-*.anywhere.re
 *.coldwellbanker.*
 *.century21.*
+*.anywhere.re
 *.realogy.*
 *.bhgre.*
 *.century21.*
@@ -5530,8 +5530,8 @@ forum.sketchfab.com
 *.tstaging.tools
 *.tinderwebstaging.com
 *.tstaging.com
-*.gotinder.com
 *.tinder.com
+*.gotinder.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -5690,8 +5690,8 @@ www.elastic.co
 cloud.elastic.co
 *.swiftype.com
 *.elstc.co
-*.elastic.co
 *.found.io
+*.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -6175,8 +6175,8 @@ www.travelguard.com
 *.blackrock.com
 *.blackrock.com
 *.ishares.com
-www.urbancompany.com
 www.urbanclap.com
+www.urbancompany.com
 www.urbancompany.com
 www.urbanclap.com
 *www.marinahospital.com
@@ -9102,8 +9102,8 @@ www.bookingholdings.com
 *.teamstercardnow.com
 *.capitalonecards.com
 *.capitalone.co.uk
-*.capitalone.com
 *.capitaloneshopping.com
+*.capitalone.com
 *.capitalone.com
 *.paribus.co
 *.capitalone360.com
@@ -9406,8 +9406,8 @@ decision.swiftfinancial.com
 paypalobjects.com
 *.braintreegateway.com
 *.paypalcorp.com
-*.xoom.com
 *.paypal.com
+*.xoom.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -9855,8 +9855,8 @@ gifts.grab.com
 grab.careers
 kartaview.org
 *.taralite.com
-*.ovo.id
 *.grab.com
+*.ovo.id
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -10158,8 +10158,8 @@ npmjs.com
 *.githubapp.com
 npmjs.org
 classroom.github.com
-github.com
 api.github.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -10312,8 +10312,8 @@ accounts.shopify.com
 your-store.myshopify.com
 shop.app
 partners.shopify.com
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopifycs.com
 *.shopifycs.com
 *.shopify.com
@@ -10810,7 +10810,6 @@ mta-sts.wearehackerone.com
 reviewer.pullrequest.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 hackerone.live
-app.pullrequest.com
 www.hackerone.com
 ctf.hacker101.com
 hackerone-user-content.com
@@ -10823,6 +10822,7 @@ api.hackerone.com
 cover-photos.hackerone-user-content.com
 hackerone.com
 hackerone-ext-content.com
+app.pullrequest.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
