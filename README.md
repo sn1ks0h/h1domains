@@ -2,12 +2,12 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb 15 00:58:18 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb 15 01:50:04 UTC 2024)
 ```
 rfc.tari.com
 www.tarilabs.com
-www.tari.com
 explore.tari.com
+www.tari.com
 textexplore.tari.com
 explore.tari.com
 rfc.tari.com
@@ -119,9 +119,9 @@ api.mercadolibre.com
 www.mercadopago.cl
 www.mercadopago.com.uy
 www.mercadolibre.cl
-www.mercadolibre.com.ar
 www.mercadopago.com.ar
 www.mercadolivre.com.br
+www.mercadolibre.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -533,8 +533,8 @@ support.mozilla.org
 www.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 monitor.firefox.com
-hg.mozilla.org
 relay.firefox.com
+hg.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -562,9 +562,9 @@ hiltonhotels.jp
 *.hiltonbusinessonline.com
 hilton.com
 *.hiltonhotels.jp
-*.hilton.com
-*.hilton.com.tr
 *.hilton.io
+*.hilton.com.tr
+*.hilton.com
 hiltonbusinessonline.com
 *.hilton.com
 *.hilton.io
@@ -987,8 +987,8 @@ checkout.razorpay.com
 invoices.razorpay.com
 payroll.razorpay.com
 api.razorpay.com
-x.razorpay.com
 dashboard.razorpay.com
+x.razorpay.com
 dashboard.razorpay.com
 api.razorpay.com
 checkout.razorpay.com
@@ -1448,8 +1448,8 @@ app.taxjar.com
 *.link.co
 hackerone-m1rtuq8orz.hbstaging.website
 hackerone-m1rtuq8orz.hbstaging.website
-www.urbanclap.com
 www.urbancompany.com
+www.urbanclap.com
 www.urbancompany.com
 www.urbanclap.com
 new.reddit.com
@@ -1619,8 +1619,8 @@ ccloud.yoti.com
 code.yoti.com
 api.yoti.com
 identity.yoti.com
-hub.yoti.com
 www.yotisign.com
+hub.yoti.com
 core.yoti.com
 api.yoti.com
 ccloud.yoti.com
@@ -1734,8 +1734,8 @@ www.pangleglobal.com
 ads.tiktok.com
 live-backstage.tiktok.com
 tiktok.com
-partner.tiktokshop.com
 *.tiktokv.com
+partner.tiktokshop.com
 *.tiktok.com
 *.tiktok.com
 business.tiktok.com
@@ -1799,9 +1799,9 @@ api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
+account.acronis.com
 *.acronis.work
 beta-cloud.acronis.com
-account.acronis.com
 *.acronis.com
 *-api-*.acronis.com
 *.acronis.com
@@ -1951,8 +1951,8 @@ ca.account.sony.com
 direct.playstation.com
 store.playstation.com
 my.playstation.com
-my.account.sony.com
 *.sonyentertainmentnetwork.com
+my.account.sony.com
 *.playstation.net
 *.playstation.net
 *.sonyentertainmentnetwork.com
@@ -2480,7 +2480,6 @@ app.command.cysiv.com
 reservations.rezserver.com
 cruises.priceline.com
 api.rezserver.com
-www.bookingholdings.com
 secure.rezserver.com
 press.priceline.com
 admin.rezserver.com
@@ -3382,8 +3381,8 @@ npmjs.com
 *.githubapp.com
 npmjs.org
 classroom.github.com
-api.github.com
 github.com
+api.github.com
 github.com
 api.github.com
 gist.github.com
@@ -3901,8 +3900,8 @@ hackerone.com
 hackerone-ext-content.com
 a5s.hackerone-ext-content.com
 b5s.hackerone-ext-content.com
-api.hackerone.com
 cover-photos.hackerone-user-content.com
+api.hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
