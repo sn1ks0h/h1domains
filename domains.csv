@@ -166,7 +166,6 @@ egress-vdp,www.egress.com,False
 23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,you.23andme.com,True
 23andme_bbp,research.23andme.com,True
-mercadolibre,www.mercadopago.com.pe,True
 mercadolibre,www.mercadolibre.com.uy,True
 mercadolibre,api.mercadopago.com,True
 mercadolibre,www.mercadopago.com.mx,True
@@ -182,6 +181,7 @@ mercadolibre,www.mercadolibre.com.mx,True
 mercadolibre,www.mercadopago.com.br,True
 mercadolibre,www.mercadolivre.com.br,True
 mercadolibre,www.mercadopago.com.co,True
+mercadolibre,www.mercadopago.com.pe,True
 mercadolibre,api.mercadopago.com,True
 mercadolibre,www.mercadopago.com.ar,True
 mercadolibre,www.mercadopago.com.br,True
@@ -4887,8 +4887,8 @@ anywhererealestate,*.sothebysrealty.*,False
 anywhererealestate,*.corcoran.*,False
 anywhererealestate,*.mycbdesk.com,False
 anywhererealestate,*.anywhere.re,False
-anywhererealestate,*.century21.*,False
 anywhererealestate,*.coldwellbanker.*,False
+anywhererealestate,*.century21.*,False
 anywhererealestate,*.realogy.*,False
 anywhererealestate,*.bhgre.*,False
 anywhererealestate,*.century21.*,False
@@ -7282,7 +7282,6 @@ tiktok,developers.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,careers.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
-tiktok,business.tiktok.com,True
 tiktok,live-backstage.tiktok.com,True
 tiktok,ads.tiktok.com,True
 tiktok,*.tiktokv.com,True
@@ -7291,6 +7290,7 @@ tiktok,tiktok.com,True
 tiktok,www.pangleglobal.com,True
 tiktok,partner.tiktokshop.com,True
 tiktok,*.tiktok.com,True
+tiktok,business.tiktok.com,True
 tiktok,*.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,ads.tiktok.com,True
@@ -9375,7 +9375,6 @@ flickr,*.flickr.com,True
 matomo,matomo.cloud,True
 matomo,matomo.cloud,True
 matomo,https://github.com/matomo-org/docker,True
-paypal,paypal.me,True
 paypal,py.pl,True
 paypal,*.paydiant.com,True
 paypal,*.braintree.tools,True
@@ -9404,6 +9403,7 @@ paypal,*.paypalcorp.com,True
 paypal,*.xoom.com,True
 paypal,paypalobjects.com,True
 paypal,*.paypal.com,True
+paypal,paypal.me,True
 paypal,www.paypal-*.com,True
 paypal,*.xoom.com,True
 paypal,*.paypal.com,True
@@ -10154,8 +10154,8 @@ github,npmjs.com,True
 github,*.githubapp.com,True
 github,npmjs.org,True
 github,classroom.github.com,True
-github,github.com,True
 github,api.github.com,True
+github,github.com,True
 github,github.com,True
 github,api.github.com,True
 github,gist.github.com,True

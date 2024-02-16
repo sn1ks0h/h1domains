@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb 16 08:21:14 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb 16 09:17:48 UTC 2024)
 ```
 rfc.tari.com
 explore.tari.com
@@ -106,7 +106,6 @@ store.23andme.com
 therapeutics.23andme.com
 you.23andme.com
 research.23andme.com
-www.mercadopago.com.pe
 www.mercadolibre.com.uy
 api.mercadopago.com
 www.mercadopago.com.mx
@@ -122,6 +121,7 @@ www.mercadolibre.com.mx
 www.mercadopago.com.br
 www.mercadolivre.com.br
 www.mercadopago.com.co
+www.mercadopago.com.pe
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -1726,7 +1726,6 @@ developers.tiktok.com
 effecthouse.tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
-business.tiktok.com
 live-backstage.tiktok.com
 ads.tiktok.com
 *.tiktokv.com
@@ -1735,6 +1734,7 @@ tiktok.com
 www.pangleglobal.com
 partner.tiktokshop.com
 *.tiktok.com
+business.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2736,7 +2736,6 @@ fanduel.design
 matomo.cloud
 matomo.cloud
 https://github.com/matomo-org/docker
-paypal.me
 py.pl
 *.paydiant.com
 *.braintree.tools
@@ -2765,6 +2764,7 @@ decision.swiftfinancial.com
 *.xoom.com
 paypalobjects.com
 *.paypal.com
+paypal.me
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3378,8 +3378,8 @@ npmjs.com
 *.githubapp.com
 npmjs.org
 classroom.github.com
-github.com
 api.github.com
+github.com
 github.com
 api.github.com
 gist.github.com
