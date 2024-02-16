@@ -2,13 +2,13 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb 16 01:02:51 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb 16 01:49:36 UTC 2024)
 ```
 rfc.tari.com
 explore.tari.com
 www.tari.com
-www.tarilabs.com
 textexplore.tari.com
+www.tarilabs.com
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
@@ -35,8 +35,8 @@ www.sheer.com
 www.sheer.com
 my.sheer.com
 www.pornworld.com
-www.ddfcontent.com
 www.analvids.com
+www.ddfcontent.com
 www.pornbox.com
 www.pornbox.com
 www.analvids.com
@@ -91,11 +91,11 @@ therapeutics.23andme.com
 api.23andme.com
 mediacenter.23andme.com
 research.23andme.com
-auth.23andme.com
+blog.23andme.com
+store.23andme.com
 medical.23andme.com
 you.23andme.com
-store.23andme.com
-blog.23andme.com
+auth.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -166,8 +166,8 @@ careers.booking.com
 admin.booking.com
 *.rentalcars.com
 secure.booking.com
-account.booking.com
 booking.com
+account.booking.com
 *.booking.com
 *.booking.com
 *.rentalcars.com
@@ -314,8 +314,8 @@ launch.gamma.redoxstage.com
 explore.redoxengine.com
 10x.redoxengine.com
 www.redoxengine.com
-dashboard.gamma.redoxstage.com
 testapp.redoxengine.com
+dashboard.gamma.redoxstage.com
 10x.redoxengine.com
 testapp.redoxengine.com
 testapi.redoxengine.com
@@ -698,8 +698,8 @@ auth.skypicker.com
 jobs.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
-www.kiwi.com
 *.skypicker.com
+www.kiwi.com
 *.kiwi.com
 *.skypicker.com
 www.kiwi.com
@@ -763,10 +763,10 @@ admin.8x8.com
 *.luckydays.com
 *.superbet.rs
 *.superbet.com
-*.superbet.ro
 *.superbet.pl
 *.magicjackpot.ro
 *.napoleongames.be
+*.superbet.ro
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -985,9 +985,9 @@ api.recarga.com
 invoices.razorpay.com
 payroll.razorpay.com
 api.razorpay.com
-checkout.razorpay.com
 dashboard.razorpay.com
 x.razorpay.com
+checkout.razorpay.com
 dashboard.razorpay.com
 api.razorpay.com
 checkout.razorpay.com
@@ -1412,8 +1412,8 @@ www.elastic.co
 cloud.elastic.co
 *.swiftype.com
 *.elstc.co
-*.elastic.co
 *.found.io
+*.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1475,8 +1475,8 @@ api.reddit.com
 *.redditmedia.com
 ads.reddit.com
 *.reddit.com
-www.reddit.com
 redditforbusiness.com
+www.reddit.com
 app.spiketrap.io
 *.snooguts.net
 *.redditmedia.com
@@ -1517,8 +1517,8 @@ remix.com
 eu.remix.com
 platform.remix.com
 *.withbuddies.com
-*.scopely.io
 *.scopely.com
+*.scopely.io
 *.scopely.io
 *.scopely.com
 *.withbuddies.com
@@ -1617,8 +1617,8 @@ ccloud.yoti.com
 code.yoti.com
 api.yoti.com
 identity.yoti.com
-hub.yoti.com
 www.yotisign.com
+hub.yoti.com
 core.yoti.com
 api.yoti.com
 ccloud.yoti.com
@@ -1686,9 +1686,9 @@ api.sharefile.eu
 secure.sharefile.eu
 (yoursubdomain).sharefile.com
 api.sharefile.com
+(youriwssubdomain).cloud.com
 *.citrixworkspacesapi.net
 citrix.cloud.com
-(youriwssubdomain).cloud.com
 www.cloud.com
 citrix.cloud.com
 www.cloud.com
@@ -1790,17 +1790,17 @@ cs.money
 support.cs.money
 wiki.cs.money
 3d.cs.money
-app.faraday.ai
 api.faraday.ai
+app.faraday.ai
 app.faraday.ai
 api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
-*.acronis.com
-account.acronis.com
 *.acronis.work
 beta-cloud.acronis.com
+account.acronis.com
+*.acronis.com
 *-api-*.acronis.com
 *.acronis.com
 *.5nine.com
@@ -1949,9 +1949,9 @@ ca.account.sony.com
 direct.playstation.com
 store.playstation.com
 my.playstation.com
+*.playstation.net
 *.sonyentertainmentnetwork.com
 my.account.sony.com
-*.playstation.net
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -2285,8 +2285,8 @@ marrtool.com
 hotel-deals.marriott.com
 cpp.marriott.com
 gatewaydsaptst1.marriott.com
-mgs.marriott.com
 www.marriott.com
+mgs.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -2496,8 +2496,8 @@ press.priceline.com
 www.bookingholdings.com
 admin.smartsheet.com
 developers.smartsheet.com
-app.smartsheet.com
 help.smartsheet.com
+app.smartsheet.com
 app.smartsheet.com
 http://api.smartsheet.com/2.0
 admin.smartsheet.com
@@ -2762,9 +2762,9 @@ decision.swiftfinancial.com
 *.paylution.com
 paypalobjects.com
 *.braintreegateway.com
-*.paypalcorp.com
 *.xoom.com
 *.paypal.com
+*.paypalcorp.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3257,8 +3257,8 @@ circolocorecords.com/
 lifeinvader.com
 prod.ros.rockstargames.com
 socialclub.rockstargames.com
-support.rockstargames.com
 *.rockstargames.com
+support.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -3308,8 +3308,8 @@ www.starbucks.com.cn
 www.starbucks.co.kr
 gift.starbucks.co.jp
 app.starbucks.com
-www.starbucks.com
 openapi.starbucks.com
+www.starbucks.com
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3378,8 +3378,8 @@ npmjs.com
 *.githubapp.com
 npmjs.org
 classroom.github.com
-api.github.com
 github.com
+api.github.com
 github.com
 api.github.com
 gist.github.com
@@ -3523,15 +3523,15 @@ yourcompany.udemy.com
 shopifyinbox.com
 arrive-server.shopifycloud.com
 shopify.plus
-partners.shopify.com
+*.shopifycs.com
 linkpop.com
-accounts.shopify.com
-*.shopifycloud.com
+partners.shopify.com
 *.shopify.com
 admin.shopify.com
 shop.app
+accounts.shopify.com
+*.shopifycloud.com
 *.shopifykloud.com
-*.shopifycs.com
 your-store.myshopify.com
 *.shopifycs.com
 *.shopify.com
@@ -3889,16 +3889,16 @@ hackerone-ext-content.com
 app.pullrequest.com
 hackerone-user-content.com
 hackerone.live
-www.hackerone.com
 cover-photos-us-east-2.hackerone-user-content.com
 errors.hackerone.net
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 a5s.hackerone-ext-content.com
 b5s.hackerone-ext-content.com
-cover-photos.hackerone-user-content.com
 api.hackerone.com
 ctf.hacker101.com
 hackerone.com
+cover-photos.hackerone-user-content.com
+www.hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
