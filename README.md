@@ -2,17 +2,17 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb 16 15:19:28 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb 16 16:24:05 UTC 2024)
 ```
+*.worldcoin.org
 getworldcoin.com
 *.worldcoin-distributors.com
 toolsforhumanity.com
 *.worldcoin.dev
 *.consumer.worldcoin.org
-worldcoin.org
 *.toolsforhumanity.com
 bioid-management.app
-*.worldcoin.org
+worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -131,11 +131,11 @@ api.mercadolibre.com
 www.mercadopago.cl
 www.mercadopago.com.uy
 www.mercadolibre.cl
+www.mercadolibre.com.mx
 www.mercadolibre.com.co
 www.mercadopago.com.ar
 www.mercadopago.com.br
 www.mercadolivre.com.br
-www.mercadolibre.com.mx
 www.mercadopago.com.co
 www.mercadolibre.com.ar
 www.mercadopago.com.pe
@@ -182,11 +182,11 @@ cars.booking.com
 widget.rentalcars.com
 careers.booking.com
 admin.booking.com
-*.rentalcars.com
 secure.booking.com
 booking.com
 account.booking.com
 *.booking.com
+*.rentalcars.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -463,9 +463,9 @@ http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
-yourdomain.freshdesk.com
 yourdomain.myfreshworks.com
 yourdomain.freshservice.com
+yourdomain.freshdesk.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -578,11 +578,11 @@ hiltonhotels.jp
 *.hiltonlocalbiz.com
 *.hiltonbusinessonline.com
 *.hiltonhotels.jp
+*.hilton.com
+hilton.com
 hiltonbusinessonline.com
 *.hilton.io
 *.hilton.com.tr
-hilton.com
-*.hilton.com
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -648,8 +648,8 @@ debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 *.grindr.io
 *.grindr.mobi
-web.grindr.com
 *.grindr.com
+web.grindr.com
 *.grindr.io
 *.grindr.com
 *.grindr.mobi
@@ -715,9 +715,9 @@ cfapi.voikukka.fi
 auth.skypicker.com
 jobs.kiwi.com
 *.kiwi.com
-tequila.kiwi.com
-*.skypicker.com
 www.kiwi.com
+*.skypicker.com
+tequila.kiwi.com
 *.kiwi.com
 *.skypicker.com
 www.kiwi.com
@@ -782,10 +782,10 @@ admin.8x8.com
 *.luckydays.com
 *.superbet.rs
 *.superbet.com
-*.superbet.pl
-*.magicjackpot.ro
 *.napoleongames.be
 *.superbet.ro
+*.superbet.pl
+*.magicjackpot.ro
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -1029,8 +1029,8 @@ www.momondo.com
 www.swoodoo.com
 www.checkfelix.com
 www.kayak.com
-www.hotelscombined.com
 www.cheapflights.com
+www.hotelscombined.com
 www.kayak.com
 www.swoodoo.com
 www.checkfelix.com
@@ -1040,8 +1040,8 @@ www.hotelscombined.com
 www.mundi.com.br
 business.kayak.com
 ws.sorare.com
-api.sorare.com
 sorare.com
+api.sorare.com
 sorare.com
 api.sorare.com
 ws.sorare.com
@@ -1167,8 +1167,8 @@ community.databricks.com
 labs.databricks.com
 marketplace.databricks.com
 accounts.cloud.databricks.com
-support.databricks.com
 advocates.databricks.com
+support.databricks.com
 databricks.com
 databricks.com
 academy.databricks.com
@@ -1449,9 +1449,9 @@ api.taxjar.com
 *.reckoproduction.com
 *.recko.io
 *.link.co
-api.stripe.com
-*.stripe.com
 app.taxjar.com
+*.stripe.com
+api.stripe.com
 api.stripe.com
 *.stripe.com
 *.touchtechpayments.com
@@ -1494,9 +1494,9 @@ api.reddit.com
 *.redditmedia.com
 ads.reddit.com
 *.reddit.com
-www.reddit.com
 redditforbusiness.com
 app.spiketrap.io
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1635,8 +1635,8 @@ core.yoti.com
 ccloud.yoti.com
 code.yoti.com
 api.yoti.com
-identity.yoti.com
 www.yotisign.com
+identity.yoti.com
 hub.yoti.com
 core.yoti.com
 api.yoti.com
@@ -1745,15 +1745,15 @@ developers.tiktok.com
 effecthouse.tiktok.com
 careers.tiktok.com
 live-backstage.tiktok.com
-*.tiktokv.com
-tiktok.com
-partner.tiktokshop.com
-shop.tiktok.com
-*.tiktok.com
 ads.tiktok.com
+shop.tiktok.com
+*.tiktokv.com
+partner.tiktokshop.com
+tiktok.com
+*.tiktok.com
+creatormarketplace.tiktok.com
 business.tiktok.com
 www.pangleglobal.com
-creatormarketplace.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1809,8 +1809,8 @@ cs.money
 support.cs.money
 wiki.cs.money
 3d.cs.money
-api.faraday.ai
 app.faraday.ai
+api.faraday.ai
 app.faraday.ai
 api.faraday.ai
 *-api-*.acronis.com
@@ -1968,10 +1968,10 @@ ca.account.sony.com
 direct.playstation.com
 store.playstation.com
 my.playstation.com
-my.account.sony.com
-*.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
+my.account.sony.com
+*.playstation.net
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -2333,8 +2333,8 @@ http://www.shopmarriott.com
 www.goodrx.com
 www.goodrx.com
 *.ra.roblox.com
-*.rbx.com
 *.roblox.com
+*.rbx.com
 *.guilded.gg
 *.roblox.com
 *.rbx.com
@@ -2501,8 +2501,8 @@ api.rezserver.com
 secure.rezserver.com
 press.priceline.com
 admin.rezserver.com
-priceline.com
 www.getaroom.com
+flyiin.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -2780,10 +2780,10 @@ decision.swiftfinancial.com
 *.braintreepayments.com
 *.paylution.com
 *.braintreegateway.com
-paypalobjects.com
-paypal.me
 *.paypalcorp.com
 *.xoom.com
+paypal.me
+paypalobjects.com
 *.paypal.com
 www.paypal-*.com
 *.xoom.com
@@ -3001,7 +3001,7 @@ synthetics.newrelic.com
 synthetics.eu.newrelic.com
 *.eu.newrelic.com
 *.nr-ops.net
-*.newrelic.com
+one.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -3149,8 +3149,8 @@ gifts.grab.com
 *.myteksi.net
 grab.careers
 kartaview.org
-*.taralite.com
 *.grab.com
+*.taralite.com
 *.ovo.id
 *.myteksi.com
 *.myteksi.net
@@ -3522,9 +3522,9 @@ app.futuresimple.com
 apps.zendesk.com
 api.getbase.com
 app.smooch.io
-h1-your-domain.zendesk.com
 zopim.com
 www.zendesk.com
+h1-your-domain.zendesk.com
 www.zendesk.com
 developer.zendesk.com
 h1-your-domain.zendesk.com
@@ -3551,8 +3551,8 @@ accounts.shopify.com
 *.shopifycs.com
 partners.shopify.com
 admin.shopify.com
-your-store.myshopify.com
 *.shopify.com
+your-store.myshopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
