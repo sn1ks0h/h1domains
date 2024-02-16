@@ -2,13 +2,13 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb 16 09:17:48 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb 16 10:18:06 UTC 2024)
 ```
 rfc.tari.com
-explore.tari.com
 textexplore.tari.com
 www.tarilabs.com
 www.tari.com
+explore.tari.com
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
@@ -35,9 +35,9 @@ www.sheer.com
 www.sheer.com
 my.sheer.com
 www.pornworld.com
-www.ddfcontent.com
 www.analvids.com
 www.pornbox.com
+www.ddfcontent.com
 www.pornbox.com
 www.analvids.com
 www.ddfcontent.com
@@ -94,8 +94,8 @@ research.23andme.com
 blog.23andme.com
 store.23andme.com
 medical.23andme.com
-you.23andme.com
 auth.23andme.com
+you.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -117,11 +117,11 @@ www.mercadolibre.cl
 www.mercadolibre.com.ar
 www.mercadolibre.com.co
 www.mercadopago.com.ar
-www.mercadolibre.com.mx
 www.mercadopago.com.br
 www.mercadolivre.com.br
 www.mercadopago.com.co
 www.mercadopago.com.pe
+www.mercadolibre.com.mx
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -1143,7 +1143,6 @@ demo.cloud.databricks.com
 docs.databricks.com
 help.databricks.com
 partners.databricks.com
-advocates.databricks.com
 customer-academy.databricks.com
 community.databricks.com
 labs.databricks.com
@@ -1151,6 +1150,7 @@ marketplace.databricks.com
 accounts.cloud.databricks.com
 support.databricks.com
 databricks.com
+advocates.databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -1430,8 +1430,8 @@ api.taxjar.com
 *.reckoproduction.com
 *.recko.io
 *.link.co
-app.taxjar.com
 *.stripe.com
+app.taxjar.com
 api.stripe.com
 api.stripe.com
 *.stripe.com
@@ -1731,10 +1731,10 @@ ads.tiktok.com
 *.tiktokv.com
 shop.tiktok.com
 tiktok.com
-www.pangleglobal.com
-partner.tiktokshop.com
 *.tiktok.com
+partner.tiktokshop.com
 business.tiktok.com
+www.pangleglobal.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1949,8 +1949,8 @@ direct.playstation.com
 store.playstation.com
 my.playstation.com
 *.sonyentertainmentnetwork.com
-my.account.sony.com
 *.api.playstation.com
+my.account.sony.com
 *.playstation.net
 *.playstation.net
 *.sonyentertainmentnetwork.com
@@ -2285,8 +2285,8 @@ marrtool.com
 hotel-deals.marriott.com
 cpp.marriott.com
 gatewaydsaptst1.marriott.com
-mgs.marriott.com
 www.marriott.com
+mgs.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -2762,9 +2762,9 @@ decision.swiftfinancial.com
 *.braintreegateway.com
 *.paypalcorp.com
 *.xoom.com
-paypalobjects.com
-*.paypal.com
 paypal.me
+*.paypal.com
+paypalobjects.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3531,8 +3531,8 @@ accounts.shopify.com
 *.shopifycloud.com
 *.shopifykloud.com
 your-store.myshopify.com
-partners.shopify.com
 admin.shopify.com
+partners.shopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3803,13 +3803,13 @@ gravatar.com
 intensedebate.com
 happy.tools
 api.irccloud.com
-irccloud.com
 irc.irccloud.com
 team-irc.irccloud.com
 *.irccloud-cdn.com
 blog.irccloud.com
 www.irccloud.com
 *.irccloud.com
+irccloud.com
 *.irccloud-cdn.com
 *.irccloud.com
 www.irccloud.com
