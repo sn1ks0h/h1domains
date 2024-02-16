@@ -2,12 +2,12 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb 16 12:24:15 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb 16 13:19:08 UTC 2024)
 ```
 rfc.tari.com
-textexplore.tari.com
 www.tarilabs.com
 www.tari.com
+textexplore.tari.com
 explore.tari.com
 explore.tari.com
 rfc.tari.com
@@ -109,7 +109,6 @@ research.23andme.com
 www.mercadolibre.com.uy
 api.mercadopago.com
 www.mercadopago.com.mx
-www.mercadolibre.com.pe
 api.mercadolibre.com
 www.mercadopago.cl
 www.mercadopago.com.uy
@@ -120,6 +119,7 @@ www.mercadopago.com.ar
 www.mercadopago.com.br
 www.mercadolivre.com.br
 www.mercadopago.com.co
+www.mercadolibre.com.pe
 www.mercadopago.com.pe
 www.mercadolibre.com.mx
 api.mercadopago.com
@@ -164,11 +164,11 @@ cars.booking.com
 widget.rentalcars.com
 careers.booking.com
 admin.booking.com
-*.rentalcars.com
 secure.booking.com
 booking.com
 account.booking.com
 *.booking.com
+*.rentalcars.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -453,13 +453,11 @@ yourdomain.freshservice.com
 yourdomain.freshchat.com
 yourdomain.freshcaller.com
 yourdomain.myfreshworks.com
-m.kolesa.kz
 app.krisha.kz
 app.avtoelon.uz
 id.avtoelon.uz
 api.avtoelon.uz
 app.kolesa.kz
-m.avtoelon.uz
 avtoelon.uz
 id.kolesa.kz
 api.kolesa.kz
@@ -467,6 +465,8 @@ api.krisha.kz
 m.krisha.kz
 kolesa.kz
 krisha.kz
+m.kolesa.kz
+m.avtoelon.uz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -729,6 +729,7 @@ user-profile.8x8.com
 cloud8.8x8.com
 *.packet8.net
 sso.8x8.com
+voapi.8x8.com
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -764,9 +765,9 @@ admin.8x8.com
 *.superbet.rs
 *.superbet.com
 *.superbet.pl
-*.superbet.ro
 *.magicjackpot.ro
 *.napoleongames.be
+*.superbet.ro
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -1149,8 +1150,8 @@ labs.databricks.com
 marketplace.databricks.com
 accounts.cloud.databricks.com
 support.databricks.com
-databricks.com
 advocates.databricks.com
+databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -1205,8 +1206,8 @@ woocommerce-adapter.judge.me
 bigcommerce-adapter.judge.me
 cache.judge.me
 api.evernote.com
-www.evernote.com
 accounts.evernote.com
+www.evernote.com
 www.evernote.com
 accounts.evernote.com
 api.evernote.com
@@ -1516,9 +1517,9 @@ global-api.citymapper.com
 remix.com
 eu.remix.com
 platform.remix.com
-*.withbuddies.com
 *.scopely.io
 *.scopely.com
+*.withbuddies.com
 *.scopely.io
 *.scopely.com
 *.withbuddies.com
@@ -1688,8 +1689,8 @@ secure.sharefile.eu
 api.sharefile.com
 *.citrixworkspacesapi.net
 citrix.cloud.com
-www.cloud.com
 (youriwssubdomain).cloud.com
+www.cloud.com
 citrix.cloud.com
 www.cloud.com
 ap-s.cloud.com
@@ -1727,14 +1728,14 @@ effecthouse.tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 live-backstage.tiktok.com
-ads.tiktok.com
 *.tiktokv.com
 shop.tiktok.com
 tiktok.com
-*.tiktok.com
 partner.tiktokshop.com
+*.tiktok.com
 business.tiktok.com
 www.pangleglobal.com
+ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1831,6 +1832,7 @@ www10.pns.hk
 api.pns.hk
 www.moneyback.com.hk
 app.iciparisxl.nl
+app.superdrug.com
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2314,8 +2316,8 @@ www.goodrx.com
 www.goodrx.com
 *.ra.roblox.com
 *.rbx.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2763,8 +2765,8 @@ decision.swiftfinancial.com
 *.paypalcorp.com
 *.xoom.com
 paypal.me
-*.paypal.com
 paypalobjects.com
+*.paypal.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -2921,10 +2923,10 @@ help.steampowered.com
 playartifact.com
 www.valvesoftware.com
 www.teamfortress.com
-api.steampowered.com
 www.counter-strike.net
 steamcommunity.com
 store.steampowered.com
+api.steampowered.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3047,11 +3049,11 @@ hybrid-analysis.com
 *.preemptsecurity.com
 *.reposify.com
 *.bionic.ai
-falcon-sandbox.com
-*.humio.com
 *.preempt.com
 *.crowdstrike.com
 www.crowdstrike.com
+*.humio.com
+falcon-sandbox.com
 *.crowdstrike.com
 *.humio.com
 *.securecircle.com
@@ -3129,9 +3131,9 @@ gifts.grab.com
 *.myteksi.net
 grab.careers
 kartaview.org
-*.taralite.com
 *.grab.com
 *.ovo.id
+*.taralite.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3523,7 +3525,6 @@ yourcompany.udemy.com
 shopifyinbox.com
 arrive-server.shopifycloud.com
 shopify.plus
-*.shopifycs.com
 linkpop.com
 *.shopify.com
 shop.app
@@ -3531,6 +3532,7 @@ accounts.shopify.com
 *.shopifycloud.com
 *.shopifykloud.com
 your-store.myshopify.com
+*.shopifycs.com
 admin.shopify.com
 partners.shopify.com
 *.shopifycs.com
@@ -3888,17 +3890,17 @@ reviewer.pullrequest.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-errors.hackerone.net
 a5s.hackerone-ext-content.com
 b5s.hackerone-ext-content.com
 hackerone-ext-content.com
-ctf.hacker101.com
 hackerone-user-content.com
 hackerone.live
 cover-photos.hackerone-user-content.com
 api.hackerone.com
-app.pullrequest.com
 www.hackerone.com
+errors.hackerone.net
+ctf.hacker101.com
+app.pullrequest.com
 hackerone.com
 hackerone.com
 api.hackerone.com
