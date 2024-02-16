@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb 16 21:15:13 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb 16 22:16:49 UTC 2024)
 ```
 getworldcoin.com
 *.worldcoin-distributors.com
@@ -37,9 +37,9 @@ iframe.arkoselabs.com
 demo.arkoselabs.com
 cdn.arkoselabs.com
 customer-sessions.arkoselabs.com
-portal.arkoselabs.com
 www.arkoselabs.com
 client-api.arkoselabs.com
+portal.arkoselabs.com
 client-api.arkoselabs.com
 cdn.arkoselabs.com
 customer-sessions.arkoselabs.com
@@ -91,8 +91,8 @@ logo.zyro.com
 payments.hostinger.com
 hpanel.hostinger.com
 *.000webhost.com
-www.hostinger.com
 backend.zyro.com
+www.hostinger.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -221,8 +221,8 @@ secure-supply-xml.booking.com
 http://secure-iphone-xml.booking.com/json/
 *.bybit.com
 *.bybit.com
-api.au.frontegg.com
 portal.au.frontegg.com
+api.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
 api2.frontapp.com
@@ -391,7 +391,6 @@ www.practicalbusinessskills.org
 www.visa.co.ke
 www.visa.co.id
 www.visa.co.uk
-www.cardinalcommerce.com
 bd.visa.com
 www.visa.co.jp
 www.visa.com.tw
@@ -402,6 +401,7 @@ www.visa.com.my
 www.cybersource.com
 www.visainfinite.ca
 aw.visa.com
+visa.co.cr
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -1104,11 +1104,11 @@ push-demo-lightstreamer.cloud.etoro.com
 sts.etoro.com
 watchlistapi.etoro.com
 rankings.etoro.com
-bullsheet.me
 candle.etoro.com
 r.etoro.com
 delta.app
 www.etoro.com
+bullsheet.me
 www.etoro.com
 etoropartners.com
 partners.etoro.com
@@ -1449,9 +1449,9 @@ api.taxjar.com
 *.reckoproduction.com
 *.recko.io
 *.link.co
-app.taxjar.com
-*.stripe.com
 api.stripe.com
+*.stripe.com
+app.taxjar.com
 api.stripe.com
 *.stripe.com
 *.touchtechpayments.com
@@ -1968,9 +1968,9 @@ ca.account.sony.com
 direct.playstation.com
 store.playstation.com
 my.playstation.com
-*.api.playstation.com
 my.account.sony.com
 *.playstation.net
+*.api.playstation.com
 *.sonyentertainmentnetwork.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
@@ -2502,7 +2502,7 @@ press.priceline.com
 admin.rezserver.com
 flyiin.com
 www.bookingholdings.com
-reservations.rezserver.com
+www.priceline.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -2701,8 +2701,8 @@ www.hyattinclusivecollection.com
 booking.applevacations.com
 grammarly.ai
 *.grammarly.io
-*.grammarlyaws.com
 *.grammarly.com
+*.grammarlyaws.com
 *.grammarly.io
 *.grammarlyaws.com
 *.grammarly.com
@@ -2780,10 +2780,10 @@ decision.swiftfinancial.com
 *.braintreepayments.com
 *.paylution.com
 *.braintreegateway.com
+paypalobjects.com
+paypal.me
 *.paypalcorp.com
 *.xoom.com
-paypal.me
-paypalobjects.com
 *.paypal.com
 www.paypal-*.com
 *.xoom.com
@@ -3001,7 +3001,7 @@ synthetics.newrelic.com
 synthetics.eu.newrelic.com
 *.nr-ops.net
 login.newrelic.com
-*.eu.newrelic.com
+*.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -3070,8 +3070,8 @@ hybrid-analysis.com
 *.preempt.com
 *.crowdstrike.com
 www.crowdstrike.com
-*.humio.com
 falcon-sandbox.com
+*.humio.com
 *.crowdstrike.com
 *.humio.com
 *.securecircle.com
@@ -3149,8 +3149,8 @@ gifts.grab.com
 *.myteksi.net
 grab.careers
 kartaview.org
-*.grab.com
 *.taralite.com
+*.grab.com
 *.ovo.id
 *.myteksi.com
 *.myteksi.net
