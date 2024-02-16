@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb 16 03:18:01 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb 16 04:18:02 UTC 2024)
 ```
 rfc.tari.com
 explore.tari.com
@@ -91,11 +91,11 @@ therapeutics.23andme.com
 api.23andme.com
 mediacenter.23andme.com
 research.23andme.com
-auth.23andme.com
+blog.23andme.com
+store.23andme.com
 medical.23andme.com
 you.23andme.com
-store.23andme.com
-blog.23andme.com
+auth.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -115,12 +115,12 @@ api.mercadolibre.com
 www.mercadopago.cl
 www.mercadopago.com.uy
 www.mercadolibre.cl
+www.mercadolibre.com.ar
 www.mercadolibre.com.co
-www.mercadolibre.com.mx
 www.mercadopago.com.ar
+www.mercadolibre.com.mx
 www.mercadopago.com.br
 www.mercadolivre.com.br
-www.mercadolibre.com.ar
 www.mercadopago.com.co
 api.mercadopago.com
 www.mercadopago.com.ar
@@ -314,8 +314,8 @@ launch.gamma.redoxstage.com
 explore.redoxengine.com
 10x.redoxengine.com
 www.redoxengine.com
-testapp.redoxengine.com
 dashboard.gamma.redoxstage.com
+testapp.redoxengine.com
 10x.redoxengine.com
 testapp.redoxengine.com
 testapi.redoxengine.com
@@ -532,8 +532,8 @@ support.mozilla.org
 www.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 monitor.firefox.com
-hg.mozilla.org
 relay.firefox.com
+hg.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -764,9 +764,9 @@ admin.8x8.com
 *.superbet.rs
 *.superbet.com
 *.superbet.pl
-*.magicjackpot.ro
 *.napoleongames.be
 *.superbet.ro
+*.magicjackpot.ro
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -985,9 +985,9 @@ api.recarga.com
 invoices.razorpay.com
 payroll.razorpay.com
 api.razorpay.com
-checkout.razorpay.com
 dashboard.razorpay.com
 x.razorpay.com
+checkout.razorpay.com
 dashboard.razorpay.com
 api.razorpay.com
 checkout.razorpay.com
@@ -1027,8 +1027,8 @@ sorare.com
 api.sorare.com
 ws.sorare.com
 *.sheingsp.com
-*.shein.com
 *.romwe.com
+*.shein.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
@@ -1149,8 +1149,8 @@ community.databricks.com
 labs.databricks.com
 marketplace.databricks.com
 accounts.cloud.databricks.com
-databricks.com
 support.databricks.com
+databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -1446,8 +1446,8 @@ app.taxjar.com
 *.link.co
 hackerone-m1rtuq8orz.hbstaging.website
 hackerone-m1rtuq8orz.hbstaging.website
-www.urbanclap.com
 www.urbancompany.com
+www.urbanclap.com
 www.urbancompany.com
 www.urbanclap.com
 new.reddit.com
@@ -1475,8 +1475,8 @@ api.reddit.com
 *.redditmedia.com
 ads.reddit.com
 *.reddit.com
-redditforbusiness.com
 www.reddit.com
+redditforbusiness.com
 app.spiketrap.io
 *.snooguts.net
 *.redditmedia.com
@@ -1617,8 +1617,8 @@ ccloud.yoti.com
 code.yoti.com
 api.yoti.com
 identity.yoti.com
-www.yotisign.com
 hub.yoti.com
+www.yotisign.com
 core.yoti.com
 api.yoti.com
 ccloud.yoti.com
@@ -1728,11 +1728,11 @@ careers.tiktok.com
 creatormarketplace.tiktok.com
 business.tiktok.com
 live-backstage.tiktok.com
-shop.tiktok.com
-tiktok.com
 ads.tiktok.com
 *.tiktokv.com
 *.tiktok.com
+shop.tiktok.com
+tiktok.com
 www.pangleglobal.com
 partner.tiktokshop.com
 *.tiktok.com
@@ -3257,8 +3257,8 @@ circolocorecords.com/
 lifeinvader.com
 prod.ros.rockstargames.com
 socialclub.rockstargames.com
-*.rockstargames.com
 support.rockstargames.com
+*.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -3268,8 +3268,8 @@ lifeinvader.com
 rockstarnorth.com
 circolocorecords.com/
 www.files.com
-your-assigned-subdomain.files.com
 app.files.com
+your-assigned-subdomain.files.com
 app.files.com
 your-assigned-subdomain.files.com
 www.files.com
@@ -3308,8 +3308,8 @@ www.starbucks.com.cn
 www.starbucks.co.kr
 gift.starbucks.co.jp
 app.starbucks.com
-openapi.starbucks.com
 www.starbucks.com
+openapi.starbucks.com
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3523,15 +3523,15 @@ yourcompany.udemy.com
 shopifyinbox.com
 arrive-server.shopifycloud.com
 shopify.plus
-partners.shopify.com
+*.shopifycs.com
 linkpop.com
-accounts.shopify.com
-*.shopifycloud.com
+partners.shopify.com
 *.shopify.com
 admin.shopify.com
 shop.app
+accounts.shopify.com
+*.shopifycloud.com
 *.shopifykloud.com
-*.shopifycs.com
 your-store.myshopify.com
 *.shopifycs.com
 *.shopify.com
@@ -3740,8 +3740,8 @@ gnip.com
 ide.x.ai
 grok.x.ai
 *.twimg.com
-x.com
 api.x.ai
+x.com
 *.twitter.com
 *.twitter.com
 *.vine.co
@@ -3757,6 +3757,7 @@ one.dash.cloudflare.com
 waf.cumulusfire.net
 api.cloudflare.com
 dash.cloudflare.com
+*.cloudflare.com
 dash.cloudflare.com
 cloudflareworkers.com
 *.teams.cloudflare.com
@@ -3852,10 +3853,10 @@ slackatwork.com
 slack-redir.net
 www.quip.com
 slack-imgs.com
-api.slack.com
+slack.com
 *.quip.com
 app.slack.com
-slack.com
+api.slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -3885,20 +3886,20 @@ profile-photos.hackerone-user-content.com
 mta-sts.wearehackerone.com
 reviewer.pullrequest.com
 hackathon-photos-us-east-2.hackerone-user-content.com
-hackerone-ext-content.com
-app.pullrequest.com
-hackerone-user-content.com
-hackerone.live
 cover-photos-us-east-2.hackerone-user-content.com
-errors.hackerone.net
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
+errors.hackerone.net
 a5s.hackerone-ext-content.com
 b5s.hackerone-ext-content.com
 api.hackerone.com
+hackerone-ext-content.com
 ctf.hacker101.com
-www.hackerone.com
+hackerone-user-content.com
+hackerone.live
 cover-photos.hackerone-user-content.com
+www.hackerone.com
 hackerone.com
+app.pullrequest.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
