@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Feb 17 00:57:09 UTC 2024)
+## Domains with Bounties (Last Updated Sat Feb 17 01:46:28 UTC 2024)
 ```
 getworldcoin.com
 *.worldcoin-distributors.com
@@ -77,9 +77,9 @@ account-sprint.dynatracelabs.com
 sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
-app.dynamic.xyz
-app.dynamic-preprod.xyz
 demo.dynamic.xyz
+app.dynamic-preprod.xyz
+app.dynamic.xyz
 app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
@@ -108,11 +108,11 @@ education.23andme.com
 therapeutics.23andme.com
 api.23andme.com
 research.23andme.com
-you.23andme.com
 blog.23andme.com
 store.23andme.com
 medical.23andme.com
 auth.23andme.com
+you.23andme.com
 mediacenter.23andme.com
 api.23andme.com
 auth.23andme.com
@@ -183,10 +183,10 @@ widget.rentalcars.com
 careers.booking.com
 admin.booking.com
 secure.booking.com
-booking.com
 account.booking.com
 *.booking.com
 *.rentalcars.com
+booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -398,10 +398,10 @@ www.practicalmoneyskills.com
 www.visa.com.ph
 bb.visa.com
 www.visa.com.my
-www.cybersource.com
-www.visainfinite.ca
+www.yellowpepper.com
 aw.visa.com
 www.visa.co.in
+www.tink.com
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -476,15 +476,15 @@ app.avtoelon.uz
 id.avtoelon.uz
 api.avtoelon.uz
 app.kolesa.kz
-krisha.kz
 avtoelon.uz
 id.kolesa.kz
 api.kolesa.kz
 api.krisha.kz
 kolesa.kz
+krisha.kz
 m.avtoelon.uz
-m.kolesa.kz
 m.krisha.kz
+m.kolesa.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -581,8 +581,8 @@ hiltonhotels.jp
 hiltonbusinessonline.com
 *.hilton.io
 *.hilton.com.tr
-hilton.com
 *.hilton.com
+hilton.com
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -648,8 +648,8 @@ debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 *.grindr.io
 *.grindr.mobi
-*.grindr.com
 web.grindr.com
+*.grindr.com
 *.grindr.io
 *.grindr.com
 *.grindr.mobi
@@ -716,8 +716,8 @@ auth.skypicker.com
 jobs.kiwi.com
 tequila.kiwi.com
 *.skypicker.com
-www.kiwi.com
 *.kiwi.com
+www.kiwi.com
 *.kiwi.com
 *.skypicker.com
 www.kiwi.com
@@ -782,10 +782,10 @@ admin.8x8.com
 *.luckydays.com
 *.superbet.rs
 *.superbet.com
-*.superbet.pl
-*.magicjackpot.ro
 *.napoleongames.be
 *.superbet.ro
+*.superbet.pl
+*.magicjackpot.ro
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -1166,8 +1166,8 @@ community.databricks.com
 labs.databricks.com
 marketplace.databricks.com
 accounts.cloud.databricks.com
-support.databricks.com
 advocates.databricks.com
+support.databricks.com
 databricks.com
 customer-academy.databricks.com
 databricks.com
@@ -1448,9 +1448,9 @@ js.stripe.com
 *.reckoproduction.com
 *.recko.io
 *.link.co
-app.taxjar.com
-*.stripe.com
 api.stripe.com
+*.stripe.com
+app.taxjar.com
 api.taxjar.com
 api.stripe.com
 *.stripe.com
@@ -1636,8 +1636,8 @@ ccloud.yoti.com
 code.yoti.com
 api.yoti.com
 www.yotisign.com
-hub.yoti.com
 identity.yoti.com
+hub.yoti.com
 core.yoti.com
 api.yoti.com
 ccloud.yoti.com
@@ -1809,8 +1809,8 @@ cs.money
 support.cs.money
 wiki.cs.money
 3d.cs.money
-app.faraday.ai
 api.faraday.ai
+app.faraday.ai
 app.faraday.ai
 api.faraday.ai
 *-api-*.acronis.com
@@ -2502,7 +2502,7 @@ press.priceline.com
 admin.rezserver.com
 flyiin.com
 www.bookingholdings.com
-reservations.rezserver.com
+www.priceline.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -3000,7 +3000,7 @@ synthetics.newrelic.com
 *.nr-data.net
 synthetics.eu.newrelic.com
 *.nr-ops.net
-login.newrelic.com
+*.newrelic.com
 *.eu.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
@@ -3539,16 +3539,16 @@ yourcompany.udemy.com
 shopifyinbox.com
 arrive-server.shopifycloud.com
 shopify.plus
+*.shopify.com
+accounts.shopify.com
 linkpop.com
 shop.app
 *.shopifycloud.com
 *.shopifykloud.com
 admin.shopify.com
-partners.shopify.com
-*.shopify.com
-accounts.shopify.com
-your-store.myshopify.com
 *.shopifycs.com
+partners.shopify.com
+your-store.myshopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3869,10 +3869,10 @@ slackatwork.com
 slack-redir.net
 www.quip.com
 slack-imgs.com
-slack.com
 *.quip.com
 app.slack.com
 api.slack.com
+slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -3909,13 +3909,13 @@ b5s.hackerone-ext-content.com
 hackerone-ext-content.com
 hackerone-user-content.com
 hackerone.live
-cover-photos.hackerone-user-content.com
 api.hackerone.com
 errors.hackerone.net
 ctf.hacker101.com
 app.pullrequest.com
 www.hackerone.com
 hackerone.com
+cover-photos.hackerone-user-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
