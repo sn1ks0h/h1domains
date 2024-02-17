@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Feb 17 07:16:43 UTC 2024)
+## Domains with Bounties (Last Updated Sat Feb 17 08:17:52 UTC 2024)
 ```
 getworldcoin.com
 *.worldcoin-distributors.com
@@ -11,8 +11,8 @@ toolsforhumanity.com
 *.consumer.worldcoin.org
 *.toolsforhumanity.com
 worldcoin.org
-*.worldcoin.org
 bioid-management.app
+*.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -77,9 +77,9 @@ account-sprint.dynatracelabs.com
 sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
-demo.dynamic.xyz
-app.dynamic-preprod.xyz
 app.dynamic.xyz
+app.dynamic-preprod.xyz
+demo.dynamic.xyz
 app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
@@ -108,11 +108,11 @@ education.23andme.com
 therapeutics.23andme.com
 api.23andme.com
 research.23andme.com
+you.23andme.com
 blog.23andme.com
 store.23andme.com
 medical.23andme.com
 auth.23andme.com
-you.23andme.com
 mediacenter.23andme.com
 api.23andme.com
 auth.23andme.com
@@ -182,10 +182,10 @@ cars.booking.com
 widget.rentalcars.com
 careers.booking.com
 admin.booking.com
+*.rentalcars.com
 secure.booking.com
 account.booking.com
 *.booking.com
-*.rentalcars.com
 booking.com
 *.booking.com
 *.rentalcars.com
@@ -782,10 +782,10 @@ admin.8x8.com
 *.luckydays.com
 *.superbet.rs
 *.superbet.com
-*.superbet.pl
-*.magicjackpot.ro
 *.napoleongames.be
 *.superbet.ro
+*.magicjackpot.ro
+*.superbet.pl
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -1040,8 +1040,8 @@ www.hotelscombined.com
 www.mundi.com.br
 business.kayak.com
 ws.sorare.com
-sorare.com
 api.sorare.com
+sorare.com
 sorare.com
 api.sorare.com
 ws.sorare.com
@@ -1107,8 +1107,8 @@ rankings.etoro.com
 candle.etoro.com
 r.etoro.com
 delta.app
-www.etoro.com
 bullsheet.me
+www.etoro.com
 www.etoro.com
 etoropartners.com
 partners.etoro.com
@@ -1448,8 +1448,8 @@ js.stripe.com
 *.reckoproduction.com
 *.recko.io
 *.link.co
-*.stripe.com
 api.stripe.com
+*.stripe.com
 api.taxjar.com
 app.taxjar.com
 api.stripe.com
@@ -1636,8 +1636,8 @@ ccloud.yoti.com
 code.yoti.com
 api.yoti.com
 www.yotisign.com
-hub.yoti.com
 identity.yoti.com
+hub.yoti.com
 core.yoti.com
 api.yoti.com
 ccloud.yoti.com
@@ -2333,8 +2333,8 @@ http://www.shopmarriott.com
 www.goodrx.com
 www.goodrx.com
 *.ra.roblox.com
-*.roblox.com
 *.rbx.com
+*.roblox.com
 *.guilded.gg
 *.roblox.com
 *.rbx.com
@@ -3000,7 +3000,7 @@ synthetics.newrelic.com
 *.nr-data.net
 synthetics.eu.newrelic.com
 *.nr-ops.net
-login.newrelic.com
+*.newrelic.com
 *.eu.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
@@ -3423,8 +3423,8 @@ docs.gitlab.com
 *.gitlab.net
 customers.gitlab.com
 about.gitlab.com
-*.gitlab.org
 gitlab.com
+*.gitlab.org
 *.gitlab.net
 *.gitlab.org
 *.gitlap.com
@@ -3544,11 +3544,11 @@ shop.app
 *.shopifycloud.com
 *.shopifykloud.com
 admin.shopify.com
-accounts.shopify.com
-your-store.myshopify.com
 *.shopifycs.com
+your-store.myshopify.com
 partners.shopify.com
 *.shopify.com
+accounts.shopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3914,8 +3914,8 @@ hackerone-user-content.com
 hackerone.live
 api.hackerone.com
 cover-photos.hackerone-user-content.com
-hackerone.com
 www.hackerone.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
