@@ -2,9 +2,8 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Feb 17 18:18:14 UTC 2024)
+## Domains with Bounties (Last Updated Sat Feb 17 19:15:50 UTC 2024)
 ```
-getworldcoin.com
 toolsforhumanity.com
 *.worldcoin.dev
 *.toolsforhumanity.com
@@ -13,6 +12,7 @@ bioid-management.app
 *.consumer.worldcoin.org
 *.worldcoin.org
 *.worldcoin-distributors.com
+getworldcoin.com
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -77,9 +77,9 @@ account-sprint.dynatracelabs.com
 sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
-demo.dynamic.xyz
-app.dynamic-preprod.xyz
 app.dynamic.xyz
+app.dynamic-preprod.xyz
+demo.dynamic.xyz
 app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
@@ -91,8 +91,8 @@ logo.zyro.com
 payments.hostinger.com
 hpanel.hostinger.com
 *.000webhost.com
-backend.zyro.com
 www.hostinger.com
+backend.zyro.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -182,8 +182,8 @@ cars.booking.com
 widget.rentalcars.com
 careers.booking.com
 admin.booking.com
-account.booking.com
 *.rentalcars.com
+account.booking.com
 booking.com
 *.booking.com
 secure.booking.com
@@ -221,8 +221,8 @@ secure-supply-xml.booking.com
 http://secure-iphone-xml.booking.com/json/
 *.bybit.com
 *.bybit.com
-portal.au.frontegg.com
 api.au.frontegg.com
+portal.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
 api2.frontapp.com
@@ -397,11 +397,11 @@ www.visa.com.tw
 www.practicalmoneyskills.com
 www.visa.com.ph
 www.visa.com.my
-www.cybersource.com
-www.visainfinite.ca
+www.yellowpepper.com
 aw.visa.com
 www.tink.com
-visa.com.au
+www.cybersource.com
+www.visainfinite.ca
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -481,8 +481,8 @@ api.kolesa.kz
 api.krisha.kz
 kolesa.kz
 m.avtoelon.uz
-m.kolesa.kz
 m.krisha.kz
+m.kolesa.kz
 krisha.kz
 avtoelon.uz
 kolesa.kz
@@ -782,9 +782,9 @@ admin.8x8.com
 *.luckydays.com
 *.superbet.rs
 *.superbet.com
+*.magicjackpot.ro
 *.napoleongames.be
 *.superbet.ro
-*.magicjackpot.ro
 *.superbet.pl
 *.superbet.ro
 *.superbet.rs
@@ -1040,8 +1040,8 @@ www.hotelscombined.com
 www.mundi.com.br
 business.kayak.com
 ws.sorare.com
-api.sorare.com
 sorare.com
+api.sorare.com
 sorare.com
 api.sorare.com
 ws.sorare.com
@@ -1448,8 +1448,8 @@ js.stripe.com
 *.reckoproduction.com
 *.recko.io
 *.link.co
-api.stripe.com
 *.stripe.com
+api.stripe.com
 app.taxjar.com
 api.taxjar.com
 api.stripe.com
@@ -1968,9 +1968,9 @@ ca.account.sony.com
 direct.playstation.com
 store.playstation.com
 my.playstation.com
+*.api.playstation.com
 my.account.sony.com
 *.playstation.net
-*.api.playstation.com
 *.sonyentertainmentnetwork.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
@@ -2783,8 +2783,8 @@ paypalobjects.com
 *.paypalcorp.com
 *.xoom.com
 paypal.me
-*.paypal.com
 py.pl
+*.paypal.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3148,8 +3148,8 @@ gifts.grab.com
 *.myteksi.net
 grab.careers
 kartaview.org
-*.grab.com
 *.taralite.com
+*.grab.com
 *.ovo.id
 *.grabpay.com
 *.myteksi.com
@@ -3592,8 +3592,8 @@ app.snapchat.com
 business.snapchat.com
 ads.snapchat.com
 www.bitmoji.com
-accounts.snapchat.com
 web.snapchat.com
+accounts.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3673,8 +3673,8 @@ next.airbnb.com
 *.withairbnb.com
 assets.airbnb.com
 api.airbnb.com
-*.airbnb.com
 www.airbnb.com
+*.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
