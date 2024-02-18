@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Feb 18 02:24:32 UTC 2024)
+## Domains with Bounties (Last Updated Sun Feb 18 03:18:36 UTC 2024)
 ```
 toolsforhumanity.com
 *.toolsforhumanity.com
@@ -77,9 +77,9 @@ account-sprint.dynatracelabs.com
 sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
-demo.dynamic.xyz
-app.dynamic-preprod.xyz
 app.dynamic.xyz
+app.dynamic-preprod.xyz
+demo.dynamic.xyz
 app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
@@ -182,8 +182,8 @@ cars.booking.com
 widget.rentalcars.com
 careers.booking.com
 admin.booking.com
-*.rentalcars.com
 account.booking.com
+*.rentalcars.com
 booking.com
 *.booking.com
 secure.booking.com
@@ -354,7 +354,6 @@ fhir.redoxengine.com
 explore.redoxengine.com
 www.redoxengine.com
 help.redoxengine.com
-ht.visa.com
 www.visa.com.br
 www.visa.com.az
 www.visa.com.kz
@@ -402,6 +401,7 @@ www.visainfinite.ca
 aw.visa.com
 www.tink.com
 visa.com.au
+www.cardinalcommerce.com
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -480,8 +480,8 @@ id.kolesa.kz
 api.kolesa.kz
 api.krisha.kz
 m.avtoelon.uz
-m.kolesa.kz
 m.krisha.kz
+m.kolesa.kz
 krisha.kz
 avtoelon.uz
 kolesa.kz
@@ -2888,13 +2888,13 @@ www.rocaton.com
 *.goldmanpfm.com
 *.finlife.com
 *.finlifepartners.com
-*.folioinvesting.com
 *.foliodigitalwealth.com
 *.vennhypotheken.nl
 api.foliofn.com
 *.advisorsolutions.gs.com
 apigw.foliofn.com
 *.foliofirst.com
+*.foliofn.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3673,8 +3673,8 @@ next.airbnb.com
 *.withairbnb.com
 assets.airbnb.com
 api.airbnb.com
-www.airbnb.com
 *.airbnb.com
+www.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -3914,8 +3914,8 @@ api.hackerone.com
 www.hackerone.com
 b5s.hackerone-ext-content.com
 hackerone-user-content.com
-hackerone.com
 cover-photos.hackerone-user-content.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com

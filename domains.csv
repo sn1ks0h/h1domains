@@ -18,7 +18,6 @@ toolsforhumanity,getworldcoin.com,True
 toolsforhumanity,bioid-management.app,True
 toolsforhumanity,worldcoin.org,True
 vendasta,task-manager.biz,False
-vendasta,*.apigateway.co,False
 vendasta,your-domain.snapshotreport.biz,False
 vendasta,your-domain.pdqs.mobi,False
 vendasta,your-domain.smblogin.com,False
@@ -28,6 +27,7 @@ vendasta,customervoice.biz,False
 vendasta,*.vendasta-internal.com,False
 vendasta,*.yesware.com,False
 vendasta,partners.vendasta.com,False
+vendasta,*.apigateway.co,False
 vendasta,*.apigateway.co,False
 vendasta,*.vendasta-internal.com,False
 vendasta,*.yesware.com,False
@@ -122,9 +122,9 @@ dynatrace,account-sprint.dynatracelabs.com,True
 dynatrace,sso-sprint.dynatracelabs.com,True
 dynatrace,university-staging.dynatracelabs.com,True
 dynatrace,myaccount-hardening.dynatracelabs.com,True
-dynamic_labs,demo.dynamic.xyz,True
-dynamic_labs,app.dynamic-preprod.xyz,True
 dynamic_labs,app.dynamic.xyz,True
+dynamic_labs,app.dynamic-preprod.xyz,True
+dynamic_labs,demo.dynamic.xyz,True
 dynamic_labs,app.dynamic-preprod.xyz,True
 dynamic_labs,demo.dynamic.xyz,True
 dynamic_labs,app.dynamic.xyz,True
@@ -241,8 +241,8 @@ bookingcom,cars.booking.com,True
 bookingcom,widget.rentalcars.com,True
 bookingcom,careers.booking.com,True
 bookingcom,admin.booking.com,True
-bookingcom,*.rentalcars.com,True
 bookingcom,account.booking.com,True
+bookingcom,*.rentalcars.com,True
 bookingcom,booking.com,True
 bookingcom,*.booking.com,True
 bookingcom,secure.booking.com,True
@@ -1561,8 +1561,8 @@ fertitta_entertainment,thepostoak.com,False
 fertitta_entertainment,galvestonholidayinn.com,False
 fertitta_entertainment,r-u-i.com,False
 fertitta_entertainment,sanluisresort.com,False
-fertitta_entertainment,shoppostoak.com,False
 fertitta_entertainment,dungeonofdoomkemah.com,False
+fertitta_entertainment,shoppostoak.com,False
 fertitta_entertainment,aqbeerfest.com,False
 fertitta_entertainment,aqwine.com,False
 fertitta_entertainment,boardwalkfantasea.com,False
@@ -1759,7 +1759,6 @@ redox_bbp,fhir.redoxengine.com,True
 redox_bbp,explore.redoxengine.com,True
 redox_bbp,www.redoxengine.com,True
 redox_bbp,help.redoxengine.com,True
-visa,ht.visa.com,True
 visa,www.visa.com.br,True
 visa,www.visa.com.az,True
 visa,www.visa.com.kz,True
@@ -1807,6 +1806,7 @@ visa,www.visainfinite.ca,True
 visa,aw.visa.com,True
 visa,www.tink.com,True
 visa,visa.com.au,True
+visa,www.cardinalcommerce.com,True
 visa,aw.visa.com,True
 visa,bb.visa.com,True
 visa,bd.visa.com,True
@@ -1876,8 +1876,8 @@ daimler_truck,*.freightliner.com,False
 daimler_truck,*.mitsubishi-fuso.com,False
 daimler_truck,*exceleratorparts.com,False
 daimler_truck,*fleetboard.com,False
-daimler_truck,*.mercedes-benz-trucks.com,False
 daimler_truck,*.bharatbenz.com,False
+daimler_truck,*.mercedes-benz-trucks.com,False
 daimler_truck,*.daimlertruck.com,False
 daimler_truck,*exceleratorparts.com,False
 daimler_truck,*.mercedes-benz-trucks.com,False
@@ -2849,8 +2849,8 @@ kolesagroup,id.kolesa.kz,True
 kolesagroup,api.kolesa.kz,True
 kolesagroup,api.krisha.kz,True
 kolesagroup,m.avtoelon.uz,True
-kolesagroup,m.kolesa.kz,True
 kolesagroup,m.krisha.kz,True
+kolesagroup,m.kolesa.kz,True
 kolesagroup,krisha.kz,True
 kolesagroup,avtoelon.uz,True
 kolesagroup,kolesa.kz,True
@@ -4644,8 +4644,8 @@ planetart,*.iseeme.com,False
 planetart,*.personalcreations.com,False
 planetart,ai.planetart.com,False
 planetart,www.canvasworld.com,False
-planetart,www.gifts.com,False
 planetart,*.cafepress.com,False
+planetart,www.gifts.com,False
 planetart,www.simplytoimpress.com,False
 planetart,*.cafepress.com,False
 planetart,*.canvasworld.com,False
@@ -7657,9 +7657,9 @@ digitalocean,do.co,False
 digitalocean,developers.cloudways.com,False
 digitalocean,marketplace.digitalocean.com,False
 digitalocean,platform.cloudways.com,False
-digitalocean,169.254.169.254,False
 digitalocean,api.cloudways.com,False
 digitalocean,www.cloudways.com,False
+digitalocean,169.254.169.254,False
 digitalocean,api.digitalocean.com,False
 digitalocean,*.digitalocean.com,False
 digitalocean,cloud.digitalocean.com,False
@@ -8051,9 +8051,9 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,www.8x8.com,False
 8x8,get8x8.com,False
 palo_alto_software,app.liveplan.com,False
+palo_alto_software,www.paloalto.com,False
 palo_alto_software,www.liveplan.com,False
 palo_alto_software,www.bplans.com,False
-palo_alto_software,www.paloalto.com,False
 palo_alto_software,app.liveplan.com,False
 palo_alto_software,www.paloalto.com,False
 palo_alto_software,www.liveplan.com,False
@@ -9201,13 +9201,13 @@ goldmansachs,*.gs.de,True
 goldmansachs,*.goldmanpfm.com,True
 goldmansachs,*.finlife.com,True
 goldmansachs,*.finlifepartners.com,True
-goldmansachs,*.folioinvesting.com,True
 goldmansachs,*.foliodigitalwealth.com,True
 goldmansachs,*.vennhypotheken.nl,True
 goldmansachs,api.foliofn.com,True
 goldmansachs,*.advisorsolutions.gs.com,True
 goldmansachs,apigw.foliofn.com,True
 goldmansachs,*.foliofirst.com,True
+goldmansachs,*.foliofn.com,True
 goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.gs.com,True
 goldmansachs,*.goldman.com,True
@@ -10250,8 +10250,8 @@ airbnb,next.airbnb.com,True
 airbnb,*.withairbnb.com,True
 airbnb,assets.airbnb.com,True
 airbnb,api.airbnb.com,True
-airbnb,www.airbnb.com,True
 airbnb,*.airbnb.com,True
+airbnb,www.airbnb.com,True
 airbnb,www.airbnb.com,True
 airbnb,next.airbnb.com,True
 airbnb,api.airbnb.com,True
@@ -10501,8 +10501,8 @@ security,api.hackerone.com,True
 security,www.hackerone.com,True
 security,b5s.hackerone-ext-content.com,True
 security,hackerone-user-content.com,True
-security,hackerone.com,True
 security,cover-photos.hackerone-user-content.com,True
+security,hackerone.com,True
 security,hackerone.com,True
 security,api.hackerone.com,True
 security,www.hackerone.com,True
