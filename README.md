@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Feb 18 08:20:14 UTC 2024)
+## Domains with Bounties (Last Updated Sun Feb 18 09:16:46 UTC 2024)
 ```
 toolsforhumanity.com
 *.toolsforhumanity.com
@@ -10,9 +10,9 @@ getworldcoin.com
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
 worldcoin.org
-*.worldcoin.org
 bioid-management.app
 *.worldcoin.dev
+*.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -182,11 +182,11 @@ cars.booking.com
 widget.rentalcars.com
 careers.booking.com
 admin.booking.com
-account.booking.com
 *.rentalcars.com
 booking.com
 *.booking.com
 secure.booking.com
+account.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -782,9 +782,9 @@ admin.8x8.com
 *.luckydays.com
 *.superbet.rs
 *.superbet.com
+*.magicjackpot.ro
 *.napoleongames.be
 *.superbet.ro
-*.magicjackpot.ro
 *.superbet.pl
 *.superbet.ro
 *.superbet.rs
@@ -909,11 +909,11 @@ zerobounce.net
 cloud.gravitational.io
 askpam.ai
 *.teleportinfra.sh
-*.goteleport.com
 teleport.sh
 *.teleport.dev
 *.gravitational.io
 platform.teleport.sh
+*.goteleport.com
 *.goteleport.com
 *.gravitational.com
 *.teleport.dev
@@ -1494,8 +1494,8 @@ ads.reddit.com
 redditforbusiness.com
 app.spiketrap.io
 *.reddit.com
-*.reddithelp.com
 www.reddit.com
+*.reddithelp.com
 *.snooguts.net
 *.snooguts.net
 *.redditmedia.com
@@ -1636,8 +1636,8 @@ ccloud.yoti.com
 code.yoti.com
 api.yoti.com
 www.yotisign.com
-identity.yoti.com
 hub.yoti.com
+identity.yoti.com
 core.yoti.com
 api.yoti.com
 ccloud.yoti.com
@@ -1703,10 +1703,10 @@ secure.sharefile.com
 api.sharefile.eu
 secure.sharefile.eu
 api.sharefile.com
-(youriwssubdomain).cloud.com
-www.cloud.com
 *.citrixworkspacesapi.net
 citrix.cloud.com
+(youriwssubdomain).cloud.com
+www.cloud.com
 (yoursubdomain).sharefile.com
 accounts.cloud.com
 citrix.cloud.com
@@ -2495,14 +2495,14 @@ uk.forescout.cloud
 de.forescout.cloud
 cysiv.com
 app.command.cysiv.com
-cruises.priceline.com
 api.rezserver.com
 secure.rezserver.com
 www.getaroom.com
 reservations.rezserver.com
-admin.rezserver.com
-priceline.com
 flyiin.com
+www.priceline.com
+admin.rezserver.com
+press.priceline.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -2779,9 +2779,9 @@ decision.swiftfinancial.com
 *.braintreepayments.com
 *.paylution.com
 *.braintreegateway.com
-paypalobjects.com
 *.paypalcorp.com
 *.xoom.com
+paypalobjects.com
 paypal.me
 py.pl
 *.paypal.com
@@ -3673,8 +3673,8 @@ next.airbnb.com
 *.withairbnb.com
 assets.airbnb.com
 api.airbnb.com
-*.airbnb.com
 www.airbnb.com
+*.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
