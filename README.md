@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Feb 18 01:00:41 UTC 2024)
+## Domains with Bounties (Last Updated Sun Feb 18 01:55:03 UTC 2024)
 ```
 toolsforhumanity.com
 *.toolsforhumanity.com
@@ -77,9 +77,9 @@ account-sprint.dynatracelabs.com
 sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
-demo.dynamic.xyz
-app.dynamic-preprod.xyz
 app.dynamic.xyz
+app.dynamic-preprod.xyz
+demo.dynamic.xyz
 app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
@@ -91,8 +91,8 @@ logo.zyro.com
 payments.hostinger.com
 hpanel.hostinger.com
 *.000webhost.com
-backend.zyro.com
 www.hostinger.com
+backend.zyro.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -182,8 +182,8 @@ cars.booking.com
 widget.rentalcars.com
 careers.booking.com
 admin.booking.com
-account.booking.com
 *.rentalcars.com
+account.booking.com
 booking.com
 *.booking.com
 secure.booking.com
@@ -397,11 +397,11 @@ www.visa.com.tw
 www.practicalmoneyskills.com
 www.visa.com.ph
 www.visa.com.my
-www.yellowpepper.com
-aw.visa.com
-www.tink.com
 www.cybersource.com
 www.visainfinite.ca
+aw.visa.com
+www.tink.com
+visa.com.au
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -782,9 +782,9 @@ admin.8x8.com
 *.luckydays.com
 *.superbet.rs
 *.superbet.com
+*.magicjackpot.ro
 *.napoleongames.be
 *.superbet.ro
-*.magicjackpot.ro
 *.superbet.pl
 *.superbet.ro
 *.superbet.rs
@@ -1040,8 +1040,8 @@ www.hotelscombined.com
 www.mundi.com.br
 business.kayak.com
 ws.sorare.com
-api.sorare.com
 sorare.com
+api.sorare.com
 sorare.com
 api.sorare.com
 ws.sorare.com
@@ -1703,10 +1703,10 @@ secure.sharefile.com
 api.sharefile.eu
 secure.sharefile.eu
 api.sharefile.com
-(youriwssubdomain).cloud.com
-www.cloud.com
 *.citrixworkspacesapi.net
 citrix.cloud.com
+(youriwssubdomain).cloud.com
+www.cloud.com
 (yoursubdomain).sharefile.com
 accounts.cloud.com
 citrix.cloud.com
@@ -1745,15 +1745,15 @@ developers.tiktok.com
 effecthouse.tiktok.com
 careers.tiktok.com
 *.tiktokv.com
-business.tiktok.com
 www.pangleglobal.com
 live-backstage.tiktok.com
+business.tiktok.com
 partner.tiktokshop.com
 creatormarketplace.tiktok.com
 ads.tiktok.com
 *.tiktok.com
-tiktok.com
 shop.tiktok.com
+tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2333,9 +2333,9 @@ http://www.shopmarriott.com
 www.goodrx.com
 www.goodrx.com
 *.ra.roblox.com
-*.roblox.com
 *.rbx.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2501,7 +2501,7 @@ secure.rezserver.com
 www.getaroom.com
 reservations.rezserver.com
 press.priceline.com
-admin.rezserver.com
+www.bookingholdings.com
 priceline.com
 www.priceline.com
 secure.rezserver.com
@@ -2779,9 +2779,9 @@ decision.swiftfinancial.com
 *.braintreepayments.com
 *.paylution.com
 *.braintreegateway.com
+paypalobjects.com
 *.paypalcorp.com
 *.xoom.com
-paypalobjects.com
 paypal.me
 py.pl
 *.paypal.com
@@ -2940,11 +2940,11 @@ support.steampowered.com
 help.steampowered.com
 playartifact.com
 www.valvesoftware.com
-www.teamfortress.com
 www.counter-strike.net
 steamcommunity.com
 api.steampowered.com
 store.steampowered.com
+www.teamfortress.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3000,7 +3000,7 @@ synthetics.newrelic.com
 *.nr-data.net
 synthetics.eu.newrelic.com
 *.nr-ops.net
-*.newrelic.com
+login.newrelic.com
 *.eu.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
@@ -3148,8 +3148,8 @@ gifts.grab.com
 *.myteksi.net
 grab.careers
 kartaview.org
-*.taralite.com
 *.grab.com
+*.taralite.com
 *.ovo.id
 *.grabpay.com
 *.myteksi.com
@@ -3545,8 +3545,8 @@ linkpop.com
 *.shopifycs.com
 accounts.shopify.com
 your-store.myshopify.com
-*.shopify.com
 shop.app
+*.shopify.com
 admin.shopify.com
 partners.shopify.com
 *.shopifycs.com
@@ -3673,8 +3673,8 @@ next.airbnb.com
 *.withairbnb.com
 assets.airbnb.com
 api.airbnb.com
-*.airbnb.com
 www.airbnb.com
+*.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -3911,11 +3911,11 @@ api.hackerone.com
 errors.hackerone.net
 ctf.hacker101.com
 app.pullrequest.com
-cover-photos.hackerone-user-content.com
 www.hackerone.com
 b5s.hackerone-ext-content.com
 hackerone-user-content.com
 hackerone.com
+cover-photos.hackerone-user-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
