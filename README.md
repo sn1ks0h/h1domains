@@ -2,16 +2,16 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Feb 18 12:25:27 UTC 2024)
+## Domains with Bounties (Last Updated Sun Feb 18 13:19:04 UTC 2024)
 ```
 *.toolsforhumanity.com
-getworldcoin.com
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
 bioid-management.app
 *.worldcoin.dev
 worldcoin.org
 toolsforhumanity.com
+getworldcoin.com
 *.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
@@ -77,9 +77,9 @@ account-sprint.dynatracelabs.com
 sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
-demo.dynamic.xyz
-app.dynamic-preprod.xyz
 app.dynamic.xyz
+app.dynamic-preprod.xyz
+demo.dynamic.xyz
 app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
@@ -129,15 +129,15 @@ api.mercadopago.com
 www.mercadopago.com.mx
 api.mercadolibre.com
 www.mercadopago.com.uy
+www.mercadolibre.com.mx
 www.mercadolibre.com.co
 www.mercadopago.com.br
-www.mercadolibre.com.mx
 www.mercadopago.com.co
 www.mercadopago.com.pe
 www.mercadolivre.com.br
-www.mercadolibre.cl
 www.mercadopago.com.ar
 www.mercadopago.cl
+www.mercadolibre.cl
 www.mercadolibre.com.pe
 www.mercadolibre.com.ar
 api.mercadopago.com
@@ -395,9 +395,9 @@ www.visa.com.tw
 www.practicalmoneyskills.com
 www.visa.com.ph
 www.visa.com.my
-www.tink.com
 www.cybersource.com
 www.visainfinite.ca
+www.tink.com
 www.cardinalcommerce.com
 visa.co.cr
 usa.visa.com
@@ -745,7 +745,6 @@ user-profile.8x8.com
 *.jit.si
 *.wavecell.com
 cloud8.8x8.com
-*.packet8.net
 sso.8x8.com
 voapi.8x8.com
 *.8x8.vc
@@ -782,9 +781,9 @@ admin.8x8.com
 *.luckydays.com
 *.superbet.rs
 *.superbet.com
-*.magicjackpot.ro
 *.napoleongames.be
 *.superbet.ro
+*.magicjackpot.ro
 *.superbet.pl
 *.superbet.ro
 *.superbet.rs
@@ -1448,8 +1447,8 @@ js.stripe.com
 *.reckoproduction.com
 *.recko.io
 *.link.co
-*.stripe.com
 api.stripe.com
+*.stripe.com
 app.taxjar.com
 api.taxjar.com
 api.stripe.com
@@ -1745,15 +1744,15 @@ developers.tiktok.com
 effecthouse.tiktok.com
 careers.tiktok.com
 *.tiktokv.com
-www.pangleglobal.com
-live-backstage.tiktok.com
 business.tiktok.com
+live-backstage.tiktok.com
 partner.tiktokshop.com
 creatormarketplace.tiktok.com
 ads.tiktok.com
-shop.tiktok.com
 tiktok.com
+shop.tiktok.com
 *.tiktok.com
+www.pangleglobal.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1968,9 +1967,9 @@ ca.account.sony.com
 direct.playstation.com
 store.playstation.com
 my.playstation.com
-*.api.playstation.com
 my.account.sony.com
 *.playstation.net
+*.api.playstation.com
 *.sonyentertainmentnetwork.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
@@ -2499,10 +2498,10 @@ api.rezserver.com
 secure.rezserver.com
 reservations.rezserver.com
 flyiin.com
+priceline.com
 admin.rezserver.com
 press.priceline.com
 cruises.priceline.com
-www.getaroom.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -3000,8 +2999,8 @@ synthetics.newrelic.com
 *.nr-data.net
 synthetics.eu.newrelic.com
 *.nr-ops.net
-login.newrelic.com
 *.eu.newrelic.com
+one.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
