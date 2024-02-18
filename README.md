@@ -2,10 +2,9 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Feb 18 20:18:32 UTC 2024)
+## Domains with Bounties (Last Updated Sun Feb 18 21:13:51 UTC 2024)
 ```
 *.toolsforhumanity.com
-*.consumer.worldcoin.org
 *.worldcoin-distributors.com
 bioid-management.app
 worldcoin.org
@@ -13,6 +12,7 @@ getworldcoin.com
 toolsforhumanity.com
 *.worldcoin.dev
 *.worldcoin.org
+*.consumer.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -77,9 +77,9 @@ account-sprint.dynatracelabs.com
 sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
-demo.dynamic.xyz
-app.dynamic-preprod.xyz
 app.dynamic.xyz
+app.dynamic-preprod.xyz
+demo.dynamic.xyz
 app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
@@ -129,14 +129,14 @@ api.mercadopago.com
 www.mercadopago.com.mx
 api.mercadolibre.com
 www.mercadopago.com.uy
-www.mercadolibre.com.mx
 www.mercadopago.com.br
+www.mercadolibre.com.mx
 www.mercadopago.com.co
 www.mercadopago.com.pe
 www.mercadolivre.com.br
+www.mercadolibre.cl
 www.mercadopago.com.ar
 www.mercadopago.cl
-www.mercadolibre.cl
 www.mercadolibre.com.pe
 www.mercadolibre.com.ar
 www.mercadolibre.com.co
@@ -781,9 +781,9 @@ admin.8x8.com
 *.luckydays.com
 *.superbet.rs
 *.superbet.com
+*.magicjackpot.ro
 *.napoleongames.be
 *.superbet.ro
-*.magicjackpot.ro
 *.superbet.pl
 *.superbet.ro
 *.superbet.rs
@@ -1164,8 +1164,8 @@ community.databricks.com
 labs.databricks.com
 marketplace.databricks.com
 accounts.cloud.databricks.com
-support.databricks.com
 advocates.databricks.com
+support.databricks.com
 customer-academy.databricks.com
 docs.databricks.com
 databricks.com
@@ -1744,8 +1744,8 @@ developers.tiktok.com
 effecthouse.tiktok.com
 careers.tiktok.com
 *.tiktokv.com
-business.tiktok.com
 live-backstage.tiktok.com
+business.tiktok.com
 partner.tiktokshop.com
 creatormarketplace.tiktok.com
 ads.tiktok.com
@@ -1967,9 +1967,9 @@ ca.account.sony.com
 direct.playstation.com
 store.playstation.com
 my.playstation.com
-*.api.playstation.com
 my.account.sony.com
 *.playstation.net
+*.api.playstation.com
 *.sonyentertainmentnetwork.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
@@ -2777,9 +2777,9 @@ decision.swiftfinancial.com
 *.braintreepayments.com
 *.paylution.com
 *.braintreegateway.com
-paypalobjects.com
 *.paypalcorp.com
 *.xoom.com
+paypalobjects.com
 paypal.me
 py.pl
 *.paypal.com
@@ -3538,7 +3538,6 @@ yourcompany.udemy.com
 shopifyinbox.com
 arrive-server.shopifycloud.com
 linkpop.com
-*.shopifycloud.com
 *.shopifykloud.com
 *.shopifycs.com
 accounts.shopify.com
@@ -3548,6 +3547,7 @@ your-store.myshopify.com
 shopify.plus
 *.shopify.com
 admin.shopify.com
+*.shopifycloud.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3672,8 +3672,8 @@ next.airbnb.com
 *.withairbnb.com
 assets.airbnb.com
 api.airbnb.com
-www.airbnb.com
 *.airbnb.com
+www.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
