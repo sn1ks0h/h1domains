@@ -2,16 +2,16 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Feb 18 06:20:28 UTC 2024)
+## Domains with Bounties (Last Updated Sun Feb 18 07:18:50 UTC 2024)
 ```
 toolsforhumanity.com
 *.toolsforhumanity.com
-worldcoin.org
-*.worldcoin.dev
 *.worldcoin-distributors.com
 getworldcoin.com
+*.worldcoin.dev
 *.consumer.worldcoin.org
 bioid-management.app
+worldcoin.org
 *.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
@@ -129,15 +129,15 @@ api.mercadopago.com
 www.mercadopago.com.mx
 api.mercadolibre.com
 www.mercadopago.com.uy
+www.mercadolibre.com.mx
 www.mercadolibre.com.co
 www.mercadopago.com.br
-www.mercadolibre.com.mx
 www.mercadopago.com.co
 www.mercadopago.com.pe
 www.mercadolivre.com.br
-www.mercadolibre.cl
 www.mercadopago.com.ar
 www.mercadopago.cl
+www.mercadolibre.cl
 www.mercadolibre.com.pe
 www.mercadolibre.com.ar
 api.mercadopago.com
@@ -782,9 +782,9 @@ admin.8x8.com
 *.luckydays.com
 *.superbet.rs
 *.superbet.com
+*.magicjackpot.ro
 *.napoleongames.be
 *.superbet.ro
-*.magicjackpot.ro
 *.superbet.pl
 *.superbet.ro
 *.superbet.rs
@@ -1636,8 +1636,8 @@ ccloud.yoti.com
 code.yoti.com
 api.yoti.com
 www.yotisign.com
-hub.yoti.com
 identity.yoti.com
+hub.yoti.com
 core.yoti.com
 api.yoti.com
 ccloud.yoti.com
@@ -1703,10 +1703,10 @@ secure.sharefile.com
 api.sharefile.eu
 secure.sharefile.eu
 api.sharefile.com
-(youriwssubdomain).cloud.com
-www.cloud.com
 *.citrixworkspacesapi.net
 citrix.cloud.com
+(youriwssubdomain).cloud.com
+www.cloud.com
 (yoursubdomain).sharefile.com
 accounts.cloud.com
 citrix.cloud.com
@@ -1968,9 +1968,9 @@ ca.account.sony.com
 direct.playstation.com
 store.playstation.com
 my.playstation.com
-*.api.playstation.com
 my.account.sony.com
 *.playstation.net
+*.api.playstation.com
 *.sonyentertainmentnetwork.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
@@ -2501,7 +2501,8 @@ secure.rezserver.com
 www.getaroom.com
 reservations.rezserver.com
 press.priceline.com
-www.priceline.com
+admin.rezserver.com
+priceline.com
 www.bookingholdings.com
 www.priceline.com
 secure.rezserver.com
@@ -2582,7 +2583,6 @@ meetings.hyatt.com
 plannerrequest.hyatt.com
 scapegoat.hyatt.com
 confluence.hyattdev.com
-www.hyattconnect.com
 jira.hyattdev.com
 vacations.vallarta.grandvelas.com
 holidays-us.fijiairways.com
@@ -2615,6 +2615,7 @@ holidays-fj.fijiairways.com
 res.treasureisland.globalbookingsolutions.com
 res.vacations.sesameplace.com
 www.triseptsolutions.com
+blueskytours.globalbookingsolutions.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -3148,8 +3149,8 @@ gifts.grab.com
 *.myteksi.net
 grab.careers
 kartaview.org
-*.grab.com
 *.taralite.com
+*.grab.com
 *.ovo.id
 *.grabpay.com
 *.myteksi.com
@@ -3394,8 +3395,8 @@ npmjs.com
 *.githubapp.com
 classroom.github.com
 api.github.com
-github.com
 npmjs.org
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3546,9 +3547,9 @@ linkpop.com
 accounts.shopify.com
 your-store.myshopify.com
 *.shopify.com
-shop.app
 admin.shopify.com
 partners.shopify.com
+shop.app
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3673,8 +3674,8 @@ next.airbnb.com
 *.withairbnb.com
 assets.airbnb.com
 api.airbnb.com
-www.airbnb.com
 *.airbnb.com
+www.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
