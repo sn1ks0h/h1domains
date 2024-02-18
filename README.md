@@ -2,17 +2,17 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Feb 17 23:16:18 UTC 2024)
+## Domains with Bounties (Last Updated Sun Feb 18 01:00:41 UTC 2024)
 ```
 toolsforhumanity.com
 *.toolsforhumanity.com
 worldcoin.org
-*.worldcoin.dev
 *.worldcoin-distributors.com
 getworldcoin.com
+*.worldcoin.dev
 *.consumer.worldcoin.org
-bioid-management.app
 *.worldcoin.org
+bioid-management.app
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -77,9 +77,9 @@ account-sprint.dynatracelabs.com
 sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
-app.dynamic.xyz
-app.dynamic-preprod.xyz
 demo.dynamic.xyz
+app.dynamic-preprod.xyz
+app.dynamic.xyz
 app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
@@ -91,8 +91,8 @@ logo.zyro.com
 payments.hostinger.com
 hpanel.hostinger.com
 *.000webhost.com
-www.hostinger.com
 backend.zyro.com
+www.hostinger.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -182,8 +182,8 @@ cars.booking.com
 widget.rentalcars.com
 careers.booking.com
 admin.booking.com
-*.rentalcars.com
 account.booking.com
+*.rentalcars.com
 booking.com
 *.booking.com
 secure.booking.com
@@ -397,11 +397,11 @@ www.visa.com.tw
 www.practicalmoneyskills.com
 www.visa.com.ph
 www.visa.com.my
-www.cybersource.com
-www.visainfinite.ca
+www.yellowpepper.com
 aw.visa.com
 www.tink.com
-visa.com.au
+www.cybersource.com
+www.visainfinite.ca
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -782,9 +782,9 @@ admin.8x8.com
 *.luckydays.com
 *.superbet.rs
 *.superbet.com
-*.magicjackpot.ro
 *.napoleongames.be
 *.superbet.ro
+*.magicjackpot.ro
 *.superbet.pl
 *.superbet.ro
 *.superbet.rs
@@ -1040,8 +1040,8 @@ www.hotelscombined.com
 www.mundi.com.br
 business.kayak.com
 ws.sorare.com
-sorare.com
 api.sorare.com
+sorare.com
 sorare.com
 api.sorare.com
 ws.sorare.com
@@ -1224,8 +1224,8 @@ woocommerce-adapter.judge.me
 bigcommerce-adapter.judge.me
 cache.judge.me
 api.evernote.com
-accounts.evernote.com
 www.evernote.com
+accounts.evernote.com
 www.evernote.com
 accounts.evernote.com
 api.evernote.com
@@ -1448,8 +1448,8 @@ js.stripe.com
 *.reckoproduction.com
 *.recko.io
 *.link.co
-api.stripe.com
 *.stripe.com
+api.stripe.com
 app.taxjar.com
 api.taxjar.com
 api.stripe.com
@@ -2333,8 +2333,8 @@ http://www.shopmarriott.com
 www.goodrx.com
 www.goodrx.com
 *.ra.roblox.com
-*.rbx.com
 *.roblox.com
+*.rbx.com
 *.guilded.gg
 *.roblox.com
 *.rbx.com
@@ -3000,7 +3000,7 @@ synthetics.newrelic.com
 *.nr-data.net
 synthetics.eu.newrelic.com
 *.nr-ops.net
-login.newrelic.com
+*.newrelic.com
 *.eu.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
@@ -3543,12 +3543,12 @@ linkpop.com
 *.shopifycloud.com
 *.shopifykloud.com
 *.shopifycs.com
-partners.shopify.com
 accounts.shopify.com
 your-store.myshopify.com
 *.shopify.com
 shop.app
 admin.shopify.com
+partners.shopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3885,9 +3885,9 @@ slack-imgs.com
 spaces.pm
 www.quip.com
 *.quip.com
-onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 le.yahooapis.com
+yimg.com
 data.mail.yahoo.com
 le.yahooapis.com
 onepush.query.yahoo.com
