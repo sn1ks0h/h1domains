@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Feb 18 18:18:45 UTC 2024)
+## Domains with Bounties (Last Updated Sun Feb 18 19:14:35 UTC 2024)
 ```
 *.toolsforhumanity.com
 *.consumer.worldcoin.org
@@ -77,22 +77,22 @@ account-sprint.dynatracelabs.com
 sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
-demo.dynamic.xyz
-app.dynamic-preprod.xyz
 app.dynamic.xyz
+app.dynamic-preprod.xyz
+demo.dynamic.xyz
 app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
 editor.zyro.com
-cpanel.hostinger.com
 www.niagahoster.co.id
 www.zyro.com
 logo.zyro.com
 payments.hostinger.com
 hpanel.hostinger.com
 backend.zyro.com
-www.hostinger.com
 *.000webhost.com
+cpanel.hostinger.com
+www.hostinger.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -716,8 +716,8 @@ auth.skypicker.com
 jobs.kiwi.com
 tequila.kiwi.com
 www.kiwi.com
-*.skypicker.com
 *.kiwi.com
+*.skypicker.com
 *.kiwi.com
 *.skypicker.com
 www.kiwi.com
@@ -1164,8 +1164,8 @@ community.databricks.com
 labs.databricks.com
 marketplace.databricks.com
 accounts.cloud.databricks.com
-support.databricks.com
 advocates.databricks.com
+support.databricks.com
 customer-academy.databricks.com
 docs.databricks.com
 databricks.com
@@ -1702,10 +1702,10 @@ secure.sharefile.com
 api.sharefile.eu
 secure.sharefile.eu
 api.sharefile.com
-*.citrixworkspacesapi.net
-citrix.cloud.com
 (youriwssubdomain).cloud.com
 www.cloud.com
+*.citrixworkspacesapi.net
+citrix.cloud.com
 (yoursubdomain).sharefile.com
 accounts.cloud.com
 citrix.cloud.com
@@ -1744,8 +1744,8 @@ developers.tiktok.com
 effecthouse.tiktok.com
 careers.tiktok.com
 *.tiktokv.com
-live-backstage.tiktok.com
 business.tiktok.com
+live-backstage.tiktok.com
 partner.tiktokshop.com
 creatormarketplace.tiktok.com
 ads.tiktok.com
@@ -1808,8 +1808,8 @@ cs.money
 support.cs.money
 wiki.cs.money
 3d.cs.money
-app.faraday.ai
 api.faraday.ai
+app.faraday.ai
 app.faraday.ai
 api.faraday.ai
 *-api-*.acronis.com
@@ -2774,16 +2774,16 @@ prequal.swiftfinancial.com
 decision.swiftfinancial.com
 *.hyperwallet.com
 *.braintree-api.com
-*.venmo.com
 *.braintreepayments.com
 *.paylution.com
 *.braintreegateway.com
-paypalobjects.com
 *.paypalcorp.com
 *.xoom.com
+paypalobjects.com
 paypal.me
 py.pl
 *.paypal.com
+*.venmo.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -2999,8 +2999,8 @@ synthetics.newrelic.com
 *.nr-data.net
 synthetics.eu.newrelic.com
 *.nr-ops.net
+login.newrelic.com
 *.eu.newrelic.com
-one.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -3537,17 +3537,17 @@ www.udemy.com
 yourcompany.udemy.com
 shopifyinbox.com
 arrive-server.shopifycloud.com
-shopify.plus
 linkpop.com
 *.shopifycloud.com
 *.shopifykloud.com
 *.shopifycs.com
 accounts.shopify.com
-*.shopify.com
 partners.shopify.com
 shop.app
 your-store.myshopify.com
 admin.shopify.com
+shopify.plus
+*.shopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3672,8 +3672,8 @@ next.airbnb.com
 *.withairbnb.com
 assets.airbnb.com
 api.airbnb.com
-www.airbnb.com
 *.airbnb.com
+www.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -3756,8 +3756,8 @@ ide.x.ai
 grok.x.ai
 *.twimg.com
 api.x.ai
-x.com
 *.twitter.com
+x.com
 *.twitter.com
 *.vine.co
 *.twimg.com
