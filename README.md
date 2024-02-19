@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Feb 19 03:17:02 UTC 2024)
+## Domains with Bounties (Last Updated Mon Feb 19 04:19:22 UTC 2024)
 ```
 *.toolsforhumanity.com
 *.worldcoin-distributors.com
@@ -91,8 +91,8 @@ hpanel.hostinger.com
 backend.zyro.com
 cpanel.hostinger.com
 www.zyro.com
-www.hostinger.com
 *.000webhost.com
+www.hostinger.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -128,14 +128,14 @@ www.mercadolibre.com.uy
 api.mercadopago.com
 www.mercadopago.com.mx
 www.mercadopago.com.uy
-www.mercadopago.com.br
 www.mercadolibre.com.mx
+www.mercadopago.com.br
 www.mercadopago.com.co
 www.mercadopago.com.pe
 www.mercadolivre.com.br
-www.mercadolibre.cl
 www.mercadopago.com.ar
 www.mercadopago.cl
+www.mercadolibre.cl
 www.mercadolibre.com.pe
 www.mercadolibre.com.ar
 www.mercadolibre.com.co
@@ -781,9 +781,9 @@ admin.8x8.com
 *.luckydays.com
 *.superbet.rs
 *.superbet.com
-*.magicjackpot.ro
 *.napoleongames.be
 *.superbet.ro
+*.magicjackpot.ro
 *.superbet.pl
 *.superbet.ro
 *.superbet.rs
@@ -1039,8 +1039,8 @@ www.hotelscombined.com
 www.mundi.com.br
 business.kayak.com
 ws.sorare.com
-api.sorare.com
 sorare.com
+api.sorare.com
 sorare.com
 api.sorare.com
 ws.sorare.com
@@ -1106,8 +1106,8 @@ candle.etoro.com
 r.etoro.com
 delta.app
 bullsheet.me
-www.etoro.com
 etoropartners.com
+www.etoro.com
 www.etoro.com
 etoropartners.com
 partners.etoro.com
@@ -1164,8 +1164,8 @@ community.databricks.com
 labs.databricks.com
 marketplace.databricks.com
 accounts.cloud.databricks.com
-advocates.databricks.com
 support.databricks.com
+advocates.databricks.com
 customer-academy.databricks.com
 docs.databricks.com
 databricks.com
@@ -1817,8 +1817,8 @@ api.faraday.ai
 *.5nine.com
 *.acronis.work
 *.acronis.com
-beta-cloud.acronis.com
 account.acronis.com
+beta-cloud.acronis.com
 *-api-*.acronis.com
 *.acronis.com
 *.5nine.com
@@ -1967,9 +1967,9 @@ ca.account.sony.com
 direct.playstation.com
 store.playstation.com
 my.playstation.com
+*.api.playstation.com
 my.account.sony.com
 *.playstation.net
-*.api.playstation.com
 *.sonyentertainmentnetwork.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
@@ -2500,8 +2500,8 @@ flyiin.com
 admin.rezserver.com
 press.priceline.com
 cruises.priceline.com
-priceline.com
 www.priceline.com
+secure.rezserver.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -2940,10 +2940,10 @@ help.steampowered.com
 playartifact.com
 www.valvesoftware.com
 www.counter-strike.net
-steamcommunity.com
 api.steampowered.com
 store.steampowered.com
 www.teamfortress.com
+steamcommunity.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3671,9 +3671,9 @@ www.hoteltonight.com
 next.airbnb.com
 *.withairbnb.com
 assets.airbnb.com
-api.airbnb.com
 *.airbnb.com
 www.airbnb.com
+api.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
