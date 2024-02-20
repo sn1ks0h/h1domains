@@ -2,17 +2,17 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Feb 20 02:20:30 UTC 2024)
+## Domains with Bounties (Last Updated Tue Feb 20 03:18:23 UTC 2024)
 ```
 *.worldcoin-distributors.com
 toolsforhumanity.com
-worldcoin.org
 *.toolsforhumanity.com
 *.consumer.worldcoin.org
 bioid-management.app
-getworldcoin.com
-*.worldcoin.org
 *.worldcoin.dev
+getworldcoin.com
+worldcoin.org
+*.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -253,8 +253,8 @@ pentesting3.gethypr.com
 pentesting2.gethypr.com
 hypr74352.gethypr.com
 hypr37448.gethypr.com
-app.moderntreasury.com
 cdn.moderntreasury.com
+app.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
 test.nicehash.com
@@ -892,8 +892,8 @@ www.expediagroup.com
 www.flights.com
 *.magiceden.dev
 *.magiceden.workers.dev
-*.magiceden.io
 magiceden.io
+*.magiceden.io
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -2297,7 +2297,6 @@ passwordchallenge.marriott.com
 www.ritzcarlton.com
 *uat.marriott.com
 activities.marriott.com
-jobs.marriott.com
 reservations.all-inclusive.marriott.com
 marrtool.com
 cpp.marriott.com
@@ -2306,6 +2305,7 @@ hotel-deals.marriott.com
 mgs.marriott.com
 www.marriott.com
 all-inclusive.marriott.com
+jobs.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -2940,10 +2940,10 @@ playartifact.com
 www.valvesoftware.com
 www.counter-strike.net
 store.steampowered.com
-www.teamfortress.com
 www.dota2.com
 steamcommunity.com
 api.steampowered.com
+www.teamfortress.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
