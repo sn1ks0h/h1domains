@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Feb 20 18:23:44 UTC 2024)
+## Domains with Bounties (Last Updated Tue Feb 20 19:17:26 UTC 2024)
 ```
 *.worldcoin-distributors.com
 *.toolsforhumanity.com
@@ -134,12 +134,12 @@ www.mercadopago.com.ar
 www.mercadolibre.com.co
 www.mercadolibre.com.pe
 www.mercadolibre.cl
-www.mercadolibre.com.ar
 www.mercadopago.com.br
 www.mercadopago.cl
 www.mercadolivre.com.br
-www.mercadopago.com.mx
 api.mercadolibre.com
+www.mercadopago.com.mx
+www.mercadolibre.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -402,9 +402,9 @@ cw.visa.com
 bb.visa.com
 visa.com.au
 www.visa.com.br
-usa.visa.com
 www.fraedom.com
 visa.co.cr
+ht.visa.com
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -678,8 +678,8 @@ oneview.malwarebytes.com
 my.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
-*.threatdown.com
 www.malwarebytes.com
+*.threatdown.com
 *.cloud.malwarebytes.com
 *.malwarebytes.com
 *.mwbsys.com
@@ -1010,8 +1010,8 @@ invoices.razorpay.com
 payroll.razorpay.com
 dashboard.razorpay.com
 x.razorpay.com
-checkout.razorpay.com
 api.razorpay.com
+checkout.razorpay.com
 dashboard.razorpay.com
 api.razorpay.com
 checkout.razorpay.com
@@ -1111,8 +1111,8 @@ rankings.etoro.com
 candle.etoro.com
 r.etoro.com
 delta.app
-bullsheet.me
 etoropartners.com
+bullsheet.me
 www.etoro.com
 www.etoro.com
 etoropartners.com
@@ -1301,8 +1301,8 @@ capturingreality.com
 *.tstaging.tools
 *.tinderwebstaging.com
 *.tstaging.com
-*.gotinder.com
 *.tinder.com
+*.gotinder.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1755,10 +1755,10 @@ tiktok.com
 *.tiktokv.com
 www.pangleglobal.com
 shop.tiktok.com
-business.tiktok.com
 partner.tiktokshop.com
-ads.tiktok.com
+business.tiktok.com
 *.tiktok.com
+ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2213,13 +2213,13 @@ amazonpayinsurance.in
 *.tmall.com
 www.alibabagroup.com
 *.aliyun-inc.com
-*.aliyun.com
 *.alibabacloud.com
 *.alibaba-inc.com
 *.1688.com
 *.alibaba.com
 *.taobao.com
 *.Daraz.com
+*.aliyun.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2503,8 +2503,8 @@ reservations.rezserver.com
 www.bookingholdings.com
 api.rezserver.com
 flyiin.com
-press.priceline.com
 admin.rezserver.com
+secure.rezserver.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -2775,7 +2775,6 @@ partner.swiftfinancial.com
 scrutiny.swiftfinancial.com
 prequal.swiftfinancial.com
 decision.swiftfinancial.com
-*.hyperwallet.com
 *.braintree-api.com
 *.braintreepayments.com
 *.paylution.com
@@ -2787,6 +2786,7 @@ paypal.me
 py.pl
 *.venmo.com
 *.paypal.com
+*.hyperwallet.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3152,8 +3152,8 @@ kartaview.org
 jira.grab.com
 *.ovo.id
 *.grabpay.com
-*.taralite.com
 *.grab.com
+*.taralite.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3547,9 +3547,9 @@ linkpop.com
 shop.app
 accounts.shopify.com
 partners.shopify.com
-shopify.plus
 *.shopify.com
 your-store.myshopify.com
+shopify.plus
 admin.shopify.com
 *.shopifycs.com
 *.shopify.com
@@ -3873,8 +3873,8 @@ www.quip.com
 *.quip.com
 slack-imgs.com
 slack.com
-app.slack.com
 api.slack.com
+app.slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -3913,10 +3913,10 @@ cover-photos.hackerone-user-content.com
 hackerone-user-content.com
 api.hackerone.com
 www.hackerone.com
+app.pullrequest.com
 hackerone-ext-content.com
 errors.hackerone.net
 ctf.hacker101.com
-app.pullrequest.com
 hackerone.com
 hackerone.com
 api.hackerone.com
