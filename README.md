@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb 21 19:14:39 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb 21 20:24:04 UTC 2024)
 ```
 *.worldcoin-distributors.com
 getworldcoin.com
@@ -52,9 +52,9 @@ my.sheer.com
 www.sheer.com
 www.sheer.com
 my.sheer.com
-www.ddfcontent.com
-www.analvids.com
 www.pornworld.com
+www.analvids.com
+www.ddfcontent.com
 www.pornbox.com
 www.pornbox.com
 www.analvids.com
@@ -524,8 +524,8 @@ phabricator.allizom.org
 mozilla-pontoon-staging.herokuapp.com
 accounts.firefox.com
 firefox.settings.services.mozilla.com
-addons.allizom.org
 contile.services.mozilla.com
+addons.allizom.org
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -550,11 +550,11 @@ vpn.mozilla.org
 community-tc.services.mozilla.com
 developer.mozilla.org
 support.mozilla.org
-www.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 relay.firefox.com
 hg.mozilla.org
 monitor.firefox.com
+www.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -622,9 +622,9 @@ super-services.indriverapp.com
 auth2.indrive.tech
 watchdocs.indriverapp.com
 cargo.indrive.com
-*.indrive.com
 *.indriver.com
 *.indriverapp.com
+*.indrive.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -678,9 +678,9 @@ oneview.malwarebytes.com
 my.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
+www.malwarebytes.com
 *.threatdown.com
 *.cloud.malwarebytes.com
-www.malwarebytes.com
 *.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
@@ -1109,8 +1109,8 @@ rankings.etoro.com
 candle.etoro.com
 r.etoro.com
 delta.app
-etoropartners.com
 bullsheet.me
+etoropartners.com
 www.etoro.com
 www.etoro.com
 etoropartners.com
@@ -1696,7 +1696,6 @@ api.adm.cloud.com
 (yoursubdomain).us.iws.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
-eu.cloud.com
 adm.cloud.com
 (yoursubdomain).sf-api.com
 (yoursubdomain).sf-api.eu
@@ -1711,6 +1710,7 @@ citrix.cloud.com
 www.cloud.com
 (yoursubdomain).sharefile.com
 accounts.cloud.com
+eu.cloud.com
 citrix.cloud.com
 www.cloud.com
 ap-s.cloud.com
@@ -1749,11 +1749,11 @@ careers.tiktok.com
 live-backstage.tiktok.com
 creatormarketplace.tiktok.com
 www.pangleglobal.com
-partner.tiktokshop.com
 business.tiktok.com
+partner.tiktokshop.com
 shop.tiktok.com
-*.tiktokv.com
 *.tiktok.com
+*.tiktokv.com
 tiktok.com
 ads.tiktok.com
 *.tiktok.com
@@ -1835,24 +1835,25 @@ hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
 www.trekpleister.nl
-www.superdrug.com
-app.superdrug.com
-api.superdrug.com
 www.kruidvat.nl
 app.kruidvat.nl
 www.theperfumeshop.com
 app.theperfumeshop.com
 api.theperfumeshop.com
-api.watsons.com.my
-www.watsons.com.my
-www10.watsons.com.my
-www.iciparisxl.nl
-www.iciparisxl.be
-www.iciparisxl.lu
-app.iciparisxl.nl
-app.iciparisxl.be
-app.iciparisxl.lu
-www.marionnaud.at
+www10.pns.hk
+api.pns.hk
+www.pns.hk
+www10.watsons.com.sg
+www.watsons.com.sg
+api.watsons.com.sg
+www.watsons.com.hk
+www10.watsons.com.hk
+api.watsons.com.hk
+www10.watsons.co.id
+api.watsons.co.id
+www.watsons.co.id
+blog.watsons.com.tr
+app.watsons.com.tr
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2211,7 +2212,6 @@ updates.amazon.com
 amazonpayinsurance.in
 *.alimama.com
 *.aliexpress.ru
-*.aliexpress.com
 *.tmall.com
 *.aliyun-inc.com
 *.alibabacloud.com
@@ -2222,6 +2222,7 @@ amazonpayinsurance.in
 *.Daraz.com
 *.1688.com
 www.alibabagroup.com
+*.aliexpress.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2774,8 +2775,8 @@ decision.swiftfinancial.com
 paypal.me
 py.pl
 *.venmo.com
-*.hyperwallet.com
 paypalobjects.com
+*.hyperwallet.com
 *.paypal.com
 www.paypal-*.com
 *.xoom.com
@@ -3534,13 +3535,13 @@ arrive-server.shopifycloud.com
 *.shopifycs.com
 *.shopifycloud.com
 accounts.shopify.com
-partners.shopify.com
 shopify.plus
+partners.shopify.com
 linkpop.com
 your-store.myshopify.com
-shop.app
 *.shopify.com
 admin.shopify.com
+shop.app
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3860,10 +3861,10 @@ slackatwork.com
 slack-redir.net
 slack-imgs.com
 slack.com
+app.slack.com
 api.slack.com
 www.quip.com
 *.quip.com
-app.slack.com
 slack.com
 api.slack.com
 status.slack.com
