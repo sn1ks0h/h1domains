@@ -2,10 +2,9 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb 21 22:15:26 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb 21 23:19:43 UTC 2024)
 ```
 *.worldcoin-distributors.com
-getworldcoin.com
 *.toolsforhumanity.com
 *.worldcoin.dev
 toolsforhumanity.com
@@ -13,6 +12,7 @@ bioid-management.app
 *.consumer.worldcoin.org
 worldcoin.org
 *.worldcoin.org
+getworldcoin.com
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -53,8 +53,8 @@ www.sheer.com
 www.sheer.com
 my.sheer.com
 www.ddfcontent.com
-www.analvids.com
 www.pornworld.com
+www.analvids.com
 www.pornbox.com
 www.pornbox.com
 www.analvids.com
@@ -134,11 +134,11 @@ www.mercadopago.com.ar
 www.mercadolibre.com.co
 www.mercadolibre.com.pe
 www.mercadolibre.cl
+www.mercadopago.com.mx
+www.mercadolibre.com.ar
 www.mercadopago.com.br
 www.mercadopago.cl
 www.mercadolivre.com.br
-www.mercadopago.com.mx
-www.mercadolibre.com.ar
 api.mercadolibre.com
 api.mercadopago.com
 www.mercadopago.com.ar
@@ -183,10 +183,10 @@ careers.booking.com
 secure.booking.com
 admin.booking.com
 distribution-xml.booking.com
+*.rentalcars.com
+*.booking.com
 spark.fareharbor.com
 booking.com
-*.booking.com
-*.rentalcars.com
 account.booking.com
 *.booking.com
 *.rentalcars.com
@@ -520,8 +520,8 @@ location.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
 hg.mozilla.org
 bugzilla.mozilla.org
-phabricator.allizom.org
 mozilla-pontoon-staging.herokuapp.com
+phabricator.allizom.org
 accounts.firefox.com
 firefox.settings.services.mozilla.com
 addons.allizom.org
@@ -584,8 +584,8 @@ hiltonhotels.jp
 hiltonbusinessonline.com
 *.hilton.io
 *.hilton.com.tr
-*.hilton.com
 hilton.com
+*.hilton.com
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -622,9 +622,9 @@ super-services.indriverapp.com
 auth2.indrive.tech
 watchdocs.indriverapp.com
 cargo.indrive.com
+*.indrive.com
 *.indriver.com
 *.indriverapp.com
-*.indrive.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -1197,8 +1197,8 @@ analytics.krisp.ai
 download.krisp.ai
 teams.krisp.ai
 krisp.ai
-api.krisp.ai
 *.krisp.ai
+api.krisp.ai
 *.krisp.ai
 krisp.ai
 account.krisp.ai
@@ -1753,9 +1753,9 @@ business.tiktok.com
 partner.tiktokshop.com
 shop.tiktok.com
 *.tiktokv.com
-tiktok.com
 ads.tiktok.com
 *.tiktok.com
+tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1835,25 +1835,19 @@ hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
 www.trekpleister.nl
-www.kruidvat.nl
-app.kruidvat.nl
-www.theperfumeshop.com
-app.theperfumeshop.com
-api.theperfumeshop.com
+www10.watsons.com.vn
+api.watsons.com.vn
 www10.pns.hk
 api.pns.hk
 www.pns.hk
-www10.watsons.com.sg
-www.watsons.com.sg
-api.watsons.com.sg
-www.watsons.com.hk
-www10.watsons.com.hk
-api.watsons.com.hk
-www10.watsons.co.id
-api.watsons.co.id
-www.watsons.co.id
-blog.watsons.com.tr
-app.watsons.com.tr
+mapi-sim.fortress.com.hk
+www.fortress.com.hk
+www.marionnaud.fr
+app.marionnaud.fr
+mapi.moneyback.com.hk
+www.moneyback.com.hk
+www.kruidvat.nl
+app.kruidvat.nl
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2775,8 +2769,8 @@ decision.swiftfinancial.com
 paypal.me
 py.pl
 *.venmo.com
-paypalobjects.com
 *.hyperwallet.com
+paypalobjects.com
 *.paypal.com
 www.paypal-*.com
 *.xoom.com
@@ -2933,11 +2927,11 @@ help.steampowered.com
 playartifact.com
 www.valvesoftware.com
 www.teamfortress.com
-steamcommunity.com
 www.dota2.com
 store.steampowered.com
 www.counter-strike.net
 api.steampowered.com
+steamcommunity.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3535,13 +3529,13 @@ arrive-server.shopifycloud.com
 *.shopifycs.com
 *.shopifycloud.com
 accounts.shopify.com
-shopify.plus
 partners.shopify.com
+shopify.plus
 linkpop.com
 your-store.myshopify.com
-shop.app
-*.shopify.com
 admin.shopify.com
+*.shopify.com
+shop.app
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3584,9 +3578,9 @@ web.snapchat.com
 accounts.snapchat.com
 login.playcanvas.com
 *.sc-core.net
-snappublisher.snapchat.com
-playcanvas.com
 scan.snapchat.com
+playcanvas.com
+snappublisher.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
