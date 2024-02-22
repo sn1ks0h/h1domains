@@ -2,16 +2,16 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb 22 18:22:39 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb 22 19:17:06 UTC 2024)
 ```
 *.worldcoin-distributors.com
 *.worldcoin.dev
 toolsforhumanity.com
 bioid-management.app
 *.toolsforhumanity.com
-worldcoin.org
 *.consumer.worldcoin.org
 getworldcoin.com
+worldcoin.org
 *.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
@@ -53,8 +53,8 @@ my.sheer.com
 www.sheer.com
 my.sheer.com
 www.ddfcontent.com
-www.analvids.com
 www.pornworld.com
+www.analvids.com
 www.pornbox.com
 www.pornbox.com
 www.analvids.com
@@ -88,11 +88,11 @@ www.niagahoster.co.id
 payments.hostinger.com
 cpanel.hostinger.com
 backend.zyro.com
-*.000webhost.com
 www.hostinger.com
 logo.zyro.com
 www.zyro.com
 hpanel.hostinger.com
+*.000webhost.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -180,14 +180,14 @@ chat.booking.com
 widget.rentalcars.com
 admin.booking.com
 distribution-xml.booking.com
-*.rentalcars.com
 booking.com
+*.rentalcars.com
 account.booking.com
 cars.booking.com
 *.booking.com
 spark.fareharbor.com
-careers.booking.com
 secure.booking.com
+careers.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -613,7 +613,6 @@ external.indrive.dev
 aws.indrive.tech
 ingest.clairvoyance.indrive.tech
 auth.indrive.tech
-argocd.indrive.dev
 ci.indrive.dev
 volans.tech
 injob.indriver.com
@@ -625,6 +624,7 @@ cargo.indrive.com
 *.indrive.com
 *.indriverapp.com
 new-order.eu-east-1.indriverapp.com
+argocd.indrive.dev
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -677,9 +677,9 @@ oneview.malwarebytes.com
 *.mb-cosmos.com
 *.cyrus-security.com
 cloud.malwarebytes.com
-www.malwarebytes.com
 *.threatdown.com
 *.cloud.malwarebytes.com
+www.malwarebytes.com
 *.malwarebytes.com
 my.malwarebytes.com
 *.mwbsys.com
@@ -1109,8 +1109,8 @@ rankings.etoro.com
 candle.etoro.com
 r.etoro.com
 delta.app
-bullsheet.me
 etoropartners.com
+bullsheet.me
 www.etoro.com
 www.etoro.com
 etoropartners.com
@@ -1754,8 +1754,8 @@ business.tiktok.com
 tiktok.com
 partner.tiktokshop.com
 shop.tiktok.com
-*.tiktok.com
 ads.tiktok.com
+*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1834,20 +1834,25 @@ hackerone.affirm-odin.com
 hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
-www10.watsons.com.vn
-api.watsons.com.vn
-www10.pns.hk
-api.pns.hk
-www.pns.hk
-mapi-sim.fortress.com.hk
-www.fortress.com.hk
-www.marionnaud.fr
-app.marionnaud.fr
-mapi.moneyback.com.hk
-www.moneyback.com.hk
 www.kruidvat.nl
 app.kruidvat.nl
 www.theperfumeshop.com
+app.theperfumeshop.com
+api.theperfumeshop.com
+www10.pns.hk
+api.pns.hk
+www.pns.hk
+www10.watsons.com.sg
+www.watsons.com.sg
+api.watsons.com.sg
+www.watsons.com.hk
+www10.watsons.com.hk
+api.watsons.com.hk
+www10.watsons.co.id
+api.watsons.co.id
+www.watsons.co.id
+blog.watsons.com.tr
+app.watsons.com.tr
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2213,9 +2218,9 @@ amazonpayinsurance.in
 *.Daraz.com
 www.alibabagroup.com
 *.aliexpress.com
-*.aliyun.com
 *.taobao.com
 *.1688.com
+*.aliyun.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2334,8 +2339,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2775,7 +2780,6 @@ decision.swiftfinancial.com
 *.braintree-api.com
 *.braintreepayments.com
 *.paylution.com
-*.paypalcorp.com
 paypal.me
 py.pl
 *.venmo.com
@@ -2783,6 +2787,7 @@ py.pl
 paypalobjects.com
 *.xoom.com
 *.braintreegateway.com
+*.paypalcorp.com
 *.paypal.com
 www.paypal-*.com
 *.xoom.com
@@ -3392,9 +3397,9 @@ npmjs.org
 *.githubusercontent.com
 classroom.github.com
 *.githubapp.com
-github.com
 api.github.com
 npmjs.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3538,7 +3543,6 @@ yourcompany.udemy.com
 shopifyinbox.com
 *.shopifykloud.com
 *.shopifycloud.com
-accounts.shopify.com
 partners.shopify.com
 shopify.plus
 linkpop.com
@@ -3547,6 +3551,7 @@ arrive-server.shopifycloud.com
 *.shopify.com
 admin.shopify.com
 *.shopifycs.com
+accounts.shopify.com
 your-store.myshopify.com
 *.shopifycs.com
 *.shopify.com
@@ -3672,8 +3677,8 @@ assets.airbnb.com
 api.airbnb.com
 *.airbnbcitizen.com
 *.airbnb.com
-www.airbnb.com
 *.withairbnb.com
+www.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -3755,8 +3760,8 @@ ide.x.ai
 grok.x.ai
 *.twimg.com
 api.x.ai
-x.com
 *.twitter.com
+x.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -3793,10 +3798,10 @@ gravatar.com
 api.tumblr.com
 happy.tools
 intensedebate.com
-www.tumblr.com
 *.tumblr.com
 mailpoet.com
 wordpress.com
+www.tumblr.com
 *.tumblr.com
 *.srvcs.tumblr.com
 api.tumblr.com
