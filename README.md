@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb 22 05:18:58 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb 22 06:21:53 UTC 2024)
 ```
 *.worldcoin-distributors.com
 *.toolsforhumanity.com
@@ -52,9 +52,9 @@ my.sheer.com
 www.sheer.com
 www.sheer.com
 my.sheer.com
-www.ddfcontent.com
 www.pornworld.com
 www.analvids.com
+www.ddfcontent.com
 www.pornbox.com
 www.pornbox.com
 www.analvids.com
@@ -184,8 +184,8 @@ admin.booking.com
 distribution-xml.booking.com
 spark.fareharbor.com
 booking.com
-*.booking.com
 *.rentalcars.com
+*.booking.com
 account.booking.com
 careers.booking.com
 *.booking.com
@@ -486,8 +486,8 @@ id.kolesa.kz
 api.kolesa.kz
 krisha.kz
 api.avtoelon.uz
-avtoelon.uz
 kolesa.kz
+avtoelon.uz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -520,11 +520,11 @@ location.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
 hg.mozilla.org
 bugzilla.mozilla.org
-mozilla-pontoon-staging.herokuapp.com
-phabricator.allizom.org
 accounts.firefox.com
 firefox.settings.services.mozilla.com
 contile.services.mozilla.com
+phabricator.allizom.org
+mozilla-pontoon-staging.herokuapp.com
 addons.allizom.org
 addons.allizom.org
 accounts.firefox.com
@@ -584,8 +584,8 @@ hiltonhotels.jp
 hiltonbusinessonline.com
 *.hilton.io
 *.hilton.com.tr
-*.hilton.com
 hilton.com
+*.hilton.com
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -677,9 +677,9 @@ oneview.malwarebytes.com
 *.mb-cosmos.com
 *.cyrus-security.com
 cloud.malwarebytes.com
-www.malwarebytes.com
 *.threatdown.com
 *.cloud.malwarebytes.com
+www.malwarebytes.com
 *.malwarebytes.com
 my.malwarebytes.com
 *.mwbsys.com
@@ -1171,8 +1171,8 @@ labs.databricks.com
 customer-academy.databricks.com
 advocates.databricks.com
 support.databricks.com
-databricks.com
 kb.databricks.com
+databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -1537,9 +1537,9 @@ global-api.citymapper.com
 remix.com
 eu.remix.com
 platform.remix.com
-*.scopely.io
 *.scopely.com
 *.withbuddies.com
+*.scopely.io
 *.scopely.io
 *.scopely.com
 *.withbuddies.com
@@ -1753,9 +1753,9 @@ business.tiktok.com
 shop.tiktok.com
 *.tiktokv.com
 ads.tiktok.com
-*.tiktok.com
-tiktok.com
 partner.tiktokshop.com
+tiktok.com
+*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1834,19 +1834,25 @@ hackerone.affirm-odin.com
 hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
-www10.watsons.com.vn
-api.watsons.com.vn
+www.kruidvat.nl
+app.kruidvat.nl
+www.theperfumeshop.com
+app.theperfumeshop.com
+api.theperfumeshop.com
 www10.pns.hk
 api.pns.hk
 www.pns.hk
-mapi-sim.fortress.com.hk
-www.fortress.com.hk
-www.marionnaud.fr
-app.marionnaud.fr
-mapi.moneyback.com.hk
-www.moneyback.com.hk
-www.kruidvat.nl
-app.kruidvat.nl
+www10.watsons.com.sg
+www.watsons.com.sg
+api.watsons.com.sg
+www.watsons.com.hk
+www10.watsons.com.hk
+api.watsons.com.hk
+www10.watsons.co.id
+api.watsons.co.id
+www.watsons.co.id
+blog.watsons.com.tr
+app.watsons.com.tr
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -1969,9 +1975,9 @@ direct.playstation.com
 store.playstation.com
 my.playstation.com
 my.account.sony.com
-*.playstation.net
 *.api.playstation.com
 *.sonyentertainmentnetwork.com
+*.playstation.net
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -2399,8 +2405,8 @@ booth.pm
 payment.pixiv.net
 www.pixiv.net
 *.fanbox.cc
-accounts.pixiv.net
 sketch.pixiv.net
+accounts.pixiv.net
 *.fanbox.cc
 booth.pm
 comic.pixiv.net
@@ -2764,12 +2770,12 @@ decision.swiftfinancial.com
 *.paylution.com
 *.braintreegateway.com
 *.paypalcorp.com
-*.xoom.com
 paypal.me
 py.pl
 *.venmo.com
-paypalobjects.com
 *.hyperwallet.com
+paypalobjects.com
+*.xoom.com
 *.paypal.com
 www.paypal-*.com
 *.xoom.com
@@ -3375,13 +3381,13 @@ moneybirdstorage.com
 gist.github.com
 *.github.net
 education.github.com
-npmjs.com
 npmjs.org
 *.githubusercontent.com
 classroom.github.com
 *.githubapp.com
 api.github.com
 github.com
+npmjs.com
 github.com
 api.github.com
 gist.github.com
@@ -3527,13 +3533,13 @@ arrive-server.shopifycloud.com
 *.shopifykloud.com
 *.shopifycloud.com
 accounts.shopify.com
-partners.shopify.com
 shopify.plus
+partners.shopify.com
 linkpop.com
 your-store.myshopify.com
-admin.shopify.com
-*.shopify.com
 shop.app
+*.shopify.com
+admin.shopify.com
 *.shopifycs.com
 *.shopifycs.com
 *.shopify.com
@@ -3853,10 +3859,10 @@ spaces.pm
 slackatwork.com
 slack-redir.net
 slack-imgs.com
-app.slack.com
 api.slack.com
 www.quip.com
 *.quip.com
+app.slack.com
 slack.com
 slack.com
 api.slack.com
