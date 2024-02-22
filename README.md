@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb 22 01:47:41 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb 22 02:21:59 UTC 2024)
 ```
 *.worldcoin-distributors.com
 *.toolsforhumanity.com
@@ -11,8 +11,8 @@ toolsforhumanity.com
 bioid-management.app
 *.consumer.worldcoin.org
 worldcoin.org
-*.worldcoin.org
 getworldcoin.com
+*.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -134,11 +134,11 @@ www.mercadopago.com.ar
 www.mercadolibre.com.co
 www.mercadolibre.com.pe
 www.mercadolibre.cl
-www.mercadopago.com.mx
-www.mercadolibre.com.ar
 www.mercadopago.com.br
 www.mercadopago.cl
 www.mercadolivre.com.br
+www.mercadopago.com.mx
+www.mercadolibre.com.ar
 api.mercadolibre.com
 api.mercadopago.com
 www.mercadopago.com.ar
@@ -184,8 +184,8 @@ admin.booking.com
 distribution-xml.booking.com
 spark.fareharbor.com
 booking.com
-*.booking.com
 *.rentalcars.com
+*.booking.com
 account.booking.com
 careers.booking.com
 *.booking.com
@@ -520,8 +520,8 @@ location.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
 hg.mozilla.org
 bugzilla.mozilla.org
-mozilla-pontoon-staging.herokuapp.com
 phabricator.allizom.org
+mozilla-pontoon-staging.herokuapp.com
 accounts.firefox.com
 firefox.settings.services.mozilla.com
 addons.allizom.org
@@ -584,8 +584,8 @@ hiltonhotels.jp
 hiltonbusinessonline.com
 *.hilton.io
 *.hilton.com.tr
-hilton.com
 *.hilton.com
+hilton.com
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -622,9 +622,9 @@ super-services.indriverapp.com
 auth2.indrive.tech
 watchdocs.indriverapp.com
 cargo.indrive.com
-*.indrive.com
 *.indriver.com
 *.indriverapp.com
+*.indrive.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -721,8 +721,8 @@ auth.skypicker.com
 tequila.kiwi.com
 www.kiwi.com
 jobs.kiwi.com
-*.skypicker.com
 *.kiwi.com
+*.skypicker.com
 *.kiwi.com
 *.skypicker.com
 www.kiwi.com
@@ -1170,8 +1170,8 @@ docs.databricks.com
 labs.databricks.com
 customer-academy.databricks.com
 advocates.databricks.com
-support.databricks.com
 databricks.com
+support.databricks.com
 kb.databricks.com
 databricks.com
 academy.databricks.com
@@ -1753,9 +1753,9 @@ business.tiktok.com
 shop.tiktok.com
 *.tiktokv.com
 ads.tiktok.com
-partner.tiktokshop.com
-tiktok.com
 *.tiktok.com
+tiktok.com
+partner.tiktokshop.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1834,25 +1834,25 @@ hackerone.affirm-odin.com
 hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
-www.trekpleister.nl
-www.superdrug.com
-app.superdrug.com
-api.superdrug.com
 www.kruidvat.nl
 app.kruidvat.nl
 www.theperfumeshop.com
 app.theperfumeshop.com
 api.theperfumeshop.com
-api.watsons.com.my
-www.watsons.com.my
-www10.watsons.com.my
-www.iciparisxl.nl
-www.iciparisxl.be
-www.iciparisxl.lu
-app.iciparisxl.nl
-app.iciparisxl.be
-app.iciparisxl.lu
-www.marionnaud.at
+www10.pns.hk
+api.pns.hk
+www.pns.hk
+www10.watsons.com.sg
+www.watsons.com.sg
+api.watsons.com.sg
+www.watsons.com.hk
+www10.watsons.com.hk
+api.watsons.com.hk
+www10.watsons.co.id
+api.watsons.co.id
+www.watsons.co.id
+blog.watsons.com.tr
+app.watsons.com.tr
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2395,7 +2395,6 @@ https://coda.io/signup/email
 codahosted.io
 codacontent.io
 comic.pixiv.net
-sketch.pixiv.net
 sensei.pixiv.net
 hub.vroid.com
 dic.pixiv.net
@@ -2407,6 +2406,7 @@ payment.pixiv.net
 www.pixiv.net
 accounts.pixiv.net
 *.fanbox.cc
+sketch.pixiv.net
 *.fanbox.cc
 booth.pm
 comic.pixiv.net
@@ -3524,8 +3524,8 @@ zopim.com
 app.futuresimple.com
 api.getbase.com
 http://h1-your-domain.zendesk.com/sell
-yourcompany.udemy.com
 www.udemy.com
+yourcompany.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 shopifyinbox.com
@@ -3534,8 +3534,8 @@ arrive-server.shopifycloud.com
 *.shopifycs.com
 *.shopifycloud.com
 accounts.shopify.com
-partners.shopify.com
 shopify.plus
+partners.shopify.com
 linkpop.com
 your-store.myshopify.com
 shop.app
@@ -3583,9 +3583,9 @@ web.snapchat.com
 accounts.snapchat.com
 login.playcanvas.com
 *.sc-core.net
-snappublisher.snapchat.com
-playcanvas.com
 scan.snapchat.com
+playcanvas.com
+snappublisher.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3898,11 +3898,11 @@ hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 a5s.hackerone-ext-content.com
 hackerone.live
 b5s.hackerone-ext-content.com
-app.pullrequest.com
 hackerone-ext-content.com
 errors.hackerone.net
-cover-photos.hackerone-user-content.com
+app.pullrequest.com
 ctf.hacker101.com
+cover-photos.hackerone-user-content.com
 www.hackerone.com
 hackerone-user-content.com
 api.hackerone.com
