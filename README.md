@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb 23 10:19:16 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb 23 11:15:41 UTC 2024)
 ```
 *.worldcoin-distributors.com
 *.worldcoin.dev
@@ -52,8 +52,8 @@ www.sheer.com
 my.sheer.com
 www.sheer.com
 my.sheer.com
-www.ddfcontent.com
 www.pornworld.com
+www.ddfcontent.com
 www.pornbox.com
 www.analvids.com
 www.pornbox.com
@@ -259,8 +259,8 @@ app.moderntreasury.com
 cdn.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
-test.nicehash.com
 test.nicex.com
+test.nicehash.com
 test.nicehash.com
 https://test.nicehash.com/shop/
 https://test.nicex.com
@@ -288,8 +288,8 @@ manage-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 www.gocardless.com
-api-sandbox.gocardless.com
 *.gocardless-cicd.io
+api-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -623,8 +623,8 @@ cargo.indrive.com
 *.indriver.com
 *.indrive.com
 new-order.eu-east-1.indriverapp.com
-*.indriverapp.com
 argocd.indrive.dev
+*.indriverapp.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -1197,8 +1197,8 @@ analytics.krisp.ai
 download.krisp.ai
 teams.krisp.ai
 krisp.ai
-*.krisp.ai
 api.krisp.ai
+*.krisp.ai
 *.krisp.ai
 krisp.ai
 account.krisp.ai
@@ -1750,8 +1750,8 @@ creatormarketplace.tiktok.com
 www.pangleglobal.com
 business.tiktok.com
 tiktok.com
-ads.tiktok.com
 shop.tiktok.com
+ads.tiktok.com
 *.tiktok.com
 partner.tiktokshop.com
 effecthouse.tiktok.com
@@ -1842,18 +1842,16 @@ app.kruidvat.nl
 www.theperfumeshop.com
 app.theperfumeshop.com
 api.theperfumeshop.com
-api.watsons.com.my
-www.watsons.com.my
-www10.watsons.com.my
-www.iciparisxl.nl
-www.iciparisxl.be
-www.iciparisxl.lu
-app.iciparisxl.nl
-app.iciparisxl.be
-app.iciparisxl.lu
-www.marionnaud.at
-app.marionnaud.at
-www.marionnaud.ch
+www10.watsons.com.tw
+www.watsons.com.tw
+api.watsons.com.tw
+www10.watsons.com.ph
+api.watsons.com.ph
+www.watsons.com.ph
+www.watsons.co.th
+www20.watsons.co.th
+www10.watsons.co.th
+api.watsons.co.th
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2506,7 +2504,7 @@ admin.rezserver.com
 cruises.priceline.com
 www.bookingholdings.com
 press.priceline.com
-priceline.com
+www.getaroom.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -2783,11 +2781,11 @@ decision.swiftfinancial.com
 paypal.me
 py.pl
 *.venmo.com
-paypalobjects.com
 *.hyperwallet.com
+paypalobjects.com
 *.braintreegateway.com
-*.paypalcorp.com
 *.xoom.com
+*.paypalcorp.com
 *.paypal.com
 www.paypal-*.com
 *.xoom.com
@@ -3424,10 +3422,10 @@ registry.gitlab.com
 design.gitlab.com
 advisories.gitlab.com
 docs.gitlab.com
-*.gitlab.net
 customers.gitlab.com
 about.gitlab.com
 *.gitlab.org
+*.gitlab.net
 gitlab.com
 *.gitlab.net
 *.gitlab.org
@@ -3595,9 +3593,9 @@ web.snapchat.com
 accounts.snapchat.com
 login.playcanvas.com
 *.sc-core.net
-snappublisher.snapchat.com
-playcanvas.com
 scan.snapchat.com
+playcanvas.com
+snappublisher.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3775,6 +3773,7 @@ one.dash.cloudflare.com
 waf.cumulusfire.net
 api.cloudflare.com
 dash.cloudflare.com
+*.cloudflare.com
 dash.cloudflare.com
 cloudflareworkers.com
 *.teams.cloudflare.com
@@ -3915,8 +3914,8 @@ api.hackerone.com
 hackerone-user-content.com
 www.hackerone.com
 app.pullrequest.com
-hackerone.com
 ctf.hacker101.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
