@@ -2,17 +2,17 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb 22 23:21:39 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb 23 00:57:31 UTC 2024)
 ```
 *.worldcoin-distributors.com
 *.worldcoin.dev
 toolsforhumanity.com
 getworldcoin.com
+*.toolsforhumanity.com
+bioid-management.app
 worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin.org
-bioid-management.app
-*.toolsforhumanity.com
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -133,9 +133,9 @@ www.mercadopago.com.pe
 www.mercadopago.com.ar
 www.mercadolibre.com.pe
 www.mercadolibre.cl
+www.mercadopago.cl
 www.mercadopago.com.mx
 www.mercadolibre.com.ar
-www.mercadopago.cl
 api.mercadolibre.com
 www.mercadolivre.com.br
 www.mercadopago.com.br
@@ -622,9 +622,9 @@ watchdocs.indriverapp.com
 cargo.indrive.com
 *.indriver.com
 *.indrive.com
-*.indriverapp.com
 new-order.eu-east-1.indriverapp.com
 argocd.indrive.dev
+*.indriverapp.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -677,9 +677,9 @@ oneview.malwarebytes.com
 *.mb-cosmos.com
 *.cyrus-security.com
 cloud.malwarebytes.com
+www.malwarebytes.com
 *.threatdown.com
 *.cloud.malwarebytes.com
-www.malwarebytes.com
 *.malwarebytes.com
 my.malwarebytes.com
 *.mwbsys.com
@@ -720,8 +720,8 @@ cfapi.voikukka.fi
 tequila.kiwi.com
 jobs.kiwi.com
 *.kiwi.com
-auth.skypicker.com
 *.skypicker.com
+auth.skypicker.com
 www.kiwi.com
 *.kiwi.com
 *.skypicker.com
@@ -932,9 +932,9 @@ askpam.ai
 pb.deribit.com
 tools.deribit.com
 metrics.deribit.com
-*.deribit.com
 insights.deribit.com
 test.deribit.com
+*.deribit.com
 *.deribit.com
 test.deribit.com
 insights.deribit.com
@@ -1197,8 +1197,8 @@ analytics.krisp.ai
 download.krisp.ai
 teams.krisp.ai
 krisp.ai
-api.krisp.ai
 *.krisp.ai
+api.krisp.ai
 *.krisp.ai
 krisp.ai
 account.krisp.ai
@@ -1754,8 +1754,8 @@ business.tiktok.com
 tiktok.com
 partner.tiktokshop.com
 ads.tiktok.com
-shop.tiktok.com
 *.tiktok.com
+shop.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1834,20 +1834,25 @@ helpcenter.affirm.ca
 hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
-www10.watsons.com.vn
-api.watsons.com.vn
-www10.pns.hk
-api.pns.hk
-www.pns.hk
-mapi-sim.fortress.com.hk
-www.fortress.com.hk
-www.marionnaud.fr
-app.marionnaud.fr
-mapi.moneyback.com.hk
-www.moneyback.com.hk
 www.kruidvat.nl
 app.kruidvat.nl
 www.theperfumeshop.com
+app.theperfumeshop.com
+api.theperfumeshop.com
+www10.pns.hk
+api.pns.hk
+www.pns.hk
+www10.watsons.com.sg
+www.watsons.com.sg
+api.watsons.com.sg
+www.watsons.com.hk
+www10.watsons.com.hk
+api.watsons.com.hk
+www10.watsons.co.id
+api.watsons.co.id
+www.watsons.co.id
+blog.watsons.com.tr
+app.watsons.com.tr
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2782,8 +2787,8 @@ paypalobjects.com
 *.hyperwallet.com
 *.braintreegateway.com
 *.paypalcorp.com
-*.xoom.com
 *.paypal.com
+*.xoom.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3391,9 +3396,9 @@ education.github.com
 npmjs.org
 *.githubusercontent.com
 classroom.github.com
-*.githubapp.com
 npmjs.com
 api.github.com
+*.githubapp.com
 github.com
 github.com
 api.github.com
@@ -3544,10 +3549,10 @@ linkpop.com
 shop.app
 arrive-server.shopifycloud.com
 *.shopify.com
-your-store.myshopify.com
 *.shopifycs.com
 admin.shopify.com
 accounts.shopify.com
+your-store.myshopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3590,9 +3595,9 @@ web.snapchat.com
 accounts.snapchat.com
 login.playcanvas.com
 *.sc-core.net
-scan.snapchat.com
-playcanvas.com
 snappublisher.snapchat.com
+playcanvas.com
+scan.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3672,8 +3677,8 @@ api.airbnb.com
 *.airbnbcitizen.com
 www.airbnb.com
 www.hoteltonight.com
-*.airbnb.com
 *.withairbnb.com
+*.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
