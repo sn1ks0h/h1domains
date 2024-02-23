@@ -1,5 +1,5 @@
-*.bancointer.com.br
 *.inter.co
+*.bancointer.com.br
 *.inter.co
 *.bancointer.com.br
 *.worldcoin-distributors.com
@@ -7,10 +7,10 @@
 toolsforhumanity.com
 getworldcoin.com
 worldcoin.org
-*.toolsforhumanity.com
 *.consumer.worldcoin.org
-*.worldcoin.org
 bioid-management.app
+*.toolsforhumanity.com
+*.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -248,8 +248,8 @@ account.booking.com
 cars.booking.com
 secure.booking.com
 careers.booking.com
-spark.fareharbor.com
 *.booking.com
+spark.fareharbor.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -1308,8 +1308,8 @@ manage-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 www.gocardless.com
-api-sandbox.gocardless.com
 *.gocardless-cicd.io
+api-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -1532,8 +1532,8 @@ http://vdp.kahootz.com
 *.abnamro.nl
 *.abnamro.org
 *.tikkie.me
-*.abnamro.com
 *neuflizeobc.fr
+*.abnamro.com
 *.abnamro.com
 *.abnamro.nl
 *.tikkie.me
@@ -1903,8 +1903,8 @@ onlinebanking.53.com
 zta.nube.53.com
 ztc.nube.53.com
 locations.53.com
-*53.com
 www.53.com
+*53.com
 *53.com
 express.53.com
 https://ablreporter.53.com/
@@ -2898,12 +2898,12 @@ location.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
 hg.mozilla.org
 bugzilla.mozilla.org
-accounts.firefox.com
 firefox.settings.services.mozilla.com
 contile.services.mozilla.com
 addons.allizom.org
 phabricator.allizom.org
 mozilla-pontoon-staging.herokuapp.com
+accounts.firefox.com
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -3205,9 +3205,9 @@ oneview.malwarebytes.com
 blog.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
+www.malwarebytes.com
 *.threatdown.com
 *.cloud.malwarebytes.com
-www.malwarebytes.com
 *.malwarebytes.com
 my.malwarebytes.com
 *.mwbsys.com
@@ -3275,8 +3275,8 @@ cfapi.voikukka.fi
 tequila.kiwi.com
 jobs.kiwi.com
 *.kiwi.com
-auth.skypicker.com
 *.skypicker.com
+auth.skypicker.com
 www.kiwi.com
 *.kiwi.com
 *.skypicker.com
@@ -3703,8 +3703,8 @@ www.divvyhomes.com
 *.inposia.com
 *.davosalestax.com
 *.crowdreason.com
-*.3ce.com
 *.avalara.com
+*.3ce.com
 *.avalara.com
 *.avalara.net
 *.avalara.io
@@ -5069,8 +5069,8 @@ contact.krisp.ai
 url5145.krisp.ai
 krisp.ai
 help.krisp.ai
-api.krisp.ai
 *.krisp.ai
+api.krisp.ai
 *.krisp.ai
 krisp.ai
 account.krisp.ai
@@ -7029,8 +7029,8 @@ business.tiktok.com
 tiktok.com
 partner.tiktokshop.com
 ads.tiktok.com
-*.tiktok.com
 shop.tiktok.com
+*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -8588,7 +8588,6 @@ codahosted.io
 codacontent.io
 sensei.pixiv.net
 hub.vroid.com
-dic.pixiv.net
 neoket.net
 vroid.com
 novel.pixiv.net
@@ -8599,6 +8598,7 @@ sketch.pixiv.net
 accounts.pixiv.net
 www.pixiv.net
 comic.pixiv.net
+dic.pixiv.net
 *.fanbox.cc
 booth.pm
 comic.pixiv.net
@@ -10100,12 +10100,12 @@ shopify.plus
 linkpop.com
 shop.app
 arrive-server.shopifycloud.com
-accounts.shopify.com
 *.shopifycs.com
 admin.shopify.com
 your-store.myshopify.com
 partners.shopify.com
 *.shopify.com
+accounts.shopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -10148,9 +10148,9 @@ web.snapchat.com
 accounts.snapchat.com
 login.playcanvas.com
 *.sc-core.net
-scan.snapchat.com
-playcanvas.com
 snappublisher.snapchat.com
+playcanvas.com
+scan.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
