@@ -2,17 +2,17 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb 23 01:48:20 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb 23 02:23:45 UTC 2024)
 ```
 *.worldcoin-distributors.com
 *.worldcoin.dev
 toolsforhumanity.com
 getworldcoin.com
 worldcoin.org
-*.consumer.worldcoin.org
-bioid-management.app
 *.toolsforhumanity.com
+*.consumer.worldcoin.org
 *.worldcoin.org
+bioid-management.app
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -186,8 +186,8 @@ account.booking.com
 cars.booking.com
 secure.booking.com
 careers.booking.com
-*.booking.com
 spark.fareharbor.com
+*.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -675,11 +675,11 @@ oneview.malwarebytes.com
 *.mbamupdates.com
 *.mwbsys.com
 *.mb-cosmos.com
-*.cloud.malwarebytes.com
-*.threatdown.com
-www.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
+*.threatdown.com
+*.cloud.malwarebytes.com
+www.malwarebytes.com
 *.malwarebytes.com
 my.malwarebytes.com
 *.mwbsys.com
@@ -720,8 +720,8 @@ cfapi.voikukka.fi
 tequila.kiwi.com
 jobs.kiwi.com
 *.kiwi.com
-*.skypicker.com
 auth.skypicker.com
+*.skypicker.com
 www.kiwi.com
 *.kiwi.com
 *.skypicker.com
@@ -1109,8 +1109,8 @@ rankings.etoro.com
 candle.etoro.com
 r.etoro.com
 delta.app
-etoropartners.com
 bullsheet.me
+etoropartners.com
 www.etoro.com
 www.etoro.com
 etoropartners.com
@@ -1751,8 +1751,8 @@ creatormarketplace.tiktok.com
 www.pangleglobal.com
 business.tiktok.com
 *.tiktokv.com
-partner.tiktokshop.com
 tiktok.com
+partner.tiktokshop.com
 ads.tiktok.com
 *.tiktok.com
 shop.tiktok.com
@@ -1834,24 +1834,20 @@ helpcenter.affirm.ca
 hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
-www.superdrug.com
-app.superdrug.com
-api.superdrug.com
+www10.watsons.com.vn
+api.watsons.com.vn
+www10.pns.hk
+api.pns.hk
+www.pns.hk
+mapi-sim.fortress.com.hk
+www.fortress.com.hk
+www.marionnaud.fr
+app.marionnaud.fr
+mapi.moneyback.com.hk
+www.moneyback.com.hk
 www.kruidvat.nl
 app.kruidvat.nl
 www.theperfumeshop.com
-app.theperfumeshop.com
-api.theperfumeshop.com
-www10.watsons.com.tw
-www.watsons.com.tw
-api.watsons.com.tw
-www10.watsons.com.ph
-api.watsons.com.ph
-www.watsons.com.ph
-www.watsons.co.th
-www20.watsons.co.th
-www10.watsons.co.th
-api.watsons.co.th
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2392,7 +2388,6 @@ codacontent.io
 https://coda.io/signup/email
 codahosted.io
 codacontent.io
-comic.pixiv.net
 sensei.pixiv.net
 hub.vroid.com
 dic.pixiv.net
@@ -2405,6 +2400,7 @@ payment.pixiv.net
 sketch.pixiv.net
 accounts.pixiv.net
 www.pixiv.net
+comic.pixiv.net
 *.fanbox.cc
 booth.pm
 comic.pixiv.net
@@ -3522,8 +3518,8 @@ apps.zendesk.com
 api.getbase.com
 app.smooch.io
 zopim.com
-h1-your-domain.zendesk.com
 www.zendesk.com
+h1-your-domain.zendesk.com
 www.zendesk.com
 developer.zendesk.com
 h1-your-domain.zendesk.com
@@ -3546,12 +3542,12 @@ shopify.plus
 linkpop.com
 shop.app
 arrive-server.shopifycloud.com
-*.shopify.com
-*.shopifycs.com
 accounts.shopify.com
+*.shopifycs.com
 admin.shopify.com
 your-store.myshopify.com
 partners.shopify.com
+*.shopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3594,9 +3590,9 @@ web.snapchat.com
 accounts.snapchat.com
 login.playcanvas.com
 *.sc-core.net
-snappublisher.snapchat.com
-playcanvas.com
 scan.snapchat.com
+playcanvas.com
+snappublisher.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3675,8 +3671,8 @@ assets.airbnb.com
 api.airbnb.com
 *.airbnbcitizen.com
 www.airbnb.com
-*.airbnb.com
 www.hoteltonight.com
+*.airbnb.com
 *.withairbnb.com
 www.airbnb.com
 next.airbnb.com
@@ -3910,13 +3906,13 @@ hackerone.live
 b5s.hackerone-ext-content.com
 hackerone-ext-content.com
 errors.hackerone.net
-app.pullrequest.com
 ctf.hacker101.com
 cover-photos.hackerone-user-content.com
 api.hackerone.com
 www.hackerone.com
 hackerone-user-content.com
 hackerone.com
+app.pullrequest.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
