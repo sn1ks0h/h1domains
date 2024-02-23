@@ -2,17 +2,17 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb 23 12:26:58 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb 23 13:23:04 UTC 2024)
 ```
 *.worldcoin-distributors.com
 *.worldcoin.dev
 toolsforhumanity.com
-worldcoin.org
 *.toolsforhumanity.com
+worldcoin.org
 getworldcoin.com
 bioid-management.app
-*.consumer.worldcoin.org
 *.worldcoin.org
+*.consumer.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -25,8 +25,8 @@ worldcoin.org
 rfc.tari.com
 textexplore.tari.com
 www.tarilabs.com
-www.tari.com
 explore.tari.com
+www.tari.com
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
@@ -179,15 +179,15 @@ chat.booking.com
 widget.rentalcars.com
 admin.booking.com
 distribution-xml.booking.com
-booking.com
 *.rentalcars.com
+booking.com
 cars.booking.com
 secure.booking.com
 careers.booking.com
-*.booking.com
 spark.fareharbor.com
-account.booking.com
+*.booking.com
 portal.taxi.booking.com
+account.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -467,8 +467,8 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.myfreshworks.com
 yourdomain.freshchat.com
-yourdomain.freshdesk.com
 yourdomain.freshservice.com
+yourdomain.freshdesk.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -623,8 +623,8 @@ cargo.indrive.com
 *.indriver.com
 *.indrive.com
 new-order.eu-east-1.indriverapp.com
-argocd.indrive.dev
 *.indriverapp.com
+argocd.indrive.dev
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -719,10 +719,10 @@ api.sokos.fi
 cfapi.voikukka.fi
 tequila.kiwi.com
 jobs.kiwi.com
-*.skypicker.com
 auth.skypicker.com
 www.kiwi.com
 *.kiwi.com
+*.skypicker.com
 *.kiwi.com
 *.skypicker.com
 www.kiwi.com
@@ -1197,8 +1197,8 @@ analytics.krisp.ai
 download.krisp.ai
 teams.krisp.ai
 krisp.ai
-api.krisp.ai
 *.krisp.ai
+api.krisp.ai
 *.krisp.ai
 krisp.ai
 account.krisp.ai
@@ -1497,8 +1497,8 @@ app.spiketrap.io
 *.reddithelp.com
 ads.reddit.com
 oauth.reddit.com
-www.reddit.com
 *.reddit.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1842,16 +1842,18 @@ app.kruidvat.nl
 www.theperfumeshop.com
 app.theperfumeshop.com
 api.theperfumeshop.com
-www10.watsons.com.tw
-www.watsons.com.tw
-api.watsons.com.tw
-www10.watsons.com.ph
-api.watsons.com.ph
-www.watsons.com.ph
-www.watsons.co.th
-www20.watsons.co.th
-www10.watsons.co.th
-api.watsons.co.th
+api.watsons.com.my
+www.watsons.com.my
+www10.watsons.com.my
+www.iciparisxl.nl
+www.iciparisxl.be
+www.iciparisxl.lu
+app.iciparisxl.nl
+app.iciparisxl.be
+app.iciparisxl.lu
+www.marionnaud.at
+app.marionnaud.at
+www.marionnaud.ch
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2504,7 +2506,6 @@ admin.rezserver.com
 cruises.priceline.com
 www.bookingholdings.com
 press.priceline.com
-priceline.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -2781,11 +2782,11 @@ decision.swiftfinancial.com
 paypal.me
 py.pl
 *.venmo.com
-*.hyperwallet.com
 paypalobjects.com
+*.hyperwallet.com
 *.braintreegateway.com
-*.xoom.com
 *.paypalcorp.com
+*.xoom.com
 *.paypal.com
 www.paypal-*.com
 *.xoom.com
@@ -3322,12 +3323,12 @@ www.starbucks.ca
 secureui.starbucks.com
 www.starbucks.com.br
 www.starbucks.com.sg
-www.starbucks.com.cn
 gift.starbucks.co.jp
 app.starbucks.com
 openapi.starbucks.com
 www.starbucks.com
 www.starbucks.co.kr
+www.starbucks.com.cn
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3547,8 +3548,8 @@ shop.app
 arrive-server.shopifycloud.com
 *.shopifycs.com
 partners.shopify.com
-accounts.shopify.com
 *.shopify.com
+accounts.shopify.com
 admin.shopify.com
 your-store.myshopify.com
 *.shopifycs.com
@@ -3585,7 +3586,6 @@ create.snapchat.com
 my.snapchat.com
 forum.playcanvas.com
 spectacles.com
-app.snapchat.com
 business.snapchat.com
 ads.snapchat.com
 www.bitmoji.com
@@ -3593,9 +3593,10 @@ web.snapchat.com
 accounts.snapchat.com
 login.playcanvas.com
 *.sc-core.net
-scan.snapchat.com
-playcanvas.com
 snappublisher.snapchat.com
+playcanvas.com
+scan.snapchat.com
+app.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3912,10 +3913,10 @@ errors.hackerone.net
 cover-photos.hackerone-user-content.com
 api.hackerone.com
 hackerone-user-content.com
-www.hackerone.com
 app.pullrequest.com
-ctf.hacker101.com
+www.hackerone.com
 hackerone.com
+ctf.hacker101.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
