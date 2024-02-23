@@ -2,13 +2,13 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb 23 15:20:00 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb 23 16:25:25 UTC 2024)
 ```
 *.worldcoin-distributors.com
 *.worldcoin.dev
 toolsforhumanity.com
-worldcoin.org
 *.toolsforhumanity.com
+worldcoin.org
 getworldcoin.com
 bioid-management.app
 *.consumer.worldcoin.org
@@ -25,8 +25,8 @@ worldcoin.org
 rfc.tari.com
 textexplore.tari.com
 www.tarilabs.com
-www.tari.com
 explore.tari.com
+www.tari.com
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
@@ -52,8 +52,8 @@ my.sheer.com
 www.sheer.com
 www.sheer.com
 my.sheer.com
-www.ddfcontent.com
 www.pornworld.com
+www.ddfcontent.com
 www.analvids.com
 www.pornbox.com
 www.pornbox.com
@@ -77,9 +77,9 @@ account-sprint.dynatracelabs.com
 sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
-demo.dynamic.xyz
 app.dynamic-preprod.xyz
 app.dynamic.xyz
+demo.dynamic.xyz
 app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
@@ -127,6 +127,7 @@ research.23andme.com
 www.mercadolibre.com.uy
 api.mercadopago.com
 www.mercadopago.com.uy
+api.mercadolibre.com
 www.mercadolibre.com.mx
 www.mercadopago.com.co
 www.mercadopago.com.pe
@@ -135,7 +136,6 @@ www.mercadolibre.com.pe
 www.mercadolibre.cl
 www.mercadopago.com.mx
 www.mercadolibre.com.ar
-api.mercadolibre.com
 www.mercadolivre.com.br
 www.mercadopago.com.br
 www.mercadopago.cl
@@ -184,10 +184,10 @@ booking.com
 cars.booking.com
 secure.booking.com
 careers.booking.com
-spark.fareharbor.com
 *.booking.com
-portal.taxi.booking.com
+spark.fareharbor.com
 account.booking.com
+portal.taxi.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -255,8 +255,8 @@ pentesting3.gethypr.com
 pentesting2.gethypr.com
 hypr74352.gethypr.com
 hypr37448.gethypr.com
-app.moderntreasury.com
 cdn.moderntreasury.com
+app.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
 test.nicehash.com
@@ -464,10 +464,10 @@ www.visainfinite.ca
 http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
-yourdomain.myfreshworks.com
+yourdomain.freshdesk.com
 yourdomain.freshchat.com
 yourdomain.freshservice.com
-yourdomain.freshdesk.com
+yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -679,8 +679,8 @@ cloud.malwarebytes.com
 my.malwarebytes.com
 *.threatdown.com
 www.malwarebytes.com
-*.malwarebytes.com
 *.mwbsys.com
+*.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
 *.mbamupdates.com
@@ -1048,8 +1048,8 @@ sorare.com
 api.sorare.com
 ws.sorare.com
 *.sheingsp.com
-*.shein.com
 *.romwe.com
+*.shein.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
@@ -1149,9 +1149,9 @@ bullsheet.me
 admin.instacart.com
 shoppers.instacart.com
 api.instacart.com
+www.instacart.com
 *.instacart.com
 *.instacart.tools
-www.instacart.com
 *.instacart.com
 *.instacart.tools
 api.instacart.com
@@ -1196,8 +1196,8 @@ analytics.krisp.ai
 download.krisp.ai
 teams.krisp.ai
 krisp.ai
-api.krisp.ai
 *.krisp.ai
+api.krisp.ai
 *.krisp.ai
 krisp.ai
 account.krisp.ai
@@ -1311,10 +1311,10 @@ app.recordedfuture.com
 hatching.io
 tria.ge
 securitytrails.com
-www.recordedfuture.com
 therecord.media
 geminiadvisory.io
 id.recordedfuture.com
+www.recordedfuture.com
 www.recordedfuture.com
 api.recordedfuture.com
 app.recordedfuture.com
@@ -1486,7 +1486,6 @@ ads-api.reddit.com
 gateway.reddit.com
 mod.reddit.com
 *.redditinc.com
-accounts.reddit.com
 old.reddit.com
 api.reddit.com
 *.redditmedia.com
@@ -1498,6 +1497,7 @@ ads.reddit.com
 oauth.reddit.com
 www.reddit.com
 *.reddit.com
+accounts.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1744,11 +1744,11 @@ academy-outbound-ads.tiktok.com
 fp-sg.tiktokv.com
 developers.tiktok.com
 careers.tiktok.com
+*.tiktok.com
 creatormarketplace.tiktok.com
 www.pangleglobal.com
 business.tiktok.com
 shop.tiktok.com
-*.tiktok.com
 partner.tiktokshop.com
 effecthouse.tiktok.com
 *.tiktokv.com
@@ -2308,8 +2308,8 @@ gatewaydsaptst1.marriott.com
 hotel-deals.marriott.com
 mgs.marriott.com
 all-inclusive.marriott.com
-www.marriott.com
 jobs.marriott.com
+www.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -2401,8 +2401,8 @@ payment.pixiv.net
 sketch.pixiv.net
 accounts.pixiv.net
 www.pixiv.net
-dic.pixiv.net
 *.fanbox.cc
+dic.pixiv.net
 comic.pixiv.net
 *.fanbox.cc
 booth.pm
@@ -2710,7 +2710,6 @@ grammarly.ai
 *.grammarly.com
 grammarly.ai
 fanduel.design
-*racing.fanduel.com
 www.tvg.com
 4njbets.tvgnetwork.com
 b2b.tvgnetwork.com
@@ -2730,6 +2729,7 @@ sportsbook.fanduel.com
 tvg.com
 us.tvg.com
 com.fanduel.android.live
+*racing.fanduel.com
 *.fanduel.com
 *.fanduel.com
 *racing.fanduel.com
@@ -2944,9 +2944,9 @@ www.valvesoftware.com
 www.teamfortress.com
 www.dota2.com
 www.counter-strike.net
-steamcommunity.com
 store.steampowered.com
 api.steampowered.com
+steamcommunity.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3442,10 +3442,10 @@ winecellar.zomato.com
 api2.grofers.com
 api.grofers.com
 *.zomans.com
-*.hyperpure.com
 *.runnr.in
 blinkit.com
 *.zomato.com
+*.hyperpure.com
 *.zomato.com
 *.zdev.net
 *.zomans.com
@@ -3455,9 +3455,9 @@ winecellar.zomato.com
 api.grofers.com
 api2.grofers.com
 blinkit.com
-*.algolianet.com
 www.algolia.com
 *.algolia.net
+*.algolianet.com
 *.algolia.net
 *.algolianet.com
 www.algolia.com
@@ -3543,14 +3543,14 @@ shopifyinbox.com
 *.shopifycloud.com
 shopify.plus
 linkpop.com
-shop.app
 arrive-server.shopifycloud.com
 partners.shopify.com
 accounts.shopify.com
 admin.shopify.com
-your-store.myshopify.com
 *.shopify.com
 *.shopifycs.com
+shop.app
+your-store.myshopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3673,8 +3673,8 @@ next.airbnb.com
 assets.airbnb.com
 api.airbnb.com
 *.airbnbcitizen.com
-www.hoteltonight.com
 *.airbnb.com
+www.hoteltonight.com
 *.withairbnb.com
 www.airbnb.com
 www.airbnb.com
@@ -3871,8 +3871,8 @@ slack-imgs.com
 www.quip.com
 *.quip.com
 slack.com
-app.slack.com
 api.slack.com
+app.slack.com
 slack.com
 api.slack.com
 status.slack.com
