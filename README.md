@@ -2,13 +2,13 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb 23 20:21:35 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb 23 21:17:41 UTC 2024)
 ```
 *.worldcoin-distributors.com
 *.worldcoin.dev
 toolsforhumanity.com
-worldcoin.org
 *.toolsforhumanity.com
+worldcoin.org
 bioid-management.app
 *.worldcoin.org
 *.consumer.worldcoin.org
@@ -23,10 +23,10 @@ getworldcoin.com
 bioid-management.app
 worldcoin.org
 rfc.tari.com
-www.tari.com
 textexplore.tari.com
 www.tarilabs.com
 explore.tari.com
+www.tari.com
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
@@ -86,13 +86,13 @@ app.dynamic.xyz
 editor.zyro.com
 www.niagahoster.co.id
 payments.hostinger.com
-www.hostinger.com
 cpanel.hostinger.com
 backend.zyro.com
 logo.zyro.com
 www.zyro.com
 *.000webhost.com
 hpanel.hostinger.com
+www.hostinger.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -179,14 +179,14 @@ chat.booking.com
 widget.rentalcars.com
 admin.booking.com
 distribution-xml.booking.com
-*.rentalcars.com
 booking.com
+*.rentalcars.com
 cars.booking.com
 secure.booking.com
 careers.booking.com
 spark.fareharbor.com
-account.booking.com
 portal.taxi.booking.com
+account.booking.com
 *.booking.com
 *.booking.com
 *.rentalcars.com
@@ -259,8 +259,8 @@ cdn.moderntreasury.com
 app.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
-test.nicex.com
 test.nicehash.com
+test.nicex.com
 test.nicehash.com
 https://test.nicehash.com/shop/
 https://test.nicex.com
@@ -466,8 +466,8 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
 yourdomain.freshservice.com
-yourdomain.freshdesk.com
 yourdomain.myfreshworks.com
+yourdomain.freshdesk.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -568,8 +568,8 @@ community-tc.services.mozilla.com
 www.six-group.com
 www.six-group.com
 api-eu.floqast.app
-*.floqast.app
 *.eu.floqast.app
+*.floqast.app
 *.eu.floqast.app
 *.floqast.app
 api-eu.floqast.app
@@ -1196,8 +1196,8 @@ analytics.krisp.ai
 download.krisp.ai
 teams.krisp.ai
 krisp.ai
-api.krisp.ai
 *.krisp.ai
+api.krisp.ai
 *.krisp.ai
 krisp.ai
 account.krisp.ai
@@ -1495,8 +1495,8 @@ app.spiketrap.io
 *.reddithelp.com
 oauth.reddit.com
 www.reddit.com
-*.reddit.com
 accounts.reddit.com
+*.reddit.com
 ads.reddit.com
 *.snooguts.net
 *.redditmedia.com
@@ -1744,7 +1744,6 @@ academy-outbound-ads.tiktok.com
 fp-sg.tiktokv.com
 developers.tiktok.com
 careers.tiktok.com
-*.tiktok.com
 creatormarketplace.tiktok.com
 www.pangleglobal.com
 business.tiktok.com
@@ -1754,6 +1753,7 @@ effecthouse.tiktok.com
 *.tiktokv.com
 live-backstage.tiktok.com
 tiktok.com
+*.tiktok.com
 ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
@@ -2498,7 +2498,7 @@ cruises.priceline.com
 www.bookingholdings.com
 priceline.com
 secure.rezserver.com
-flyiin.com
+admin.rezserver.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -2696,9 +2696,9 @@ res.hyattinclusivecollection.com
 www.hyattinclusivecollection.com
 booking.applevacations.com
 grammarly.ai
-*.grammarlyaws.com
 *.grammarly.com
 *.grammarly.io
+*.grammarlyaws.com
 *.grammarly.io
 *.grammarlyaws.com
 *.grammarly.com
@@ -3436,10 +3436,10 @@ winecellar.zomato.com
 api2.grofers.com
 api.grofers.com
 *.zomans.com
+*.hyperpure.com
 *.runnr.in
 blinkit.com
 *.zomato.com
-*.hyperpure.com
 *.zomato.com
 *.zdev.net
 *.zomans.com
@@ -3533,18 +3533,18 @@ yourcompany.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 shopifyinbox.com
-shop.app
 *.shopifykloud.com
 shopify.plus
 linkpop.com
 arrive-server.shopifycloud.com
-partners.shopify.com
 *.shopifycs.com
+shop.app
 *.shopifycloud.com
 admin.shopify.com
-accounts.shopify.com
+partners.shopify.com
 *.shopify.com
 your-store.myshopify.com
+accounts.shopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3665,11 +3665,11 @@ callbacks.airbnb.com
 *.hoteltonight-test.com
 next.airbnb.com
 assets.airbnb.com
-www.airbnb.com
 api.airbnb.com
 *.airbnbcitizen.com
 www.hoteltonight.com
 *.withairbnb.com
+www.airbnb.com
 *.airbnb.com
 www.airbnb.com
 next.airbnb.com
