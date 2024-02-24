@@ -2,16 +2,16 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Feb 24 03:20:25 UTC 2024)
+## Domains with Bounties (Last Updated Sat Feb 24 04:19:51 UTC 2024)
 ```
 *.worldcoin-distributors.com
 *.worldcoin.dev
 toolsforhumanity.com
-*.toolsforhumanity.com
 worldcoin.org
+*.toolsforhumanity.com
 bioid-management.app
-*.consumer.worldcoin.org
 getworldcoin.com
+*.consumer.worldcoin.org
 *.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
@@ -52,8 +52,8 @@ my.sheer.com
 www.sheer.com
 www.sheer.com
 my.sheer.com
-www.ddfcontent.com
 www.pornworld.com
+www.ddfcontent.com
 www.analvids.com
 www.pornbox.com
 www.pornbox.com
@@ -259,8 +259,8 @@ cdn.moderntreasury.com
 app.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
-test.nicehash.com
 test.nicex.com
+test.nicehash.com
 test.nicehash.com
 https://test.nicehash.com/shop/
 https://test.nicex.com
@@ -466,8 +466,8 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
 yourdomain.freshservice.com
-yourdomain.freshdesk.com
 yourdomain.myfreshworks.com
+yourdomain.freshdesk.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -485,8 +485,8 @@ api.kolesa.kz
 api.avtoelon.uz
 avtoelon.uz
 id.kolesa.kz
-krisha.kz
 kolesa.kz
+krisha.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -622,8 +622,8 @@ cargo.indrive.com
 *.indriver.com
 *.indrive.com
 new-order.eu-east-1.indriverapp.com
-argocd.indrive.dev
 *.indriverapp.com
+argocd.indrive.dev
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -1743,7 +1743,6 @@ academy-outbound-ads.tiktok.com
 fp-sg.tiktokv.com
 developers.tiktok.com
 careers.tiktok.com
-*.tiktok.com
 creatormarketplace.tiktok.com
 www.pangleglobal.com
 business.tiktok.com
@@ -1753,6 +1752,7 @@ effecthouse.tiktok.com
 *.tiktokv.com
 live-backstage.tiktok.com
 tiktok.com
+*.tiktok.com
 ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
@@ -1840,16 +1840,18 @@ app.kruidvat.nl
 www.theperfumeshop.com
 app.theperfumeshop.com
 api.theperfumeshop.com
-www10.watsons.com.tw
-www.watsons.com.tw
-api.watsons.com.tw
-www10.watsons.com.ph
-api.watsons.com.ph
-www.watsons.com.ph
-www.watsons.co.th
-www20.watsons.co.th
-www10.watsons.co.th
-api.watsons.co.th
+api.watsons.com.my
+www.watsons.com.my
+www10.watsons.com.my
+www.iciparisxl.nl
+www.iciparisxl.be
+www.iciparisxl.lu
+app.iciparisxl.nl
+app.iciparisxl.be
+app.iciparisxl.lu
+www.marionnaud.at
+app.marionnaud.at
+www.marionnaud.ch
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2334,9 +2336,9 @@ http://www.shopmarriott.com
 www.goodrx.com
 www.goodrx.com
 *.ra.roblox.com
-*.roblox.com
 *.guilded.gg
 *.rbx.com
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2398,8 +2400,8 @@ booth.pm
 payment.pixiv.net
 sketch.pixiv.net
 www.pixiv.net
-dic.pixiv.net
 *.fanbox.cc
+dic.pixiv.net
 comic.pixiv.net
 accounts.pixiv.net
 *.fanbox.cc
@@ -2700,9 +2702,9 @@ res.hyattinclusivecollection.com
 www.hyattinclusivecollection.com
 booking.applevacations.com
 grammarly.ai
-*.grammarlyaws.com
 *.grammarly.com
 *.grammarly.io
+*.grammarlyaws.com
 *.grammarly.io
 *.grammarlyaws.com
 *.grammarly.com
@@ -3546,9 +3548,9 @@ arrive-server.shopifycloud.com
 admin.shopify.com
 your-store.myshopify.com
 *.shopifycs.com
+partners.shopify.com
 shop.app
 accounts.shopify.com
-partners.shopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3589,11 +3591,11 @@ web.snapchat.com
 accounts.snapchat.com
 login.playcanvas.com
 *.sc-core.net
-scan.snapchat.com
-playcanvas.com
 snappublisher.snapchat.com
-app.snapchat.com
+playcanvas.com
+scan.snapchat.com
 ads.snapchat.com
+app.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3669,10 +3671,10 @@ callbacks.airbnb.com
 *.hoteltonight-test.com
 next.airbnb.com
 assets.airbnb.com
+www.airbnb.com
 api.airbnb.com
 *.airbnbcitizen.com
 www.hoteltonight.com
-www.airbnb.com
 *.airbnb.com
 *.withairbnb.com
 www.airbnb.com
@@ -3869,8 +3871,8 @@ slack-imgs.com
 www.quip.com
 *.quip.com
 slack.com
-app.slack.com
 api.slack.com
+app.slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -3912,8 +3914,8 @@ ctf.hacker101.com
 api.hackerone.com
 hackerone-user-content.com
 hackerone.live
-hackerone.com
 www.hackerone.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
