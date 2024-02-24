@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Feb 24 09:16:19 UTC 2024)
+## Domains with Bounties (Last Updated Sat Feb 24 10:18:57 UTC 2024)
 ```
 *.worldcoin-distributors.com
 worldcoin.org
@@ -23,10 +23,10 @@ getworldcoin.com
 bioid-management.app
 worldcoin.org
 rfc.tari.com
+www.tari.com
 textexplore.tari.com
 www.tarilabs.com
 explore.tari.com
-www.tari.com
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
@@ -127,6 +127,7 @@ research.23andme.com
 www.mercadolibre.com.uy
 api.mercadopago.com
 www.mercadopago.com.uy
+api.mercadolibre.com
 www.mercadolibre.com.mx
 www.mercadopago.com.co
 www.mercadopago.com.pe
@@ -137,7 +138,6 @@ www.mercadopago.com.mx
 www.mercadolivre.com.br
 www.mercadopago.com.br
 www.mercadolibre.com.co
-api.mercadolibre.com
 www.mercadolibre.com.ar
 www.mercadopago.cl
 api.mercadopago.com
@@ -179,8 +179,8 @@ chat.booking.com
 widget.rentalcars.com
 admin.booking.com
 distribution-xml.booking.com
-*.rentalcars.com
 booking.com
+*.rentalcars.com
 cars.booking.com
 secure.booking.com
 careers.booking.com
@@ -284,11 +284,11 @@ xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless-staging.io
 manage-sandbox.gocardless.com
-*.gocardless-cicd.io
 *.gocardless.io
 *.gocardless-banking.io
 api-sandbox.gocardless.com
 *.gocardless-lab.io
+*.gocardless-cicd.io
 www.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
@@ -402,8 +402,8 @@ www.fraedom.com
 visa.co.cr
 ht.visa.com
 www.visa.co.in
-www.authorize.net
 www.yellowpepper.com
+www.visa.com.br
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -480,13 +480,13 @@ m.avtoelon.uz
 api.krisha.kz
 app.krisha.kz
 m.krisha.kz
-m.kolesa.kz
 api.kolesa.kz
 api.avtoelon.uz
 avtoelon.uz
 id.kolesa.kz
 kolesa.kz
 krisha.kz
+m.kolesa.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -622,8 +622,8 @@ cargo.indrive.com
 *.indriver.com
 *.indrive.com
 new-order.eu-east-1.indriverapp.com
-argocd.indrive.dev
 *.indriverapp.com
+argocd.indrive.dev
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -976,8 +976,8 @@ artifactory.corp.mongodb.com/
 https://www.*mongodb.com/*
 mongodb.live/*
 artifactory.corp.mongodb.com/
-checksw.com
 royal.checksw.com
+checksw.com
 checksw.com
 royal.checksw.com
 *.superpal.io/*
@@ -1168,8 +1168,8 @@ docs.databricks.com
 labs.databricks.com
 customer-academy.databricks.com
 support.databricks.com
-kb.databricks.com
 databricks.com
+kb.databricks.com
 advocates.databricks.com
 databricks.com
 academy.databricks.com
@@ -1743,6 +1743,7 @@ academy-outbound-ads.tiktok.com
 fp-sg.tiktokv.com
 developers.tiktok.com
 careers.tiktok.com
+*.tiktok.com
 creatormarketplace.tiktok.com
 www.pangleglobal.com
 business.tiktok.com
@@ -1752,7 +1753,6 @@ effecthouse.tiktok.com
 *.tiktokv.com
 live-backstage.tiktok.com
 tiktok.com
-*.tiktok.com
 ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
@@ -1840,18 +1840,16 @@ app.kruidvat.nl
 www.theperfumeshop.com
 app.theperfumeshop.com
 api.theperfumeshop.com
-api.watsons.com.my
-www.watsons.com.my
-www10.watsons.com.my
-www.iciparisxl.nl
-www.iciparisxl.be
-www.iciparisxl.lu
-app.iciparisxl.nl
-app.iciparisxl.be
-app.iciparisxl.lu
-www.marionnaud.at
-app.marionnaud.at
-www.marionnaud.ch
+www10.watsons.com.tw
+www.watsons.com.tw
+api.watsons.com.tw
+www10.watsons.com.ph
+api.watsons.com.ph
+www.watsons.com.ph
+www.watsons.co.th
+www20.watsons.co.th
+www10.watsons.co.th
+api.watsons.co.th
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2011,8 +2009,8 @@ portal.polygon.technology
 *.miwifi.com
 *.miui.com
 *.xiaomiyoupin.com
-*.mi.com
 *.xiaomi.com
+*.mi.com
 *.mi.com
 *.xiaomi.com
 *.miui.com
@@ -2702,9 +2700,9 @@ res.hyattinclusivecollection.com
 www.hyattinclusivecollection.com
 booking.applevacations.com
 grammarly.ai
+*.grammarlyaws.com
 *.grammarly.com
 *.grammarly.io
-*.grammarlyaws.com
 *.grammarly.io
 *.grammarlyaws.com
 *.grammarly.com
@@ -2726,8 +2724,8 @@ mobile-prod.tvg.com
 fdbox.net
 www.4njbets.com
 sportsbook.fanduel.com
-tvg.com
 *racing.fanduel.com
+tvg.com
 us.tvg.com
 com.fanduel.android.live
 *.fanduel.com
@@ -2784,8 +2782,8 @@ py.pl
 paypalobjects.com
 *.braintreegateway.com
 *.xoom.com
-*.hyperwallet.com
 *.paypalcorp.com
+*.hyperwallet.com
 *.paypal.com
 www.paypal-*.com
 *.xoom.com
@@ -3442,10 +3440,10 @@ winecellar.zomato.com
 api2.grofers.com
 api.grofers.com
 *.zomans.com
+*.hyperpure.com
 *.runnr.in
 blinkit.com
 *.zomato.com
-*.hyperpure.com
 *.zomato.com
 *.zdev.net
 *.zomans.com
@@ -3455,9 +3453,9 @@ winecellar.zomato.com
 api.grofers.com
 api2.grofers.com
 blinkit.com
-www.algolia.com
 *.algolia.net
 *.algolianet.com
+www.algolia.com
 *.algolia.net
 *.algolianet.com
 www.algolia.com
@@ -3534,21 +3532,21 @@ zopim.com
 app.futuresimple.com
 api.getbase.com
 http://h1-your-domain.zendesk.com/sell
-www.udemy.com
 yourcompany.udemy.com
+www.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 shopifyinbox.com
-*.shopify.com
+shop.app
 *.shopifykloud.com
 linkpop.com
 arrive-server.shopifycloud.com
 *.shopifycs.com
-shop.app
 *.shopifycloud.com
 admin.shopify.com
-partners.shopify.com
 accounts.shopify.com
+partners.shopify.com
+*.shopify.com
 your-store.myshopify.com
 shopify.plus
 *.shopifycs.com
@@ -3902,8 +3900,6 @@ profile-photos.hackerone-user-content.com
 mta-sts.wearehackerone.com
 reviewer.pullrequest.com
 hackathon-photos-us-east-2.hackerone-user-content.com
-hackerone-user-content.com
-hackerone.live
 cover-photos-us-east-2.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 a5s.hackerone-ext-content.com
@@ -3914,6 +3910,8 @@ cover-photos.hackerone-user-content.com
 app.pullrequest.com
 ctf.hacker101.com
 api.hackerone.com
+hackerone-user-content.com
+hackerone.live
 www.hackerone.com
 hackerone.com
 hackerone.com
