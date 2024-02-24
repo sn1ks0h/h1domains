@@ -2,13 +2,13 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Feb 24 02:20:35 UTC 2024)
+## Domains with Bounties (Last Updated Sat Feb 24 03:20:25 UTC 2024)
 ```
 *.worldcoin-distributors.com
 *.worldcoin.dev
 toolsforhumanity.com
-worldcoin.org
 *.toolsforhumanity.com
+worldcoin.org
 bioid-management.app
 *.consumer.worldcoin.org
 getworldcoin.com
@@ -247,8 +247,8 @@ pentesting.gethypr.com
 hypr37448.gethypr.com
 pentesting3.gethypr.com
 pentesting2.gethypr.com
-hypr74352.gethypr.com
 *.hypr.com
+hypr74352.gethypr.com
 *.hypr.com
 pentesting.gethypr.com
 pentesting3.gethypr.com
@@ -464,9 +464,9 @@ www.visainfinite.ca
 http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
-yourdomain.freshdesk.com
 yourdomain.freshchat.com
 yourdomain.freshservice.com
+yourdomain.freshdesk.com
 yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
@@ -622,8 +622,8 @@ cargo.indrive.com
 *.indriver.com
 *.indrive.com
 new-order.eu-east-1.indriverapp.com
-*.indriverapp.com
 argocd.indrive.dev
+*.indriverapp.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -895,8 +895,8 @@ www.expediagroup.com
 www.flights.com
 *.magiceden.dev
 *.magiceden.workers.dev
-magiceden.io
 *.magiceden.io
+magiceden.io
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -1107,8 +1107,8 @@ rankings.etoro.com
 candle.etoro.com
 r.etoro.com
 delta.app
-bullsheet.me
 etoropartners.com
+bullsheet.me
 www.etoro.com
 www.etoro.com
 etoropartners.com
@@ -1488,7 +1488,6 @@ mod.reddit.com
 old.reddit.com
 api.reddit.com
 *.redditmedia.com
-ads.reddit.com
 redditforbusiness.com
 app.spiketrap.io
 *.snooguts.net
@@ -1497,6 +1496,7 @@ oauth.reddit.com
 www.reddit.com
 *.reddit.com
 accounts.reddit.com
+ads.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -2398,8 +2398,8 @@ booth.pm
 payment.pixiv.net
 sketch.pixiv.net
 www.pixiv.net
-*.fanbox.cc
 dic.pixiv.net
+*.fanbox.cc
 comic.pixiv.net
 accounts.pixiv.net
 *.fanbox.cc
@@ -2725,10 +2725,10 @@ fdbox.net
 www.4njbets.com
 sportsbook.fanduel.com
 tvg.com
-*.fanduel.com
 *racing.fanduel.com
 us.tvg.com
 com.fanduel.android.live
+*.fanduel.com
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -2776,7 +2776,6 @@ decision.swiftfinancial.com
 *.braintree-api.com
 *.braintreepayments.com
 *.paylution.com
-*.paypalcorp.com
 paypal.me
 py.pl
 *.venmo.com
@@ -2785,6 +2784,7 @@ paypalobjects.com
 *.xoom.com
 *.hyperwallet.com
 *.paypal.com
+*.paypalcorp.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -2943,8 +2943,8 @@ www.dota2.com
 www.counter-strike.net
 store.steampowered.com
 api.steampowered.com
-steamcommunity.com
 www.teamfortress.com
+steamcommunity.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3537,18 +3537,18 @@ www.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 shopifyinbox.com
-shop.app
 *.shopifykloud.com
 shopify.plus
 linkpop.com
 arrive-server.shopifycloud.com
-*.shopifycs.com
+*.shopify.com
 *.shopifycloud.com
 admin.shopify.com
 your-store.myshopify.com
+*.shopifycs.com
+shop.app
 accounts.shopify.com
 partners.shopify.com
-*.shopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3589,9 +3589,9 @@ web.snapchat.com
 accounts.snapchat.com
 login.playcanvas.com
 *.sc-core.net
-snappublisher.snapchat.com
-playcanvas.com
 scan.snapchat.com
+playcanvas.com
+snappublisher.snapchat.com
 app.snapchat.com
 ads.snapchat.com
 accounts.snapchat.com
