@@ -2,15 +2,15 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Feb 24 18:20:08 UTC 2024)
+## Domains with Bounties (Last Updated Sat Feb 24 19:15:33 UTC 2024)
 ```
 *.worldcoin-distributors.com
-worldcoin.org
 *.toolsforhumanity.com
+worldcoin.org
 *.consumer.worldcoin.org
 bioid-management.app
-toolsforhumanity.com
 *.worldcoin.dev
+toolsforhumanity.com
 *.worldcoin.org
 getworldcoin.com
 *.worldcoin.org
@@ -48,8 +48,8 @@ verify.arkoselabs.com
 iframe.arkoselabs.com
 www.arkoselabs.com
 demo.arkoselabs.com
-my.sheer.com
 www.sheer.com
+my.sheer.com
 www.sheer.com
 my.sheer.com
 www.pornworld.com
@@ -86,12 +86,12 @@ app.dynamic.xyz
 editor.zyro.com
 www.niagahoster.co.id
 payments.hostinger.com
+www.hostinger.com
 cpanel.hostinger.com
 backend.zyro.com
 logo.zyro.com
 www.zyro.com
 hpanel.hostinger.com
-www.hostinger.com
 *.000webhost.com
 *.000webhost.com
 www.hostinger.com
@@ -976,8 +976,8 @@ artifactory.corp.mongodb.com/
 https://www.*mongodb.com/*
 mongodb.live/*
 artifactory.corp.mongodb.com/
-checksw.com
 royal.checksw.com
+checksw.com
 checksw.com
 royal.checksw.com
 *.superpal.io/*
@@ -1832,26 +1832,25 @@ helpcenter.affirm.ca
 hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
-www.superdrug.com
-app.superdrug.com
-api.superdrug.com
 www.kruidvat.nl
 app.kruidvat.nl
 www.theperfumeshop.com
 app.theperfumeshop.com
 api.theperfumeshop.com
-api.watsons.com.my
-www.watsons.com.my
-www10.watsons.com.my
-www.iciparisxl.nl
-www.iciparisxl.be
-www.iciparisxl.lu
-app.iciparisxl.nl
-app.iciparisxl.be
-app.iciparisxl.lu
-www.marionnaud.at
-app.marionnaud.at
-www.marionnaud.ch
+www10.pns.hk
+api.pns.hk
+www.pns.hk
+www10.watsons.com.sg
+www.watsons.com.sg
+api.watsons.com.sg
+www.watsons.com.hk
+www10.watsons.com.hk
+api.watsons.com.hk
+www10.watsons.co.id
+api.watsons.co.id
+www.watsons.co.id
+blog.watsons.com.tr
+app.watsons.com.tr
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2271,10 +2270,10 @@ unibet.me
 maria.casino
 www.32red.com
 *.kindredext.net
-*.kes.kindredext.net
 *.bingo.com
 *.highrolling.nu
 *.vladcazino.ro
+*.kes.kindredext.net
 *.unibet.com
 *.unibet.fr
 *.storspiller.com
@@ -2502,8 +2501,8 @@ reservations.rezserver.com
 api.rezserver.com
 cruises.priceline.com
 www.bookingholdings.com
-admin.rezserver.com
 flyiin.com
+admin.rezserver.com
 www.getaroom.com
 www.priceline.com
 secure.rezserver.com
@@ -2702,9 +2701,9 @@ res.hyattinclusivecollection.com
 www.hyattinclusivecollection.com
 booking.applevacations.com
 grammarly.ai
-*.grammarly.com
-*.grammarly.io
 *.grammarlyaws.com
+*.grammarly.io
+*.grammarly.com
 *.grammarly.io
 *.grammarlyaws.com
 *.grammarly.com
@@ -3392,12 +3391,12 @@ gist.github.com
 *.github.net
 education.github.com
 npmjs.org
-*.githubusercontent.com
 classroom.github.com
 npmjs.com
 *.githubapp.com
 github.com
 api.github.com
+*.githubusercontent.com
 github.com
 api.github.com
 gist.github.com
@@ -3455,9 +3454,9 @@ winecellar.zomato.com
 api.grofers.com
 api2.grofers.com
 blinkit.com
-www.algolia.com
 *.algolia.net
 *.algolianet.com
+www.algolia.com
 *.algolia.net
 *.algolianet.com
 www.algolia.com
@@ -3543,8 +3542,8 @@ linkpop.com
 arrive-server.shopifycloud.com
 *.shopifycs.com
 *.shopifycloud.com
-partners.shopify.com
 accounts.shopify.com
+partners.shopify.com
 shopify.plus
 shop.app
 admin.shopify.com
@@ -3587,7 +3586,6 @@ forum.playcanvas.com
 spectacles.com
 business.snapchat.com
 www.bitmoji.com
-accounts.snapchat.com
 login.playcanvas.com
 *.sc-core.net
 snappublisher.snapchat.com
@@ -3596,6 +3594,7 @@ scan.snapchat.com
 app.snapchat.com
 ads.snapchat.com
 web.snapchat.com
+accounts.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
