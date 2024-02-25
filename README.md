@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Feb 25 19:16:30 UTC 2024)
+## Domains with Bounties (Last Updated Sun Feb 25 20:17:01 UTC 2024)
 ```
 *.worldcoin-distributors.com
 *.consumer.worldcoin.org
@@ -52,8 +52,8 @@ my.sheer.com
 www.sheer.com
 www.sheer.com
 my.sheer.com
-www.ddfcontent.com
 www.pornworld.com
+www.ddfcontent.com
 www.analvids.com
 www.pornbox.com
 www.pornbox.com
@@ -111,9 +111,9 @@ mediacenter.23andme.com
 therapeutics.23andme.com
 medical.23andme.com
 store.23andme.com
-auth.23andme.com
 blog.23andme.com
 you.23andme.com
+auth.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -185,9 +185,9 @@ careers.booking.com
 account.booking.com
 *.rentalcars.com
 portal.taxi.booking.com
-*.booking.com
 booking.com
 spark.fareharbor.com
+*.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -673,13 +673,13 @@ oneview.malwarebytes.com
 *.mwb-threatintel.com
 *.mbamupdates.com
 *.mb-cosmos.com
-*.malwarebytes.com
-*.cloud.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
+*.cloud.malwarebytes.com
 my.malwarebytes.com
 *.threatdown.com
 *.mwbsys.com
+*.malwarebytes.com
 www.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
@@ -750,6 +750,7 @@ sso.8x8.com
 voapi.8x8.com
 *.jitsi.net
 *.packet8.net
+connect.8x8.com
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1148,8 +1149,8 @@ admin.instacart.com
 shoppers.instacart.com
 api.instacart.com
 *.instacart.tools
-*.instacart.com
 www.instacart.com
+*.instacart.com
 *.instacart.com
 *.instacart.tools
 api.instacart.com
@@ -1188,7 +1189,6 @@ labs.databricks.com
 marketplace.databricks.com
 *.payoneer.com
 *.payoneer.com
-account.krisp.ai
 upld.krisp.ai
 analytics.krisp.ai
 download.krisp.ai
@@ -1196,6 +1196,7 @@ teams.krisp.ai
 krisp.ai
 api.krisp.ai
 *.krisp.ai
+account.krisp.ai
 *.krisp.ai
 krisp.ai
 account.krisp.ai
@@ -1750,8 +1751,8 @@ partner.tiktokshop.com
 ads.tiktok.com
 www.pangleglobal.com
 *.tiktok.com
-business.tiktok.com
 live-backstage.tiktok.com
+business.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1830,19 +1831,22 @@ helpcenter.affirm.ca
 hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
-www10.watsons.com.vn
-api.watsons.com.vn
-www10.pns.hk
-api.pns.hk
-www.pns.hk
-www.fortress.com.hk
-www.marionnaud.fr
-app.marionnaud.fr
-mapi.moneyback.com.hk
-www.moneyback.com.hk
+app.superdrug.com
+api.superdrug.com
 www.kruidvat.nl
 app.kruidvat.nl
 app.theperfumeshop.com
+api.theperfumeshop.com
+www10.watsons.com.tw
+www.watsons.com.tw
+api.watsons.com.tw
+www10.watsons.com.ph
+api.watsons.com.ph
+www.watsons.com.ph
+www.watsons.co.th
+www20.watsons.co.th
+www10.watsons.co.th
+api.watsons.co.th
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2201,7 +2205,6 @@ amazonpayinsurance.in
 *.aliexpress.ru
 *.tmall.com
 *.aliyun-inc.com
-*.alibabacloud.com
 *.alibaba-inc.com
 *.Daraz.com
 *.aliexpress.com
@@ -2210,6 +2213,7 @@ amazonpayinsurance.in
 *.aliyun.com
 *.taobao.com
 www.alibabagroup.com
+*.alibabacloud.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2382,7 +2386,6 @@ codacontent.io
 https://coda.io/signup/email
 codahosted.io
 codacontent.io
-sensei.pixiv.net
 hub.vroid.com
 neoket.net
 vroid.com
@@ -2395,6 +2398,7 @@ comic.pixiv.net
 accounts.pixiv.net
 www.pixiv.net
 sketch.pixiv.net
+sensei.pixiv.net
 *.fanbox.cc
 booth.pm
 comic.pixiv.net
@@ -3538,10 +3542,10 @@ shopify.plus
 *.shopifycs.com
 your-store.myshopify.com
 *.shopifycloud.com
-admin.shopify.com
 shop.app
 accounts.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3580,9 +3584,9 @@ business.snapchat.com
 www.bitmoji.com
 login.playcanvas.com
 *.sc-core.net
-scan.snapchat.com
-playcanvas.com
 snappublisher.snapchat.com
+playcanvas.com
+scan.snapchat.com
 app.snapchat.com
 ads.snapchat.com
 web.snapchat.com
