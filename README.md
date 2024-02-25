@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Feb 25 02:25:46 UTC 2024)
+## Domains with Bounties (Last Updated Sun Feb 25 03:17:43 UTC 2024)
 ```
 *.worldcoin-distributors.com
 worldcoin.org
@@ -10,9 +10,9 @@ worldcoin.org
 *.consumer.worldcoin.org
 bioid-management.app
 toolsforhumanity.com
-*.worldcoin.dev
 *.worldcoin.org
 getworldcoin.com
+*.worldcoin.dev
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -48,8 +48,8 @@ verify.arkoselabs.com
 iframe.arkoselabs.com
 www.arkoselabs.com
 demo.arkoselabs.com
-my.sheer.com
 www.sheer.com
+my.sheer.com
 www.sheer.com
 my.sheer.com
 www.ddfcontent.com
@@ -185,9 +185,9 @@ secure.booking.com
 careers.booking.com
 spark.fareharbor.com
 account.booking.com
-portal.taxi.booking.com
 *.rentalcars.com
 *.booking.com
+portal.taxi.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -259,8 +259,8 @@ cdn.moderntreasury.com
 app.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
-test.nicehash.com
 test.nicex.com
+test.nicehash.com
 test.nicehash.com
 https://test.nicehash.com/shop/
 https://test.nicex.com
@@ -485,8 +485,8 @@ api.avtoelon.uz
 avtoelon.uz
 id.kolesa.kz
 krisha.kz
-kolesa.kz
 m.kolesa.kz
+kolesa.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -1168,8 +1168,8 @@ docs.databricks.com
 labs.databricks.com
 customer-academy.databricks.com
 support.databricks.com
-databricks.com
 kb.databricks.com
+databricks.com
 advocates.databricks.com
 databricks.com
 academy.databricks.com
@@ -1752,8 +1752,8 @@ effecthouse.tiktok.com
 *.tiktokv.com
 live-backstage.tiktok.com
 ads.tiktok.com
-*.tiktok.com
 tiktok.com
+*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2702,9 +2702,9 @@ res.hyattinclusivecollection.com
 www.hyattinclusivecollection.com
 booking.applevacations.com
 grammarly.ai
+*.grammarlyaws.com
 *.grammarly.com
 *.grammarly.io
-*.grammarlyaws.com
 *.grammarly.io
 *.grammarlyaws.com
 *.grammarly.com
@@ -3395,9 +3395,9 @@ npmjs.org
 classroom.github.com
 npmjs.com
 *.githubapp.com
-github.com
 api.github.com
 *.githubusercontent.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3546,11 +3546,11 @@ partners.shopify.com
 accounts.shopify.com
 shopify.plus
 shop.app
-admin.shopify.com
 *.shopifykloud.com
 your-store.myshopify.com
 *.shopify.com
 *.shopifycs.com
+admin.shopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3592,8 +3592,8 @@ login.playcanvas.com
 snappublisher.snapchat.com
 playcanvas.com
 scan.snapchat.com
-app.snapchat.com
 ads.snapchat.com
+app.snapchat.com
 web.snapchat.com
 accounts.snapchat.com
 accounts.snapchat.com
@@ -3871,8 +3871,8 @@ slack-imgs.com
 www.quip.com
 *.quip.com
 slack.com
-api.slack.com
 app.slack.com
+api.slack.com
 slack.com
 api.slack.com
 status.slack.com

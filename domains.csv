@@ -9,9 +9,9 @@ toolsforhumanity,*.toolsforhumanity.com,True
 toolsforhumanity,*.consumer.worldcoin.org,True
 toolsforhumanity,bioid-management.app,True
 toolsforhumanity,toolsforhumanity.com,True
-toolsforhumanity,*.worldcoin.dev,True
 toolsforhumanity,*.worldcoin.org,True
 toolsforhumanity,getworldcoin.com,True
+toolsforhumanity,*.worldcoin.dev,True
 toolsforhumanity,*.worldcoin.org,True
 toolsforhumanity,*.consumer.worldcoin.org,True
 toolsforhumanity,*.worldcoin-distributors.com,True
@@ -97,8 +97,8 @@ arkose_labs,verify.arkoselabs.com,True
 arkose_labs,iframe.arkoselabs.com,True
 arkose_labs,www.arkoselabs.com,True
 arkose_labs,demo.arkoselabs.com,True
-sheer_bbp,my.sheer.com,True
 sheer_bbp,www.sheer.com,True
+sheer_bbp,my.sheer.com,True
 sheer_bbp,www.sheer.com,True
 sheer_bbp,my.sheer.com,True
 pornbox,www.ddfcontent.com,True
@@ -248,9 +248,9 @@ bookingcom,secure.booking.com,True
 bookingcom,careers.booking.com,True
 bookingcom,spark.fareharbor.com,True
 bookingcom,account.booking.com,True
-bookingcom,portal.taxi.booking.com,True
 bookingcom,*.rentalcars.com,True
 bookingcom,*.booking.com,True
+bookingcom,portal.taxi.booking.com,True
 bookingcom,*.booking.com,True
 bookingcom,*.rentalcars.com,True
 bookingcom,booking.com,True
@@ -1251,8 +1251,8 @@ modern_treasury,cdn.moderntreasury.com,True
 modern_treasury,app.moderntreasury.com,True
 modern_treasury,app.moderntreasury.com,True
 modern_treasury,cdn.moderntreasury.com,True
-nicehash,test.nicehash.com,True
 nicehash,test.nicex.com,True
+nicehash,test.nicehash.com,True
 nicehash,test.nicehash.com,True
 nicehash,https://test.nicehash.com/shop/,True
 nicehash,https://test.nicex.com,True
@@ -2860,8 +2860,8 @@ kolesagroup,api.avtoelon.uz,True
 kolesagroup,avtoelon.uz,True
 kolesagroup,id.kolesa.kz,True
 kolesagroup,krisha.kz,True
-kolesagroup,kolesa.kz,True
 kolesagroup,m.kolesa.kz,True
+kolesagroup,kolesa.kz,True
 kolesagroup,kolesa.kz,True
 kolesagroup,m.kolesa.kz,True
 kolesagroup,krisha.kz,True
@@ -2967,8 +2967,8 @@ shutterfly_vdp,jcpportraits.com,False
 shutterfly_vdp,*.photoccino.com,False
 shutterfly_vdp,blog.spoonflower.com,False
 shutterfly_vdp,photo.walgreens.com,False
-shutterfly_vdp,lifetouch.com,False
 shutterfly_vdp,admin.spoonflower.com,False
+shutterfly_vdp,lifetouch.com,False
 shutterfly_vdp,*.shutterfly.com,False
 shutterfly_vdp,www.borrowlenses.com,False
 shutterfly_vdp,*.snapfish.com,False
@@ -4940,8 +4940,8 @@ databricks,docs.databricks.com,True
 databricks,labs.databricks.com,True
 databricks,customer-academy.databricks.com,True
 databricks,support.databricks.com,True
-databricks,databricks.com,True
 databricks,kb.databricks.com,True
+databricks,databricks.com,True
 databricks,advocates.databricks.com,True
 databricks,databricks.com,True
 databricks,academy.databricks.com,True
@@ -7031,8 +7031,8 @@ tiktok,effecthouse.tiktok.com,True
 tiktok,*.tiktokv.com,True
 tiktok,live-backstage.tiktok.com,True
 tiktok,ads.tiktok.com,True
-tiktok,*.tiktok.com,True
 tiktok,tiktok.com,True
+tiktok,*.tiktok.com,True
 tiktok,*.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,ads.tiktok.com,True
@@ -7722,8 +7722,8 @@ digitalocean,www.digitalocean.com,False
 digitalocean,api.cloudways.com,False
 digitalocean,www.cloudways.com,False
 digitalocean,*.digitalocean.com,False
-digitalocean,cloud.digitalocean.com,False
 digitalocean,api.digitalocean.com,False
+digitalocean,cloud.digitalocean.com,False
 digitalocean,*.digitalocean.com,False
 digitalocean,cloud.digitalocean.com,False
 digitalocean,api.digitalocean.com,False
@@ -8904,8 +8904,8 @@ capital-one,*.capitalonebank.com,False
 capital-one,*.teamstercardnow.com,False
 capital-one,*.capitalonecards.com,False
 capital-one,*.capitalone.co.uk,False
-capital-one,*.capitalone.com,False
 capital-one,*.capitaloneshopping.com,False
+capital-one,*.capitalone.com,False
 capital-one,*.capitalone.com,False
 capital-one,*.paribus.co,False
 capital-one,*.capitalone360.com,False
@@ -9123,9 +9123,9 @@ hyatt,res.hyattinclusivecollection.com,True
 hyatt,www.hyattinclusivecollection.com,True
 hyatt,booking.applevacations.com,True
 grammarly,grammarly.ai,True
+grammarly,*.grammarlyaws.com,True
 grammarly,*.grammarly.com,True
 grammarly,*.grammarly.io,True
-grammarly,*.grammarlyaws.com,True
 grammarly,*.grammarly.io,True
 grammarly,*.grammarlyaws.com,True
 grammarly,*.grammarly.com,True
@@ -9504,6 +9504,7 @@ coalition,coalitioninc.com,False
 coalition,platform.thecoalition.com,False
 coalition,api.thecoalition.com,False
 coalition,coalitioninc.com,False
+toyota,www.toyota.com,False
 toyota,www.toyotafinancialpr.com,False
 toyota,www.toyotaconnected.com,False
 toyota,www.lexusfinancial.com,False
@@ -9522,7 +9523,6 @@ toyota,www.toyotaconnected.co.in,False
 toyota,www.toyotafinancial.com,False
 toyota,www.login.gac.toyota.com,False
 toyota,www.lexus.com,False
-toyota,www.toyota.com,False
 toyota,www.dashboard.gatekeepers.co.in,False
 toyota,www.toyotaconnected.co.in,False
 toyota,www.toyota.com,False
@@ -9955,9 +9955,9 @@ github,npmjs.org,True
 github,classroom.github.com,True
 github,npmjs.com,True
 github,*.githubapp.com,True
-github,github.com,True
 github,api.github.com,True
 github,*.githubusercontent.com,True
+github,github.com,True
 github,github.com,True
 github,api.github.com,True
 github,gist.github.com,True
@@ -10108,11 +10108,11 @@ shopify,partners.shopify.com,True
 shopify,accounts.shopify.com,True
 shopify,shopify.plus,True
 shopify,shop.app,True
-shopify,admin.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,your-store.myshopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifycs.com,True
+shopify,admin.shopify.com,True
 shopify,*.shopifycs.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
@@ -10154,8 +10154,8 @@ snapchat,*.sc-core.net,True
 snapchat,snappublisher.snapchat.com,True
 snapchat,playcanvas.com,True
 snapchat,scan.snapchat.com,True
-snapchat,app.snapchat.com,True
 snapchat,ads.snapchat.com,True
+snapchat,app.snapchat.com,True
 snapchat,web.snapchat.com,True
 snapchat,accounts.snapchat.com,True
 snapchat,accounts.snapchat.com,True
@@ -10574,8 +10574,8 @@ slack,slack-imgs.com,True
 slack,www.quip.com,True
 slack,*.quip.com,True
 slack,slack.com,True
-slack,api.slack.com,True
 slack,app.slack.com,True
+slack,api.slack.com,True
 slack,slack.com,True
 slack,api.slack.com,True
 slack,status.slack.com,True
