@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Feb 25 10:16:57 UTC 2024)
+## Domains with Bounties (Last Updated Sun Feb 25 11:14:01 UTC 2024)
 ```
 *.worldcoin-distributors.com
 *.toolsforhumanity.com
@@ -86,12 +86,12 @@ app.dynamic.xyz
 editor.zyro.com
 www.niagahoster.co.id
 payments.hostinger.com
-www.hostinger.com
 cpanel.hostinger.com
 backend.zyro.com
 logo.zyro.com
 www.zyro.com
 hpanel.hostinger.com
+www.hostinger.com
 *.000webhost.com
 *.000webhost.com
 www.hostinger.com
@@ -259,8 +259,8 @@ cdn.moderntreasury.com
 app.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
-test.nicehash.com
 test.nicex.com
+test.nicehash.com
 test.nicehash.com
 https://test.nicehash.com/shop/
 https://test.nicex.com
@@ -284,11 +284,11 @@ xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless-staging.io
 manage-sandbox.gocardless.com
-*.gocardless-cicd.io
 *.gocardless.io
 *.gocardless-banking.io
 api-sandbox.gocardless.com
 *.gocardless-lab.io
+*.gocardless-cicd.io
 www.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
@@ -484,8 +484,8 @@ api.avtoelon.uz
 avtoelon.uz
 id.kolesa.kz
 krisha.kz
-kolesa.kz
 m.kolesa.kz
+kolesa.kz
 m.avtoelon.uz
 kolesa.kz
 m.kolesa.kz
@@ -621,8 +621,8 @@ watchdocs.indriverapp.com
 cargo.indrive.com
 *.indriver.com
 new-order.eu-east-1.indriverapp.com
-argocd.indrive.dev
 *.indriverapp.com
+argocd.indrive.dev
 *.indrive.com
 *.indriverapp.com
 *.indrive.com
@@ -673,13 +673,13 @@ oneview.malwarebytes.com
 *.mwb-threatintel.com
 *.mbamupdates.com
 *.mb-cosmos.com
-*.malwarebytes.com
-*.cloud.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
+*.cloud.malwarebytes.com
 my.malwarebytes.com
 *.threatdown.com
 *.mwbsys.com
+*.malwarebytes.com
 www.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
@@ -2304,10 +2304,10 @@ marrtool.com
 cpp.marriott.com
 gatewaydsaptst1.marriott.com
 hotel-deals.marriott.com
-mgs.marriott.com
 all-inclusive.marriott.com
 jobs.marriott.com
 www.marriott.com
+mgs.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -2943,8 +2943,8 @@ www.dota2.com
 store.steampowered.com
 api.steampowered.com
 www.teamfortress.com
-www.counter-strike.net
 steamcommunity.com
+www.counter-strike.net
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3540,8 +3540,8 @@ shopifyinbox.com
 linkpop.com
 arrive-server.shopifycloud.com
 *.shopifycloud.com
-partners.shopify.com
 accounts.shopify.com
+partners.shopify.com
 shopify.plus
 shop.app
 *.shopifykloud.com
@@ -3669,10 +3669,10 @@ callbacks.airbnb.com
 *.hoteltonight-test.com
 next.airbnb.com
 assets.airbnb.com
+www.airbnb.com
 api.airbnb.com
 *.airbnbcitizen.com
 www.hoteltonight.com
-www.airbnb.com
 *.withairbnb.com
 *.airbnb.com
 www.airbnb.com
@@ -3869,8 +3869,8 @@ slack-imgs.com
 www.quip.com
 *.quip.com
 slack.com
-app.slack.com
 api.slack.com
+app.slack.com
 slack.com
 api.slack.com
 status.slack.com
