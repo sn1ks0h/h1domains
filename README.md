@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Feb 25 11:14:01 UTC 2024)
+## Domains with Bounties (Last Updated Sun Feb 25 12:25:23 UTC 2024)
 ```
 *.worldcoin-distributors.com
 *.toolsforhumanity.com
@@ -52,8 +52,8 @@ my.sheer.com
 www.sheer.com
 www.sheer.com
 my.sheer.com
-www.ddfcontent.com
 www.pornworld.com
+www.ddfcontent.com
 www.analvids.com
 www.pornbox.com
 www.pornbox.com
@@ -485,8 +485,8 @@ avtoelon.uz
 id.kolesa.kz
 krisha.kz
 m.kolesa.kz
-kolesa.kz
 m.avtoelon.uz
+kolesa.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -741,7 +741,6 @@ work.8x8.com
 *.p8t.us
 pay.8x8.com
 user-profile.8x8.com
-*.8x8.vc
 *.8x8.id
 *.8x8staging.com
 *.jit.si
@@ -1832,24 +1831,25 @@ helpcenter.affirm.ca
 hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
-www.superdrug.com
-app.superdrug.com
-api.superdrug.com
 www.kruidvat.nl
 app.kruidvat.nl
 www.theperfumeshop.com
 app.theperfumeshop.com
 api.theperfumeshop.com
-www10.watsons.com.tw
-www.watsons.com.tw
-api.watsons.com.tw
-www10.watsons.com.ph
-api.watsons.com.ph
-www.watsons.com.ph
-www.watsons.co.th
-www20.watsons.co.th
-www10.watsons.co.th
-api.watsons.co.th
+www10.pns.hk
+api.pns.hk
+www.pns.hk
+www10.watsons.com.sg
+www.watsons.com.sg
+api.watsons.com.sg
+www.watsons.com.hk
+www10.watsons.com.hk
+api.watsons.com.hk
+www10.watsons.co.id
+api.watsons.co.id
+www.watsons.co.id
+blog.watsons.com.tr
+app.watsons.com.tr
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2298,7 +2298,6 @@ gatewaydsaptst2.marriott.com
 passwordchallenge.marriott.com
 www.ritzcarlton.com
 *uat.marriott.com
-activities.marriott.com
 reservations.all-inclusive.marriott.com
 marrtool.com
 cpp.marriott.com
@@ -2306,8 +2305,9 @@ gatewaydsaptst1.marriott.com
 hotel-deals.marriott.com
 all-inclusive.marriott.com
 jobs.marriott.com
-www.marriott.com
 mgs.marriott.com
+activities.marriott.com
+www.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -2700,8 +2700,8 @@ res.hyattinclusivecollection.com
 www.hyattinclusivecollection.com
 booking.applevacations.com
 grammarly.ai
-*.grammarlyaws.com
 *.grammarly.io
+*.grammarlyaws.com
 *.grammarly.com
 *.grammarly.io
 *.grammarlyaws.com
@@ -2724,8 +2724,8 @@ mobile-prod.tvg.com
 fdbox.net
 www.4njbets.com
 sportsbook.fanduel.com
-tvg.com
 *racing.fanduel.com
+tvg.com
 us.tvg.com
 com.fanduel.android.live
 *.fanduel.com
@@ -3540,15 +3540,15 @@ shopifyinbox.com
 linkpop.com
 arrive-server.shopifycloud.com
 *.shopifycloud.com
-accounts.shopify.com
 partners.shopify.com
+accounts.shopify.com
 shopify.plus
 shop.app
 *.shopifykloud.com
-*.shopify.com
 *.shopifycs.com
 admin.shopify.com
 your-store.myshopify.com
+*.shopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3587,9 +3587,9 @@ business.snapchat.com
 www.bitmoji.com
 login.playcanvas.com
 *.sc-core.net
-snappublisher.snapchat.com
-playcanvas.com
 scan.snapchat.com
+playcanvas.com
+snappublisher.snapchat.com
 app.snapchat.com
 ads.snapchat.com
 web.snapchat.com
@@ -3896,7 +3896,6 @@ hackathon-photos.hackerone-user-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 www.wearehackerone.com
 profile-photos.hackerone-user-content.com
-mta-sts.wearehackerone.com
 reviewer.pullrequest.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
@@ -3913,6 +3912,7 @@ cover-photos.hackerone-user-content.com
 api.hackerone.com
 www.hackerone.com
 hackerone.com
+mta-sts.wearehackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
