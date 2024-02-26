@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Feb 26 03:19:25 UTC 2024)
+## Domains with Bounties (Last Updated Mon Feb 26 04:19:10 UTC 2024)
 ```
 *.worldcoin-distributors.com
 toolsforhumanity.com
@@ -86,12 +86,12 @@ app.dynamic.xyz
 editor.zyro.com
 www.niagahoster.co.id
 payments.hostinger.com
-www.hostinger.com
 cpanel.hostinger.com
 backend.zyro.com
 logo.zyro.com
 www.zyro.com
 hpanel.hostinger.com
+www.hostinger.com
 *.000webhost.com
 *.000webhost.com
 www.hostinger.com
@@ -284,11 +284,11 @@ xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless-staging.io
 manage-sandbox.gocardless.com
-*.gocardless-cicd.io
 *.gocardless.io
 *.gocardless-banking.io
 api-sandbox.gocardless.com
 *.gocardless-lab.io
+*.gocardless-cicd.io
 www.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
@@ -750,6 +750,7 @@ sso.8x8.com
 voapi.8x8.com
 *.jitsi.net
 *.packet8.net
+*.8x8cloud.net
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1106,8 +1107,8 @@ rankings.etoro.com
 candle.etoro.com
 r.etoro.com
 delta.app
-etoropartners.com
 bullsheet.me
+etoropartners.com
 www.etoro.com
 www.etoro.com
 etoropartners.com
@@ -1492,8 +1493,8 @@ accounts.reddit.com
 ads.reddit.com
 *.reddit.com
 ads-api.reddit.com
-www.reddit.com
 gql.reddit.com
+www.reddit.com
 new.reddit.com
 *.snooguts.net
 *.redditmedia.com
@@ -1830,24 +1831,22 @@ helpcenter.affirm.ca
 hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
+app.superdrug.com
+api.superdrug.com
 www.kruidvat.nl
 app.kruidvat.nl
 app.theperfumeshop.com
 api.theperfumeshop.com
-www10.pns.hk
-api.pns.hk
-www.pns.hk
-www10.watsons.com.sg
-www.watsons.com.sg
-api.watsons.com.sg
-www.watsons.com.hk
-www10.watsons.com.hk
-api.watsons.com.hk
-www10.watsons.co.id
-api.watsons.co.id
-www.watsons.co.id
-blog.watsons.com.tr
-app.watsons.com.tr
+www10.watsons.com.tw
+www.watsons.com.tw
+api.watsons.com.tw
+www10.watsons.com.ph
+api.watsons.com.ph
+www.watsons.com.ph
+www.watsons.co.th
+www20.watsons.co.th
+www10.watsons.co.th
+api.watsons.co.th
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -3546,9 +3545,9 @@ shopify.plus
 shop.app
 accounts.shopify.com
 *.shopify.com
-admin.shopify.com
 your-store.myshopify.com
 *.shopifycs.com
+admin.shopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3898,21 +3897,21 @@ www.wearehackerone.com
 profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 hackathon-photos-us-east-2.hackerone-user-content.com
+hackerone-user-content.com
+hackerone.live
 cover-photos-us-east-2.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 a5s.hackerone-ext-content.com
 hackerone-ext-content.com
 errors.hackerone.net
 app.pullrequest.com
-hackerone-user-content.com
-hackerone.live
-cover-photos.hackerone-user-content.com
 api.hackerone.com
 www.hackerone.com
 hackerone.com
 mta-sts.wearehackerone.com
 ctf.hacker101.com
 b5s.hackerone-ext-content.com
+cover-photos.hackerone-user-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
