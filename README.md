@@ -2,17 +2,17 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Feb 26 12:26:37 UTC 2024)
+## Domains with Bounties (Last Updated Mon Feb 26 13:21:18 UTC 2024)
 ```
 *.worldcoin-distributors.com
 toolsforhumanity.com
 *.worldcoin.dev
 worldcoin.org
 bioid-management.app
-*.consumer.worldcoin.org
 *.toolsforhumanity.com
-getworldcoin.com
+*.consumer.worldcoin.org
 *.worldcoin.org
+getworldcoin.com
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -52,8 +52,8 @@ my.sheer.com
 www.sheer.com
 www.sheer.com
 my.sheer.com
-www.pornworld.com
 www.ddfcontent.com
+www.pornworld.com
 www.analvids.com
 www.pornbox.com
 www.pornbox.com
@@ -284,11 +284,11 @@ xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless-staging.io
 manage-sandbox.gocardless.com
-*.gocardless-cicd.io
 *.gocardless.io
 *.gocardless-banking.io
 api-sandbox.gocardless.com
 *.gocardless-lab.io
+*.gocardless-cicd.io
 www.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
@@ -552,8 +552,8 @@ support.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 relay.firefox.com
 hg.mozilla.org
-www.mozilla.org
 monitor.firefox.com
+www.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -672,12 +672,12 @@ oneview.malwarebytes.com
 *.mwb-threatintel.com
 *.mbamupdates.com
 *.mb-cosmos.com
-*.malwarebytes.com
-*.cloud.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
+*.cloud.malwarebytes.com
 *.threatdown.com
 *.mwbsys.com
+*.malwarebytes.com
 www.malwarebytes.com
 my.malwarebytes.com
 *.mwbsys.com
@@ -749,6 +749,7 @@ sso.8x8.com
 voapi.8x8.com
 *.jitsi.net
 *.packet8.net
+*.8x8cloud.net
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1068,8 +1069,8 @@ social-trading.exness.com
 https://my.exness.com/pa/socialtrading
 exness.com
 api.smtp2go.com
-smtp2go.com
 app.smtp2go.com
+smtp2go.com
 smtp2go.com
 app.smtp2go.com
 api.smtp2go.com
@@ -1193,8 +1194,8 @@ download.krisp.ai
 teams.krisp.ai
 krisp.ai
 api.krisp.ai
-account.krisp.ai
 *.krisp.ai
+account.krisp.ai
 *.krisp.ai
 krisp.ai
 account.krisp.ai
@@ -1487,13 +1488,13 @@ app.spiketrap.io
 *.snooguts.net
 *.reddithelp.com
 oauth.reddit.com
-ads.reddit.com
 ads-api.reddit.com
 gql.reddit.com
 new.reddit.com
-www.reddit.com
-*.reddit.com
 accounts.reddit.com
+ads.reddit.com
+*.reddit.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1829,23 +1830,19 @@ helpcenter.affirm.ca
 hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
-www.kruidvat.nl
-app.kruidvat.nl
-app.theperfumeshop.com
-api.theperfumeshop.com
+www10.watsons.com.vn
+api.watsons.com.vn
 www10.pns.hk
 api.pns.hk
 www.pns.hk
-www10.watsons.com.sg
-www.watsons.com.sg
-api.watsons.com.sg
-www.watsons.com.hk
-www10.watsons.com.hk
-api.watsons.com.hk
-www10.watsons.co.id
-api.watsons.co.id
-www.watsons.co.id
-blog.watsons.com.tr
+www.fortress.com.hk
+www.marionnaud.fr
+app.marionnaud.fr
+mapi.moneyback.com.hk
+www.moneyback.com.hk
+www.kruidvat.nl
+app.kruidvat.nl
+app.theperfumeshop.com
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2210,8 +2207,8 @@ www.alibabagroup.com
 *.alibabacloud.com
 *.1688.com
 *.taobao.com
-*.aliyun.com
 *.alibaba.com
+*.aliyun.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2500,7 +2497,6 @@ www.bookingholdings.com
 admin.rezserver.com
 secure.rezserver.com
 press.priceline.com
-flyiin.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -2698,8 +2694,8 @@ res.hyattinclusivecollection.com
 www.hyattinclusivecollection.com
 booking.applevacations.com
 grammarly.ai
-*.grammarlyaws.com
 *.grammarly.io
+*.grammarlyaws.com
 *.grammarly.com
 *.grammarly.io
 *.grammarlyaws.com
@@ -3543,10 +3539,10 @@ shopify.plus
 *.shopifycloud.com
 shop.app
 *.shopifycs.com
-your-store.myshopify.com
 admin.shopify.com
-*.shopify.com
+your-store.myshopify.com
 accounts.shopify.com
+*.shopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3585,8 +3581,8 @@ business.snapchat.com
 www.bitmoji.com
 login.playcanvas.com
 *.sc-core.net
-scan.snapchat.com
 playcanvas.com
+scan.snapchat.com
 ads.snapchat.com
 snappublisher.snapchat.com
 web.snapchat.com
