@@ -2,17 +2,17 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Feb 26 15:24:17 UTC 2024)
+## Domains with Bounties (Last Updated Mon Feb 26 16:25:06 UTC 2024)
 ```
 *.worldcoin-distributors.com
 toolsforhumanity.com
 *.worldcoin.dev
-worldcoin.org
 bioid-management.app
 *.toolsforhumanity.com
 *.consumer.worldcoin.org
-*.worldcoin.org
 getworldcoin.com
+*.worldcoin.org
+worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -52,8 +52,8 @@ my.sheer.com
 www.sheer.com
 www.sheer.com
 my.sheer.com
-www.pornworld.com
 www.ddfcontent.com
+www.pornworld.com
 www.analvids.com
 www.pornbox.com
 www.pornbox.com
@@ -137,9 +137,9 @@ www.mercadopago.com.mx
 www.mercadolibre.com.co
 www.mercadolibre.com.ar
 www.mercadopago.cl
-api.mercadolibre.com
 www.mercadopago.com.br
 www.mercadolivre.com.br
+api.mercadolibre.com
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -186,8 +186,8 @@ account.booking.com
 *.rentalcars.com
 portal.taxi.booking.com
 booking.com
-spark.fareharbor.com
 *.booking.com
+spark.fareharbor.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -520,11 +520,11 @@ hg.mozilla.org
 bugzilla.mozilla.org
 firefox.settings.services.mozilla.com
 addons.allizom.org
-accounts.firefox.com
 mozilla-pontoon-staging.herokuapp.com
 phabricator.allizom.org
 contile.services.mozilla.com
 aus5.mozilla.org
+accounts.firefox.com
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -749,6 +749,7 @@ sso.8x8.com
 voapi.8x8.com
 *.jitsi.net
 *.packet8.net
+connect.8x8.com
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -784,9 +785,9 @@ admin.8x8.com
 *.superbet.rs
 *.napoleongames.be
 *.superbet.pl
-*.superbet.ro
 *.magicjackpot.ro
 *.superbet.com
+*.superbet.ro
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -912,9 +913,9 @@ askpam.ai
 *.teleport.dev
 *.gravitational.io
 platform.teleport.sh
-teleport.sh
 *.goteleport.com
 *.gravitational.co
+teleport.sh
 *.goteleport.com
 *.gravitational.com
 *.teleport.dev
@@ -1488,12 +1489,12 @@ app.spiketrap.io
 *.reddithelp.com
 oauth.reddit.com
 ads-api.reddit.com
-gql.reddit.com
 new.reddit.com
 accounts.reddit.com
 ads.reddit.com
-www.reddit.com
 *.reddit.com
+www.reddit.com
+gql.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1743,7 +1744,6 @@ careers.tiktok.com
 creatormarketplace.tiktok.com
 effecthouse.tiktok.com
 partner.tiktokshop.com
-*.tiktok.com
 live-backstage.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1751,6 +1751,7 @@ ads.tiktok.com
 tiktok.com
 shop.tiktok.com
 www.pangleglobal.com
+*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1829,22 +1830,23 @@ helpcenter.affirm.ca
 hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
-app.superdrug.com
-api.superdrug.com
 www.kruidvat.nl
 app.kruidvat.nl
 app.theperfumeshop.com
 api.theperfumeshop.com
-www10.watsons.com.tw
-www.watsons.com.tw
-api.watsons.com.tw
-www10.watsons.com.ph
-api.watsons.com.ph
-www.watsons.com.ph
-www.watsons.co.th
-www20.watsons.co.th
-www10.watsons.co.th
-api.watsons.co.th
+www10.pns.hk
+api.pns.hk
+www.pns.hk
+www10.watsons.com.sg
+www.watsons.com.sg
+api.watsons.com.sg
+www.watsons.com.hk
+www10.watsons.com.hk
+api.watsons.com.hk
+www10.watsons.co.id
+api.watsons.co.id
+www.watsons.co.id
+blog.watsons.com.tr
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2204,13 +2206,13 @@ amazonpayinsurance.in
 *.aliyun-inc.com
 *.alibaba-inc.com
 *.Daraz.com
-*.aliexpress.com
-www.alibabagroup.com
 *.alibabacloud.com
 *.1688.com
 *.alibaba.com
 *.taobao.com
 *.aliyun.com
+www.alibabagroup.com
+*.aliexpress.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2299,8 +2301,8 @@ gatewaydsaptst1.marriott.com
 hotel-deals.marriott.com
 all-inclusive.marriott.com
 mgs.marriott.com
-activities.marriott.com
 www.marriott.com
+activities.marriott.com
 jobs.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
@@ -2696,8 +2698,8 @@ res.hyattinclusivecollection.com
 www.hyattinclusivecollection.com
 booking.applevacations.com
 grammarly.ai
-*.grammarly.io
 *.grammarlyaws.com
+*.grammarly.io
 *.grammarly.com
 *.grammarly.io
 *.grammarlyaws.com
@@ -2720,8 +2722,8 @@ mobile-prod.tvg.com
 fdbox.net
 www.4njbets.com
 sportsbook.fanduel.com
-*racing.fanduel.com
 tvg.com
+*racing.fanduel.com
 us.tvg.com
 com.fanduel.android.live
 *.fanduel.com
@@ -3538,13 +3540,13 @@ shopify.plus
 *.shopifykloud.com
 *.shopifycloud.com
 shop.app
-*.shopifycs.com
 your-store.myshopify.com
 accounts.shopify.com
-*.shopify.com
-partners.shopify.com
-linkpop.com
 admin.shopify.com
+*.shopifycs.com
+partners.shopify.com
+*.shopify.com
+linkpop.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3587,9 +3589,9 @@ scan.snapchat.com
 web.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
-snappublisher.snapchat.com
-ads.snapchat.com
 business.snapchat.com
+ads.snapchat.com
+snappublisher.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3669,8 +3671,8 @@ api.airbnb.com
 *.airbnbcitizen.com
 www.hoteltonight.com
 *.withairbnb.com
-www.airbnb.com
 *.airbnb.com
+www.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
