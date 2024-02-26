@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Feb 26 16:25:06 UTC 2024)
+## Domains with Bounties (Last Updated Mon Feb 26 17:25:22 UTC 2024)
 ```
 *.worldcoin-distributors.com
 toolsforhumanity.com
@@ -25,8 +25,8 @@ worldcoin.org
 rfc.tari.com
 textexplore.tari.com
 www.tarilabs.com
-explore.tari.com
 www.tari.com
+explore.tari.com
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
@@ -52,8 +52,8 @@ my.sheer.com
 www.sheer.com
 www.sheer.com
 my.sheer.com
-www.ddfcontent.com
 www.pornworld.com
+www.ddfcontent.com
 www.analvids.com
 www.pornbox.com
 www.pornbox.com
@@ -136,10 +136,10 @@ www.mercadolibre.cl
 www.mercadopago.com.mx
 www.mercadolibre.com.co
 www.mercadolibre.com.ar
-www.mercadopago.cl
 www.mercadopago.com.br
 www.mercadolivre.com.br
 api.mercadolibre.com
+www.mercadopago.cl
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -186,8 +186,8 @@ account.booking.com
 *.rentalcars.com
 portal.taxi.booking.com
 booking.com
-*.booking.com
 spark.fareharbor.com
+*.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -284,11 +284,11 @@ xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless-staging.io
 manage-sandbox.gocardless.com
+*.gocardless-cicd.io
 *.gocardless.io
 *.gocardless-banking.io
 api-sandbox.gocardless.com
 *.gocardless-lab.io
-*.gocardless-cicd.io
 www.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
@@ -620,8 +620,8 @@ watchdocs.indriverapp.com
 cargo.indrive.com
 *.indriver.com
 new-order.eu-east-1.indriverapp.com
-argocd.indrive.dev
 *.indriverapp.com
+argocd.indrive.dev
 *.indrive.com
 *.indriverapp.com
 *.indrive.com
@@ -719,8 +719,8 @@ tequila.kiwi.com
 jobs.kiwi.com
 www.kiwi.com
 *.skypicker.com
-*.kiwi.com
 auth.skypicker.com
+*.kiwi.com
 *.kiwi.com
 *.skypicker.com
 www.kiwi.com
@@ -749,7 +749,6 @@ sso.8x8.com
 voapi.8x8.com
 *.jitsi.net
 *.packet8.net
-connect.8x8.com
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1106,8 +1105,8 @@ rankings.etoro.com
 candle.etoro.com
 r.etoro.com
 delta.app
-etoropartners.com
 bullsheet.me
+etoropartners.com
 www.etoro.com
 www.etoro.com
 etoropartners.com
@@ -1148,8 +1147,8 @@ admin.instacart.com
 shoppers.instacart.com
 api.instacart.com
 *.instacart.tools
-www.instacart.com
 *.instacart.com
+www.instacart.com
 *.instacart.com
 *.instacart.tools
 api.instacart.com
@@ -1492,9 +1491,9 @@ ads-api.reddit.com
 new.reddit.com
 accounts.reddit.com
 ads.reddit.com
+gql.reddit.com
 *.reddit.com
 www.reddit.com
-gql.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1746,12 +1745,12 @@ effecthouse.tiktok.com
 partner.tiktokshop.com
 live-backstage.tiktok.com
 business.tiktok.com
-ads.tiktok.com
 *.tiktokv.com
+ads.tiktok.com
 tiktok.com
+*.tiktok.com
 shop.tiktok.com
 www.pangleglobal.com
-*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1830,23 +1829,19 @@ helpcenter.affirm.ca
 hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
-www.kruidvat.nl
-app.kruidvat.nl
-app.theperfumeshop.com
-api.theperfumeshop.com
+www10.watsons.com.vn
+api.watsons.com.vn
 www10.pns.hk
 api.pns.hk
 www.pns.hk
-www10.watsons.com.sg
-www.watsons.com.sg
-api.watsons.com.sg
-www.watsons.com.hk
-www10.watsons.com.hk
-api.watsons.com.hk
-www10.watsons.co.id
-api.watsons.co.id
-www.watsons.co.id
-blog.watsons.com.tr
+www.fortress.com.hk
+www.marionnaud.fr
+app.marionnaud.fr
+mapi.moneyback.com.hk
+www.moneyback.com.hk
+www.kruidvat.nl
+app.kruidvat.nl
+app.theperfumeshop.com
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2284,7 +2279,6 @@ www.32red.com
 unibet.me
 maria.casino
 www.32red.com
-homes-and-villas.marriott.com
 sso.marriott.com
 dcfgatewaytst1.marriott.com
 marriottfranchisetransactions.marriott.com
@@ -2301,9 +2295,10 @@ gatewaydsaptst1.marriott.com
 hotel-deals.marriott.com
 all-inclusive.marriott.com
 mgs.marriott.com
-www.marriott.com
 activities.marriott.com
+www.marriott.com
 jobs.marriott.com
+homes-and-villas.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -3392,8 +3387,8 @@ classroom.github.com
 npmjs.com
 *.githubapp.com
 github.com
-*.githubusercontent.com
 api.github.com
+*.githubusercontent.com
 github.com
 api.github.com
 gist.github.com
@@ -3517,8 +3512,8 @@ apps.zendesk.com
 api.getbase.com
 app.smooch.io
 zopim.com
-www.zendesk.com
 h1-your-domain.zendesk.com
+www.zendesk.com
 www.zendesk.com
 developer.zendesk.com
 h1-your-domain.zendesk.com
@@ -3538,15 +3533,15 @@ shopifyinbox.com
 arrive-server.shopifycloud.com
 shopify.plus
 *.shopifykloud.com
-*.shopifycloud.com
+*.shopify.com
+partners.shopify.com
+linkpop.com
+admin.shopify.com
 shop.app
+*.shopifycs.com
 your-store.myshopify.com
 accounts.shopify.com
-admin.shopify.com
-*.shopifycs.com
-partners.shopify.com
-*.shopify.com
-linkpop.com
+*.shopifycloud.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3589,9 +3584,9 @@ scan.snapchat.com
 web.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
-business.snapchat.com
-ads.snapchat.com
 snappublisher.snapchat.com
+ads.snapchat.com
+business.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3820,8 +3815,8 @@ institutional.coinbase.com
 api.custody.coinbase.com
 pro.coinbase.com
 cloud.coinbase.com
-api.coinbase.com
 coinbase.com
+api.coinbase.com
 *.coinbase.com
 *.coinbase.com
 *.cbhq.net
@@ -3886,11 +3881,11 @@ hackerone-user-content.com
 hackerone.live
 mta-sts.wearehackerone.com
 ctf.hacker101.com
-b5s.hackerone-ext-content.com
 api.hackerone.com
 cover-photos.hackerone-user-content.com
 www.hackerone.com
 hackerone.com
+b5s.hackerone-ext-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
