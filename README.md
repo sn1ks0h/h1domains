@@ -2,17 +2,17 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Feb 26 10:20:26 UTC 2024)
+## Domains with Bounties (Last Updated Mon Feb 26 11:16:42 UTC 2024)
 ```
 *.worldcoin-distributors.com
 toolsforhumanity.com
-getworldcoin.com
 *.worldcoin.dev
 worldcoin.org
 bioid-management.app
 *.toolsforhumanity.com
 *.consumer.worldcoin.org
 *.worldcoin.org
+getworldcoin.com
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -83,7 +83,6 @@ app.dynamic.xyz
 app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
-editor.zyro.com
 www.niagahoster.co.id
 payments.hostinger.com
 cpanel.hostinger.com
@@ -93,6 +92,7 @@ www.zyro.com
 www.hostinger.com
 *.000webhost.com
 hpanel.hostinger.com
+editor.zyro.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -109,11 +109,11 @@ api.23andme.com
 research.23andme.com
 mediacenter.23andme.com
 therapeutics.23andme.com
-medical.23andme.com
 store.23andme.com
 blog.23andme.com
 you.23andme.com
 auth.23andme.com
+medical.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -138,8 +138,8 @@ www.mercadolibre.com.co
 www.mercadolibre.com.ar
 www.mercadopago.cl
 api.mercadolibre.com
-www.mercadopago.com.br
 www.mercadolivre.com.br
+www.mercadopago.com.br
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -749,7 +749,6 @@ sso.8x8.com
 voapi.8x8.com
 *.jitsi.net
 *.packet8.net
-*.8x8cloud.net
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1307,11 +1306,11 @@ api.recordedfuture.com
 app.recordedfuture.com
 hatching.io
 tria.ge
-securitytrails.com
 therecord.media
 geminiadvisory.io
 id.recordedfuture.com
 www.recordedfuture.com
+securitytrails.com
 www.recordedfuture.com
 api.recordedfuture.com
 app.recordedfuture.com
@@ -1743,7 +1742,6 @@ developers.tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 effecthouse.tiktok.com
-tiktok.com
 partner.tiktokshop.com
 www.pangleglobal.com
 *.tiktok.com
@@ -1752,6 +1750,7 @@ business.tiktok.com
 shop.tiktok.com
 ads.tiktok.com
 *.tiktokv.com
+tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1815,8 +1814,8 @@ api.faraday.ai
 *.5nine.com
 beta-cloud.acronis.com
 account.acronis.com
-*.acronis.com
 *.acronis.work
+*.acronis.com
 *-api-*.acronis.com
 *.acronis.com
 *.5nine.com
@@ -1830,26 +1829,23 @@ helpcenter.affirm.ca
 hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
-app.superdrug.com
-api.superdrug.com
 www.kruidvat.nl
 app.kruidvat.nl
 app.theperfumeshop.com
 api.theperfumeshop.com
-api.watsons.com.my
-www.watsons.com.my
-www10.watsons.com.my
-www.iciparisxl.nl
-www.iciparisxl.be
-www.iciparisxl.lu
-app.iciparisxl.nl
-app.iciparisxl.be
-app.iciparisxl.lu
-www.marionnaud.at
-app.marionnaud.at
-www.marionnaud.ch
-app.marionnaud.ch
-www.marionnaud.cz
+www10.pns.hk
+api.pns.hk
+www.pns.hk
+www10.watsons.com.sg
+www.watsons.com.sg
+api.watsons.com.sg
+www.watsons.com.hk
+www10.watsons.com.hk
+api.watsons.com.hk
+www10.watsons.co.id
+api.watsons.co.id
+www.watsons.co.id
+blog.watsons.com.tr
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2212,10 +2208,10 @@ amazonpayinsurance.in
 *.aliexpress.com
 www.alibabagroup.com
 *.alibabacloud.com
-*.alibaba.com
 *.1688.com
 *.taobao.com
 *.aliyun.com
+*.alibaba.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2304,9 +2300,9 @@ gatewaydsaptst1.marriott.com
 hotel-deals.marriott.com
 all-inclusive.marriott.com
 mgs.marriott.com
-jobs.marriott.com
 www.marriott.com
 activities.marriott.com
+jobs.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -2334,8 +2330,8 @@ www.goodrx.com
 www.goodrx.com
 *.ra.roblox.com
 *.rbx.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2394,8 +2390,8 @@ vroid.com
 novel.pixiv.net
 booth.pm
 payment.pixiv.net
-*.fanbox.cc
 dic.pixiv.net
+*.fanbox.cc
 comic.pixiv.net
 accounts.pixiv.net
 www.pixiv.net
@@ -2725,8 +2721,8 @@ mobile-prod.tvg.com
 fdbox.net
 www.4njbets.com
 sportsbook.fanduel.com
-*racing.fanduel.com
 tvg.com
+*racing.fanduel.com
 us.tvg.com
 com.fanduel.android.live
 *.fanduel.com
@@ -3208,8 +3204,8 @@ chatdate.app
 zodia.studio
 backstage.io
 assets.spotify.com
-api.spotify.com
 everynoise.com
+api.spotify.com
 assets.spotify.com
 api.spotify.com
 everynoise.com
@@ -3545,11 +3541,11 @@ shopify.plus
 *.shopifykloud.com
 *.shopifycloud.com
 shop.app
-accounts.shopify.com
 *.shopifycs.com
 admin.shopify.com
-*.shopify.com
 your-store.myshopify.com
+*.shopify.com
+accounts.shopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3588,13 +3584,13 @@ business.snapchat.com
 www.bitmoji.com
 login.playcanvas.com
 *.sc-core.net
-playcanvas.com
 scan.snapchat.com
+playcanvas.com
 ads.snapchat.com
 snappublisher.snapchat.com
-app.snapchat.com
 web.snapchat.com
 accounts.snapchat.com
+app.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3849,8 +3845,8 @@ slack-redir.net
 slack-imgs.com
 www.quip.com
 *.quip.com
-api.slack.com
 app.slack.com
+api.slack.com
 slack.com
 slack.com
 api.slack.com
