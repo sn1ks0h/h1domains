@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Feb 26 06:21:09 UTC 2024)
+## Domains with Bounties (Last Updated Mon Feb 26 07:18:46 UTC 2024)
 ```
 *.worldcoin-distributors.com
 toolsforhumanity.com
@@ -10,9 +10,9 @@ getworldcoin.com
 *.worldcoin.dev
 worldcoin.org
 bioid-management.app
-*.worldcoin.org
-*.consumer.worldcoin.org
 *.toolsforhumanity.com
+*.consumer.worldcoin.org
+*.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -86,12 +86,12 @@ app.dynamic.xyz
 editor.zyro.com
 www.niagahoster.co.id
 payments.hostinger.com
-www.hostinger.com
 cpanel.hostinger.com
 backend.zyro.com
 logo.zyro.com
 www.zyro.com
 hpanel.hostinger.com
+www.hostinger.com
 *.000webhost.com
 *.000webhost.com
 www.hostinger.com
@@ -583,8 +583,8 @@ hiltonhotels.jp
 hiltonbusinessonline.com
 *.hilton.io
 *.hilton.com.tr
-*.hilton.com
 hilton.com
+*.hilton.com
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -749,7 +749,6 @@ sso.8x8.com
 voapi.8x8.com
 *.jitsi.net
 *.packet8.net
-*.8x8cloud.net
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1194,8 +1193,8 @@ download.krisp.ai
 teams.krisp.ai
 krisp.ai
 api.krisp.ai
-account.krisp.ai
 *.krisp.ai
+account.krisp.ai
 *.krisp.ai
 krisp.ai
 account.krisp.ai
@@ -1700,13 +1699,13 @@ secure.sharefile.com
 api.sharefile.eu
 secure.sharefile.eu
 api.sharefile.com
-*.citrixworkspacesapi.net
 (youriwssubdomain).cloud.com
 www.cloud.com
 (yoursubdomain).sharefile.com
 accounts.cloud.com
 eu.cloud.com
 citrix.cloud.com
+*.citrixworkspacesapi.net
 citrix.cloud.com
 www.cloud.com
 ap-s.cloud.com
@@ -1830,22 +1829,24 @@ helpcenter.affirm.ca
 hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
-app.superdrug.com
-api.superdrug.com
 www.kruidvat.nl
 app.kruidvat.nl
 app.theperfumeshop.com
 api.theperfumeshop.com
-www10.watsons.com.tw
-www.watsons.com.tw
-api.watsons.com.tw
-www10.watsons.com.ph
-api.watsons.com.ph
-www.watsons.com.ph
-www.watsons.co.th
-www20.watsons.co.th
-www10.watsons.co.th
-api.watsons.co.th
+www10.pns.hk
+api.pns.hk
+www.pns.hk
+www10.watsons.com.sg
+www.watsons.com.sg
+api.watsons.com.sg
+www.watsons.com.hk
+www10.watsons.com.hk
+api.watsons.com.hk
+www10.watsons.co.id
+api.watsons.co.id
+www.watsons.co.id
+blog.watsons.com.tr
+app.watsons.com.tr
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2210,8 +2211,8 @@ amazonpayinsurance.in
 *.1688.com
 www.alibabagroup.com
 *.alibabacloud.com
-*.taobao.com
 *.alibaba.com
+*.taobao.com
 *.aliyun.com
 *.alibaba.com
 *.aliexpress.com
@@ -2391,8 +2392,8 @@ vroid.com
 novel.pixiv.net
 booth.pm
 payment.pixiv.net
-dic.pixiv.net
 *.fanbox.cc
+dic.pixiv.net
 comic.pixiv.net
 accounts.pixiv.net
 www.pixiv.net
@@ -2722,8 +2723,8 @@ mobile-prod.tvg.com
 fdbox.net
 www.4njbets.com
 sportsbook.fanduel.com
-tvg.com
 *racing.fanduel.com
+tvg.com
 us.tvg.com
 com.fanduel.android.live
 *.fanduel.com
@@ -3149,14 +3150,12 @@ jira.grab.com
 *.grabpay.com
 *.ovo.id
 *.grab.com
-*.taralite.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
 *.grabpay.com
 *.grab-sure.com
 *.ovo.id
-*.taralite.com
 *.grabtaxi.com
 *.grab.co
 p.grabtaxi.com
@@ -3839,9 +3838,9 @@ institutional.coinbase.com
 api.custody.coinbase.com
 pro.coinbase.com
 coinbase.com
-*.coinbase.com
 cloud.coinbase.com
 api.coinbase.com
+*.coinbase.com
 *.coinbase.com
 *.cbhq.net
 pro.coinbase.com
@@ -3865,9 +3864,9 @@ slack-redir.net
 slack-imgs.com
 www.quip.com
 *.quip.com
-slack.com
 app.slack.com
 api.slack.com
+slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -3895,14 +3894,14 @@ www.wearehackerone.com
 profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 hackathon-photos-us-east-2.hackerone-user-content.com
-hackerone-user-content.com
-hackerone.live
 cover-photos-us-east-2.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 a5s.hackerone-ext-content.com
 hackerone-ext-content.com
 errors.hackerone.net
 app.pullrequest.com
+hackerone-user-content.com
+hackerone.live
 www.hackerone.com
 mta-sts.wearehackerone.com
 ctf.hacker101.com
