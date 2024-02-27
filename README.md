@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Feb 27 18:26:11 UTC 2024)
+## Domains with Bounties (Last Updated Tue Feb 27 19:17:40 UTC 2024)
 ```
 *.worldcoin-distributors.com
 toolsforhumanity.com
@@ -77,9 +77,9 @@ account-sprint.dynatracelabs.com
 sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
-app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
+app.dynamic-preprod.xyz
 app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
@@ -110,8 +110,8 @@ research.23andme.com
 mediacenter.23andme.com
 therapeutics.23andme.com
 blog.23andme.com
-medical.23andme.com
 you.23andme.com
+medical.23andme.com
 store.23andme.com
 auth.23andme.com
 api.23andme.com
@@ -259,8 +259,8 @@ cdn.moderntreasury.com
 app.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
-test.nicehash.com
 test.nicex.com
+test.nicehash.com
 test.nicehash.com
 https://test.nicehash.com/shop/
 https://test.nicex.com
@@ -392,6 +392,11 @@ www.visa.com.tw
 www.practicalmoneyskills.com
 www.visa.com.ph
 www.visa.com.my
+www.authorize.net
+www.currencycloud.com
+www.cardinalcommerce.com
+aw.visa.com
+www.visainfinite.ca
 www.tink.com
 www.cybersource.com
 visa.com.au
@@ -400,10 +405,6 @@ visa.co.cr
 ht.visa.com
 www.visa.co.in
 www.yellowpepper.com
-www.visa.co.id
-usa.visa.com
-www.visa.co.ve
-www.currencycloud.com
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -516,6 +517,7 @@ sync.services.mozilla.com
 crash-reports.allizom.org
 location.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
+aus5.mozilla.org
 hg.mozilla.org
 bugzilla.mozilla.org
 firefox.settings.services.mozilla.com
@@ -523,7 +525,6 @@ addons.allizom.org
 mozilla-pontoon-staging.herokuapp.com
 phabricator.allizom.org
 contile.services.mozilla.com
-aus5.mozilla.org
 accounts.firefox.com
 addons.allizom.org
 accounts.firefox.com
@@ -580,10 +581,10 @@ hiltonhotels.jp
 *.hiltonlocalbiz.com
 *.hiltonbusinessonline.com
 *.hiltonhotels.jp
-hilton.com
 hiltonbusinessonline.com
 *.hilton.io
 *.hilton.com.tr
+hilton.com
 *.hilton.com
 *.hilton.com
 *.hilton.io
@@ -914,8 +915,8 @@ askpam.ai
 *.gravitational.io
 platform.teleport.sh
 *.goteleport.com
-teleport.sh
 *.gravitational.co
+teleport.sh
 *.goteleport.com
 *.gravitational.com
 *.teleport.dev
@@ -1069,8 +1070,8 @@ social-trading.exness.com
 https://my.exness.com/pa/socialtrading
 exness.com
 api.smtp2go.com
-smtp2go.com
 app.smtp2go.com
+smtp2go.com
 smtp2go.com
 app.smtp2go.com
 api.smtp2go.com
@@ -1106,8 +1107,8 @@ rankings.etoro.com
 candle.etoro.com
 r.etoro.com
 delta.app
-bullsheet.me
 etoropartners.com
+bullsheet.me
 www.etoro.com
 www.etoro.com
 etoropartners.com
@@ -1193,9 +1194,9 @@ analytics.krisp.ai
 download.krisp.ai
 teams.krisp.ai
 krisp.ai
-account.krisp.ai
 api.krisp.ai
 *.krisp.ai
+account.krisp.ai
 *.krisp.ai
 krisp.ai
 account.krisp.ai
@@ -1483,15 +1484,15 @@ mod.reddit.com
 old.reddit.com
 api.reddit.com
 *.redditmedia.com
-accounts.reddit.com
-gql.reddit.com
 redditforbusiness.com
 app.spiketrap.io
 *.snooguts.net
 *.reddithelp.com
 oauth.reddit.com
 new.reddit.com
+accounts.reddit.com
 ads-api.reddit.com
+gql.reddit.com
 www.reddit.com
 ads.reddit.com
 *.reddit.com
@@ -1633,9 +1634,9 @@ core.yoti.com
 ccloud.yoti.com
 code.yoti.com
 api.yoti.com
+www.yotisign.com
 identity.yoti.com
 hub.yoti.com
-www.yotisign.com
 core.yoti.com
 api.yoti.com
 ccloud.yoti.com
@@ -1705,8 +1706,8 @@ www.cloud.com
 (yoursubdomain).sharefile.com
 eu.cloud.com
 citrix.cloud.com
-*.citrixworkspacesapi.net
 accounts.cloud.com
+*.citrixworkspacesapi.net
 citrix.cloud.com
 www.cloud.com
 ap-s.cloud.com
@@ -1740,17 +1741,17 @@ api.adm.cloud.com
 academy-outbound-ads.tiktok.com
 fp-sg.tiktokv.com
 developers.tiktok.com
-shop.tiktok.com
-partner.tiktokshop.com
-live-backstage.tiktok.com
 creatormarketplace.tiktok.com
 effecthouse.tiktok.com
 business.tiktok.com
+shop.tiktok.com
+partner.tiktokshop.com
+live-backstage.tiktok.com
 careers.tiktok.com
-www.pangleglobal.com
-ads.tiktok.com
 *.tiktokv.com
+ads.tiktok.com
 tiktok.com
+www.pangleglobal.com
 *.tiktok.com
 *.tiktok.com
 business.tiktok.com
@@ -1824,26 +1825,22 @@ account.acronis.com
 *.acronis.work
 beta-cloud.acronis.com
 account.acronis.com
-www.watsons.com.tr
-app.watsons.com.tr
 app.superdrug.com
 api.superdrug.com
 www.kruidvat.nl
 app.kruidvat.nl
 app.theperfumeshop.com
 api.theperfumeshop.com
-api.watsons.com.my
-www.watsons.com.my
-www10.watsons.com.my
-www.iciparisxl.nl
-www.iciparisxl.be
-www.iciparisxl.lu
-app.iciparisxl.nl
-app.iciparisxl.be
-app.iciparisxl.lu
-www.marionnaud.at
-app.marionnaud.at
-www.marionnaud.ch
+www10.watsons.com.tw
+www.watsons.com.tw
+api.watsons.com.tw
+www10.watsons.com.ph
+api.watsons.com.ph
+www.watsons.com.ph
+www.watsons.co.th
+www20.watsons.co.th
+www10.watsons.co.th
+api.watsons.co.th
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2204,8 +2201,8 @@ amazonpayinsurance.in
 www.alibabagroup.com
 *.aliyun.com
 *.aliexpress.com
-*.alimama.com
 *.1688.com
+*.alimama.com
 *.taobao.com
 *.alibaba.com
 *.alibabacloud.com
@@ -2294,10 +2291,10 @@ gatewaydsapdev2.marriott.com
 hotel-deals.marriott.com
 homes-and-villas.marriott.com
 marrtool.com
+all-inclusive.marriott.com
 gatewaydsaptst1.marriott.com
 mgs.marriott.com
 passwordchallenge.marriott.com
-all-inclusive.marriott.com
 marriottfranchisetransactions.marriott.com
 www.marriott.com
 homes-and-villas.marriott.com
@@ -2490,6 +2487,7 @@ uk.forescout.cloud
 de.forescout.cloud
 cysiv.com
 app.command.cysiv.com
+secure.rezserver.com
 reservations.rezserver.com
 api.rezserver.com
 cruises.priceline.com
@@ -2695,8 +2693,8 @@ www.hyattinclusivecollection.com
 booking.applevacations.com
 grammarly.ai
 *.grammarly.io
-*.grammarly.com
 *.grammarlyaws.com
+*.grammarly.com
 *.grammarly.io
 *.grammarlyaws.com
 *.grammarly.com
@@ -2718,8 +2716,8 @@ mobile-prod.tvg.com
 fdbox.net
 www.4njbets.com
 sportsbook.fanduel.com
-tvg.com
 *racing.fanduel.com
+tvg.com
 us.tvg.com
 com.fanduel.android.live
 *.fanduel.com
@@ -2777,8 +2775,8 @@ paypalobjects.com
 *.braintreegateway.com
 *.xoom.com
 *.hyperwallet.com
-*.paypal.com
 *.paypalcorp.com
+*.paypal.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3200,8 +3198,8 @@ chatdate.app
 zodia.studio
 backstage.io
 assets.spotify.com
-api.spotify.com
 everynoise.com
+api.spotify.com
 assets.spotify.com
 api.spotify.com
 everynoise.com
@@ -3538,10 +3536,10 @@ arrive-server.shopifycloud.com
 shop.app
 shopify.plus
 *.shopify.com
-admin.shopify.com
 partners.shopify.com
 your-store.myshopify.com
 accounts.shopify.com
+admin.shopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3583,9 +3581,9 @@ scan.snapchat.com
 web.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
+ads.snapchat.com
 business.snapchat.com
 snappublisher.snapchat.com
-ads.snapchat.com
 playcanvas.com
 accounts.snapchat.com
 app.snapchat.com
@@ -3744,7 +3742,6 @@ cloudflareworkers.com
 *.teams.cloudflare.com
 one.dash.cloudflare.com
 waf.cumulusfire.net
-dash.cloudflare.com
 api.cloudflare.com
 dash.cloudflare.com
 cloudflareworkers.com
@@ -3812,13 +3809,13 @@ commerce.coinbase.com
 international.coinbase.com
 *.cbhq.net
 institutional.coinbase.com
-*.base.org
 api.custody.coinbase.com
+api.coinbase.com
 pro.coinbase.com
 cloud.coinbase.com
-api.coinbase.com
 *.coinbase.com
 coinbase.com
+*.base.org
 *.coinbase.com
 *.cbhq.net
 pro.coinbase.com
@@ -3878,8 +3875,8 @@ a5s.hackerone-ext-content.com
 hackerone-ext-content.com
 mta-sts.wearehackerone.com
 cover-photos.hackerone-user-content.com
-www.hackerone.com
 b5s.hackerone-ext-content.com
+www.hackerone.com
 app.pullrequest.com
 api.hackerone.com
 ctf.hacker101.com
