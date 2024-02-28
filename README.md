@@ -2,13 +2,13 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb 28 10:20:54 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb 28 11:20:00 UTC 2024)
 ```
+getworldcoin.com
 *.worldcoin-distributors.com
 toolsforhumanity.com
 *.worldcoin.dev
 bioid-management.app
-getworldcoin.com
 worldcoin.org
 *.worldcoin.org
 *.toolsforhumanity.com
@@ -52,8 +52,8 @@ my.sheer.com
 www.sheer.com
 www.sheer.com
 my.sheer.com
-www.ddfcontent.com
 www.pornworld.com
+www.ddfcontent.com
 www.analvids.com
 www.pornbox.com
 www.pornbox.com
@@ -182,12 +182,12 @@ cars.booking.com
 careers.booking.com
 portal.taxi.booking.com
 secure.booking.com
-booking.com
-*.rentalcars.com
 spark.fareharbor.com
+*.rentalcars.com
 *.booking.com
 widget.rentalcars.com
 account.booking.com
+booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -259,8 +259,8 @@ cdn.moderntreasury.com
 app.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
-test.nicehash.com
 test.nicex.com
+test.nicehash.com
 test.nicehash.com
 https://test.nicehash.com/shop/
 https://test.nicex.com
@@ -481,12 +481,12 @@ app.krisha.kz
 m.krisha.kz
 api.kolesa.kz
 api.avtoelon.uz
-id.kolesa.kz
 krisha.kz
 m.kolesa.kz
-m.avtoelon.uz
 kolesa.kz
 avtoelon.uz
+id.kolesa.kz
+m.avtoelon.uz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -514,8 +514,8 @@ crash-stats.allizom.org
 shavar.services.mozilla.com
 sync.services.mozilla.com
 crash-reports.allizom.org
-location.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
+aus5.mozilla.org
 hg.mozilla.org
 bugzilla.mozilla.org
 firefox.settings.services.mozilla.com
@@ -523,8 +523,8 @@ addons.allizom.org
 mozilla-pontoon-staging.herokuapp.com
 phabricator.allizom.org
 contile.services.mozilla.com
-aus5.mozilla.org
 accounts.firefox.com
+location.services.mozilla.com
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -672,13 +672,13 @@ oneview.malwarebytes.com
 *.mwb-threatintel.com
 *.mbamupdates.com
 *.mb-cosmos.com
+my.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
 *.cloud.malwarebytes.com
 *.threatdown.com
 *.mwbsys.com
 *.malwarebytes.com
-my.malwarebytes.com
 www.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
@@ -913,9 +913,9 @@ askpam.ai
 *.teleport.dev
 *.gravitational.io
 platform.teleport.sh
+*.goteleport.com
 *.gravitational.co
 teleport.sh
-*.goteleport.com
 *.goteleport.com
 *.gravitational.com
 *.teleport.dev
@@ -1054,10 +1054,10 @@ ws.sorare.com
 exnessaffiliates.com
 pwapi.ex2b.com
 api.excalls.mobi
-my.exness.com
 social-trading.exness.com
 pay.ibex.exchange
 exness.com
+my.exness.com
 my.exness.com
 pay.ibex.exchange
 https://my.exness.com/webtrading/
@@ -1194,8 +1194,8 @@ download.krisp.ai
 teams.krisp.ai
 krisp.ai
 api.krisp.ai
-*.krisp.ai
 account.krisp.ai
+*.krisp.ai
 *.krisp.ai
 krisp.ai
 account.krisp.ai
@@ -1483,15 +1483,15 @@ mod.reddit.com
 old.reddit.com
 api.reddit.com
 *.redditmedia.com
+accounts.reddit.com
+gql.reddit.com
 redditforbusiness.com
 app.spiketrap.io
 *.snooguts.net
 *.reddithelp.com
 oauth.reddit.com
 new.reddit.com
-accounts.reddit.com
 ads-api.reddit.com
-gql.reddit.com
 ads.reddit.com
 *.reddit.com
 www.reddit.com
@@ -1704,8 +1704,8 @@ api.sharefile.com
 www.cloud.com
 (yoursubdomain).sharefile.com
 eu.cloud.com
-citrix.cloud.com
 accounts.cloud.com
+citrix.cloud.com
 *.citrixworkspacesapi.net
 citrix.cloud.com
 www.cloud.com
@@ -1743,7 +1743,6 @@ developers.tiktok.com
 creatormarketplace.tiktok.com
 effecthouse.tiktok.com
 partner.tiktokshop.com
-shop.tiktok.com
 live-backstage.tiktok.com
 careers.tiktok.com
 *.tiktokv.com
@@ -1752,6 +1751,7 @@ tiktok.com
 business.tiktok.com
 www.pangleglobal.com
 ads.tiktok.com
+shop.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1813,9 +1813,9 @@ api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
-*.acronis.com
 beta-cloud.acronis.com
 *.acronis.work
+*.acronis.com
 account.acronis.com
 *-api-*.acronis.com
 *.acronis.com
@@ -2201,9 +2201,9 @@ amazonpayinsurance.in
 *.aliyun-inc.com
 *.alibaba-inc.com
 *.Daraz.com
-*.aliexpress.com
-*.aliyun.com
 www.alibabagroup.com
+*.aliyun.com
+*.aliexpress.com
 *.alimama.com
 *.taobao.com
 *.1688.com
@@ -2296,10 +2296,10 @@ marrtool.com
 all-inclusive.marriott.com
 marriottfranchisetransactions.marriott.com
 mgs.marriott.com
-www.marriott.com
 passwordchallenge.marriott.com
 www.ritzcarlton.com
 gatewaydsaptst1.marriott.com
+www.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -2361,8 +2361,8 @@ app.nordpass.com
 app.nordpass.com
 *.line.naver.jp
 *.line.me
-*.line-apps.com
 *.line.biz
+*.line-apps.com
 *.line.me
 *.line-apps.com
 *.line.naver.jp
@@ -2956,9 +2956,9 @@ pay.crypto.com
 js.crypto.com
 merchant.crypto.com
 tax.crypto.com
-*.crypto.com
 auth.crypto.com
 www.crypto.com
+*.crypto.com
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3265,8 +3265,8 @@ lifeinvader.com
 prod.ros.rockstargames.com
 support.rockstargames.com
 socialclub.rockstargames.com
-*.rockstargames.com
 rockstarnorth.com
+*.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -3275,8 +3275,8 @@ store.rockstargames.com
 lifeinvader.com
 rockstarnorth.com
 circolocorecords.com/
-www.files.com
 app.files.com
+www.files.com
 your-assigned-subdomain.files.com
 app.files.com
 your-assigned-subdomain.files.com
@@ -3315,9 +3315,9 @@ gift.starbucks.co.jp
 app.starbucks.com
 openapi.starbucks.com
 www.starbucks.com.cn
+www.starbucks.de
 www.starbucks.com
 www.starbucks.co.kr
-www.starbucks.de
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3532,9 +3532,9 @@ shopifyinbox.com
 linkpop.com
 *.shopifycs.com
 *.shopifycloud.com
-*.shopifykloud.com
 shop.app
 shopify.plus
+*.shopifykloud.com
 partners.shopify.com
 accounts.shopify.com
 arrive-server.shopifycloud.com
@@ -3575,15 +3575,15 @@ create.snapchat.com
 my.snapchat.com
 forum.playcanvas.com
 spectacles.com
-snappublisher.snapchat.com
-ads.snapchat.com
-business.snapchat.com
 www.bitmoji.com
 login.playcanvas.com
 *.sc-core.net
 scan.snapchat.com
 web.snapchat.com
 accounts.snapchat.com
+snappublisher.snapchat.com
+ads.snapchat.com
+business.snapchat.com
 playcanvas.com
 app.snapchat.com
 accounts.snapchat.com
@@ -3742,7 +3742,6 @@ cloudflareworkers.com
 *.teams.cloudflare.com
 one.dash.cloudflare.com
 waf.cumulusfire.net
-api.cloudflare.com
 *.cloudflare.com
 dash.cloudflare.com
 cloudflareworkers.com
@@ -3768,8 +3767,8 @@ intensedebate.com
 mailpoet.com
 www.tumblr.com
 *.tumblr.com
-wordpress.com
 akismet.com
+wordpress.com
 *.tumblr.com
 *.srvcs.tumblr.com
 api.tumblr.com
@@ -3814,9 +3813,9 @@ api.custody.coinbase.com
 pro.coinbase.com
 cloud.coinbase.com
 api.coinbase.com
-*.base.org
 *.coinbase.com
 coinbase.com
+*.base.org
 *.coinbase.com
 *.cbhq.net
 pro.coinbase.com
