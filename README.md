@@ -2,13 +2,13 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb 28 18:24:27 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb 28 19:18:18 UTC 2024)
 ```
+getworldcoin.com
 *.worldcoin-distributors.com
 toolsforhumanity.com
 *.worldcoin.dev
 bioid-management.app
-getworldcoin.com
 *.toolsforhumanity.com
 *.consumer.worldcoin.org
 worldcoin.org
@@ -52,8 +52,8 @@ my.sheer.com
 www.sheer.com
 www.sheer.com
 my.sheer.com
-www.ddfcontent.com
 www.pornworld.com
+www.ddfcontent.com
 www.analvids.com
 www.pornbox.com
 www.pornbox.com
@@ -135,8 +135,8 @@ www.mercadolibre.com.pe
 www.mercadolibre.cl
 www.mercadolibre.com.co
 www.mercadolibre.com.ar
-api.mercadolibre.com
 www.mercadopago.cl
+api.mercadolibre.com
 www.mercadopago.com.mx
 www.mercadopago.com.br
 www.mercadolivre.com.br
@@ -183,10 +183,10 @@ portal.taxi.booking.com
 secure.booking.com
 widget.rentalcars.com
 account.booking.com
+spark.fareharbor.com
 booking.com
 *.rentalcars.com
 flights.booking.com
-spark.fareharbor.com
 *.booking.com
 *.booking.com
 *.rentalcars.com
@@ -259,8 +259,8 @@ cdn.moderntreasury.com
 app.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
-test.nicehash.com
 test.nicex.com
+test.nicehash.com
 test.nicehash.com
 https://test.nicehash.com/shop/
 https://test.nicex.com
@@ -283,13 +283,13 @@ connect-sandbox.gocardless.com
 xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless-staging.io
-api-sandbox.gocardless.com
-*.gocardless-lab.io
 *.gocardless-cicd.io
+api-sandbox.gocardless.com
 manage-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 www.gocardless.com
+*.gocardless-lab.io
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -401,9 +401,9 @@ usa.visa.com
 www.visa.co.ve
 www.currencycloud.com
 www.cardinalcommerce.com
-aw.visa.com
 www.authorize.net
 www.visainfinite.ca
+www.visa.com.mx
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -515,7 +515,6 @@ shavar.services.mozilla.com
 sync.services.mozilla.com
 crash-reports.allizom.org
 firefox-ci-tc.services.mozilla.com
-aus5.mozilla.org
 hg.mozilla.org
 bugzilla.mozilla.org
 firefox.settings.services.mozilla.com
@@ -523,6 +522,7 @@ addons.allizom.org
 mozilla-pontoon-staging.herokuapp.com
 phabricator.allizom.org
 contile.services.mozilla.com
+aus5.mozilla.org
 location.services.mozilla.com
 accounts.firefox.com
 addons.allizom.org
@@ -620,9 +620,9 @@ argocd.indrive.dev
 ci.indrive.dev
 super-services.indriverapp.com
 *.indriverapp.com
-*.indriver.com
 auth.indrive.tech
 *.indrive.com
+*.indriver.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -749,7 +749,7 @@ sso.8x8.com
 voapi.8x8.com
 *.jitsi.net
 *.packet8.net
-connect.8x8.com
+*.8x8cloud.net
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -781,8 +781,8 @@ admin.8x8.com
 *.luckydays.ca
 *.napoleonsports.be
 *.luckydays.com
-*.magicjackpot.ro
 *.superbet.rs
+*.magicjackpot.ro
 *.napoleoncasino.be
 *.superbet.com
 *.napoleongames.be
@@ -864,8 +864,8 @@ www.expedia.com
 www.hotels.com
 www.expediagroup.com
 www.stayz.com.au
-www.vrbo.com
 www.abritel.fr
+www.vrbo.com
 www.hotels.com
 www.expedia.com
 www.expediapartnercentral.com
@@ -912,10 +912,10 @@ askpam.ai
 *.teleport.dev
 *.gravitational.io
 platform.teleport.sh
-teleport.sh
 *.gravitational.co
-cloud.gravitational.io
+teleport.sh
 *.goteleport.com
+cloud.gravitational.io
 *.goteleport.com
 *.gravitational.com
 *.teleport.dev
@@ -975,8 +975,8 @@ artifactory.corp.mongodb.com/
 https://www.*mongodb.com/*
 mongodb.live/*
 artifactory.corp.mongodb.com/
-royal.checksw.com
 checksw.com
+royal.checksw.com
 checksw.com
 royal.checksw.com
 *.superpal.io/*
@@ -1295,8 +1295,8 @@ capturingreality.com
 *.tstaging.tools
 *.tinderwebstaging.com
 *.tstaging.com
-*.tinder.com
 *.gotinder.com
+*.tinder.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1477,15 +1477,15 @@ mod.reddit.com
 old.reddit.com
 api.reddit.com
 *.redditmedia.com
-accounts.reddit.com
-gql.reddit.com
 redditforbusiness.com
 app.spiketrap.io
 *.snooguts.net
 *.reddithelp.com
 oauth.reddit.com
 new.reddit.com
+accounts.reddit.com
 ads-api.reddit.com
+gql.reddit.com
 ads.reddit.com
 *.reddit.com
 www.reddit.com
@@ -1627,8 +1627,8 @@ core.yoti.com
 ccloud.yoti.com
 code.yoti.com
 api.yoti.com
-www.yotisign.com
 identity.yoti.com
+www.yotisign.com
 hub.yoti.com
 core.yoti.com
 api.yoti.com
@@ -1743,9 +1743,9 @@ careers.tiktok.com
 tiktok.com
 shop.tiktok.com
 business.tiktok.com
-ads.tiktok.com
 *.tiktok.com
 www.pangleglobal.com
+ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2277,8 +2277,8 @@ gatewaydsaptst2.marriott.com
 *uat.marriott.com
 reservations.all-inclusive.marriott.com
 cpp.marriott.com
-jobs.marriott.com
 activities.marriott.com
+jobs.marriott.com
 gatewaydsapdev2.marriott.com
 hotel-deals.marriott.com
 homes-and-villas.marriott.com
@@ -3132,8 +3132,8 @@ kartaview.org
 jira.grab.com
 *.grabpay.com
 *.taralite.com
-*.grab.com
 *.ovo.id
+*.grab.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3255,8 +3255,8 @@ lifeinvader.com
 prod.ros.rockstargames.com
 support.rockstargames.com
 socialclub.rockstargames.com
-*.rockstargames.com
 rockstarnorth.com
+*.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -3265,8 +3265,8 @@ store.rockstargames.com
 lifeinvader.com
 rockstarnorth.com
 circolocorecords.com/
-www.files.com
 app.files.com
+www.files.com
 your-assigned-subdomain.files.com
 app.files.com
 your-assigned-subdomain.files.com
@@ -3375,9 +3375,9 @@ classroom.github.com
 *.githubapp.com
 *.githubusercontent.com
 npmjs.com
-github.com
-api.github.com
 *.github.net
+api.github.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3519,10 +3519,10 @@ yourcompany.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 shopifyinbox.com
-linkpop.com
 *.shopifycloud.com
-*.shopifykloud.com
+linkpop.com
 shop.app
+*.shopifykloud.com
 shopify.plus
 partners.shopify.com
 accounts.shopify.com
@@ -3565,17 +3565,17 @@ create.snapchat.com
 my.snapchat.com
 forum.playcanvas.com
 spectacles.com
+snappublisher.snapchat.com
+ads.snapchat.com
 www.bitmoji.com
 login.playcanvas.com
-*.sc-core.net
 scan.snapchat.com
 web.snapchat.com
 accounts.snapchat.com
-ads.snapchat.com
-snappublisher.snapchat.com
 playcanvas.com
 app.snapchat.com
 business.snapchat.com
+*.sc-core.net
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3653,9 +3653,9 @@ api.airbnb.com
 *.airbnbcitizen.com
 *.hoteltonight-test.com
 *.withairbnb.com
+www.hoteltonight.com
 www.airbnb.com
 *.airbnb.com
-www.hoteltonight.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -3803,8 +3803,8 @@ api.custody.coinbase.com
 pro.coinbase.com
 cloud.coinbase.com
 api.coinbase.com
-*.base.org
 *.coinbase.com
+*.base.org
 coinbase.com
 *.coinbase.com
 *.cbhq.net
@@ -3859,19 +3859,19 @@ www.wearehackerone.com
 profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 hackathon-photos-us-east-2.hackerone-user-content.com
-b5s.hackerone-ext-content.com
 cover-photos-us-east-2.hackerone-user-content.com
 a5s.hackerone-ext-content.com
 hackerone-ext-content.com
 mta-sts.wearehackerone.com
 cover-photos.hackerone-user-content.com
+b5s.hackerone-ext-content.com
 api.hackerone.com
 hackerone.live
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 app.pullrequest.com
 www.hackerone.com
-ctf.hacker101.com
 errors.hackerone.net
+ctf.hacker101.com
 hackerone.com
 hackerone-user-content.com
 hackerone.com
