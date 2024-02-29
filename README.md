@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb 29 22:16:43 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb 29 23:18:33 UTC 2024)
 ```
 *.worldcoin-distributors.com
 toolsforhumanity.com
@@ -10,9 +10,9 @@ toolsforhumanity.com
 worldcoin.org
 getworldcoin.com
 bioid-management.app
-*.worldcoin.org
 *.toolsforhumanity.com
 *.worldcoin.dev
+*.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -23,8 +23,8 @@ getworldcoin.com
 bioid-management.app
 worldcoin.org
 rfc.tari.com
-explore.tari.com
 textexplore.tari.com
+explore.tari.com
 www.tarilabs.com
 www.tari.com
 explore.tari.com
@@ -136,10 +136,10 @@ www.mercadolibre.cl
 www.mercadolibre.com.co
 www.mercadolibre.com.ar
 www.mercadopago.com.mx
-www.mercadopago.com.br
 www.mercadolivre.com.br
 www.mercadopago.com.ar
 api.mercadolibre.com
+www.mercadopago.com.br
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -184,8 +184,8 @@ secure.booking.com
 account.booking.com
 widget.rentalcars.com
 booking.com
-*.rentalcars.com
 flights.booking.com
+*.rentalcars.com
 spark.fareharbor.com
 *.booking.com
 *.booking.com
@@ -283,8 +283,8 @@ connect-sandbox.gocardless.com
 xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless-staging.io
-api-sandbox.gocardless.com
 *.gocardless-cicd.io
+api-sandbox.gocardless.com
 manage-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
@@ -400,10 +400,10 @@ www.visa.co.id
 www.visa.co.ve
 www.currencycloud.com
 www.authorize.net
-bb.visa.com
 www.visa.com.mx
 cw.visa.com
-www.tink.com
+bb.visa.com
+www.visa.com.br
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -507,7 +507,6 @@ api.tideplatform.in
 *.tide.co
 *.tide.co
 api.tideplatform.in
-merino.services.mozilla.com
 lando.services.mozilla.com
 push.services.mozilla.com
 crash-stats.allizom.org
@@ -525,6 +524,7 @@ location.services.mozilla.com
 accounts.firefox.com
 sync.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
+merino.services.mozilla.com
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -781,8 +781,8 @@ admin.8x8.com
 *.luckydays.ca
 *.napoleonsports.be
 *.luckydays.com
-*.magicjackpot.ro
 *.superbet.rs
+*.magicjackpot.ro
 *.superbet.com
 *.napoleongames.be
 *.superbet.ro
@@ -863,9 +863,9 @@ www.hotels.com
 www.expediagroup.com
 www.stayz.com.au
 www.vrbo.com
-www.abritel.fr
 www.flights.com
 www.cheaptickets.com
+www.abritel.fr
 www.hotels.com
 www.expedia.com
 www.expediapartnercentral.com
@@ -975,8 +975,8 @@ artifactory.corp.mongodb.com/
 https://www.*mongodb.com/*
 mongodb.live/*
 artifactory.corp.mongodb.com/
-royal.checksw.com
 checksw.com
+royal.checksw.com
 checksw.com
 royal.checksw.com
 *.superpal.io/*
@@ -1003,8 +1003,8 @@ snaps.metamask.io
 portfolio.metamask.io
 invoices.razorpay.com
 payroll.razorpay.com
-checkout.razorpay.com
 api.razorpay.com
+checkout.razorpay.com
 x.razorpay.com
 dashboard.razorpay.com
 dashboard.razorpay.com
@@ -1054,9 +1054,9 @@ ws.sorare.com
 exnessaffiliates.com
 pwapi.ex2b.com
 api.excalls.mobi
-my.exness.com
 social-trading.exness.com
 pay.ibex.exchange
+my.exness.com
 exness.com
 my.exness.com
 pay.ibex.exchange
@@ -1193,8 +1193,8 @@ analytics.krisp.ai
 download.krisp.ai
 teams.krisp.ai
 krisp.ai
-account.krisp.ai
 api.krisp.ai
+account.krisp.ai
 *.krisp.ai
 *.krisp.ai
 krisp.ai
@@ -1486,8 +1486,8 @@ accounts.reddit.com
 ads-api.reddit.com
 gql.reddit.com
 www.reddit.com
-*.reddit.com
 ads.reddit.com
+*.reddit.com
 *.snooguts.net
 *.snooguts.net
 *.redditmedia.com
@@ -1738,14 +1738,14 @@ creatormarketplace.tiktok.com
 effecthouse.tiktok.com
 live-backstage.tiktok.com
 careers.tiktok.com
+partner.tiktokshop.com
 ads.tiktok.com
 tiktok.com
-partner.tiktokshop.com
-shop.tiktok.com
 *.tiktokv.com
 www.pangleglobal.com
 *.tiktok.com
 business.tiktok.com
+shop.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1957,9 +1957,9 @@ store.playstation.com
 my.playstation.com
 my.account.sony.com
 *.api.playstation.com
-transact.playstation.com
 *.sonyentertainmentnetwork.com
 *.playstation.net
+transact.playstation.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -2087,6 +2087,7 @@ ftvsacs-na.amazon.com
 gateway-ink.amazon.com
 imdbtv-backend-na.amazon.com
 mas-ext.amazon.com
+mas-sdk.amazon.com
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -2192,9 +2193,9 @@ updates.amazon.com
 *.aliyun-inc.com
 *.alibaba-inc.com
 *.Daraz.com
-www.alibabagroup.com
-*.aliyun.com
 *.aliexpress.com
+*.aliyun.com
+www.alibabagroup.com
 *.alimama.com
 *.1688.com
 *.alibaba.com
@@ -2285,10 +2286,10 @@ all-inclusive.marriott.com
 marriottfranchisetransactions.marriott.com
 passwordchallenge.marriott.com
 www.ritzcarlton.com
-gatewaydsaptst1.marriott.com
-mgs.marriott.com
 cpp.marriott.com
 reservations.all-inclusive.marriott.com
+gatewaydsaptst1.marriott.com
+mgs.marriott.com
 www.marriott.com
 jobs.marriott.com
 homes-and-villas.marriott.com
@@ -2317,9 +2318,9 @@ http://www.shopmarriott.com
 www.goodrx.com
 www.goodrx.com
 *.ra.roblox.com
-*.roblox.com
 *.rbx.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2707,8 +2708,8 @@ mobile-prod.tvg.com
 fdbox.net
 www.4njbets.com
 sportsbook.fanduel.com
-*racing.fanduel.com
 tvg.com
+*racing.fanduel.com
 us.tvg.com
 com.fanduel.android.live
 www.tvg.com
@@ -2922,8 +2923,8 @@ www.valvesoftware.com
 www.dota2.com
 api.steampowered.com
 www.counter-strike.net
-store.steampowered.com
 steamcommunity.com
+store.steampowered.com
 www.teamfortress.com
 www.dota2.com
 support.steampowered.com
@@ -3186,8 +3187,8 @@ ccardsus1.badoo.com
 chatdate.app
 zodia.studio
 backstage.io
-assets.spotify.com
 api.spotify.com
+assets.spotify.com
 assets.spotify.com
 api.spotify.com
 backstage.io
@@ -3251,8 +3252,8 @@ lifeinvader.com
 prod.ros.rockstargames.com
 support.rockstargames.com
 socialclub.rockstargames.com
-rockstarnorth.com
 *.rockstargames.com
+rockstarnorth.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -3261,8 +3262,8 @@ store.rockstargames.com
 lifeinvader.com
 rockstarnorth.com
 circolocorecords.com/
-app.files.com
 www.files.com
+app.files.com
 your-assigned-subdomain.files.com
 app.files.com
 your-assigned-subdomain.files.com
@@ -3517,16 +3518,16 @@ yourcompany.udemy.com
 shopifyinbox.com
 *.shopifycloud.com
 linkpop.com
-shopify.plus
 *.shopifykloud.com
+shopify.plus
 *.shopifycs.com
 accounts.shopify.com
 arrive-server.shopifycloud.com
 shop.app
-admin.shopify.com
 your-store.myshopify.com
 partners.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3770,8 +3771,8 @@ intensedebate.com
 mailpoet.com
 www.tumblr.com
 *.tumblr.com
-akismet.com
 wordpress.com
+akismet.com
 *.tumblr.com
 *.srvcs.tumblr.com
 api.tumblr.com
@@ -3813,9 +3814,9 @@ international.coinbase.com
 *.cbhq.net
 institutional.coinbase.com
 api.custody.coinbase.com
+api.coinbase.com
 pro.coinbase.com
 cloud.coinbase.com
-api.coinbase.com
 *.coinbase.com
 *.base.org
 coinbase.com
