@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb 29 10:20:17 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb 29 11:18:29 UTC 2024)
 ```
 *.worldcoin-distributors.com
 toolsforhumanity.com
@@ -52,8 +52,8 @@ my.sheer.com
 www.sheer.com
 www.sheer.com
 my.sheer.com
-www.ddfcontent.com
 www.pornworld.com
+www.ddfcontent.com
 www.analvids.com
 www.pornbox.com
 www.pornbox.com
@@ -88,11 +88,11 @@ cpanel.hostinger.com
 logo.zyro.com
 www.zyro.com
 backend.zyro.com
-hpanel.hostinger.com
 www.niagahoster.co.id
 editor.zyro.com
 www.hostinger.com
 *.000webhost.com
+hpanel.hostinger.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -182,12 +182,12 @@ careers.booking.com
 portal.taxi.booking.com
 secure.booking.com
 account.booking.com
-spark.fareharbor.com
 booking.com
 flights.booking.com
+spark.fareharbor.com
 widget.rentalcars.com
-*.booking.com
 *.rentalcars.com
+*.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -283,8 +283,8 @@ connect-sandbox.gocardless.com
 xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless-staging.io
-*.gocardless-cicd.io
 api-sandbox.gocardless.com
+*.gocardless-cicd.io
 manage-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
@@ -390,9 +390,6 @@ www.visa.com.tw
 www.practicalmoneyskills.com
 www.visa.com.ph
 www.visa.com.my
-www.authorize.net
-www.currencycloud.com
-www.visainfinite.ca
 www.cybersource.com
 visa.com.au
 www.fraedom.com
@@ -401,8 +398,11 @@ www.visa.co.in
 www.yellowpepper.com
 www.visa.co.id
 www.visa.co.ve
-cw.visa.com
+www.currencycloud.com
+www.authorize.net
+www.visainfinite.ca
 www.visa.com.mx
+cw.visa.com
 bb.visa.com
 aw.visa.com
 bb.visa.com
@@ -521,8 +521,8 @@ addons.allizom.org
 phabricator.allizom.org
 contile.services.mozilla.com
 aus5.mozilla.org
-mozilla-pontoon-staging.herokuapp.com
 location.services.mozilla.com
+mozilla-pontoon-staging.herokuapp.com
 accounts.firefox.com
 sync.services.mozilla.com
 addons.allizom.org
@@ -672,13 +672,13 @@ oneview.malwarebytes.com
 *.mwb-threatintel.com
 *.mbamupdates.com
 *.mb-cosmos.com
-*.malwarebytes.com
-*.cloud.malwarebytes.com
+my.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
+*.cloud.malwarebytes.com
 *.threatdown.com
 *.mwbsys.com
-my.malwarebytes.com
+*.malwarebytes.com
 www.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
@@ -863,8 +863,8 @@ www.expedia.com
 www.hotels.com
 www.expediagroup.com
 www.stayz.com.au
-www.vrbo.com
 www.abritel.fr
+www.vrbo.com
 www.flights.com
 www.hotels.com
 www.expedia.com
@@ -1054,10 +1054,10 @@ ws.sorare.com
 exnessaffiliates.com
 pwapi.ex2b.com
 api.excalls.mobi
+my.exness.com
 social-trading.exness.com
 pay.ibex.exchange
 exness.com
-my.exness.com
 my.exness.com
 pay.ibex.exchange
 https://my.exness.com/webtrading/
@@ -1422,9 +1422,9 @@ https://www.xvideos.net/app/
 www.elastic.co
 *.swiftype.com
 *.elstc.co
+*.elastic.co
 cloud.elastic.co
 *.found.io
-*.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1477,18 +1477,18 @@ mod.reddit.com
 old.reddit.com
 api.reddit.com
 *.redditmedia.com
+accounts.reddit.com
+gql.reddit.com
 redditforbusiness.com
 app.spiketrap.io
 *.snooguts.net
 *.reddithelp.com
 oauth.reddit.com
 new.reddit.com
-accounts.reddit.com
 ads-api.reddit.com
-gql.reddit.com
-ads.reddit.com
-*.reddit.com
 www.reddit.com
+*.reddit.com
+ads.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1627,8 +1627,8 @@ core.yoti.com
 ccloud.yoti.com
 code.yoti.com
 api.yoti.com
-www.yotisign.com
 identity.yoti.com
+www.yotisign.com
 hub.yoti.com
 core.yoti.com
 api.yoti.com
@@ -1740,12 +1740,12 @@ live-backstage.tiktok.com
 careers.tiktok.com
 shop.tiktok.com
 ads.tiktok.com
-*.tiktok.com
 tiktok.com
 *.tiktokv.com
 business.tiktok.com
 partner.tiktokshop.com
 www.pangleglobal.com
+*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2274,9 +2274,8 @@ lawmanager.marriott.com
 gatewaydsaptst2.marriott.com
 *uat.marriott.com
 reservations.all-inclusive.marriott.com
-cpp.marriott.com
-activities.marriott.com
 jobs.marriott.com
+activities.marriott.com
 gatewaydsapdev2.marriott.com
 hotel-deals.marriott.com
 homes-and-villas.marriott.com
@@ -2288,6 +2287,7 @@ www.ritzcarlton.com
 gatewaydsaptst1.marriott.com
 mgs.marriott.com
 www.marriott.com
+cpp.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -2314,9 +2314,9 @@ http://www.shopmarriott.com
 www.goodrx.com
 www.goodrx.com
 *.ra.roblox.com
-*.rbx.com
 *.guilded.gg
 *.roblox.com
+*.rbx.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2865,7 +2865,6 @@ goldmansachsindices.com
 www.rocaton.com
 *.gs.de
 *.goldmanpfm.com
-*.finlifepartners.com
 *.foliodigitalwealth.com
 *.vennhypotheken.nl
 api.foliofn.com
@@ -3251,8 +3250,8 @@ lifeinvader.com
 prod.ros.rockstargames.com
 support.rockstargames.com
 socialclub.rockstargames.com
-*.rockstargames.com
 rockstarnorth.com
+*.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -3301,9 +3300,9 @@ gift.starbucks.co.jp
 app.starbucks.com
 openapi.starbucks.com
 www.starbucks.com.cn
-www.starbucks.de
 www.starbucks.com
 www.starbucks.co.kr
+www.starbucks.de
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3371,8 +3370,8 @@ classroom.github.com
 *.githubapp.com
 *.githubusercontent.com
 npmjs.com
-api.github.com
 *.github.net
+api.github.com
 github.com
 github.com
 api.github.com
@@ -3518,10 +3517,10 @@ shopifyinbox.com
 *.shopifycloud.com
 linkpop.com
 shop.app
-shopify.plus
 *.shopifykloud.com
-*.shopify.com
+shopify.plus
 *.shopifycs.com
+*.shopify.com
 accounts.shopify.com
 arrive-server.shopifycloud.com
 your-store.myshopify.com
@@ -3568,10 +3567,10 @@ playcanvas.com
 app.snapchat.com
 business.snapchat.com
 *.sc-core.net
-kit.snapchat.com
 accounts.snapchat.com
-blog.playcanvas.com
 spectacles.com
+kit.snapchat.com
+blog.playcanvas.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3728,7 +3727,6 @@ cloudflareworkers.com
 *.teams.cloudflare.com
 one.dash.cloudflare.com
 waf.cumulusfire.net
-*.cloudflare.com
 dash.cloudflare.com
 cloudflareworkers.com
 *.teams.cloudflare.com
@@ -3861,15 +3859,15 @@ hackerone-ext-content.com
 mta-sts.wearehackerone.com
 b5s.hackerone-ext-content.com
 hackerone.live
+hackerone-user-content.com
 ctf.hacker101.com
 errors.hackerone.net
-hackerone-user-content.com
 www.hackerone.com
 api.hackerone.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-hackerone.com
 cover-photos.hackerone-user-content.com
 app.pullrequest.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
