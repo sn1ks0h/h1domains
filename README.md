@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Mar  1 07:17:55 UTC 2024)
+## Domains with Bounties (Last Updated Fri Mar  1 08:21:39 UTC 2024)
 ```
 *.worldcoin-distributors.com
 toolsforhumanity.com
@@ -23,8 +23,8 @@ getworldcoin.com
 bioid-management.app
 worldcoin.org
 rfc.tari.com
-textexplore.tari.com
 explore.tari.com
+textexplore.tari.com
 www.tarilabs.com
 www.tari.com
 explore.tari.com
@@ -136,10 +136,10 @@ www.mercadolibre.com.co
 www.mercadolibre.com.ar
 www.mercadopago.cl
 www.mercadopago.com.mx
-api.mercadolibre.com
-www.mercadopago.com.br
 www.mercadolivre.com.br
 www.mercadopago.com.ar
+api.mercadolibre.com
+www.mercadopago.com.br
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -259,8 +259,8 @@ cdn.moderntreasury.com
 app.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
-test.nicehash.com
 test.nicex.com
+test.nicehash.com
 test.nicehash.com
 https://test.nicehash.com/shop/
 https://test.nicex.com
@@ -390,6 +390,8 @@ www.visa.com.tw
 www.practicalmoneyskills.com
 www.visa.com.ph
 www.visa.com.my
+www.authorize.net
+www.currencycloud.com
 www.cybersource.com
 visa.com.au
 www.fraedom.com
@@ -398,12 +400,10 @@ www.visa.co.in
 www.yellowpepper.com
 www.visa.co.id
 www.visa.co.ve
-www.currencycloud.com
-www.authorize.net
-bb.visa.com
-www.visa.com.mx
 cw.visa.com
-www.tink.com
+www.visa.com.mx
+bb.visa.com
+www.visa.com.br
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -521,9 +521,9 @@ phabricator.allizom.org
 contile.services.mozilla.com
 aus5.mozilla.org
 location.services.mozilla.com
+accounts.firefox.com
 sync.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
-accounts.firefox.com
 merino.services.mozilla.com
 addons.allizom.org
 accounts.firefox.com
@@ -863,9 +863,9 @@ www.hotels.com
 www.expediagroup.com
 www.stayz.com.au
 www.vrbo.com
-www.flights.com
 www.cheaptickets.com
 www.abritel.fr
+www.flights.com
 www.hotels.com
 www.expedia.com
 www.expediapartnercentral.com
@@ -1054,9 +1054,9 @@ ws.sorare.com
 exnessaffiliates.com
 pwapi.ex2b.com
 api.excalls.mobi
+my.exness.com
 social-trading.exness.com
 pay.ibex.exchange
-my.exness.com
 exness.com
 my.exness.com
 pay.ibex.exchange
@@ -1193,8 +1193,8 @@ analytics.krisp.ai
 download.krisp.ai
 teams.krisp.ai
 krisp.ai
-api.krisp.ai
 account.krisp.ai
+api.krisp.ai
 *.krisp.ai
 *.krisp.ai
 krisp.ai
@@ -1737,14 +1737,14 @@ developers.tiktok.com
 creatormarketplace.tiktok.com
 effecthouse.tiktok.com
 careers.tiktok.com
-partner.tiktokshop.com
-shop.tiktok.com
 tiktok.com
+partner.tiktokshop.com
 *.tiktokv.com
-www.pangleglobal.com
+shop.tiktok.com
 live-backstage.tiktok.com
 *.tiktok.com
 ads.tiktok.com
+www.pangleglobal.com
 business.tiktok.com
 *.tiktok.com
 business.tiktok.com
@@ -2283,11 +2283,11 @@ all-inclusive.marriott.com
 marriottfranchisetransactions.marriott.com
 passwordchallenge.marriott.com
 www.ritzcarlton.com
-gatewaydsaptst1.marriott.com
-mgs.marriott.com
 cpp.marriott.com
 reservations.all-inclusive.marriott.com
 jobs.marriott.com
+gatewaydsaptst1.marriott.com
+mgs.marriott.com
 www.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
@@ -2315,9 +2315,9 @@ http://www.shopmarriott.com
 www.goodrx.com
 www.goodrx.com
 *.ra.roblox.com
-*.guilded.gg
 *.roblox.com
 *.rbx.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2382,8 +2382,8 @@ booth.pm
 dic.pixiv.net
 *.fanbox.cc
 sensei.pixiv.net
-www.pixiv.net
 accounts.pixiv.net
+www.pixiv.net
 *.fanbox.cc
 booth.pm
 comic.pixiv.net
@@ -2707,8 +2707,8 @@ mobile-prod.tvg.com
 fdbox.net
 www.4njbets.com
 sportsbook.fanduel.com
-*racing.fanduel.com
 tvg.com
+*racing.fanduel.com
 us.tvg.com
 com.fanduel.android.live
 www.tvg.com
@@ -2766,8 +2766,8 @@ paypalobjects.com
 *.xoom.com
 *.hyperwallet.com
 *.paypalcorp.com
-*.braintreegateway.com
 *.paypal.com
+*.braintreegateway.com
 *.braintreepayments.com
 www.paypal-*.com
 *.xoom.com
@@ -2806,8 +2806,8 @@ secure.chaturbate.com
 *.mmcdn.com
 *.highwebmedia.com
 chaturbate.com
-*.mmwebc.dev
 *.cb.dev
+*.mmwebc.dev
 *.highwebmedia.com
 *.securegatewayaccess.com
 *.mmcdn.com
@@ -2817,8 +2817,8 @@ chaturbate.com
 m.chaturbate.com
 billingsupport.chaturbate.com
 secure.chaturbate.com
-*.bitmex.com
 testnet.bitmex.com
+*.bitmex.com
 *.bitmex.com
 testnet.bitmex.com
 *.staging-airtableblocks.com
@@ -3253,8 +3253,8 @@ lifeinvader.com
 prod.ros.rockstargames.com
 support.rockstargames.com
 socialclub.rockstargames.com
-*.rockstargames.com
 rockstarnorth.com
+*.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -3263,8 +3263,8 @@ store.rockstargames.com
 lifeinvader.com
 rockstarnorth.com
 circolocorecords.com/
-www.files.com
 app.files.com
+www.files.com
 your-assigned-subdomain.files.com
 app.files.com
 your-assigned-subdomain.files.com
@@ -3374,8 +3374,8 @@ classroom.github.com
 *.githubusercontent.com
 npmjs.com
 *.github.net
-api.github.com
 github.com
+api.github.com
 github.com
 api.github.com
 gist.github.com
@@ -3517,8 +3517,8 @@ www.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 shopifyinbox.com
-*.shopifycloud.com
 linkpop.com
+*.shopifycloud.com
 *.shopifykloud.com
 shopify.plus
 *.shopifycs.com
@@ -3567,13 +3567,13 @@ snappublisher.snapchat.com
 ads.snapchat.com
 playcanvas.com
 app.snapchat.com
-*.sc-core.net
 business.snapchat.com
+*.sc-core.net
+web.snapchat.com
 accounts.snapchat.com
 spectacles.com
 kit.snapchat.com
 blog.playcanvas.com
-web.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3885,10 +3885,10 @@ api.hackerone.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 b5s.hackerone-ext-content.com
 hackerone-user-content.com
-hackerone.com
 cover-photos.hackerone-user-content.com
-app.pullrequest.com
 www.hackerone.com
+app.pullrequest.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
