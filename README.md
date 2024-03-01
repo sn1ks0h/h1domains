@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Mar  1 04:22:10 UTC 2024)
+## Domains with Bounties (Last Updated Fri Mar  1 05:19:31 UTC 2024)
 ```
 *.worldcoin-distributors.com
 toolsforhumanity.com
@@ -25,8 +25,8 @@ worldcoin.org
 rfc.tari.com
 textexplore.tari.com
 explore.tari.com
-www.tari.com
 www.tarilabs.com
+www.tari.com
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
@@ -68,9 +68,9 @@ http://sandbox-api.fireblocks.io
 *.sprint.apps.dynatracelabs.com
 university-staging.dynatracelabs.com
 *.sprint.dynatracelabs.com
-myaccount-hardening.dynatracelabs.com
 sso-sprint.dynatracelabs.com
 account-sprint.dynatracelabs.com
+myaccount-hardening.dynatracelabs.com
 *.sprint.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -90,9 +90,9 @@ backend.zyro.com
 www.niagahoster.co.id
 editor.zyro.com
 hpanel.hostinger.com
-cpanel.hostinger.com
 *.000webhost.com
 www.hostinger.com
+cpanel.hostinger.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -127,6 +127,7 @@ research.23andme.com
 www.mercadolibre.com.uy
 api.mercadopago.com
 www.mercadopago.com.uy
+www.mercadopago.cl
 www.mercadolibre.com.mx
 www.mercadopago.com.co
 www.mercadopago.com.pe
@@ -134,7 +135,6 @@ www.mercadolibre.com.pe
 www.mercadolibre.cl
 www.mercadolibre.com.co
 www.mercadolibre.com.ar
-www.mercadopago.cl
 www.mercadopago.com.mx
 www.mercadolivre.com.br
 www.mercadopago.com.ar
@@ -231,8 +231,8 @@ api2.frontapp.com
 app.frontapp.com
 app.frontapp.com
 api2.frontapp.com
-*.boozt.com
 *.booztlet.com
+*.boozt.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -259,8 +259,8 @@ cdn.moderntreasury.com
 app.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
-test.nicex.com
 test.nicehash.com
+test.nicex.com
 test.nicehash.com
 https://test.nicehash.com/shop/
 https://test.nicex.com
@@ -400,8 +400,8 @@ www.visa.co.id
 www.visa.co.ve
 www.currencycloud.com
 www.authorize.net
-www.visa.com.mx
 bb.visa.com
+www.visa.com.mx
 cw.visa.com
 www.tink.com
 aw.visa.com
@@ -483,10 +483,10 @@ api.kolesa.kz
 api.avtoelon.uz
 krisha.kz
 m.avtoelon.uz
-avtoelon.uz
-id.kolesa.kz
-kolesa.kz
 m.kolesa.kz
+kolesa.kz
+id.kolesa.kz
+avtoelon.uz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -621,8 +621,8 @@ ci.indrive.dev
 super-services.indriverapp.com
 *.indriverapp.com
 auth.indrive.tech
-*.indrive.com
 *.indriver.com
+*.indrive.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -781,13 +781,13 @@ admin.8x8.com
 *.luckydays.ca
 *.napoleonsports.be
 *.luckydays.com
-*.superbet.rs
 *.magicjackpot.ro
+*.superbet.rs
 *.superbet.com
 *.napoleongames.be
 *.superbet.ro
-*.superbet.pl
 *.napoleoncasino.be
+*.superbet.pl
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -854,6 +854,7 @@ www.fewo-direkt.de
 www.travelocity.com
 www.carrentals.com
 www.ebookers.com
+www.stayz.com.au
 www.orbitz.com
 www.bookabach.co.nz
 www.hotwire.com
@@ -861,7 +862,6 @@ www.expediacruises.com
 www.expedia.com
 www.hotels.com
 www.expediagroup.com
-www.stayz.com.au
 www.vrbo.com
 www.flights.com
 www.cheaptickets.com
@@ -975,8 +975,8 @@ artifactory.corp.mongodb.com/
 https://www.*mongodb.com/*
 mongodb.live/*
 artifactory.corp.mongodb.com/
-checksw.com
 royal.checksw.com
+checksw.com
 checksw.com
 royal.checksw.com
 *.superpal.io/*
@@ -1193,8 +1193,8 @@ analytics.krisp.ai
 download.krisp.ai
 teams.krisp.ai
 krisp.ai
-account.krisp.ai
 api.krisp.ai
+account.krisp.ai
 *.krisp.ai
 *.krisp.ai
 krisp.ai
@@ -1420,9 +1420,9 @@ https://www.xvideos.net/app/
 *.eops.nl
 www.elastic.co
 *.swiftype.com
+*.elastic.co
 cloud.elastic.co
 *.found.io
-*.elastic.co
 *.elstc.co
 *.elasticnet.co
 *.elastic.co
@@ -1477,14 +1477,14 @@ mod.reddit.com
 old.reddit.com
 api.reddit.com
 *.redditmedia.com
-accounts.reddit.com
-gql.reddit.com
 redditforbusiness.com
 app.spiketrap.io
 *.reddithelp.com
 oauth.reddit.com
 new.reddit.com
+accounts.reddit.com
 ads-api.reddit.com
+gql.reddit.com
 www.reddit.com
 *.reddit.com
 ads.reddit.com
@@ -1738,14 +1738,14 @@ creatormarketplace.tiktok.com
 effecthouse.tiktok.com
 careers.tiktok.com
 tiktok.com
-partner.tiktokshop.com
 *.tiktokv.com
+partner.tiktokshop.com
 business.tiktok.com
 shop.tiktok.com
-*.tiktok.com
 www.pangleglobal.com
 ads.tiktok.com
 live-backstage.tiktok.com
+*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2188,11 +2188,11 @@ updates.amazon.com
 *.aliexpress.ru
 *.tmall.com
 *.aliyun-inc.com
-*.aliyun.com
-www.alibabagroup.com
-*.aliexpress.com
 *.alibaba-inc.com
 *.Daraz.com
+www.alibabagroup.com
+*.aliyun.com
+*.aliexpress.com
 *.alimama.com
 *.1688.com
 *.alibaba.com
@@ -2281,8 +2281,8 @@ homes-and-villas.marriott.com
 marrtool.com
 all-inclusive.marriott.com
 marriottfranchisetransactions.marriott.com
-passwordchallenge.marriott.com
 www.ritzcarlton.com
+passwordchallenge.marriott.com
 gatewaydsaptst1.marriott.com
 mgs.marriott.com
 cpp.marriott.com
@@ -2350,8 +2350,8 @@ app.nordpass.com
 app.nordpass.com
 *.line.naver.jp
 *.line.me
-*.line.biz
 *.line-apps.com
+*.line.biz
 *.line.me
 *.line-apps.com
 *.line.naver.jp
@@ -2706,8 +2706,8 @@ mobile-prod.tvg.com
 fdbox.net
 www.4njbets.com
 sportsbook.fanduel.com
-*racing.fanduel.com
 tvg.com
+*racing.fanduel.com
 us.tvg.com
 com.fanduel.android.live
 www.tvg.com
@@ -2757,7 +2757,6 @@ scrutiny.swiftfinancial.com
 prequal.swiftfinancial.com
 decision.swiftfinancial.com
 *.braintree-api.com
-*.braintreepayments.com
 *.paylution.com
 paypal.me
 py.pl
@@ -2768,6 +2767,7 @@ paypalobjects.com
 *.paypalcorp.com
 *.paypal.com
 *.braintreegateway.com
+*.braintreepayments.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3206,7 +3206,6 @@ logs.dashlane.com
 api.dashlane.com
 api.wordpress.org
 irclogs.wordpress.org
-*.wordpress.net
 lists.wordpress.org
 codex.wordpress.org
 codex.bbpress.org
@@ -3225,6 +3224,7 @@ gutenberg.run
 doaction.org
 *.wordcamp.org
 *.wordpress.org
+*.wordpress.net
 *.wordpress.org
 *.buddypress.org
 bbpress.org
@@ -3373,8 +3373,8 @@ classroom.github.com
 *.githubusercontent.com
 npmjs.com
 *.github.net
-api.github.com
 github.com
+api.github.com
 github.com
 api.github.com
 gist.github.com
@@ -3516,18 +3516,18 @@ www.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 shopifyinbox.com
-*.shopifycloud.com
 linkpop.com
-*.shopifykloud.com
+*.shopifycloud.com
 shopify.plus
+*.shopifykloud.com
 *.shopifycs.com
 accounts.shopify.com
 arrive-server.shopifycloud.com
 shop.app
 *.shopify.com
 your-store.myshopify.com
-partners.shopify.com
 admin.shopify.com
+partners.shopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3716,8 +3716,8 @@ onboarding.greenhouse.io
 boards.greenhouse.io
 www.greenhouse.io
 app.greenhouse.io
-api.greenhouse.io
 interseller.io
+api.greenhouse.io
 app.greenhouse.io
 boards.greenhouse.io
 api.greenhouse.io
@@ -3771,8 +3771,8 @@ intensedebate.com
 mailpoet.com
 www.tumblr.com
 *.tumblr.com
-wordpress.com
 akismet.com
+wordpress.com
 *.tumblr.com
 *.srvcs.tumblr.com
 api.tumblr.com
@@ -3814,9 +3814,9 @@ international.coinbase.com
 *.cbhq.net
 institutional.coinbase.com
 api.custody.coinbase.com
-api.coinbase.com
 pro.coinbase.com
 cloud.coinbase.com
+api.coinbase.com
 *.coinbase.com
 *.base.org
 coinbase.com
@@ -3884,10 +3884,10 @@ www.hackerone.com
 api.hackerone.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 app.pullrequest.com
-cover-photos.hackerone-user-content.com
 b5s.hackerone-ext-content.com
 hackerone-user-content.com
 hackerone.com
+cover-photos.hackerone-user-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
