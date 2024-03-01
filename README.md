@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Mar  1 06:20:48 UTC 2024)
+## Domains with Bounties (Last Updated Fri Mar  1 07:17:55 UTC 2024)
 ```
 *.worldcoin-distributors.com
 toolsforhumanity.com
@@ -53,9 +53,9 @@ www.sheer.com
 www.sheer.com
 my.sheer.com
 www.ddfcontent.com
-www.analvids.com
 www.pornbox.com
 www.pornworld.com
+www.analvids.com
 www.pornbox.com
 www.analvids.com
 www.ddfcontent.com
@@ -127,7 +127,6 @@ research.23andme.com
 www.mercadolibre.com.uy
 api.mercadopago.com
 www.mercadopago.com.uy
-www.mercadopago.cl
 www.mercadolibre.com.mx
 www.mercadopago.com.co
 www.mercadopago.com.pe
@@ -135,11 +134,12 @@ www.mercadolibre.com.pe
 www.mercadolibre.cl
 www.mercadolibre.com.co
 www.mercadolibre.com.ar
+www.mercadopago.cl
 www.mercadopago.com.mx
-www.mercadolivre.com.br
-www.mercadopago.com.ar
 api.mercadolibre.com
 www.mercadopago.com.br
+www.mercadolivre.com.br
+www.mercadopago.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -185,9 +185,9 @@ account.booking.com
 widget.rentalcars.com
 booking.com
 *.rentalcars.com
-flights.booking.com
 spark.fareharbor.com
 *.booking.com
+flights.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -465,9 +465,9 @@ http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
-yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
+yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -483,10 +483,10 @@ api.kolesa.kz
 api.avtoelon.uz
 krisha.kz
 m.avtoelon.uz
+avtoelon.uz
+id.kolesa.kz
 m.kolesa.kz
 kolesa.kz
-id.kolesa.kz
-avtoelon.uz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -521,9 +521,9 @@ phabricator.allizom.org
 contile.services.mozilla.com
 aus5.mozilla.org
 location.services.mozilla.com
-accounts.firefox.com
 sync.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
+accounts.firefox.com
 merino.services.mozilla.com
 addons.allizom.org
 accounts.firefox.com
@@ -854,7 +854,6 @@ www.fewo-direkt.de
 www.travelocity.com
 www.carrentals.com
 www.ebookers.com
-www.stayz.com.au
 www.orbitz.com
 www.bookabach.co.nz
 www.hotwire.com
@@ -862,6 +861,7 @@ www.expediacruises.com
 www.expedia.com
 www.hotels.com
 www.expediagroup.com
+www.stayz.com.au
 www.vrbo.com
 www.flights.com
 www.cheaptickets.com
@@ -975,8 +975,8 @@ artifactory.corp.mongodb.com/
 https://www.*mongodb.com/*
 mongodb.live/*
 artifactory.corp.mongodb.com/
-royal.checksw.com
 checksw.com
+royal.checksw.com
 checksw.com
 royal.checksw.com
 *.superpal.io/*
@@ -1420,9 +1420,9 @@ https://www.xvideos.net/app/
 *.eops.nl
 www.elastic.co
 *.swiftype.com
-*.elastic.co
 cloud.elastic.co
 *.found.io
+*.elastic.co
 *.elstc.co
 *.elasticnet.co
 *.elastic.co
@@ -1601,9 +1601,9 @@ internal-api-drive-stream.larksuite.com
 file.larksuite.com
 status.larksuite.com
 hackers_chosendomain.larksuite.com
-app.larksuite.com
 internal-api-lark-api.larksuite.com
 larksuite.com
+app.larksuite.com
 larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
@@ -1737,15 +1737,15 @@ developers.tiktok.com
 creatormarketplace.tiktok.com
 effecthouse.tiktok.com
 careers.tiktok.com
+partner.tiktokshop.com
+shop.tiktok.com
 tiktok.com
 *.tiktokv.com
-partner.tiktokshop.com
-business.tiktok.com
-shop.tiktok.com
 www.pangleglobal.com
-ads.tiktok.com
 live-backstage.tiktok.com
 *.tiktok.com
+ads.tiktok.com
+business.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1992,8 +1992,8 @@ portal.polygon.technology
 *.miwifi.com
 *.miui.com
 *.xiaomiyoupin.com
-*.xiaomi.com
 *.mi.com
+*.xiaomi.com
 *.mi.com
 *.xiaomi.com
 *.miui.com
@@ -2188,11 +2188,11 @@ updates.amazon.com
 *.aliexpress.ru
 *.tmall.com
 *.aliyun-inc.com
+*.aliyun.com
+www.alibabagroup.com
+*.aliexpress.com
 *.alibaba-inc.com
 *.Daraz.com
-www.alibabagroup.com
-*.aliyun.com
-*.aliexpress.com
 *.alimama.com
 *.1688.com
 *.alibaba.com
@@ -2281,8 +2281,8 @@ homes-and-villas.marriott.com
 marrtool.com
 all-inclusive.marriott.com
 marriottfranchisetransactions.marriott.com
-www.ritzcarlton.com
 passwordchallenge.marriott.com
+www.ritzcarlton.com
 gatewaydsaptst1.marriott.com
 mgs.marriott.com
 cpp.marriott.com
@@ -2315,9 +2315,9 @@ http://www.shopmarriott.com
 www.goodrx.com
 www.goodrx.com
 *.ra.roblox.com
-*.rbx.com
 *.guilded.gg
 *.roblox.com
+*.rbx.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2499,8 +2499,8 @@ press.priceline.com
 www.bookingholdings.com
 admin.smartsheet.com
 developers.smartsheet.com
-app.smartsheet.com
 www.smartsheet.com
+app.smartsheet.com
 app.smartsheet.com
 http://api.smartsheet.com/2.0
 admin.smartsheet.com
@@ -2598,6 +2598,7 @@ blueskytours.globalbookingsolutions.com
 booking.cheapcaribbean.com
 shop.wyndhamvacationownership.trisept.travel
 holidays-au.fijiairways.com
+holidays-sg.fijiairways.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -2706,8 +2707,8 @@ mobile-prod.tvg.com
 fdbox.net
 www.4njbets.com
 sportsbook.fanduel.com
-tvg.com
 *racing.fanduel.com
+tvg.com
 us.tvg.com
 com.fanduel.android.live
 www.tvg.com
@@ -2765,8 +2766,8 @@ paypalobjects.com
 *.xoom.com
 *.hyperwallet.com
 *.paypalcorp.com
-*.paypal.com
 *.braintreegateway.com
+*.paypal.com
 *.braintreepayments.com
 www.paypal-*.com
 *.xoom.com
@@ -2805,8 +2806,8 @@ secure.chaturbate.com
 *.mmcdn.com
 *.highwebmedia.com
 chaturbate.com
-*.cb.dev
 *.mmwebc.dev
+*.cb.dev
 *.highwebmedia.com
 *.securegatewayaccess.com
 *.mmcdn.com
@@ -3049,10 +3050,10 @@ hybrid-analysis.com
 *.reposify.com
 *.bionic.ai
 *.preempt.com
-www.crowdstrike.com
 *.humio.com
 falcon-sandbox.com
 *.crowdstrike.com
+www.crowdstrike.com
 *.crowdstrike.com
 *.humio.com
 *.securecircle.com
@@ -3262,8 +3263,8 @@ store.rockstargames.com
 lifeinvader.com
 rockstarnorth.com
 circolocorecords.com/
-app.files.com
 www.files.com
+app.files.com
 your-assigned-subdomain.files.com
 app.files.com
 your-assigned-subdomain.files.com
@@ -3325,8 +3326,8 @@ openapi.starbucks.com
 secureui.starbucks.com
 ws.blockchain.info
 www.blockchain.info
-*.blockchain.com
 api.blockchain.info
+*.blockchain.com
 *.blockchain.com
 www.blockchain.info
 api.blockchain.info
@@ -3373,8 +3374,8 @@ classroom.github.com
 *.githubusercontent.com
 npmjs.com
 *.github.net
-github.com
 api.github.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3516,18 +3517,18 @@ www.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 shopifyinbox.com
-linkpop.com
 *.shopifycloud.com
-shopify.plus
+linkpop.com
 *.shopifykloud.com
+shopify.plus
 *.shopifycs.com
 accounts.shopify.com
 arrive-server.shopifycloud.com
 shop.app
 *.shopify.com
 your-store.myshopify.com
-admin.shopify.com
 partners.shopify.com
+admin.shopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3566,13 +3567,13 @@ snappublisher.snapchat.com
 ads.snapchat.com
 playcanvas.com
 app.snapchat.com
-business.snapchat.com
 *.sc-core.net
-web.snapchat.com
+business.snapchat.com
 accounts.snapchat.com
 spectacles.com
 kit.snapchat.com
 blog.playcanvas.com
+web.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3771,8 +3772,8 @@ intensedebate.com
 mailpoet.com
 www.tumblr.com
 *.tumblr.com
-akismet.com
 wordpress.com
+akismet.com
 *.tumblr.com
 *.srvcs.tumblr.com
 api.tumblr.com
@@ -3880,14 +3881,14 @@ mta-sts.wearehackerone.com
 hackerone.live
 ctf.hacker101.com
 errors.hackerone.net
-www.hackerone.com
 api.hackerone.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-app.pullrequest.com
 b5s.hackerone-ext-content.com
 hackerone-user-content.com
 hackerone.com
 cover-photos.hackerone-user-content.com
+app.pullrequest.com
+www.hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
