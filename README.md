@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Mar  5 18:20:40 UTC 2024)
+## Domains with Bounties (Last Updated Tue Mar  5 19:20:51 UTC 2024)
 ```
 *.worldcoin-distributors.com
 getworldcoin.com
@@ -52,10 +52,10 @@ my.sheer.com
 www.sheer.com
 www.sheer.com
 my.sheer.com
-www.ddfcontent.com
 www.pornworld.com
 www.analvids.com
 www.pornbox.com
+www.ddfcontent.com
 www.pornbox.com
 www.analvids.com
 www.ddfcontent.com
@@ -108,9 +108,9 @@ research.23andme.com
 therapeutics.23andme.com
 blog.23andme.com
 education.23andme.com
-store.23andme.com
 api.23andme.com
 mediacenter.23andme.com
+store.23andme.com
 auth.23andme.com
 medical.23andme.com
 you.23andme.com
@@ -285,12 +285,12 @@ connect-sandbox.gocardless.com
 xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless-staging.io
-*.gocardless-cicd.io
-www.gocardless.com
 *.gocardless-lab.io
 manage-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
+*.gocardless-cicd.io
+www.gocardless.com
 api-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
@@ -401,10 +401,10 @@ www.visa.co.id
 www.visa.co.ve
 www.authorize.net
 www.visa.com.mx
-cw.visa.com
 bb.visa.com
-www.visa.com.br
+cw.visa.com
 www.tink.com
+www.visa.com.br
 www.visa.com.ng
 aw.visa.com
 bb.visa.com
@@ -478,7 +478,6 @@ yourdomain.myfreshworks.com
 app.avtoelon.uz
 id.avtoelon.uz
 app.kolesa.kz
-kolesa.kz
 api.krisha.kz
 app.krisha.kz
 m.krisha.kz
@@ -486,6 +485,7 @@ api.kolesa.kz
 api.avtoelon.uz
 krisha.kz
 m.avtoelon.uz
+kolesa.kz
 id.kolesa.kz
 avtoelon.uz
 m.kolesa.kz
@@ -520,13 +520,13 @@ addons.allizom.org
 phabricator.allizom.org
 contile.services.mozilla.com
 aus5.mozilla.org
-accounts.firefox.com
 sync.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 merino.services.mozilla.com
 bugzilla.mozilla.org
 location.services.mozilla.com
 lando.services.mozilla.com
+accounts.firefox.com
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -783,11 +783,11 @@ admin.8x8.com
 *.luckydays.ca
 *.napoleonsports.be
 *.luckydays.com
-*.superbet.pl
-*.superbet.rs
 *.magicjackpot.ro
+*.superbet.rs
 *.napoleongames.be
 *.napoleoncasino.be
+*.superbet.pl
 *.superbet.ro
 *.superbet.com
 *.superbet.ro
@@ -853,20 +853,20 @@ www.lastminute.com.au
 www.wotif.com
 www.expediaagents.com
 www.fewo-direkt.de
+www.stayz.com.au
 www.bookabach.co.nz
 www.expediacruises.com
 www.hotels.com
 www.expediagroup.com
-www.stayz.com.au
 www.abritel.fr
-www.cheaptickets.com
 www.travelocity.com
-www.orbitz.com
 www.ebookers.com
 www.hotwire.com
 www.expedia.com
 www.flights.com
 www.carrentals.com
+www.cheaptickets.com
+www.orbitz.com
 www.vrbo.com
 www.hotels.com
 www.expedia.com
@@ -915,8 +915,8 @@ askpam.ai
 *.gravitational.io
 platform.teleport.sh
 *.gravitational.co
-*.goteleport.com
 cloud.gravitational.io
+*.goteleport.com
 teleport.sh
 *.goteleport.com
 *.gravitational.com
@@ -1423,8 +1423,8 @@ gold.xnxx.com
 https://www.xvideos.net/app/
 *.eops.nl
 www.elastic.co
-*.elastic.co
 *.found.io
+*.elastic.co
 *.elstc.co
 *.swiftype.com
 *.elasticnet.co
@@ -1631,8 +1631,8 @@ core.yoti.com
 ccloud.yoti.com
 code.yoti.com
 api.yoti.com
-identity.yoti.com
 www.yotisign.com
+identity.yoti.com
 hub.yoti.com
 core.yoti.com
 api.yoti.com
@@ -1671,8 +1671,8 @@ internal-docs.netlify.com
 supportal.netlify.app
 world.hey.com
 launchpad.37signals.com
-*.hey.com
 3.basecamp.com
+*.hey.com
 *.hey.com
 3.basecamp.com
 launchpad.37signals.com
@@ -1742,7 +1742,6 @@ creatormarketplace.tiktok.com
 effecthouse.tiktok.com
 careers.tiktok.com
 shop.tiktok.com
-tiktok.com
 live-backstage.tiktok.com
 www.pangleglobal.com
 *.tiktok.com
@@ -1750,6 +1749,7 @@ partner.tiktokshop.com
 ads.tiktok.com
 *.tiktokv.com
 business.tiktok.com
+tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1822,8 +1822,13 @@ beta-cloud.acronis.com
 account.acronis.com
 sandbox.affirm.com
 sandbox.affirm.com
-app.superdrug.com
-api.superdrug.com
+www10.watsons.com.vn
+www10.pns.hk
+api.pns.hk
+www.pns.hk
+app.marionnaud.fr
+mapi.moneyback.com.hk
+www.moneyback.com.hk
 www.kruidvat.nl
 app.kruidvat.nl
 app.theperfumeshop.com
@@ -1832,9 +1837,6 @@ www10.watsons.com.tw
 api.watsons.com.tw
 www10.watsons.com.ph
 www.watsons.co.th
-www20.watsons.co.th
-www10.watsons.co.th
-api.watsons.co.th
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2769,7 +2771,6 @@ decision.swiftfinancial.com
 paypal.me
 py.pl
 *.venmo.com
-*.xoom.com
 *.hyperwallet.com
 *.paylution.com
 *.paypalcorp.com
@@ -2778,6 +2779,7 @@ py.pl
 *.braintree-api.com
 paypalobjects.com
 *.paypal.com
+*.xoom.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -2815,8 +2817,8 @@ secure.chaturbate.com
 *.mmcdn.com
 *.highwebmedia.com
 chaturbate.com
-*.cb.dev
 *.mmwebc.dev
+*.cb.dev
 *.highwebmedia.com
 *.securegatewayaccess.com
 *.mmcdn.com
@@ -3132,7 +3134,6 @@ api.grabpay.com
 xtramile.grabpay.com
 gifts.grab.com
 *.grab-sure.com
-*.grabtaxi.com
 *.myteksi.net
 grab.careers
 kartaview.org
@@ -3141,6 +3142,7 @@ jira.grab.com
 *.ovo.id
 *.taralite.com
 *.grab.com
+*.grabtaxi.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3374,13 +3376,13 @@ moneybirdstorage.com
 gist.github.com
 npmjs.org
 *.githubapp.com
-*.githubusercontent.com
 *.github.net
 npmjs.com
 education.github.com
 github.com
-classroom.github.com
 api.github.com
+classroom.github.com
+*.githubusercontent.com
 github.com
 api.github.com
 gist.github.com
@@ -3523,18 +3525,18 @@ www.udemy.com
 yourcompany.udemy.com
 shopifyinbox.com
 linkpop.com
-shopify.plus
 *.shopifykloud.com
+shopify.plus
 *.shopifycs.com
 arrive-server.shopifycloud.com
 *.shopifycloud.com
 shop.app
 accounts.shopify.com
-*.shopify.com
 partners.shopify.com
 your-store.myshopify.com
 *.shopify.io
 admin.shopify.com
+*.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3566,11 +3568,11 @@ msg.playcanvas.com
 create.snapchat.com
 my.snapchat.com
 forum.playcanvas.com
-snappublisher.snapchat.com
-ads.snapchat.com
 www.bitmoji.com
 login.playcanvas.com
 scan.snapchat.com
+snappublisher.snapchat.com
+ads.snapchat.com
 playcanvas.com
 business.snapchat.com
 *.sc-core.net
@@ -3891,8 +3893,8 @@ hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 errors.hackerone.net
 b5s.hackerone-ext-content.com
 www.wearehackerone.com
-hackerone-user-content.com
 hackerone.live
+hackerone-user-content.com
 cover-photos.hackerone-user-content.com
 ctf.hacker101.com
 api.hackerone.com
