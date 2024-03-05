@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Mar  5 21:18:53 UTC 2024)
+## Domains with Bounties (Last Updated Tue Mar  5 22:18:06 UTC 2024)
 ```
 *.worldcoin-distributors.com
 getworldcoin.com
@@ -25,8 +25,8 @@ worldcoin.org
 rfc.tari.com
 textexplore.tari.com
 explore.tari.com
-www.tari.com
 www.tarilabs.com
+www.tari.com
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
@@ -108,10 +108,10 @@ research.23andme.com
 therapeutics.23andme.com
 blog.23andme.com
 education.23andme.com
-store.23andme.com
+auth.23andme.com
 api.23andme.com
 mediacenter.23andme.com
-auth.23andme.com
+store.23andme.com
 medical.23andme.com
 you.23andme.com
 api.23andme.com
@@ -183,8 +183,8 @@ widget.rentalcars.com
 cars.booking.com
 booking.com
 flights.booking.com
-spark.fareharbor.com
 www.fareharbor.com
+spark.fareharbor.com
 *.rentalcars.com
 careers.booking.com
 *.booking.com
@@ -332,12 +332,12 @@ eets.gamma.redoxstage.com
 evening-earth.gamma.redoxstage.com
 launch.gamma.redoxstage.com
 explore.redoxengine.com
-dashboard.gamma.redoxstage.com
-app.gamma.redoxstage.com
 testapp.redoxengine.com
+dashboard.gamma.redoxstage.com
 help.redoxengine.com
 www.redoxengine.com
 10x.redoxengine.com
+app.gamma.redoxstage.com
 10x.redoxengine.com
 testapp.redoxengine.com
 testapi.redoxengine.com
@@ -391,8 +391,6 @@ www.visa.com.tw
 www.practicalmoneyskills.com
 www.visa.com.ph
 www.visa.com.my
-www.visainfinite.ca
-www.authorize.net
 www.cybersource.com
 visa.com.au
 www.fraedom.com
@@ -401,11 +399,13 @@ www.visa.co.in
 www.yellowpepper.com
 www.visa.co.id
 www.visa.co.ve
-cw.visa.com
-www.visa.com.mx
+www.authorize.net
 bb.visa.com
-www.visa.com.br
+www.visa.com.mx
+cw.visa.com
 www.tink.com
+www.visa.com.br
+www.visa.com.ng
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -467,9 +467,9 @@ http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.myfreshworks.com
-yourdomain.freshdesk.com
 yourdomain.freshchat.com
 yourdomain.freshservice.com
+yourdomain.freshdesk.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -478,7 +478,6 @@ yourdomain.myfreshworks.com
 app.avtoelon.uz
 id.avtoelon.uz
 app.kolesa.kz
-kolesa.kz
 api.krisha.kz
 app.krisha.kz
 m.krisha.kz
@@ -486,6 +485,7 @@ api.kolesa.kz
 api.avtoelon.uz
 krisha.kz
 m.avtoelon.uz
+kolesa.kz
 id.kolesa.kz
 avtoelon.uz
 m.kolesa.kz
@@ -514,15 +514,15 @@ crash-stats.allizom.org
 shavar.services.mozilla.com
 crash-reports.allizom.org
 firefox-ci-tc.services.mozilla.com
-merino.services.mozilla.com
-aus5.mozilla.org
 hg.mozilla.org
 firefox.settings.services.mozilla.com
 addons.allizom.org
 phabricator.allizom.org
 contile.services.mozilla.com
+aus5.mozilla.org
 sync.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
+merino.services.mozilla.com
 bugzilla.mozilla.org
 location.services.mozilla.com
 lando.services.mozilla.com
@@ -721,8 +721,8 @@ tequila.kiwi.com
 jobs.kiwi.com
 www.kiwi.com
 *.skypicker.com
-*.kiwi.com
 auth.skypicker.com
+*.kiwi.com
 *.kiwi.com
 *.skypicker.com
 www.kiwi.com
@@ -861,8 +861,8 @@ www.stayz.com.au
 www.abritel.fr
 www.cheaptickets.com
 www.travelocity.com
-www.orbitz.com
 www.ebookers.com
+www.orbitz.com
 www.hotwire.com
 www.flights.com
 www.carrentals.com
@@ -1007,8 +1007,8 @@ snaps.metamask.io
 portfolio.metamask.io
 invoices.razorpay.com
 payroll.razorpay.com
-checkout.razorpay.com
 api.razorpay.com
+checkout.razorpay.com
 dashboard.razorpay.com
 x.razorpay.com
 dashboard.razorpay.com
@@ -1423,8 +1423,8 @@ gold.xnxx.com
 https://www.xvideos.net/app/
 *.eops.nl
 www.elastic.co
-*.elastic.co
 *.found.io
+*.elastic.co
 *.elstc.co
 *.swiftype.com
 *.elasticnet.co
@@ -1487,10 +1487,10 @@ new.reddit.com
 accounts.reddit.com
 ads-api.reddit.com
 gql.reddit.com
-ads.reddit.com
 *.reddit.com
-old.reddit.com
+ads.reddit.com
 www.reddit.com
+old.reddit.com
 *.snooguts.net
 *.reddithelp.com
 *.snooguts.net
@@ -1745,10 +1745,10 @@ shop.tiktok.com
 live-backstage.tiktok.com
 www.pangleglobal.com
 *.tiktok.com
-partner.tiktokshop.com
 *.tiktokv.com
 business.tiktok.com
 tiktok.com
+partner.tiktokshop.com
 ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
@@ -1790,8 +1790,8 @@ nft.io
 platform.enjin.io
 nft.io
 platform.enjin.io
-www.figma.com
 api.figma.com
+www.figma.com
 www.figma.com
 api.figma.com
 3d.cs.money
@@ -2290,17 +2290,17 @@ marrtool.com
 all-inclusive.marriott.com
 marriottfranchisetransactions.marriott.com
 passwordchallenge.marriott.com
-gatewaydsaptst1.marriott.com
-mgs.marriott.com
 cpp.marriott.com
 reservations.all-inclusive.marriott.com
+gatewaydsaptst1.marriott.com
+mgs.marriott.com
 hotel-deals.marriott.com
 jobs.marriott.com
 www.ritzcarlton.com
 sso.marriott.com
 activities.marriott.com
-www.marriott.com
 homes-and-villas.marriott.com
+www.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -3271,8 +3271,8 @@ store.rockstargames.com
 lifeinvader.com
 rockstarnorth.com
 circolocorecords.com/
-www.files.com
 app.files.com
+www.files.com
 your-assigned-subdomain.files.com
 app.files.com
 your-assigned-subdomain.files.com
@@ -3309,11 +3309,11 @@ www.starbucks.com.br
 www.starbucks.com.sg
 gift.starbucks.co.jp
 openapi.starbucks.com
-www.starbucks.co.kr
 www.starbucks.de
+www.starbucks.co.kr
 www.starbucks.com.cn
-www.starbucks.com
 app.starbucks.com
+www.starbucks.com
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3380,10 +3380,10 @@ npmjs.org
 *.github.net
 npmjs.com
 education.github.com
-github.com
-api.github.com
 classroom.github.com
+api.github.com
 *.githubusercontent.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3525,19 +3525,19 @@ yourcompany.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 shopifyinbox.com
+*.shopifycloud.com
 linkpop.com
 *.shopifykloud.com
 shopify.plus
 *.shopifycs.com
 arrive-server.shopifycloud.com
-*.shopifycloud.com
 shop.app
 accounts.shopify.com
 partners.shopify.com
 your-store.myshopify.com
+*.shopify.com
 *.shopify.io
 admin.shopify.com
-*.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3572,11 +3572,10 @@ forum.playcanvas.com
 www.bitmoji.com
 login.playcanvas.com
 scan.snapchat.com
-snappublisher.snapchat.com
 ads.snapchat.com
-playcanvas.com
-*.sc-core.net
+snappublisher.snapchat.com
 business.snapchat.com
+*.sc-core.net
 spectacles.com
 kit.snapchat.com
 blog.playcanvas.com
@@ -3584,6 +3583,7 @@ blog.playcanvas.com
 accounts.snapchat.com
 web.snapchat.com
 app.snapchat.com
+playcanvas.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3825,9 +3825,9 @@ international.coinbase.com
 *.cbhq.net
 institutional.coinbase.com
 api.custody.coinbase.com
-api.coinbase.com
 pro.coinbase.com
 cloud.coinbase.com
+api.coinbase.com
 *.base.org
 nft.coinbase.com
 coinbase.com
