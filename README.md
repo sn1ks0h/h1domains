@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Mar  5 00:56:43 UTC 2024)
+## Domains with Bounties (Last Updated Tue Mar  5 01:47:32 UTC 2024)
 ```
 *.worldcoin-distributors.com
 getworldcoin.com
@@ -23,10 +23,10 @@ getworldcoin.com
 bioid-management.app
 worldcoin.org
 rfc.tari.com
-explore.tari.com
 textexplore.tari.com
-www.tarilabs.com
+explore.tari.com
 www.tari.com
+www.tarilabs.com
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
@@ -84,9 +84,9 @@ app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
 payments.hostinger.com
+backend.zyro.com
 logo.zyro.com
 www.zyro.com
-backend.zyro.com
 www.niagahoster.co.id
 editor.zyro.com
 *.000webhost.com
@@ -127,11 +127,11 @@ research.23andme.com
 www.mercadolibre.com.uy
 api.mercadopago.com
 www.mercadopago.com.uy
+www.mercadopago.cl
 www.mercadolibre.com.mx
 www.mercadopago.com.co
 www.mercadopago.com.pe
 www.mercadolibre.com.pe
-www.mercadopago.cl
 www.mercadopago.com.mx
 www.mercadolibre.cl
 www.mercadolibre.com.co
@@ -398,8 +398,8 @@ www.yellowpepper.com
 www.visa.co.id
 www.visa.co.ve
 www.authorize.net
-bb.visa.com
 www.visa.com.mx
+bb.visa.com
 cw.visa.com
 www.tink.com
 www.visa.com.br
@@ -513,17 +513,17 @@ crash-stats.allizom.org
 shavar.services.mozilla.com
 crash-reports.allizom.org
 firefox-ci-tc.services.mozilla.com
+merino.services.mozilla.com
+aus5.mozilla.org
 hg.mozilla.org
 firefox.settings.services.mozilla.com
 addons.allizom.org
 phabricator.allizom.org
 contile.services.mozilla.com
-aus5.mozilla.org
 location.services.mozilla.com
+accounts.firefox.com
 sync.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
-accounts.firefox.com
-merino.services.mozilla.com
 bugzilla.mozilla.org
 addons.allizom.org
 accounts.firefox.com
@@ -612,7 +612,6 @@ aws.indrive.tech
 ingest.clairvoyance.indrive.tech
 volans.tech
 injob.indriver.com
-*.indriver.com
 auth2.indrive.tech
 watchdocs.indriverapp.com
 new-order.eu-east-1.indriverapp.com
@@ -620,6 +619,7 @@ argocd.indrive.dev
 ci.indrive.dev
 super-services.indriverapp.com
 auth.indrive.tech
+*.indriver.com
 *.indrive.com
 *.indriverapp.com
 cargo.indrive.com
@@ -851,11 +851,11 @@ www.lastminute.com.au
 www.wotif.com
 www.expediaagents.com
 www.fewo-direkt.de
-www.stayz.com.au
 www.bookabach.co.nz
 www.expediacruises.com
 www.hotels.com
 www.expediagroup.com
+www.stayz.com.au
 www.vrbo.com
 www.abritel.fr
 www.hotwire.com
@@ -913,8 +913,8 @@ askpam.ai
 *.gravitational.io
 platform.teleport.sh
 *.gravitational.co
-cloud.gravitational.io
 *.goteleport.com
+cloud.gravitational.io
 teleport.sh
 *.goteleport.com
 *.gravitational.com
@@ -1003,8 +1003,8 @@ snaps.metamask.io
 portfolio.metamask.io
 invoices.razorpay.com
 payroll.razorpay.com
-checkout.razorpay.com
 api.razorpay.com
+checkout.razorpay.com
 dashboard.razorpay.com
 x.razorpay.com
 dashboard.razorpay.com
@@ -1193,9 +1193,9 @@ analytics.krisp.ai
 download.krisp.ai
 teams.krisp.ai
 krisp.ai
-api.krisp.ai
-account.krisp.ai
 *.krisp.ai
+account.krisp.ai
+api.krisp.ai
 *.krisp.ai
 krisp.ai
 account.krisp.ai
@@ -1420,8 +1420,8 @@ https://www.xvideos.net/app/
 *.eops.nl
 www.elastic.co
 *.swiftype.com
-*.found.io
 *.elastic.co
+*.found.io
 *.elstc.co
 cloud.elastic.co
 *.elasticnet.co
@@ -1741,10 +1741,10 @@ shop.tiktok.com
 business.tiktok.com
 tiktok.com
 live-backstage.tiktok.com
-www.pangleglobal.com
-*.tiktokv.com
 *.tiktok.com
+*.tiktokv.com
 ads.tiktok.com
+www.pangleglobal.com
 partner.tiktokshop.com
 *.tiktok.com
 business.tiktok.com
@@ -1806,8 +1806,8 @@ api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
-beta-cloud.acronis.com
 *.acronis.work
+beta-cloud.acronis.com
 *.acronis.com
 account.acronis.com
 *-api-*.acronis.com
@@ -2195,15 +2195,15 @@ updates.amazon.com
 *.Daraz.com
 *.alimama.com
 *.taobao.com
-*.aliexpress.com
 *.aliexpress.ru
+*.aliexpress.com
 *.aliyun.com
 *.1688.com
 *.alibabacloud.com
 www.alibabagroup.com
-*.aliyun-inc.com
-*.alibaba-inc.com
 *.alibaba.com
+*.alibaba-inc.com
+*.aliyun-inc.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2490,7 +2490,6 @@ reservations.rezserver.com
 api.rezserver.com
 admin.rezserver.com
 www.getaroom.com
-priceline.com
 flyiin.com
 secure.rezserver.com
 www.priceline.com
@@ -2714,8 +2713,8 @@ mobile-prod.tvg.com
 fdbox.net
 www.4njbets.com
 sportsbook.fanduel.com
-*racing.fanduel.com
 tvg.com
+*racing.fanduel.com
 us.tvg.com
 com.fanduel.android.live
 www.tvg.com
@@ -2771,8 +2770,8 @@ paypalobjects.com
 *.xoom.com
 *.hyperwallet.com
 *.paylution.com
-*.braintreepayments.com
 *.paypalcorp.com
+*.braintreepayments.com
 *.braintreegateway.com
 *.braintree-api.com
 *.paypal.com
@@ -2926,10 +2925,10 @@ support.steampowered.com
 help.steampowered.com
 playartifact.com
 www.valvesoftware.com
-steamcommunity.com
 www.dota2.com
 api.steampowered.com
 store.steampowered.com
+steamcommunity.com
 www.counter-strike.net
 www.teamfortress.com
 www.dota2.com
@@ -3034,8 +3033,8 @@ app.quovo.com
 secure.quovo.com
 secure.plaid.com
 api.blockscore.com
-manage.blockscore.com
 plaid.com
+manage.blockscore.com
 dashboard.plaid.com
 production.plaid.com
 dashboard.plaid.com
@@ -3055,10 +3054,10 @@ hybrid-analysis.com
 *.reposify.com
 *.bionic.ai
 *.preempt.com
-www.crowdstrike.com
 *.humio.com
 falcon-sandbox.com
 *.crowdstrike.com
+www.crowdstrike.com
 *.crowdstrike.com
 *.humio.com
 *.securecircle.com
@@ -3515,21 +3514,21 @@ zopim.com
 app.futuresimple.com
 api.getbase.com
 http://h1-your-domain.zendesk.com/sell
-yourcompany.udemy.com
 www.udemy.com
+yourcompany.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 shopifyinbox.com
+*.shopifycloud.com
 linkpop.com
-shopify.plus
 *.shopifykloud.com
+shopify.plus
 *.shopifycs.com
 arrive-server.shopifycloud.com
-*.shopifycloud.com
 shop.app
 *.shopify.com
-*.shopify.io
 partners.shopify.com
+*.shopify.io
 admin.shopify.com
 accounts.shopify.com
 your-store.myshopify.com
@@ -3617,6 +3616,7 @@ rma.ui.com
 careers.ui.com
 uisp.com
 fw-update.ubnt.com
+*.ui.com
 store.ui.com
 *.ubnt.com
 *.ui.com
@@ -3895,9 +3895,9 @@ www.wearehackerone.com
 ctf.hacker101.com
 app.pullrequest.com
 www.hackerone.com
+hackerone.live
 hackerone-user-content.com
 hackerone.com
-hackerone.live
 hackerone.com
 api.hackerone.com
 www.hackerone.com
