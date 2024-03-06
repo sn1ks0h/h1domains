@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar  6 13:21:10 UTC 2024)
+## Domains with Bounties (Last Updated Wed Mar  6 14:19:41 UTC 2024)
 ```
 *.worldcoin-distributors.com
 getworldcoin.com
@@ -10,9 +10,9 @@ getworldcoin.com
 *.worldcoin.dev
 toolsforhumanity.com
 *.consumer.worldcoin.org
-*.worldcoin.org
-bioid-management.app
 worldcoin.org
+bioid-management.app
+*.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -24,9 +24,9 @@ bioid-management.app
 worldcoin.org
 rfc.tari.com
 textexplore.tari.com
-explore.tari.com
-www.tarilabs.com
 www.tari.com
+www.tarilabs.com
+explore.tari.com
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
@@ -48,8 +48,8 @@ verify.arkoselabs.com
 iframe.arkoselabs.com
 www.arkoselabs.com
 demo.arkoselabs.com
-my.sheer.com
 www.sheer.com
+my.sheer.com
 www.sheer.com
 my.sheer.com
 www.pornworld.com
@@ -182,11 +182,11 @@ widget.rentalcars.com
 cars.booking.com
 booking.com
 flights.booking.com
-spark.fareharbor.com
 www.fareharbor.com
+spark.fareharbor.com
 careers.booking.com
-account.booking.com
 *.booking.com
+account.booking.com
 *.rentalcars.com
 admin.booking.com
 *.booking.com
@@ -522,8 +522,8 @@ sync.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 location.services.mozilla.com
 lando.services.mozilla.com
-accounts.firefox.com
 merino.services.mozilla.com
+accounts.firefox.com
 bugzilla.mozilla.org
 addons.allizom.org
 accounts.firefox.com
@@ -782,11 +782,11 @@ admin.8x8.com
 *.luckydays.ca
 *.napoleonsports.be
 *.luckydays.com
-*.magicjackpot.ro
+*.superbet.pl
 *.superbet.rs
+*.magicjackpot.ro
 *.napoleongames.be
 *.napoleoncasino.be
-*.superbet.pl
 *.superbet.com
 *.superbet.ro
 *.superbet.ro
@@ -859,8 +859,8 @@ www.expediagroup.com
 www.stayz.com.au
 www.cheaptickets.com
 www.travelocity.com
-www.orbitz.com
 www.ebookers.com
+www.orbitz.com
 www.hotwire.com
 www.flights.com
 www.carrentals.com
@@ -914,8 +914,8 @@ askpam.ai
 *.gravitational.io
 platform.teleport.sh
 *.gravitational.co
-*.goteleport.com
 cloud.gravitational.io
+*.goteleport.com
 teleport.sh
 *.goteleport.com
 *.gravitational.com
@@ -1031,8 +1031,8 @@ www.momondo.com
 www.swoodoo.com
 www.cheapflights.com
 www.mundi.com.br
-www.checkfelix.com
 www.hotelscombined.com
+www.checkfelix.com
 www.kayak.com
 www.kayak.com
 www.swoodoo.com
@@ -1198,9 +1198,9 @@ analytics.krisp.ai
 download.krisp.ai
 teams.krisp.ai
 krisp.ai
-*.krisp.ai
-account.krisp.ai
 api.krisp.ai
+account.krisp.ai
+*.krisp.ai
 *.krisp.ai
 krisp.ai
 account.krisp.ai
@@ -1632,8 +1632,8 @@ core.yoti.com
 ccloud.yoti.com
 code.yoti.com
 api.yoti.com
-www.yotisign.com
 identity.yoti.com
+www.yotisign.com
 hub.yoti.com
 core.yoti.com
 api.yoti.com
@@ -1809,8 +1809,8 @@ api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
-beta-cloud.acronis.com
 *.acronis.work
+beta-cloud.acronis.com
 account.acronis.com
 *.acronis.com
 *-api-*.acronis.com
@@ -1822,19 +1822,27 @@ beta-cloud.acronis.com
 account.acronis.com
 sandbox.affirm.com
 sandbox.affirm.com
+www.watsons.com.tr
 app.superdrug.com
 api.superdrug.com
 www.kruidvat.nl
 app.kruidvat.nl
 app.theperfumeshop.com
 api.theperfumeshop.com
-www10.watsons.com.tw
-api.watsons.com.tw
-www10.watsons.com.ph
-www.watsons.co.th
-www20.watsons.co.th
-www10.watsons.co.th
-api.watsons.co.th
+api.watsons.com.my
+www10.watsons.com.my
+www.iciparisxl.nl
+www.iciparisxl.be
+www.iciparisxl.lu
+app.iciparisxl.nl
+app.iciparisxl.be
+app.iciparisxl.lu
+www.marionnaud.at
+app.marionnaud.at
+app.marionnaud.ch
+www.marionnaud.cz
+app.marionnaud.cz
+www.marionnaud.hu
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2720,8 +2728,8 @@ mobile-prod.tvg.com
 fdbox.net
 www.4njbets.com
 sportsbook.fanduel.com
-*racing.fanduel.com
 tvg.com
+*racing.fanduel.com
 us.tvg.com
 com.fanduel.android.live
 www.tvg.com
@@ -2778,8 +2786,8 @@ py.pl
 *.braintreepayments.com
 *.braintree-api.com
 paypalobjects.com
-*.xoom.com
 *.braintree.tools
+*.xoom.com
 *.braintreegateway.com
 *.paypal.com
 www.paypal-*.com
@@ -2935,8 +2943,8 @@ www.dota2.com
 www.teamfortress.com
 steamcommunity.com
 store.steampowered.com
-www.counter-strike.net
 api.steampowered.com
+www.counter-strike.net
 help.steampowered.com
 www.dota2.com
 support.steampowered.com
@@ -3140,11 +3148,11 @@ grab.careers
 kartaview.org
 jira.grab.com
 *.grabpay.com
-*.grabtaxi.com
-*.ovo.id
 *.taralite.com
 *.grab.com
+*.ovo.id
 *.myteksi.net
+*.grabtaxi.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3411,8 +3419,8 @@ advisories.gitlab.com
 docs.gitlab.com
 customers.gitlab.com
 about.gitlab.com
-*.gitlab.org
 *.gitlab.net
+*.gitlab.org
 gitlab.com
 *.gitlab.net
 *.gitlab.org
@@ -3527,18 +3535,18 @@ www.udemy.com
 yourcompany.udemy.com
 shopifyinbox.com
 linkpop.com
-*.shopifykloud.com
 shopify.plus
+*.shopifykloud.com
 *.shopifycs.com
 arrive-server.shopifycloud.com
 *.shopifycloud.com
 partners.shopify.com
 shop.app
-admin.shopify.com
 *.shopify.com
 accounts.shopify.com
 *.shopify.io
 your-store.myshopify.com
+admin.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3574,8 +3582,8 @@ www.bitmoji.com
 login.playcanvas.com
 scan.snapchat.com
 ads.snapchat.com
-business.snapchat.com
 *.sc-core.net
+business.snapchat.com
 spectacles.com
 kit.snapchat.com
 blog.playcanvas.com
@@ -3827,9 +3835,9 @@ international.coinbase.com
 *.cbhq.net
 institutional.coinbase.com
 api.custody.coinbase.com
+api.coinbase.com
 pro.coinbase.com
 cloud.coinbase.com
-api.coinbase.com
 *.base.org
 nft.coinbase.com
 coinbase.com
@@ -3860,8 +3868,8 @@ www.quip.com
 *.quip.com
 api.slack.com
 slack.com
-app.slack.com
 slack-imgs.com
+app.slack.com
 slack.com
 api.slack.com
 status.slack.com
