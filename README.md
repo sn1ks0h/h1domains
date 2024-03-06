@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar  6 09:19:54 UTC 2024)
+## Domains with Bounties (Last Updated Wed Mar  6 10:38:54 UTC 2024)
 ```
 *.worldcoin-distributors.com
 getworldcoin.com
@@ -25,8 +25,8 @@ worldcoin.org
 rfc.tari.com
 textexplore.tari.com
 explore.tari.com
-www.tarilabs.com
 www.tari.com
+www.tarilabs.com
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
@@ -84,9 +84,9 @@ app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
 payments.hostinger.com
+backend.zyro.com
 logo.zyro.com
 www.zyro.com
-backend.zyro.com
 www.niagahoster.co.id
 editor.zyro.com
 *.000webhost.com
@@ -108,10 +108,10 @@ research.23andme.com
 therapeutics.23andme.com
 blog.23andme.com
 education.23andme.com
-store.23andme.com
+auth.23andme.com
 api.23andme.com
 mediacenter.23andme.com
-auth.23andme.com
+store.23andme.com
 medical.23andme.com
 you.23andme.com
 api.23andme.com
@@ -127,11 +127,11 @@ research.23andme.com
 www.mercadolibre.com.uy
 api.mercadopago.com
 www.mercadopago.com.uy
+www.mercadopago.cl
 www.mercadolibre.com.mx
 www.mercadopago.com.co
 www.mercadopago.com.pe
 www.mercadolibre.com.pe
-www.mercadopago.cl
 www.mercadopago.com.mx
 www.mercadolibre.cl
 www.mercadolibre.com.co
@@ -183,8 +183,8 @@ widget.rentalcars.com
 cars.booking.com
 booking.com
 flights.booking.com
-spark.fareharbor.com
 www.fareharbor.com
+spark.fareharbor.com
 careers.booking.com
 *.booking.com
 account.booking.com
@@ -285,13 +285,13 @@ connect-sandbox.gocardless.com
 xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless-staging.io
-*.gocardless-cicd.io
 www.gocardless.com
 *.gocardless-lab.io
 manage-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 api-sandbox.gocardless.com
+*.gocardless-cicd.io
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -334,8 +334,8 @@ testapp.redoxengine.com
 help.redoxengine.com
 www.redoxengine.com
 app.gamma.redoxstage.com
-10x.redoxengine.com
 testapi.redoxengine.com
+10x.redoxengine.com
 10x.redoxengine.com
 testapp.redoxengine.com
 testapi.redoxengine.com
@@ -398,8 +398,8 @@ www.yellowpepper.com
 www.visa.co.id
 www.visa.co.ve
 www.authorize.net
-bb.visa.com
 www.visa.com.mx
+bb.visa.com
 cw.visa.com
 www.tink.com
 www.visa.com.br
@@ -520,11 +520,11 @@ contile.services.mozilla.com
 aus5.mozilla.org
 sync.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
-bugzilla.mozilla.org
 location.services.mozilla.com
 lando.services.mozilla.com
 merino.services.mozilla.com
 accounts.firefox.com
+bugzilla.mozilla.org
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -670,7 +670,6 @@ api.miro.com
 http://miro.com/blog
 oneview.malwarebytes.com
 *.mwb-threatintel.com
-*.mbamupdates.com
 *.mb-cosmos.com
 *.cyrus-security.com
 cloud.malwarebytes.com
@@ -680,6 +679,7 @@ cloud.malwarebytes.com
 my.malwarebytes.com
 www.malwarebytes.com
 *.malwarebytes.com
+*.mbamupdates.com
 *.mwbsys.com
 *.mb-cosmos.com
 *.mbamupdates.com
@@ -782,11 +782,11 @@ admin.8x8.com
 *.luckydays.ca
 *.napoleonsports.be
 *.luckydays.com
-*.magicjackpot.ro
+*.superbet.pl
 *.superbet.rs
+*.magicjackpot.ro
 *.napoleongames.be
 *.napoleoncasino.be
-*.superbet.pl
 *.superbet.ro
 *.superbet.com
 *.superbet.ro
@@ -1031,8 +1031,8 @@ www.momondo.com
 www.swoodoo.com
 www.cheapflights.com
 www.mundi.com.br
-www.checkfelix.com
 www.hotelscombined.com
+www.checkfelix.com
 www.kayak.com
 www.kayak.com
 www.swoodoo.com
@@ -1650,8 +1650,8 @@ supportal.netlify.app
 internal.netlify.com
 *.infra-prod.nsvcs.net
 *.services.netlify.com
-netlify-rum.netlify.app
 *.onegraph.com
+netlify-rum.netlify.app
 api.netlify.com
 app.netlify.com
 *.services.netlify.com
@@ -1737,17 +1737,17 @@ api.adm.cloud.com
 academy-outbound-ads.tiktok.com
 fp-sg.tiktokv.com
 developers.tiktok.com
+careers.tiktok.com
 creatormarketplace.tiktok.com
 effecthouse.tiktok.com
-careers.tiktok.com
 shop.tiktok.com
 live-backstage.tiktok.com
 business.tiktok.com
 tiktok.com
+www.pangleglobal.com
 partner.tiktokshop.com
 *.tiktokv.com
 ads.tiktok.com
-www.pangleglobal.com
 *.tiktok.com
 *.tiktok.com
 business.tiktok.com
@@ -2328,8 +2328,8 @@ www.goodrx.com
 www.goodrx.com
 *.ra.roblox.com
 *.rbx.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2937,8 +2937,8 @@ www.dota2.com
 www.teamfortress.com
 steamcommunity.com
 store.steampowered.com
-api.steampowered.com
 www.counter-strike.net
+api.steampowered.com
 help.steampowered.com
 www.dota2.com
 support.steampowered.com
@@ -2994,9 +2994,9 @@ alerts.eu.newrelic.com
 synthetics.newrelic.com
 synthetics.eu.newrelic.com
 *.nr-ops.net
+*.newrelic.com
 login.newrelic.com
 *.eu.newrelic.com
-one.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -3274,8 +3274,8 @@ store.rockstargames.com
 lifeinvader.com
 rockstarnorth.com
 circolocorecords.com/
-app.files.com
 www.files.com
+app.files.com
 your-assigned-subdomain.files.com
 app.files.com
 your-assigned-subdomain.files.com
@@ -3572,10 +3572,10 @@ msg.playcanvas.com
 create.snapchat.com
 my.snapchat.com
 forum.playcanvas.com
+ads.snapchat.com
 www.bitmoji.com
 login.playcanvas.com
 scan.snapchat.com
-ads.snapchat.com
 business.snapchat.com
 *.sc-core.net
 spectacles.com
