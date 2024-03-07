@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Mar  7 01:35:38 UTC 2024)
+## Domains with Bounties (Last Updated Thu Mar  7 02:17:42 UTC 2024)
 ```
 cards.remitly.io
 api.remitly.io
@@ -58,8 +58,8 @@ verify.arkoselabs.com
 iframe.arkoselabs.com
 www.arkoselabs.com
 demo.arkoselabs.com
-my.sheer.com
 www.sheer.com
+my.sheer.com
 www.sheer.com
 my.sheer.com
 www.pornworld.com
@@ -192,11 +192,11 @@ widget.rentalcars.com
 cars.booking.com
 flights.booking.com
 spark.fareharbor.com
-careers.booking.com
 account.booking.com
+careers.booking.com
+booking.com
 *.rentalcars.com
 admin.booking.com
-booking.com
 www.fareharbor.com
 *.booking.com
 *.booking.com
@@ -295,11 +295,11 @@ connect-sandbox.gocardless.com
 xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless-staging.io
-www.gocardless.com
 *.gocardless-lab.io
 manage-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
+www.gocardless.com
 api-sandbox.gocardless.com
 *.gocardless-cicd.io
 *.gocardless.io
@@ -399,6 +399,8 @@ www.visa.com.tw
 www.practicalmoneyskills.com
 www.visa.com.ph
 www.visa.com.my
+www.visainfinite.ca
+www.authorize.net
 www.cybersource.com
 visa.com.au
 www.fraedom.com
@@ -407,13 +409,11 @@ www.visa.co.in
 www.yellowpepper.com
 www.visa.co.id
 www.visa.co.ve
-www.authorize.net
+cw.visa.com
 www.visa.com.mx
 bb.visa.com
-cw.visa.com
-www.tink.com
 www.visa.com.br
-www.visa.com.ng
+www.tink.com
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -532,8 +532,8 @@ sync.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 location.services.mozilla.com
 lando.services.mozilla.com
-accounts.firefox.com
 merino.services.mozilla.com
+accounts.firefox.com
 bugzilla.mozilla.org
 addons.allizom.org
 accounts.firefox.com
@@ -792,11 +792,11 @@ admin.8x8.com
 *.luckydays.ca
 *.napoleonsports.be
 *.luckydays.com
-*.magicjackpot.ro
+*.superbet.pl
 *.superbet.rs
+*.magicjackpot.ro
 *.napoleongames.be
 *.napoleoncasino.be
-*.superbet.pl
 *.superbet.ro
 *.superbet.com
 *.superbet.ro
@@ -1208,9 +1208,9 @@ analytics.krisp.ai
 download.krisp.ai
 teams.krisp.ai
 krisp.ai
-api.krisp.ai
-account.krisp.ai
 *.krisp.ai
+account.krisp.ai
+api.krisp.ai
 *.krisp.ai
 krisp.ai
 account.krisp.ai
@@ -1491,13 +1491,13 @@ mod.reddit.com
 *.redditinc.com
 api.reddit.com
 *.redditmedia.com
-accounts.reddit.com
-gql.reddit.com
 redditforbusiness.com
 app.spiketrap.io
 oauth.reddit.com
 new.reddit.com
+accounts.reddit.com
 ads-api.reddit.com
+gql.reddit.com
 ads.reddit.com
 old.reddit.com
 www.reddit.com
@@ -1662,8 +1662,8 @@ supportal.netlify.app
 internal.netlify.com
 *.infra-prod.nsvcs.net
 *.services.netlify.com
-netlify-rum.netlify.app
 *.onegraph.com
+netlify-rum.netlify.app
 api.netlify.com
 app.netlify.com
 *.services.netlify.com
@@ -2787,8 +2787,8 @@ paypal.me
 py.pl
 *.venmo.com
 *.paylution.com
-*.paypalcorp.com
 *.braintreepayments.com
+*.paypalcorp.com
 *.braintree-api.com
 paypalobjects.com
 *.xoom.com
@@ -2970,9 +2970,9 @@ auth.crypto.com
 www.crypto.com
 js.crypto.com
 pay.crypto.com
-merchant.crypto.com
 *.mona.co
 *.crypto.com
+merchant.crypto.com
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3285,8 +3285,8 @@ store.rockstargames.com
 lifeinvader.com
 rockstarnorth.com
 circolocorecords.com/
-app.files.com
 www.files.com
+app.files.com
 your-assigned-subdomain.files.com
 app.files.com
 your-assigned-subdomain.files.com
@@ -3323,11 +3323,11 @@ www.starbucks.com.br
 www.starbucks.com.sg
 gift.starbucks.co.jp
 openapi.starbucks.com
-www.starbucks.de
 www.starbucks.co.kr
+www.starbucks.de
 www.starbucks.com.cn
-app.starbucks.com
 www.starbucks.com
+app.starbucks.com
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3395,9 +3395,9 @@ npmjs.org
 npmjs.com
 education.github.com
 classroom.github.com
-api.github.com
 *.githubusercontent.com
 github.com
+api.github.com
 github.com
 api.github.com
 gist.github.com
@@ -3539,15 +3539,15 @@ yourcompany.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 linkpop.com
-shopify.plus
 *.shopifykloud.com
+shopify.plus
 *.shopifycs.com
 arrive-server.shopifycloud.com
 *.shopifycloud.com
 shop.app
 *.shopify.com
-*.shopify.io
 shopifyinbox.com
+*.shopify.io
 your-store.myshopify.com
 accounts.shopify.com
 partners.shopify.com
@@ -3583,10 +3583,10 @@ msg.playcanvas.com
 create.snapchat.com
 my.snapchat.com
 forum.playcanvas.com
-ads.snapchat.com
 www.bitmoji.com
 login.playcanvas.com
 scan.snapchat.com
+ads.snapchat.com
 business.snapchat.com
 *.sc-core.net
 spectacles.com
@@ -3872,8 +3872,8 @@ slack-redir.net
 www.quip.com
 *.quip.com
 slack.com
-api.slack.com
 slack-imgs.com
+api.slack.com
 app.slack.com
 slack.com
 api.slack.com
