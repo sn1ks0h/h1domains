@@ -2,13 +2,13 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Mar  7 21:18:50 UTC 2024)
+## Domains with Bounties (Last Updated Thu Mar  7 22:18:05 UTC 2024)
 ```
 cards.remitly.io
-api.remitly.io
 app.rewire.to
 remitly.com
 rewire.com
+api.remitly.io
 remitly.com
 api.remitly.io
 cards.remitly.io
@@ -21,8 +21,8 @@ getworldcoin.com
 toolsforhumanity.com
 worldcoin.org
 bioid-management.app
-*.consumer.worldcoin.org
 *.worldcoin.org
+*.consumer.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -63,9 +63,9 @@ www.sheer.com
 www.sheer.com
 my.sheer.com
 www.ddfcontent.com
-www.analvids.com
 www.pornbox.com
 www.pornworld.com
+www.analvids.com
 www.pornbox.com
 www.analvids.com
 www.ddfcontent.com
@@ -137,11 +137,11 @@ research.23andme.com
 www.mercadolibre.com.uy
 api.mercadopago.com
 www.mercadopago.com.uy
-www.mercadopago.cl
 www.mercadolibre.com.mx
 www.mercadopago.com.co
 www.mercadopago.com.pe
 www.mercadolibre.com.pe
+www.mercadopago.cl
 www.mercadopago.com.mx
 www.mercadolibre.cl
 www.mercadolibre.com.co
@@ -194,11 +194,11 @@ flights.booking.com
 spark.fareharbor.com
 careers.booking.com
 admin.booking.com
-www.fareharbor.com
 account.booking.com
 booking.com
-*.booking.com
 *.rentalcars.com
+*.booking.com
+www.fareharbor.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -340,12 +340,12 @@ evening-earth.gamma.redoxstage.com
 launch.gamma.redoxstage.com
 explore.redoxengine.com
 dashboard.gamma.redoxstage.com
-testapp.redoxengine.com
 app.gamma.redoxstage.com
 help.redoxengine.com
 testapi.redoxengine.com
 10x.redoxengine.com
 www.redoxengine.com
+testapp.redoxengine.com
 10x.redoxengine.com
 testapp.redoxengine.com
 testapi.redoxengine.com
@@ -407,10 +407,10 @@ www.visa.co.id
 www.visa.co.ve
 www.authorize.net
 www.visa.com.mx
-cw.visa.com
 bb.visa.com
-www.visa.com.br
+cw.visa.com
 www.tink.com
+www.visa.com.br
 www.visa.com.ng
 www.cardinalcommerce.com
 aw.visa.com
@@ -495,8 +495,8 @@ m.avtoelon.uz
 avtoelon.uz
 m.kolesa.kz
 kolesa.kz
-krisha.kz
 id.kolesa.kz
+krisha.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -522,12 +522,12 @@ crash-stats.allizom.org
 shavar.services.mozilla.com
 crash-reports.allizom.org
 firefox-ci-tc.services.mozilla.com
+aus5.mozilla.org
 hg.mozilla.org
 firefox.settings.services.mozilla.com
 addons.allizom.org
 phabricator.allizom.org
 contile.services.mozilla.com
-aus5.mozilla.org
 sync.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 location.services.mozilla.com
@@ -829,7 +829,6 @@ api.doppler.com
 dashboard.doppler.com
 share.doppler.com
 *.yugalabs.io
-*.mdvmm.xyz
 *.wenewmoments.com
 hv-mtl.com
 *.10ktf.com
@@ -839,6 +838,7 @@ dookeydash.com
 *.otherside.xyz
 *.cryptopunks.app
 *.yuga.com
+*.mdvmm.xyz
 *.boredapeyachtclub.com
 *.yuga.com
 *.yugalabs.io
@@ -1191,7 +1191,6 @@ help.databricks.com
 partners.databricks.com
 community.databricks.com
 marketplace.databricks.com
-accounts.cloud.databricks.com
 docs.databricks.com
 labs.databricks.com
 customer-academy.databricks.com
@@ -1199,6 +1198,7 @@ support.databricks.com
 kb.databricks.com
 advocates.databricks.com
 databricks.com
+accounts.cloud.databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -1224,9 +1224,9 @@ analytics.krisp.ai
 download.krisp.ai
 teams.krisp.ai
 krisp.ai
-*.krisp.ai
-account.krisp.ai
 api.krisp.ai
+account.krisp.ai
+*.krisp.ai
 *.krisp.ai
 krisp.ai
 account.krisp.ai
@@ -1679,9 +1679,9 @@ internal.netlify.com
 *.infra-prod.nsvcs.net
 netlify-rum.netlify.app
 api.netlify.com
-app.netlify.com
 *.services.netlify.com
 *.onegraph.com
+app.netlify.com
 *.services.netlify.com
 *.services-prod.nsvcs.net
 *.infra-prod.nsvcs.net
@@ -1765,18 +1765,18 @@ api.adm.cloud.com
 academy-outbound-ads.tiktok.com
 fp-sg.tiktokv.com
 developers.tiktok.com
-effecthouse.tiktok.com
 careers.tiktok.com
+effecthouse.tiktok.com
 live-backstage.tiktok.com
 business.tiktok.com
 shop.tiktok.com
 creatormarketplace.tiktok.com
-partner.tiktokshop.com
 *.tiktok.com
 tiktok.com
-ads.tiktok.com
 www.pangleglobal.com
+ads.tiktok.com
 *.tiktokv.com
+partner.tiktokshop.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1835,8 +1835,8 @@ api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
-beta-cloud.acronis.com
 *.acronis.work
+beta-cloud.acronis.com
 account.acronis.com
 *.acronis.com
 *-api-*.acronis.com
@@ -1848,13 +1848,8 @@ beta-cloud.acronis.com
 account.acronis.com
 sandbox.affirm.com
 sandbox.affirm.com
-www10.watsons.com.vn
-www10.pns.hk
-api.pns.hk
-www.pns.hk
-app.marionnaud.fr
-mapi.moneyback.com.hk
-www.moneyback.com.hk
+app.superdrug.com
+api.superdrug.com
 www.kruidvat.nl
 app.kruidvat.nl
 app.theperfumeshop.com
@@ -1863,6 +1858,9 @@ www10.watsons.com.tw
 api.watsons.com.tw
 www10.watsons.com.ph
 www.watsons.co.th
+www20.watsons.co.th
+www10.watsons.co.th
+api.watsons.co.th
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2324,12 +2322,12 @@ www.ritzcarlton.com
 sso.marriott.com
 activities.marriott.com
 all-inclusive.marriott.com
-marrtool.com
-www.marriott.com
 homes-and-villas.marriott.com
-moments.marriottbonvoy.com
+marrtool.com
 careers.marriott.com
+moments.marriottbonvoy.com
 help.marriott.com
+www.marriott.com
 homes-and-villas.marriott.com
 careers.marriott.com
 sso.marriott.com
@@ -2530,9 +2528,9 @@ cruises.priceline.com
 reservations.rezserver.com
 api.rezserver.com
 admin.rezserver.com
-flyiin.com
 www.bookingholdings.com
 priceline.com
+secure.rezserver.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -2754,8 +2752,8 @@ mobile-prod.tvg.com
 fdbox.net
 www.4njbets.com
 sportsbook.fanduel.com
-tvg.com
 *racing.fanduel.com
+tvg.com
 us.tvg.com
 com.fanduel.android.live
 www.tvg.com
@@ -2812,10 +2810,10 @@ py.pl
 paypalobjects.com
 *.xoom.com
 *.braintree.tools
-*.hyperwallet.com
 *.braintreegateway.com
-*.paypal.com
 *.braintreepayments.com
+*.paypal.com
+*.hyperwallet.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3228,8 +3226,8 @@ ccardseu1.badoo.com
 ccardsus1.badoo.com
 chatdate.app
 backstage.io
-api.spotify.com
 assets.spotify.com
+api.spotify.com
 assets.spotify.com
 api.spotify.com
 backstage.io
@@ -3293,8 +3291,8 @@ lifeinvader.com
 support.rockstargames.com
 rockstarnorth.com
 *.rockstargames.com
-prod.ros.rockstargames.com
 socialclub.rockstargames.com
+prod.ros.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -3443,8 +3441,8 @@ docs.gitlab.com
 customers.gitlab.com
 *.gitlab.net
 *.gitlab.org
-gitlab.com
 about.gitlab.com
+gitlab.com
 *.gitlab.net
 *.gitlab.org
 *.gitlap.com
@@ -3565,9 +3563,9 @@ arrive-server.shopifycloud.com
 shop.app
 *.shopify.io
 shopifyinbox.com
-*.shopify.com
 admin.shopify.com
 accounts.shopify.com
+*.shopify.com
 your-store.myshopify.com
 partners.shopify.com
 *.shopifycs.com
@@ -3693,9 +3691,9 @@ assets.airbnb.com
 api.airbnb.com
 *.withairbnb.com
 www.airbnb.com
+*.hoteltonight-test.com
 www.hoteltonight.com
 *.airbnb.com
-*.hoteltonight-test.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -3931,11 +3929,11 @@ app.pullrequest.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 errors.hackerone.net
 hackerone.live
-api.hackerone.com
 www.hackerone.com
 ctf.hacker101.com
 hackerone.com
 hackerone-user-content.com
+api.hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
