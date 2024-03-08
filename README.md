@@ -2,13 +2,13 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Mar  8 05:18:08 UTC 2024)
+## Domains with Bounties (Last Updated Fri Mar  8 06:20:13 UTC 2024)
 ```
 cards.remitly.io
-app.rewire.to
-rewire.com
 api.remitly.io
+rewire.com
 remitly.com
+app.rewire.to
 remitly.com
 api.remitly.io
 cards.remitly.io
@@ -63,8 +63,8 @@ www.sheer.com
 www.sheer.com
 my.sheer.com
 www.ddfcontent.com
-www.analvids.com
 www.pornworld.com
+www.analvids.com
 www.pornbox.com
 www.pornbox.com
 www.analvids.com
@@ -295,11 +295,11 @@ connect-sandbox.gocardless.com
 xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless-staging.io
+www.gocardless.com
 *.gocardless-lab.io
 manage-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
-www.gocardless.com
 api-sandbox.gocardless.com
 *.gocardless-cicd.io
 *.gocardless.io
@@ -407,10 +407,10 @@ www.visa.co.id
 www.visa.co.ve
 www.authorize.net
 www.visa.com.mx
-cw.visa.com
 bb.visa.com
-www.visa.com.br
+cw.visa.com
 www.tink.com
+www.visa.com.br
 www.visa.com.ng
 www.cardinalcommerce.com
 aw.visa.com
@@ -795,8 +795,8 @@ admin.8x8.com
 *.napoleongames.be
 *.napoleoncasino.be
 *.superbet.com
-*.superbet.pl
 *.superbet.rs
+*.superbet.pl
 *.superbet.ro
 *.superbet.ro
 *.superbet.rs
@@ -867,21 +867,21 @@ www.expediagroup.com
 www.stayz.com.au
 www.cheaptickets.com
 www.travelocity.com
-www.ebookers.com
 www.orbitz.com
+www.ebookers.com
 www.hotwire.com
 www.flights.com
 www.carrentals.com
 www.expedia.com
 www.abritel.fr
 www.expediapartnersolutions.com
-*.carrentals.com
-*.lastminute.com.au
 *.lastminute.co.nz
 *.cheaptickets.com
 *.travelocity.ca
 *.expediapartnercentral.com
-*.wotif.com
+*.lastminute.com.au
+*.carrentals.com
+*.expediacruises.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -921,8 +921,8 @@ www.expediagroup.com
 www.flights.com
 *.magiceden.workers.dev
 *.magiceden.dev
-*.magiceden.io
 magiceden.io
+*.magiceden.io
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -1176,8 +1176,8 @@ bullsheet.me
 shoppers.instacart.com
 api.instacart.com
 *.instacart.tools
-www.instacart.com
 admin.instacart.com
+www.instacart.com
 *.instacart.com
 *.instacart.com
 *.instacart.tools
@@ -1224,9 +1224,9 @@ analytics.krisp.ai
 download.krisp.ai
 teams.krisp.ai
 krisp.ai
-api.krisp.ai
-account.krisp.ai
 *.krisp.ai
+account.krisp.ai
+api.krisp.ai
 *.krisp.ai
 krisp.ai
 account.krisp.ai
@@ -1514,8 +1514,8 @@ new.reddit.com
 accounts.reddit.com
 gql.reddit.com
 ads.reddit.com
-www.reddit.com
 old.reddit.com
+www.reddit.com
 *.snooguts.net
 *.reddithelp.com
 *.reddit.com
@@ -1559,8 +1559,8 @@ remix.com
 eu.remix.com
 platform.remix.com
 *.scopely.com
-*.scopely.io
 *.withbuddies.com
+*.scopely.io
 *.scopely.io
 *.scopely.com
 *.withbuddies.com
@@ -1631,8 +1631,8 @@ passport.larksuite.com
 internal-api-drive-stream.larksuite.com
 file.larksuite.com
 status.larksuite.com
-larksuite.com
 app.larksuite.com
+larksuite.com
 hackers_chosendomain.larksuite.com
 internal-api-lark-api.larksuite.com
 larksuite.com
@@ -1658,8 +1658,8 @@ core.yoti.com
 ccloud.yoti.com
 code.yoti.com
 api.yoti.com
-identity.yoti.com
 www.yotisign.com
+identity.yoti.com
 hub.yoti.com
 core.yoti.com
 api.yoti.com
@@ -1771,12 +1771,12 @@ live-backstage.tiktok.com
 business.tiktok.com
 shop.tiktok.com
 creatormarketplace.tiktok.com
-tiktok.com
 ads.tiktok.com
 www.pangleglobal.com
 *.tiktokv.com
 partner.tiktokshop.com
 *.tiktok.com
+tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1835,8 +1835,8 @@ api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
-*.acronis.work
 beta-cloud.acronis.com
+*.acronis.work
 account.acronis.com
 *.acronis.com
 *-api-*.acronis.com
@@ -2239,10 +2239,10 @@ updates.amazon.com
 *.alibabacloud.com
 *.aliyun-inc.com
 www.alibabagroup.com
-*.aliyun.com
 *.aliexpress.com
 *.alibaba.com
 *.alibaba-inc.com
+*.aliyun.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2331,10 +2331,10 @@ www.ritzcarlton.com
 sso.marriott.com
 activities.marriott.com
 all-inclusive.marriott.com
-marrtool.com
 homes-and-villas.marriott.com
-moments.marriottbonvoy.com
+marrtool.com
 careers.marriott.com
+moments.marriottbonvoy.com
 help.marriott.com
 www.marriott.com
 homes-and-villas.marriott.com
@@ -2921,7 +2921,6 @@ www.rocaton.com
 *.gs.de
 *.goldmanpfm.com
 *.foliodigitalwealth.com
-*.vennhypotheken.nl
 api.foliofn.com
 *.advisorsolutions.gs.com
 apigw.foliofn.com
@@ -3235,8 +3234,8 @@ ccardseu1.badoo.com
 ccardsus1.badoo.com
 chatdate.app
 backstage.io
-assets.spotify.com
 api.spotify.com
+assets.spotify.com
 assets.spotify.com
 api.spotify.com
 backstage.io
@@ -3300,8 +3299,8 @@ lifeinvader.com
 support.rockstargames.com
 rockstarnorth.com
 *.rockstargames.com
-socialclub.rockstargames.com
 prod.ros.rockstargames.com
+socialclub.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -3612,8 +3611,8 @@ www.bitmoji.com
 login.playcanvas.com
 scan.snapchat.com
 ads.snapchat.com
-*.sc-core.net
 business.snapchat.com
+*.sc-core.net
 spectacles.com
 kit.snapchat.com
 blog.playcanvas.com
@@ -3701,8 +3700,8 @@ api.airbnb.com
 *.withairbnb.com
 www.airbnb.com
 *.hoteltonight-test.com
-*.airbnb.com
 www.hoteltonight.com
+*.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -3938,8 +3937,8 @@ app.pullrequest.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 errors.hackerone.net
 hackerone.live
-www.hackerone.com
 ctf.hacker101.com
+www.hackerone.com
 hackerone-user-content.com
 api.hackerone.com
 hackerone.com
