@@ -2,13 +2,13 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Mar  8 23:19:35 UTC 2024)
+## Domains with Bounties (Last Updated Sat Mar  9 00:56:28 UTC 2024)
 ```
 cards.remitly.io
 app.rewire.to
-api.remitly.io
 rewire.com
 remitly.com
+api.remitly.io
 remitly.com
 api.remitly.io
 cards.remitly.io
@@ -34,8 +34,8 @@ bioid-management.app
 worldcoin.org
 rfc.tari.com
 textexplore.tari.com
-www.tari.com
 www.tarilabs.com
+www.tari.com
 explore.tari.com
 explore.tari.com
 rfc.tari.com
@@ -137,7 +137,6 @@ research.23andme.com
 www.mercadolibre.com.uy
 api.mercadopago.com
 www.mercadopago.com.uy
-api.mercadolibre.com
 www.mercadopago.com.ar
 www.mercadolibre.com.mx
 www.mercadopago.com.co
@@ -148,8 +147,9 @@ www.mercadopago.com.mx
 www.mercadolibre.cl
 www.mercadolibre.com.co
 www.mercadopago.com.br
-www.mercadolibre.com.ar
+api.mercadolibre.com
 www.mercadolivre.com.br
+www.mercadolibre.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -389,7 +389,6 @@ www.visa.com.tw
 www.practicalmoneyskills.com
 www.visa.com.ph
 www.visa.com.my
-www.authorize.net
 www.cybersource.com
 visa.com.au
 www.fraedom.com
@@ -398,8 +397,9 @@ www.visa.co.in
 www.yellowpepper.com
 www.visa.co.id
 www.visa.co.ve
-cw.visa.com
+www.authorize.net
 www.visa.com.mx
+cw.visa.com
 bb.visa.com
 www.tink.com
 www.visa.com.ng
@@ -467,9 +467,9 @@ http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
+yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
-yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -487,8 +487,8 @@ m.avtoelon.uz
 avtoelon.uz
 m.kolesa.kz
 kolesa.kz
-krisha.kz
 id.kolesa.kz
+krisha.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -611,7 +611,6 @@ aws.indrive.tech
 ingest.clairvoyance.indrive.tech
 volans.tech
 injob.indriver.com
-profile-api.eu-east-1.indriverapp.com
 auth2.indrive.tech
 watchdocs.indriverapp.com
 new-order.eu-east-1.indriverapp.com
@@ -625,6 +624,7 @@ truck-api.eu-east-1.indriverapp.com
 *.indriver.com
 file-storage-front.eu-east-1.indriverapp.com
 *.indriverapp.com
+profile-api.eu-east-1.indriverapp.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -857,23 +857,23 @@ www.hotels.com
 www.expediagroup.com
 www.stayz.com.au
 www.cheaptickets.com
-www.ebookers.com
 www.orbitz.com
+www.ebookers.com
 www.hotwire.com
 www.flights.com
 www.carrentals.com
 www.abritel.fr
 www.expediapartnersolutions.com
-*.lastminute.com.au
 *.lastminute.co.nz
+*.lastminute.com.au
 *.cheaptickets.com
 *.travelocity.ca
 *.expediapartnercentral.com
-*.expediacruises.com
 *.travelocity.com
 www.bookabach.co.nz
 *.vrbo.com
 www.vrbo.com
+*.wotif.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -911,10 +911,10 @@ www.fewo-direkt.de
 www.stayz.com.au
 www.expediagroup.com
 www.flights.com
-*.magiceden.workers.dev
 *.magiceden.dev
-magiceden.io
+*.magiceden.workers.dev
 *.magiceden.io
+magiceden.io
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -931,8 +931,8 @@ askpam.ai
 *.teleport.dev
 platform.teleport.sh
 *.gravitational.co
-cloud.gravitational.io
 *.goteleport.com
+cloud.gravitational.io
 *.gravitational.io
 teleport.sh
 *.goteleport.com
@@ -1048,8 +1048,8 @@ business.kayak.com
 www.swoodoo.com
 www.cheapflights.com
 www.mundi.com.br
-www.hotelscombined.com
 www.checkfelix.com
+www.hotelscombined.com
 www.kayak.com
 www.momondo.com
 www.kayak.com
@@ -1464,9 +1464,9 @@ js.stripe.com
 *.link.co
 api.stripe.com
 api.taxjar.com
+*.getbouncer.com
 *.stripe.com
 app.taxjar.com
-*.getbouncer.com
 api.stripe.com
 *.stripe.com
 *.touchtechpayments.com
@@ -1614,7 +1614,6 @@ api.bitso.com
 http://bitso.com/alpha
 nvio.mx
 nvio.ar
-open.larksuite.com
 api.larksuite.com
 lark-frontier.byteoversea.com
 internal-api.larksuite.com
@@ -1627,6 +1626,7 @@ app.larksuite.com
 larksuite.com
 hackers_chosendomain.larksuite.com
 internal-api-lark-api.larksuite.com
+open.larksuite.com
 larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
@@ -1764,11 +1764,11 @@ creatormarketplace.tiktok.com
 www.pangleglobal.com
 *.tiktok.com
 business.tiktok.com
+tiktok.com
 ads.tiktok.com
 *.tiktokv.com
 shop.tiktok.com
 partner.tiktokshop.com
-tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1828,8 +1828,8 @@ api.faraday.ai
 *.devicelock.com
 *.acronis.work
 beta-cloud.acronis.com
-*.acronis.com
 account.acronis.com
+*.acronis.com
 *.5nine.com
 *-api-*.acronis.com
 *.acronis.com
@@ -1840,8 +1840,13 @@ beta-cloud.acronis.com
 account.acronis.com
 sandbox.affirm.com
 sandbox.affirm.com
-app.superdrug.com
-api.superdrug.com
+www10.watsons.com.vn
+www10.pns.hk
+api.pns.hk
+www.pns.hk
+app.marionnaud.fr
+mapi.moneyback.com.hk
+www.moneyback.com.hk
 www.kruidvat.nl
 app.kruidvat.nl
 app.theperfumeshop.com
@@ -1850,9 +1855,6 @@ www10.watsons.com.tw
 api.watsons.com.tw
 www10.watsons.com.ph
 www.watsons.co.th
-www20.watsons.co.th
-www10.watsons.co.th
-api.watsons.co.th
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2080,7 +2082,6 @@ portal.polygon.technology
 *.ppbdev.com
 super6.skysports.com
 itv7.itv.com
-a4k.amazon.com
 chat.amazon.com
 track.amazon.com
 api.amazon.com
@@ -2115,6 +2116,7 @@ spapi-na.amazon.com
 advertising-api.amazon.com
 advertising.amazon.com
 appstore-tv-prod-na.amazon.com
+cscentral.amazon.com
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -2215,7 +2217,6 @@ na.account.amazon.com
 paragon-na.amazon.com
 read.amazon.com
 updates.amazon.com
-*.Daraz.com
 *.alimama.com
 *.aliexpress.ru
 *.1688.com
@@ -2226,8 +2227,9 @@ www.alibabagroup.com
 *.alibaba.com
 *.taobao.com
 *.alibaba-inc.com
-*.aliyun.com
 *.tmall.com
+*.aliyun.com
+*.Daraz.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2315,8 +2317,8 @@ www.ritzcarlton.com
 sso.marriott.com
 activities.marriott.com
 all-inclusive.marriott.com
-careers.marriott.com
 moments.marriottbonvoy.com
+careers.marriott.com
 help.marriott.com
 marrtool.com
 www.marriott.com
@@ -2356,9 +2358,9 @@ hotel-deals.marriott.com
 http://www.shopmarriott.com
 www.goodrx.com
 www.goodrx.com
-*.roblox.com
 *.ra.roblox.com
 *.rbx.com
+*.roblox.com
 *.guilded.gg
 *.roblox.com
 *.rbx.com
@@ -2750,8 +2752,8 @@ promos.tvg.com
 mobile-prod.tvg.com
 www.4njbets.com
 sportsbook.fanduel.com
-*racing.fanduel.com
 tvg.com
+*racing.fanduel.com
 us.tvg.com
 com.fanduel.android.live
 www.tvg.com
@@ -3115,8 +3117,8 @@ privatetarget-1-www.zigzag
 *.lahitapiolarahoitus.fi
 *.beta.lahitapiola.fi
 ext-gw.lahitapiola.fi
-verkkopalvelu.tapiola.fi
 secure.lahitapiola.fi
+verkkopalvelu.tapiola.fi
 www.lahitapiola.fi
 *.tapiola.fi
 yrityspalvelu.tapiola.fi
@@ -3299,9 +3301,9 @@ store.rockstargames.com
 lifeinvader.com
 rockstarnorth.com
 circolocorecords.com/
+your-assigned-subdomain.files.com
 app.files.com
 www.files.com
-your-assigned-subdomain.files.com
 app.files.com
 your-assigned-subdomain.files.com
 www.files.com
@@ -3390,9 +3392,9 @@ yelptop100.com
 *.yelp-support.com
 *.yelpwifi.com
 yelptop100.com
-getharvest.com
 id.getharvest.com
 harvestapp.com
+getharvest.com
 forecastapp.com
 harvestapp.com
 forecastapp.com
@@ -3564,8 +3566,8 @@ shop.app
 partners.shopify.com
 admin.shopify.com
 accounts.shopify.com
-your-store.myshopify.com
 *.shopifycloud.com
+your-store.myshopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3597,12 +3599,12 @@ msg.playcanvas.com
 create.snapchat.com
 my.snapchat.com
 forum.playcanvas.com
-ads.snapchat.com
 www.bitmoji.com
 login.playcanvas.com
 scan.snapchat.com
-business.snapchat.com
+ads.snapchat.com
 *.sc-core.net
+business.snapchat.com
 spectacles.com
 kit.snapchat.com
 blog.playcanvas.com
@@ -3610,8 +3612,8 @@ snappublisher.snapchat.com
 app.snapchat.com
 playcanvas.com
 *.sc-corp.net
-web.snapchat.com
 accounts.snapchat.com
+web.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3688,8 +3690,8 @@ assets.airbnb.com
 *.airbnbcitizen.com
 api.airbnb.com
 www.airbnb.com
-www.hoteltonight.com
 *.airbnb.com
+www.hoteltonight.com
 *.hoteltonight-test.com
 *.withairbnb.com
 www.airbnb.com
@@ -3887,8 +3889,8 @@ www.quip.com
 *.quip.com
 slack.com
 slack-imgs.com
-app.slack.com
 api.slack.com
+app.slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -3930,8 +3932,8 @@ cover-photos.hackerone-user-content.com
 www.hackerone.com
 hackerone.live
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-hackerone-user-content.com
 hackerone.com
+hackerone-user-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
