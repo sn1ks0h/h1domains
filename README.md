@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Mar  9 15:16:09 UTC 2024)
+## Domains with Bounties (Last Updated Sat Mar  9 16:19:20 UTC 2024)
 ```
 cards.remitly.io
 api.remitly.io
@@ -33,8 +33,8 @@ getworldcoin.com
 bioid-management.app
 worldcoin.org
 textexplore.tari.com
-www.tarilabs.com
 www.tari.com
+www.tarilabs.com
 explore.tari.com
 rfc.tari.com
 explore.tari.com
@@ -137,19 +137,19 @@ research.23andme.com
 www.mercadolibre.com.uy
 api.mercadopago.com
 www.mercadopago.com.uy
+www.mercadopago.com.ar
+www.mercadopago.cl
 www.mercadolibre.com.mx
 www.mercadopago.com.co
 www.mercadopago.com.pe
 www.mercadolibre.com.pe
-www.mercadopago.cl
 www.mercadopago.com.mx
 www.mercadolibre.cl
 www.mercadolibre.com.co
 www.mercadopago.com.br
-www.mercadopago.com.ar
+api.mercadolibre.com
 www.mercadolibre.com.ar
 www.mercadolivre.com.br
-api.mercadolibre.com
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -468,8 +468,8 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
 yourdomain.freshdesk.com
-yourdomain.freshservice.com
 yourdomain.myfreshworks.com
+yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -514,12 +514,12 @@ crash-stats.allizom.org
 shavar.services.mozilla.com
 crash-reports.allizom.org
 firefox-ci-tc.services.mozilla.com
-aus5.mozilla.org
 hg.mozilla.org
 firefox.settings.services.mozilla.com
 addons.allizom.org
 phabricator.allizom.org
 contile.services.mozilla.com
+aus5.mozilla.org
 sync.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 location.services.mozilla.com
@@ -673,11 +673,11 @@ http://miro.com/blog
 oneview.malwarebytes.com
 *.mwb-threatintel.com
 *.mb-cosmos.com
-my.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
 *.cloud.malwarebytes.com
 *.mwbsys.com
+my.malwarebytes.com
 www.malwarebytes.com
 *.mbamupdates.com
 *.threatdown.com
@@ -864,7 +864,6 @@ www.carrentals.com
 www.abritel.fr
 www.expediapartnersolutions.com
 *.lastminute.com.au
-*.lastminute.co.nz
 *.cheaptickets.com
 *.travelocity.ca
 *.expediapartnercentral.com
@@ -874,6 +873,7 @@ www.bookabach.co.nz
 *.vrbo.com
 www.vrbo.com
 *.wotif.com
+www.expedia.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -930,8 +930,8 @@ zerobounce.net
 *.teleport.dev
 platform.teleport.sh
 *.gravitational.co
-cloud.gravitational.io
 *.goteleport.com
+cloud.gravitational.io
 *.gravitational.io
 teleport.sh
 askpam.ai
@@ -1499,14 +1499,14 @@ mod.reddit.com
 *.redditinc.com
 api.reddit.com
 *.redditmedia.com
-gql.reddit.com
 redditforbusiness.com
 app.spiketrap.io
 oauth.reddit.com
 new.reddit.com
+gql.reddit.com
 ads.reddit.com
-old.reddit.com
 www.reddit.com
+old.reddit.com
 *.snooguts.net
 *.reddit.com
 ads-api.reddit.com
@@ -1595,8 +1595,8 @@ wp-integ.chime.com
 wp-qa.chime.com
 stream.launchdarkly.com
 docs.launchdarkly.com
-events.launchdarkly.com
 app.launchdarkly.com
+events.launchdarkly.com
 app.launchdarkly.com
 events.launchdarkly.com
 stream.launchdarkly.com
@@ -1672,8 +1672,8 @@ internal.netlify.com
 netlify-rum.netlify.app
 api.netlify.com
 *.onegraph.com
-*.services.netlify.com
 app.netlify.com
+*.services.netlify.com
 *.services.netlify.com
 *.services-prod.nsvcs.net
 *.infra-prod.nsvcs.net
@@ -1762,13 +1762,13 @@ careers.tiktok.com
 live-backstage.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktokv.com
-shop.tiktok.com
 tiktok.com
+shop.tiktok.com
 www.pangleglobal.com
-ads.tiktok.com
-*.tiktok.com
 business.tiktok.com
 partner.tiktokshop.com
+*.tiktok.com
+ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1826,8 +1826,8 @@ app.faraday.ai
 api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
-beta-cloud.acronis.com
 *.acronis.work
+beta-cloud.acronis.com
 *.acronis.com
 account.acronis.com
 *.5nine.com
@@ -2318,8 +2318,8 @@ www.ritzcarlton.com
 sso.marriott.com
 activities.marriott.com
 all-inclusive.marriott.com
-moments.marriottbonvoy.com
 careers.marriott.com
+moments.marriottbonvoy.com
 help.marriott.com
 marrtool.com
 www.marriott.com
@@ -2561,10 +2561,10 @@ www.smartsheet.com
 *invitations-api.trustpilot.com
 *share.trustpilot.com
 *legal.trustpilot.com
-*www.trustpilot.com
 *api.trustpilot.com
 *signup.business.trustpilot.com
 *business.trustpilot.com
+*www.trustpilot.com
 *api.trustpilot.com
 *authenticate.trustpilot.com
 *invitations-api.trustpilot.com
@@ -2813,10 +2813,10 @@ paypalobjects.com
 *.hyperwallet.com
 *.braintree-api.com
 *.braintreepayments.com
-*.braintreegateway.com
 *.paypalcorp.com
 api.loanbuilder.com
 *.paypal.com
+*.braintreegateway.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -2968,8 +2968,8 @@ help.steampowered.com
 api.steampowered.com
 steamcommunity.com
 www.teamfortress.com
-www.dota2.com
 www.counter-strike.net
+www.dota2.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3119,8 +3119,8 @@ privatetarget-1-www.zigzag
 *.lahitapiolarahoitus.fi
 *.beta.lahitapiola.fi
 ext-gw.lahitapiola.fi
-secure.lahitapiola.fi
 verkkopalvelu.tapiola.fi
+secure.lahitapiola.fi
 www.lahitapiola.fi
 *.tapiola.fi
 yrityspalvelu.tapiola.fi
@@ -3341,11 +3341,11 @@ www.starbucks.com.br
 www.starbucks.com.sg
 gift.starbucks.co.jp
 openapi.starbucks.com
-www.starbucks.de
 www.starbucks.co.kr
+www.starbucks.de
 www.starbucks.com.cn
-app.starbucks.com
 www.starbucks.com
+app.starbucks.com
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3394,9 +3394,9 @@ yelptop100.com
 *.yelp-support.com
 *.yelpwifi.com
 yelptop100.com
-getharvest.com
 id.getharvest.com
 harvestapp.com
+getharvest.com
 forecastapp.com
 harvestapp.com
 forecastapp.com
@@ -3556,18 +3556,18 @@ yourcompany.udemy.com
 www.udemy.com
 www.udemy.com
 yourcompany.udemy.com
-*.shopify.com
 linkpop.com
-shopify.plus
 *.shopifykloud.com
+shopify.plus
 *.shopifycs.com
 arrive-server.shopifycloud.com
 *.shopify.io
 shop.app
 partners.shopify.com
-your-store.myshopify.com
-accounts.shopify.com
+*.shopify.com
 *.shopifycloud.com
+accounts.shopify.com
+your-store.myshopify.com
 shopifyinbox.com
 admin.shopify.com
 *.shopifycs.com
@@ -3927,9 +3927,9 @@ b5s.hackerone-ext-content.com
 www.wearehackerone.com
 reviewer.pullrequest.com
 errors.hackerone.net
+hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 ctf.hacker101.com
 hackerone.live
-hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 hackerone-user-content.com
 app.pullrequest.com
 cover-photos.hackerone-user-content.com
