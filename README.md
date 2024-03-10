@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Mar 10 19:14:35 UTC 2024)
+## Domains with Bounties (Last Updated Sun Mar 10 20:18:14 UTC 2024)
 ```
 cards.remitly.io
 api.remitly.io
@@ -33,8 +33,8 @@ getworldcoin.com
 bioid-management.app
 worldcoin.org
 textexplore.tari.com
-www.tarilabs.com
 www.tari.com
+www.tarilabs.com
 explore.tari.com
 rfc.tari.com
 explore.tari.com
@@ -137,8 +137,6 @@ research.23andme.com
 www.mercadolibre.com.uy
 api.mercadopago.com
 www.mercadopago.com.uy
-api.mercadolibre.com
-www.mercadopago.com.ar
 www.mercadolibre.com.mx
 www.mercadopago.com.co
 www.mercadopago.com.pe
@@ -148,7 +146,9 @@ www.mercadopago.com.mx
 www.mercadolibre.cl
 www.mercadolibre.com.co
 www.mercadopago.com.br
+www.mercadopago.com.ar
 www.mercadolivre.com.br
+api.mercadolibre.com
 www.mercadolibre.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
@@ -398,13 +398,13 @@ www.yellowpepper.com
 www.visa.co.id
 www.visa.co.ve
 www.authorize.net
-www.visa.com.mx
 bb.visa.com
+www.visa.com.mx
 cw.visa.com
 www.tink.com
 www.visa.com.ng
-www.cardinalcommerce.com
 visa.co.cr
+www.cardinalcommerce.com
 www.visa.co.uk
 aw.visa.com
 bb.visa.com
@@ -514,11 +514,11 @@ crash-stats.allizom.org
 shavar.services.mozilla.com
 crash-reports.allizom.org
 firefox-ci-tc.services.mozilla.com
-aus5.mozilla.org
 hg.mozilla.org
 firefox.settings.services.mozilla.com
 phabricator.allizom.org
 contile.services.mozilla.com
+aus5.mozilla.org
 sync.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 location.services.mozilla.com
@@ -580,9 +580,9 @@ hiltonlocalbiz.com
 hiltonhotels.jp
 *.hiltonlocalbiz.com
 *.hiltonhotels.jp
+hilton.com
 hiltonbusinessonline.com
 *.hilton.io
-hilton.com
 *.hilton.com
 hilton.io
 *.hiltonbusinessonline.com
@@ -673,11 +673,11 @@ http://miro.com/blog
 oneview.malwarebytes.com
 *.mwb-threatintel.com
 *.mb-cosmos.com
-*.cloud.malwarebytes.com
+my.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
+*.cloud.malwarebytes.com
 *.mwbsys.com
-my.malwarebytes.com
 www.malwarebytes.com
 *.mbamupdates.com
 *.threatdown.com
@@ -752,8 +752,8 @@ voapi.8x8.com
 admin.8x8.com
 *.jit.si
 connect.8x8.com
-cloud8.8x8.com
 *.8x8.vc
+cloud8.8x8.com
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -858,8 +858,8 @@ www.expediacruises.com
 www.hotels.com
 www.stayz.com.au
 www.cheaptickets.com
-www.ebookers.com
 www.orbitz.com
+www.ebookers.com
 www.hotwire.com
 www.flights.com
 www.carrentals.com
@@ -914,9 +914,9 @@ www.stayz.com.au
 www.expediagroup.com
 www.flights.com
 *.magiceden.workers.dev
-magiceden.io
 *.magiceden.dev
 *.magiceden.io
+magiceden.io
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -1218,8 +1218,8 @@ analytics.krisp.ai
 download.krisp.ai
 teams.krisp.ai
 krisp.ai
-account.krisp.ai
 api.krisp.ai
+account.krisp.ai
 *.krisp.ai
 *.krisp.ai
 krisp.ai
@@ -1623,8 +1623,8 @@ passport.larksuite.com
 internal-api-drive-stream.larksuite.com
 file.larksuite.com
 status.larksuite.com
-larksuite.com
 app.larksuite.com
+larksuite.com
 hackers_chosendomain.larksuite.com
 internal-api-lark-api.larksuite.com
 open.larksuite.com
@@ -1829,8 +1829,8 @@ api.faraday.ai
 *.devicelock.com
 *.acronis.work
 beta-cloud.acronis.com
-*.acronis.com
 account.acronis.com
+*.acronis.com
 *.5nine.com
 *-api-*.acronis.com
 *.acronis.com
@@ -2228,9 +2228,9 @@ updates.amazon.com
 www.alibabagroup.com
 *.alibaba.com
 *.taobao.com
-*.alibaba-inc.com
-*.aliyun.com
 *.Daraz.com
+*.aliyun.com
+*.alibaba-inc.com
 *.aliexpress.com
 *.tmall.com
 *.alibaba.com
@@ -2320,13 +2320,13 @@ www.ritzcarlton.com
 sso.marriott.com
 activities.marriott.com
 all-inclusive.marriott.com
-moments.marriottbonvoy.com
 careers.marriott.com
+moments.marriottbonvoy.com
 marrtool.com
 homes-and-villas.marriott.com
 reservations.all-inclusive.marriott.com
-mipartnerprivileges.marriott.com
 travelagents.marriott.com/
+mipartnerprivileges.marriott.com
 help.marriott.com
 www.marriott.com
 traveler.marriott.com
@@ -2395,10 +2395,10 @@ app.nordpass.com
 *.nordvpn.com
 *.nordvpn.com
 app.nordpass.com
+*.line.me
 *.line.biz
 *.line.naver.jp
 *.line-apps.com
-*.line.me
 *.linecorp.com
 *.line.me
 *.line-apps.com
@@ -3122,8 +3122,8 @@ privatetarget-1-www.zigzag
 *.lahitapiolarahoitus.fi
 *.beta.lahitapiola.fi
 ext-gw.lahitapiola.fi
-secure.lahitapiola.fi
 verkkopalvelu.tapiola.fi
+secure.lahitapiola.fi
 www.lahitapiola.fi
 *.tapiola.fi
 yrityspalvelu.tapiola.fi
@@ -3346,8 +3346,8 @@ gift.starbucks.co.jp
 openapi.starbucks.com
 www.starbucks.de
 www.starbucks.com.cn
-app.starbucks.com
 www.starbucks.com
+app.starbucks.com
 www.starbucks.co.kr
 www.starbucksreserve.com
 gift.starbucks.co.jp
@@ -3415,10 +3415,10 @@ npmjs.org
 npmjs.com
 education.github.com
 *.githubusercontent.com
-api.github.com
 *.githubapp.com
 github.com
 classroom.github.com
+api.github.com
 github.com
 api.github.com
 gist.github.com
