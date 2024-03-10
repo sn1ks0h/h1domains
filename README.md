@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Mar 10 08:19:23 UTC 2024)
+## Domains with Bounties (Last Updated Sun Mar 10 09:17:54 UTC 2024)
 ```
 cards.remitly.io
 api.remitly.io
@@ -120,10 +120,10 @@ blog.23andme.com
 education.23andme.com
 store.23andme.com
 medical.23andme.com
-auth.23andme.com
 you.23andme.com
 mediacenter.23andme.com
 api.23andme.com
+auth.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -137,6 +137,7 @@ research.23andme.com
 www.mercadolibre.com.uy
 api.mercadopago.com
 www.mercadopago.com.uy
+www.mercadopago.com.ar
 www.mercadolibre.com.mx
 www.mercadopago.com.co
 www.mercadopago.com.pe
@@ -146,9 +147,8 @@ www.mercadopago.com.mx
 www.mercadolibre.cl
 www.mercadolibre.com.co
 www.mercadopago.com.br
-www.mercadopago.com.ar
-www.mercadolivre.com.br
 api.mercadolibre.com
+www.mercadolivre.com.br
 www.mercadolibre.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
@@ -580,10 +580,10 @@ hiltonlocalbiz.com
 hiltonhotels.jp
 *.hiltonlocalbiz.com
 *.hiltonhotels.jp
+hilton.com
 hiltonbusinessonline.com
 *.hilton.io
 *.hilton.com.tr
-hilton.com
 *.hilton.com
 hilton.io
 *.hiltonbusinessonline.com
@@ -673,11 +673,11 @@ http://miro.com/blog
 oneview.malwarebytes.com
 *.mwb-threatintel.com
 *.mb-cosmos.com
-my.malwarebytes.com
+*.cloud.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
-*.cloud.malwarebytes.com
 *.mwbsys.com
+my.malwarebytes.com
 www.malwarebytes.com
 *.mbamupdates.com
 *.threatdown.com
@@ -854,26 +854,26 @@ www.lastminute.com.au
 www.wotif.com
 www.expediaagents.com
 www.fewo-direkt.de
-www.stayz.com.au
 www.expediacruises.com
 www.hotels.com
+www.stayz.com.au
+www.cheaptickets.com
 www.ebookers.com
+www.orbitz.com
 www.hotwire.com
 www.flights.com
 www.carrentals.com
-www.cheaptickets.com
-www.orbitz.com
 www.abritel.fr
 www.expediapartnersolutions.com
-*.expediapartnercentral.com
+*.lastminute.com.au
 *.cheaptickets.com
 *.travelocity.ca
-*.lastminute.com.au
+*.expediapartnercentral.com
+*.expediacruises.com
 *.travelocity.com
 www.bookabach.co.nz
 *.vrbo.com
 www.vrbo.com
-*.expediacruises.com
 *.wotif.com
 www.expedia.com
 *.vrbo.com
@@ -1218,8 +1218,8 @@ analytics.krisp.ai
 download.krisp.ai
 teams.krisp.ai
 krisp.ai
-account.krisp.ai
 api.krisp.ai
+account.krisp.ai
 *.krisp.ai
 *.krisp.ai
 krisp.ai
@@ -1624,8 +1624,8 @@ passport.larksuite.com
 internal-api-drive-stream.larksuite.com
 file.larksuite.com
 status.larksuite.com
-app.larksuite.com
 larksuite.com
+app.larksuite.com
 hackers_chosendomain.larksuite.com
 internal-api-lark-api.larksuite.com
 open.larksuite.com
@@ -1652,8 +1652,8 @@ core.yoti.com
 ccloud.yoti.com
 code.yoti.com
 api.yoti.com
-identity.yoti.com
 www.yotisign.com
+identity.yoti.com
 hub.yoti.com
 core.yoti.com
 api.yoti.com
@@ -1714,7 +1714,6 @@ api.adm.cloud.com
 adm.cloud.com
 (yoursubdomain).sf-api.com
 (yoursubdomain).sf-api.eu
-(yoursubdomain).sharefile.eu
 secure.sharefile.com
 api.sharefile.eu
 secure.sharefile.eu
@@ -1726,6 +1725,7 @@ accounts.cloud.com
 *.citrixworkspacesapi.net
 citrix.cloud.com
 www.cloud.com
+(yoursubdomain).sharefile.eu
 citrix.cloud.com
 www.cloud.com
 ap-s.cloud.com
@@ -1828,8 +1828,8 @@ app.faraday.ai
 api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
-*.acronis.work
 beta-cloud.acronis.com
+*.acronis.work
 *.acronis.com
 account.acronis.com
 *.5nine.com
@@ -2325,8 +2325,8 @@ marrtool.com
 www.marriott.com
 homes-and-villas.marriott.com
 reservations.all-inclusive.marriott.com
-travelagents.marriott.com/
 mipartnerprivileges.marriott.com
+travelagents.marriott.com/
 traveler.marriott.com
 help.marriott.com
 homes-and-villas.marriott.com
@@ -2756,8 +2756,8 @@ promos.tvg.com
 mobile-prod.tvg.com
 www.4njbets.com
 sportsbook.fanduel.com
-*racing.fanduel.com
 tvg.com
+*racing.fanduel.com
 us.tvg.com
 com.fanduel.android.live
 www.tvg.com
@@ -2817,8 +2817,8 @@ paypalobjects.com
 *.braintreepayments.com
 api.loanbuilder.com
 *.braintreegateway.com
-*.paypal.com
 *.paypalcorp.com
+*.paypal.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3414,8 +3414,8 @@ npmjs.org
 npmjs.com
 education.github.com
 *.githubusercontent.com
-*.githubapp.com
 api.github.com
+*.githubapp.com
 github.com
 classroom.github.com
 github.com
@@ -3559,19 +3559,19 @@ www.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 linkpop.com
-shopify.plus
 *.shopifykloud.com
+shopify.plus
 arrive-server.shopifycloud.com
 *.shopify.io
-shop.app
 partners.shopify.com
-your-store.myshopify.com
+shop.app
 *.shopifycloud.com
 shopifyinbox.com
 admin.shopify.com
-accounts.shopify.com
 *.shopify.com
+accounts.shopify.com
 *.shopifycs.com
+your-store.myshopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3929,9 +3929,9 @@ b5s.hackerone-ext-content.com
 www.wearehackerone.com
 reviewer.pullrequest.com
 errors.hackerone.net
-hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 ctf.hacker101.com
 hackerone.live
+hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 app.pullrequest.com
 cover-photos.hackerone-user-content.com
 api.hackerone.com
