@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Mar 10 10:17:02 UTC 2024)
+## Domains with Bounties (Last Updated Sun Mar 10 11:15:20 UTC 2024)
 ```
 cards.remitly.io
 api.remitly.io
@@ -33,8 +33,8 @@ getworldcoin.com
 bioid-management.app
 worldcoin.org
 textexplore.tari.com
-www.tari.com
 www.tarilabs.com
+www.tari.com
 explore.tari.com
 rfc.tari.com
 explore.tari.com
@@ -255,8 +255,8 @@ api.mergify.com
 dashboard.mergify.com
 www.compass.com
 www.compass.com
-*.gethypr.com
 *.hypr.com
+*.gethypr.com
 *.hypr.com
 *.gethypr.com
 cdn.moderntreasury.com
@@ -398,13 +398,13 @@ www.yellowpepper.com
 www.visa.co.id
 www.visa.co.ve
 www.authorize.net
-www.visa.com.mx
 bb.visa.com
+www.visa.com.mx
 cw.visa.com
 www.tink.com
 www.visa.com.ng
-www.cardinalcommerce.com
 visa.co.cr
+www.cardinalcommerce.com
 www.visa.co.uk
 aw.visa.com
 bb.visa.com
@@ -487,8 +487,8 @@ m.avtoelon.uz
 avtoelon.uz
 m.kolesa.kz
 kolesa.kz
-id.kolesa.kz
 krisha.kz
+id.kolesa.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -611,6 +611,7 @@ aws.indrive.tech
 ingest.clairvoyance.indrive.tech
 volans.tech
 injob.indriver.com
+profile-api.eu-east-1.indriverapp.com
 auth2.indrive.tech
 new-order.eu-east-1.indriverapp.com
 argocd.indrive.dev
@@ -622,7 +623,6 @@ cargo.indrive.com
 *.indriver.com
 file-storage-front.eu-east-1.indriverapp.com
 *.indriverapp.com
-profile-api.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 watchdocs.indriverapp.com
 *.indriverapp.com
@@ -752,8 +752,8 @@ voapi.8x8.com
 admin.8x8.com
 *.jit.si
 connect.8x8.com
-*.8x8.vc
 cloud8.8x8.com
+*.8x8.vc
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -789,8 +789,8 @@ admin.8x8.com
 *.napoleongames.be
 *.napoleoncasino.be
 *.superbet.com
-*.superbet.rs
 *.superbet.pl
+*.superbet.rs
 *.superbet.ro
 *.superbet.ro
 *.superbet.rs
@@ -932,8 +932,8 @@ zerobounce.net
 *.teleport.dev
 platform.teleport.sh
 *.gravitational.co
-*.goteleport.com
 cloud.gravitational.io
+*.goteleport.com
 *.gravitational.io
 teleport.sh
 askpam.ai
@@ -1218,8 +1218,8 @@ analytics.krisp.ai
 download.krisp.ai
 teams.krisp.ai
 krisp.ai
-account.krisp.ai
 api.krisp.ai
+account.krisp.ai
 *.krisp.ai
 *.krisp.ai
 krisp.ai
@@ -1501,11 +1501,11 @@ mod.reddit.com
 *.redditinc.com
 api.reddit.com
 *.redditmedia.com
-gql.reddit.com
 redditforbusiness.com
 app.spiketrap.io
 oauth.reddit.com
 new.reddit.com
+gql.reddit.com
 ads.reddit.com
 www.reddit.com
 *.snooguts.net
@@ -1763,8 +1763,8 @@ effecthouse.tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktokv.com
-tiktok.com
 shop.tiktok.com
+tiktok.com
 www.pangleglobal.com
 business.tiktok.com
 partner.tiktokshop.com
@@ -1830,8 +1830,8 @@ api.faraday.ai
 *.devicelock.com
 *.acronis.work
 beta-cloud.acronis.com
-account.acronis.com
 *.acronis.com
+account.acronis.com
 *.5nine.com
 *-api-*.acronis.com
 *.acronis.com
@@ -1842,19 +1842,23 @@ beta-cloud.acronis.com
 account.acronis.com
 sandbox.affirm.com
 sandbox.affirm.com
-app.superdrug.com
-api.superdrug.com
 www.kruidvat.nl
 app.kruidvat.nl
 app.theperfumeshop.com
 api.theperfumeshop.com
-www10.watsons.com.tw
-api.watsons.com.tw
-www10.watsons.com.ph
-www.watsons.co.th
-www20.watsons.co.th
-www10.watsons.co.th
-api.watsons.co.th
+www10.pns.hk
+api.pns.hk
+www.pns.hk
+www10.watsons.com.sg
+www.watsons.com.sg
+api.watsons.com.sg
+www.watsons.com.hk
+www10.watsons.com.hk
+api.watsons.com.hk
+www10.watsons.co.id
+api.watsons.co.id
+www.watsons.co.id
+blog.watsons.com.tr
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2227,10 +2231,10 @@ updates.amazon.com
 www.alibabagroup.com
 *.alibaba.com
 *.taobao.com
-*.Daraz.com
-*.aliyun.com
-*.tmall.com
 *.alibaba-inc.com
+*.aliyun.com
+*.Daraz.com
+*.tmall.com
 *.aliexpress.com
 *.alibaba.com
 *.aliexpress.com
@@ -2310,9 +2314,9 @@ gatewaydsaptst2.marriott.com
 gatewaydsapdev2.marriott.com
 marriottfranchisetransactions.marriott.com
 passwordchallenge.marriott.com
-cpp.marriott.com
 gatewaydsaptst1.marriott.com
 mgs.marriott.com
+cpp.marriott.com
 hotel-deals.marriott.com
 jobs.marriott.com
 www.ritzcarlton.com
@@ -2322,10 +2326,10 @@ all-inclusive.marriott.com
 careers.marriott.com
 moments.marriottbonvoy.com
 marrtool.com
-mipartnerprivileges.marriott.com
+homes-and-villas.marriott.com
 reservations.all-inclusive.marriott.com
 travelagents.marriott.com/
-homes-and-villas.marriott.com
+mipartnerprivileges.marriott.com
 traveler.marriott.com
 help.marriott.com
 www.marriott.com
@@ -2970,8 +2974,8 @@ help.steampowered.com
 api.steampowered.com
 steamcommunity.com
 www.teamfortress.com
-www.dota2.com
 www.counter-strike.net
+www.dota2.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3176,8 +3180,8 @@ jira.grab.com
 *.myteksi.net
 *.grabtaxi.com
 *.taralite.com
-*.ovo.id
 *.grab.com
+*.ovo.id
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3343,11 +3347,11 @@ www.starbucks.com.br
 www.starbucks.com.sg
 gift.starbucks.co.jp
 openapi.starbucks.com
-www.starbucks.de
 www.starbucks.co.kr
+www.starbucks.de
 www.starbucks.com.cn
-app.starbucks.com
 www.starbucks.com
+app.starbucks.com
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3396,9 +3400,9 @@ yelptop100.com
 *.yelp-support.com
 *.yelpwifi.com
 yelptop100.com
-getharvest.com
 id.getharvest.com
 harvestapp.com
+getharvest.com
 forecastapp.com
 harvestapp.com
 forecastapp.com
@@ -3414,9 +3418,9 @@ npmjs.org
 npmjs.com
 education.github.com
 *.githubusercontent.com
+api.github.com
 *.githubapp.com
 github.com
-api.github.com
 classroom.github.com
 github.com
 api.github.com
@@ -3563,8 +3567,8 @@ linkpop.com
 shopify.plus
 arrive-server.shopifycloud.com
 *.shopify.io
-shop.app
 partners.shopify.com
+shop.app
 *.shopifycloud.com
 shopifyinbox.com
 admin.shopify.com
@@ -3612,12 +3616,12 @@ spectacles.com
 kit.snapchat.com
 blog.playcanvas.com
 snappublisher.snapchat.com
-app.snapchat.com
 playcanvas.com
 web.snapchat.com
 accounts.snapchat.com
 business.snapchat.com
 *.sc-corp.net
+app.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3694,8 +3698,8 @@ assets.airbnb.com
 *.airbnbcitizen.com
 api.airbnb.com
 www.airbnb.com
-*.airbnb.com
 www.hoteltonight.com
+*.airbnb.com
 *.hoteltonight-test.com
 *.withairbnb.com
 www.airbnb.com
@@ -3935,9 +3939,9 @@ hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 app.pullrequest.com
 cover-photos.hackerone-user-content.com
 hackerone-user-content.com
-www.hackerone.com
 api.hackerone.com
 hackerone.com
+www.hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
