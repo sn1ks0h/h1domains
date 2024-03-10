@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Mar 10 21:15:31 UTC 2024)
+## Domains with Bounties (Last Updated Sun Mar 10 22:18:39 UTC 2024)
 ```
 cards.remitly.io
 app.rewire.to
@@ -137,17 +137,17 @@ research.23andme.com
 www.mercadolibre.com.uy
 api.mercadopago.com
 www.mercadopago.com.uy
-api.mercadolibre.com
 www.mercadopago.com.ar
+www.mercadopago.cl
 www.mercadolibre.com.mx
 www.mercadopago.com.co
 www.mercadopago.com.pe
 www.mercadolibre.com.pe
-www.mercadopago.cl
 www.mercadopago.com.mx
 www.mercadolibre.cl
 www.mercadolibre.com.co
 www.mercadopago.com.br
+api.mercadolibre.com
 www.mercadolivre.com.br
 www.mercadolibre.com.ar
 api.mercadopago.com
@@ -486,8 +486,8 @@ api.avtoelon.uz
 m.avtoelon.uz
 avtoelon.uz
 m.kolesa.kz
-krisha.kz
 id.kolesa.kz
+krisha.kz
 kolesa.kz
 kolesa.kz
 m.kolesa.kz
@@ -514,11 +514,11 @@ crash-stats.allizom.org
 shavar.services.mozilla.com
 crash-reports.allizom.org
 firefox-ci-tc.services.mozilla.com
-aus5.mozilla.org
 hg.mozilla.org
 firefox.settings.services.mozilla.com
 phabricator.allizom.org
 contile.services.mozilla.com
+aus5.mozilla.org
 sync.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 location.services.mozilla.com
@@ -580,13 +580,13 @@ hiltonlocalbiz.com
 hiltonhotels.jp
 *.hiltonlocalbiz.com
 *.hiltonhotels.jp
-hilton.com
 hiltonbusinessonline.com
 *.hilton.io
 *.hilton.com
 hilton.io
 *.hiltonbusinessonline.com
 *.hilton.com.tr
+hilton.com
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -617,7 +617,6 @@ argocd.indrive.dev
 ci.indrive.dev
 super-services.indriverapp.com
 auth.indrive.tech
-*.indrive.com
 cargo.indrive.com
 *.indriver.com
 file-storage-front.eu-east-1.indriverapp.com
@@ -625,6 +624,7 @@ file-storage-front.eu-east-1.indriverapp.com
 profile-api.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 watchdocs.indriverapp.com
+*.indrive.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -673,11 +673,11 @@ http://miro.com/blog
 oneview.malwarebytes.com
 *.mwb-threatintel.com
 *.mb-cosmos.com
-*.cloud.malwarebytes.com
+my.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
+*.cloud.malwarebytes.com
 *.mwbsys.com
-my.malwarebytes.com
 www.malwarebytes.com
 *.mbamupdates.com
 *.threatdown.com
@@ -788,10 +788,10 @@ admin.8x8.com
 *.magicjackpot.ro
 *.napoleongames.be
 *.napoleoncasino.be
-*.superbet.com
 *.superbet.rs
 *.superbet.pl
 *.superbet.ro
+*.superbet.com
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -858,8 +858,8 @@ www.expediacruises.com
 www.hotels.com
 www.stayz.com.au
 www.cheaptickets.com
-www.ebookers.com
 www.orbitz.com
+www.ebookers.com
 www.hotwire.com
 www.flights.com
 www.carrentals.com
@@ -872,8 +872,8 @@ www.bookabach.co.nz
 *.vrbo.com
 www.vrbo.com
 *.wotif.com
-www.expedia.com
 www.travelocity.com
+www.expedia.com
 www.expediagroup.com
 *.lastminute.co.nz
 *.vrbo.com
@@ -932,8 +932,8 @@ zerobounce.net
 *.teleport.dev
 platform.teleport.sh
 *.gravitational.co
-cloud.gravitational.io
 *.goteleport.com
+cloud.gravitational.io
 *.gravitational.io
 teleport.sh
 askpam.ai
@@ -1069,8 +1069,8 @@ sorare.com
 api.sorare.com
 ws.sorare.com
 *.sheingsp.com
-*.shein.com
 *.romwe.com
+*.shein.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
@@ -1218,8 +1218,8 @@ analytics.krisp.ai
 download.krisp.ai
 teams.krisp.ai
 krisp.ai
-account.krisp.ai
 api.krisp.ai
+account.krisp.ai
 *.krisp.ai
 *.krisp.ai
 krisp.ai
@@ -1623,8 +1623,8 @@ passport.larksuite.com
 internal-api-drive-stream.larksuite.com
 file.larksuite.com
 status.larksuite.com
-app.larksuite.com
 larksuite.com
+app.larksuite.com
 hackers_chosendomain.larksuite.com
 internal-api-lark-api.larksuite.com
 open.larksuite.com
@@ -1827,8 +1827,8 @@ app.faraday.ai
 api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
-*.acronis.work
 beta-cloud.acronis.com
+*.acronis.work
 *.acronis.com
 account.acronis.com
 *.5nine.com
@@ -2323,8 +2323,8 @@ moments.marriottbonvoy.com
 marrtool.com
 homes-and-villas.marriott.com
 reservations.all-inclusive.marriott.com
-travelagents.marriott.com/
 mipartnerprivileges.marriott.com
+travelagents.marriott.com/
 help.marriott.com
 www.marriott.com
 traveler.marriott.com
@@ -2988,11 +2988,11 @@ app.mona.co
 tax.crypto.com
 auth.crypto.com
 js.crypto.com
-pay.crypto.com
 *.mona.co
 merchant.crypto.com
 *.crypto.com
 www.crypto.com
+pay.crypto.com
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3124,8 +3124,8 @@ verkkopalvelu.tapiola.fi
 secure.lahitapiola.fi
 www.lahitapiola.fi
 *.tapiola.fi
-yrityspalvelu.tapiola.fi
 *.lahitapiola.fi
+yrityspalvelu.tapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -3344,8 +3344,8 @@ gift.starbucks.co.jp
 openapi.starbucks.com
 www.starbucks.de
 www.starbucks.com.cn
-app.starbucks.com
 www.starbucks.com
+app.starbucks.com
 www.starbucks.co.kr
 www.starbucksreserve.com
 gift.starbucks.co.jp
@@ -3395,9 +3395,9 @@ yelptop100.com
 *.yelp-support.com
 *.yelpwifi.com
 yelptop100.com
+getharvest.com
 id.getharvest.com
 harvestapp.com
-getharvest.com
 forecastapp.com
 harvestapp.com
 forecastapp.com
@@ -3558,19 +3558,19 @@ www.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 linkpop.com
-*.shopifykloud.com
 shopify.plus
+*.shopifykloud.com
 arrive-server.shopifycloud.com
 *.shopify.io
 shop.app
 partners.shopify.com
 *.shopifycloud.com
 shopifyinbox.com
-admin.shopify.com
-*.shopify.com
 accounts.shopify.com
+*.shopify.com
 *.shopifycs.com
 your-store.myshopify.com
+admin.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
