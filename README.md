@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Mar 11 12:29:24 UTC 2024)
+## Domains with Bounties (Last Updated Mon Mar 11 13:19:29 UTC 2024)
 ```
 www.dyson.no
 api.dyson.se
@@ -305,10 +305,10 @@ video-callerid-eu.truecaller.com
 webdirectory-eu.truecaller.com
 webonboarding-eu.truecaller.com
 cards.remitly.io
-app.rewire.to
 api.remitly.io
 rewire.com
 remitly.com
+app.rewire.to
 remitly.com
 api.remitly.io
 cards.remitly.io
@@ -358,8 +358,8 @@ verify.arkoselabs.com
 iframe.arkoselabs.com
 www.arkoselabs.com
 demo.arkoselabs.com
-my.sheer.com
 www.sheer.com
+my.sheer.com
 www.sheer.com
 my.sheer.com
 www.ddfcontent.com
@@ -689,7 +689,6 @@ www.visa.com.tw
 www.practicalmoneyskills.com
 www.visa.com.ph
 www.visa.com.my
-www.authorize.net
 www.cybersource.com
 visa.com.au
 www.fraedom.com
@@ -698,9 +697,10 @@ www.visa.co.in
 www.yellowpepper.com
 www.visa.co.id
 www.visa.co.ve
-cw.visa.com
+www.authorize.net
 www.visa.com.mx
 bb.visa.com
+cw.visa.com
 www.tink.com
 www.visa.com.ng
 www.cardinalcommerce.com
@@ -1052,8 +1052,8 @@ voapi.8x8.com
 admin.8x8.com
 *.jit.si
 connect.8x8.com
-*.8x8.vc
 cloud8.8x8.com
+*.8x8.vc
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1088,8 +1088,8 @@ admin.8x8.com
 *.magicjackpot.ro
 *.napoleongames.be
 *.napoleoncasino.be
-*.superbet.rs
 *.superbet.pl
+*.superbet.rs
 *.superbet.ro
 *.superbet.com
 *.superbet.ro
@@ -1168,8 +1168,8 @@ www.abritel.fr
 *.lastminute.com.au
 *.carrentals.com
 www.expediagroup.com
-*.hotwire.com
 www.expedia.com
+*.hotwire.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1215,8 +1215,8 @@ zerobounce.net
 *.teleport.dev
 platform.teleport.sh
 *.gravitational.co
-cloud.gravitational.io
 *.goteleport.com
+cloud.gravitational.io
 *.gravitational.io
 teleport.sh
 askpam.ai
@@ -1783,11 +1783,11 @@ mod.reddit.com
 *.redditinc.com
 api.reddit.com
 *.redditmedia.com
+gql.reddit.com
 redditforbusiness.com
 app.spiketrap.io
 oauth.reddit.com
 new.reddit.com
-gql.reddit.com
 ads.reddit.com
 *.snooguts.net
 *.reddit.com
@@ -2049,10 +2049,10 @@ www.pangleglobal.com
 business.tiktok.com
 partner.tiktokshop.com
 live-backstage.tiktok.com
-*.tiktok.com
 ads.tiktok.com
 tiktok.com
 *.tiktokv.com
+*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2110,8 +2110,8 @@ app.faraday.ai
 api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
-beta-cloud.acronis.com
 *.acronis.work
+beta-cloud.acronis.com
 account.acronis.com
 *.5nine.com
 *.acronis.com
@@ -2124,27 +2124,21 @@ beta-cloud.acronis.com
 account.acronis.com
 sandbox.affirm.com
 sandbox.affirm.com
-www.watsons.com.tr
-app.superdrug.com
-api.superdrug.com
+www10.watsons.com.vn
+www10.pns.hk
+api.pns.hk
+www.pns.hk
+app.marionnaud.fr
+mapi.moneyback.com.hk
 www.kruidvat.nl
 app.kruidvat.nl
 app.theperfumeshop.com
 api.theperfumeshop.com
-api.watsons.com.my
-www10.watsons.com.my
-www.iciparisxl.nl
-www.iciparisxl.be
-www.iciparisxl.lu
-app.iciparisxl.nl
-app.iciparisxl.be
-app.iciparisxl.lu
-www.marionnaud.at
-app.marionnaud.at
-app.marionnaud.ch
-www.marionnaud.cz
-app.marionnaud.cz
-www.marionnaud.hu
+www10.watsons.com.tw
+api.watsons.com.tw
+www10.watsons.com.ph
+www.watsons.co.th
+www20.watsons.co.th
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2519,9 +2513,9 @@ www.alibabagroup.com
 *.alibaba-inc.com
 *.Daraz.com
 *.aliexpress.com
-*.tmall.com
 *.taobao.com
 *.aliyun.com
+*.tmall.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2609,15 +2603,15 @@ www.ritzcarlton.com
 sso.marriott.com
 activities.marriott.com
 all-inclusive.marriott.com
-moments.marriottbonvoy.com
 careers.marriott.com
+moments.marriottbonvoy.com
 marrtool.com
 reservations.all-inclusive.marriott.com
-mipartnerprivileges.marriott.com
 travelagents.marriott.com/
-www.marriott.com
+mipartnerprivileges.marriott.com
 homes-and-villas.marriott.com
 help.marriott.com
+www.marriott.com
 traveler.marriott.com
 homes-and-villas.marriott.com
 careers.marriott.com
@@ -3046,8 +3040,8 @@ promos.tvg.com
 mobile-prod.tvg.com
 www.4njbets.com
 sportsbook.fanduel.com
-*racing.fanduel.com
 tvg.com
+*racing.fanduel.com
 us.tvg.com
 com.fanduel.android.live
 www.tvg.com
@@ -3280,9 +3274,9 @@ auth.crypto.com
 js.crypto.com
 merchant.crypto.com
 *.crypto.com
+tax.crypto.com
 *.mona.co
 www.crypto.com
-tax.crypto.com
 pay.crypto.com
 *.crypto.com
 *.mona.co
@@ -3411,8 +3405,8 @@ privatetarget-1-www.zigzag
 *.lahitapiolarahoitus.fi
 *.beta.lahitapiola.fi
 ext-gw.lahitapiola.fi
-verkkopalvelu.tapiola.fi
 secure.lahitapiola.fi
+verkkopalvelu.tapiola.fi
 *.tapiola.fi
 yrityspalvelu.tapiola.fi
 *.lahitapiola.fi
@@ -3849,12 +3843,12 @@ yourcompany.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 linkpop.com
-shopify.plus
 *.shopifykloud.com
+shopify.plus
 arrive-server.shopifycloud.com
 *.shopify.io
-shop.app
 partners.shopify.com
+shop.app
 *.shopifycloud.com
 shopifyinbox.com
 *.shopify.com
@@ -3893,10 +3887,10 @@ msg.playcanvas.com
 create.snapchat.com
 my.snapchat.com
 forum.playcanvas.com
+ads.snapchat.com
 www.bitmoji.com
 login.playcanvas.com
 scan.snapchat.com
-ads.snapchat.com
 *.sc-core.net
 spectacles.com
 kit.snapchat.com
@@ -3905,8 +3899,8 @@ snappublisher.snapchat.com
 business.snapchat.com
 *.sc-corp.net
 playcanvas.com
-app.snapchat.com
 accounts.snapchat.com
+app.snapchat.com
 web.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
@@ -4213,7 +4207,6 @@ profile-photos.hackerone-user-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
 a5s.hackerone-ext-content.com
-hackerone-ext-content.com
 mta-sts.wearehackerone.com
 b5s.hackerone-ext-content.com
 www.wearehackerone.com
@@ -4228,6 +4221,7 @@ hackerone-user-content.com
 api.hackerone.com
 www.hackerone.com
 hackerone.com
+hackerone-ext-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
