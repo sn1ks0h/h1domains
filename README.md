@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Mar 11 20:21:58 UTC 2024)
+## Domains with Bounties (Last Updated Mon Mar 11 21:18:02 UTC 2024)
 ```
 www.dyson.no
 api.dyson.se
@@ -304,9 +304,9 @@ webdirectory-eu.truecaller.com
 webonboarding-eu.truecaller.com
 cards.remitly.io
 api.remitly.io
-rewire.com
-remitly.com
 app.rewire.to
+remitly.com
+rewire.com
 remitly.com
 api.remitly.io
 cards.remitly.io
@@ -435,19 +435,19 @@ research.23andme.com
 www.mercadolibre.com.uy
 api.mercadopago.com
 www.mercadopago.com.uy
+www.mercadopago.com.ar
+www.mercadopago.cl
 www.mercadolibre.com.mx
 www.mercadopago.com.co
 www.mercadopago.com.pe
 www.mercadolibre.com.pe
-www.mercadopago.cl
 www.mercadopago.com.mx
 www.mercadolibre.cl
 www.mercadolibre.com.co
-www.mercadopago.com.ar
-www.mercadolibre.com.ar
-www.mercadolivre.com.br
 www.mercadopago.com.br
+www.mercadolibre.com.ar
 api.mercadolibre.com
+www.mercadolivre.com.br
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -493,10 +493,10 @@ spark.fareharbor.com
 www.fareharbor.com
 admin.booking.com
 booking.com
-*.booking.com
 *.rentalcars.com
 account.booking.com
 secure.booking.com
+*.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -812,10 +812,10 @@ crash-stats.allizom.org
 shavar.services.mozilla.com
 crash-reports.allizom.org
 firefox-ci-tc.services.mozilla.com
-aus5.mozilla.org
 hg.mozilla.org
 phabricator.allizom.org
 contile.services.mozilla.com
+aus5.mozilla.org
 sync.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 location.services.mozilla.com
@@ -971,11 +971,11 @@ http://miro.com/blog
 oneview.malwarebytes.com
 *.mwb-threatintel.com
 *.mb-cosmos.com
-*.cloud.malwarebytes.com
+my.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
+*.cloud.malwarebytes.com
 *.mwbsys.com
-my.malwarebytes.com
 www.malwarebytes.com
 *.mbamupdates.com
 *.threatdown.com
@@ -1085,8 +1085,8 @@ admin.8x8.com
 *.magicjackpot.ro
 *.napoleongames.be
 *.napoleoncasino.be
-*.superbet.pl
 *.superbet.rs
+*.superbet.pl
 *.superbet.ro
 *.superbet.com
 *.superbet.ro
@@ -1780,18 +1780,18 @@ mod.reddit.com
 *.redditinc.com
 api.reddit.com
 *.redditmedia.com
-gql.reddit.com
 redditforbusiness.com
 app.spiketrap.io
 oauth.reddit.com
 new.reddit.com
+gql.reddit.com
 ads.reddit.com
 *.snooguts.net
 *.reddit.com
 ads-api.reddit.com
 old.reddit.com
-*.reddithelp.com
 accounts.reddit.com
+*.reddithelp.com
 www.reddit.com
 *.snooguts.net
 *.redditmedia.com
@@ -1876,8 +1876,8 @@ wp-integ.chime.com
 wp-qa.chime.com
 stream.launchdarkly.com
 docs.launchdarkly.com
-events.launchdarkly.com
 app.launchdarkly.com
+events.launchdarkly.com
 app.launchdarkly.com
 events.launchdarkly.com
 stream.launchdarkly.com
@@ -1952,8 +1952,8 @@ internal.netlify.com
 *.infra-prod.nsvcs.net
 netlify-rum.netlify.app
 *.onegraph.com
-app.netlify.com
 *.services.netlify.com
+app.netlify.com
 api.netlify.com
 *.services.netlify.com
 *.services-prod.nsvcs.net
@@ -2048,8 +2048,8 @@ partner.tiktokshop.com
 live-backstage.tiktok.com
 *.tiktokv.com
 ads.tiktok.com
-tiktok.com
 *.tiktok.com
+tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2510,9 +2510,9 @@ www.alibabagroup.com
 *.alibaba-inc.com
 *.taobao.com
 *.tmall.com
-*.aliexpress.com
-*.Daraz.com
 *.aliyun.com
+*.Daraz.com
+*.aliexpress.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2600,8 +2600,8 @@ www.ritzcarlton.com
 sso.marriott.com
 activities.marriott.com
 all-inclusive.marriott.com
-moments.marriottbonvoy.com
 careers.marriott.com
+moments.marriottbonvoy.com
 marrtool.com
 reservations.all-inclusive.marriott.com
 mipartnerprivileges.marriott.com
@@ -2815,7 +2815,6 @@ api.rezserver.com
 admin.rezserver.com
 secure.rezserver.com
 press.priceline.com
-www.getaroom.com
 priceline.com
 www.priceline.com
 secure.rezserver.com
@@ -3098,8 +3097,8 @@ paypalobjects.com
 *.paypalcorp.com
 my.swiftfinancial.com
 api.loanbuilder.com
-www.loanbuilder.com
 *.paypal.com
+www.loanbuilder.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3250,8 +3249,8 @@ help.steampowered.com
 api.steampowered.com
 steamcommunity.com
 www.teamfortress.com
-www.dota2.com
 www.counter-strike.net
+www.dota2.com
 support.steampowered.com
 www.dota2.com
 support.steampowered.com
@@ -3271,9 +3270,9 @@ auth.crypto.com
 js.crypto.com
 merchant.crypto.com
 *.crypto.com
-tax.crypto.com
 *.mona.co
 www.crypto.com
+tax.crypto.com
 pay.crypto.com
 *.crypto.com
 *.mona.co
@@ -3631,9 +3630,9 @@ yelptop100.com
 *.yelp-support.com
 *.yelpwifi.com
 yelptop100.com
+getharvest.com
 id.getharvest.com
 harvestapp.com
-getharvest.com
 forecastapp.com
 harvestapp.com
 forecastapp.com
@@ -3649,9 +3648,9 @@ education.github.com
 *.githubusercontent.com
 *.githubapp.com
 api.github.com
-npmjs.com
 classroom.github.com
 *.github.net
+npmjs.com
 github.com
 github.com
 api.github.com
@@ -3663,8 +3662,8 @@ education.github.com
 *.githubusercontent.com
 npmjs.com
 npmjs.org
-*ubereats.com
 *.uberinternal.com
+*ubereats.com
 *.uberinternal.com
 *ubereats.com
 api.mapbox.com
@@ -3797,16 +3796,16 @@ linkpop.com
 shopify.plus
 *.shopifykloud.com
 arrive-server.shopifycloud.com
-partners.shopify.com
 *.shopifycloud.com
 shopifyinbox.com
 *.shopifycs.com
 your-store.myshopify.com
-admin.shopify.com
+*.shopify.com
 accounts.shopify.com
 shop.app
 *.shopify.io
-*.shopify.com
+admin.shopify.com
+partners.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3838,10 +3837,10 @@ msg.playcanvas.com
 create.snapchat.com
 my.snapchat.com
 forum.playcanvas.com
+ads.snapchat.com
 www.bitmoji.com
 login.playcanvas.com
 scan.snapchat.com
-ads.snapchat.com
 *.sc-core.net
 spectacles.com
 kit.snapchat.com
@@ -4162,8 +4161,8 @@ mta-sts.wearehackerone.com
 b5s.hackerone-ext-content.com
 www.wearehackerone.com
 errors.hackerone.net
-hackerone.live
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
+hackerone.live
 app.pullrequest.com
 cover-photos.hackerone-user-content.com
 hackerone-user-content.com
