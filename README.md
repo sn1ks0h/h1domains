@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Mar 11 07:18:50 UTC 2024)
+## Domains with Bounties (Last Updated Mon Mar 11 08:22:15 UTC 2024)
 ```
 cards.remitly.io
 app.rewire.to
@@ -21,8 +21,8 @@ worldcoin.org
 *.consumer.worldcoin.org
 *.toolsforhumanity.com
 toolsforhumanity.com
-*.worldcoin.org
 bioid-management.app
+*.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -33,8 +33,8 @@ getworldcoin.com
 bioid-management.app
 worldcoin.org
 textexplore.tari.com
-www.tarilabs.com
 www.tari.com
+www.tarilabs.com
 explore.tari.com
 rfc.tari.com
 explore.tari.com
@@ -389,6 +389,7 @@ www.visa.com.tw
 www.practicalmoneyskills.com
 www.visa.com.ph
 www.visa.com.my
+www.authorize.net
 www.cybersource.com
 visa.com.au
 www.fraedom.com
@@ -397,10 +398,9 @@ www.visa.co.in
 www.yellowpepper.com
 www.visa.co.id
 www.visa.co.ve
-www.authorize.net
+cw.visa.com
 www.visa.com.mx
 bb.visa.com
-cw.visa.com
 www.tink.com
 www.visa.com.ng
 www.cardinalcommerce.com
@@ -465,11 +465,11 @@ sandbox.secure.checkout.visa.com
 www.visainfinite.ca
 http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
-yourdomain.freshcaller.com
-yourdomain.freshdesk.com
 yourdomain.freshchat.com
-yourdomain.myfreshworks.com
 yourdomain.freshservice.com
+yourdomain.myfreshworks.com
+yourdomain.freshdesk.com
+yourdomain.freshcaller.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -514,11 +514,11 @@ crash-stats.allizom.org
 shavar.services.mozilla.com
 crash-reports.allizom.org
 firefox-ci-tc.services.mozilla.com
+aus5.mozilla.org
 hg.mozilla.org
 firefox.settings.services.mozilla.com
 phabricator.allizom.org
 contile.services.mozilla.com
-aus5.mozilla.org
 sync.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 location.services.mozilla.com
@@ -673,11 +673,11 @@ http://miro.com/blog
 oneview.malwarebytes.com
 *.mwb-threatintel.com
 *.mb-cosmos.com
-my.malwarebytes.com
+*.cloud.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
-*.cloud.malwarebytes.com
 *.mwbsys.com
+my.malwarebytes.com
 www.malwarebytes.com
 *.mbamupdates.com
 *.threatdown.com
@@ -703,8 +703,8 @@ www.prisma.fi
 tunnistus.s-ryhma.fi
 cfapi.voikukka.fi
 www.s-kaupat.fi
-online.s-pankki.fi
 www.s-pankki.fi
+online.s-pankki.fi
 online.s-pankki.fi
 www.s-pankki.fi
 https://crosskey.io/stores/s-pankki/apis
@@ -788,8 +788,8 @@ admin.8x8.com
 *.magicjackpot.ro
 *.napoleongames.be
 *.napoleoncasino.be
-*.superbet.rs
 *.superbet.pl
+*.superbet.rs
 *.superbet.ro
 *.superbet.com
 *.superbet.ro
@@ -849,27 +849,27 @@ www.ebookers.fi
 www.mrjet.se
 www.expediaagents.com
 www.fewo-direkt.de
-www.stayz.com.au
 www.hotels.com
+www.stayz.com.au
+www.orbitz.com
 www.ebookers.com
 www.flights.com
-www.orbitz.com
-www.abritel.fr
 www.expediapartnersolutions.com
-*.expediapartnercentral.com
 *.cheaptickets.com
 *.travelocity.ca
+*.expediapartnercentral.com
 www.bookabach.co.nz
 *.vrbo.com
-*.wotif.com
 www.expedia.com
 www.expediagroup.com
 *.carrentals.com
 *.travelocity.com
-*.hotwire.com
 *.expediacruises.com
-*.lastminute.co.nz
+*.hotwire.com
 *.lastminute.com.au
+*.lastminute.co.nz
+*.wotif.com
+www.abritel.fr
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -915,8 +915,8 @@ zerobounce.net
 *.teleport.dev
 platform.teleport.sh
 *.gravitational.co
-*.goteleport.com
 cloud.gravitational.io
+*.goteleport.com
 *.gravitational.io
 teleport.sh
 askpam.ai
@@ -2294,9 +2294,9 @@ gatewaydsaptst2.marriott.com
 gatewaydsapdev2.marriott.com
 marriottfranchisetransactions.marriott.com
 passwordchallenge.marriott.com
-cpp.marriott.com
 gatewaydsaptst1.marriott.com
 mgs.marriott.com
+cpp.marriott.com
 hotel-deals.marriott.com
 jobs.marriott.com
 www.ritzcarlton.com
@@ -2306,10 +2306,10 @@ all-inclusive.marriott.com
 careers.marriott.com
 moments.marriottbonvoy.com
 marrtool.com
-mipartnerprivileges.marriott.com
-reservations.all-inclusive.marriott.com
-travelagents.marriott.com/
 homes-and-villas.marriott.com
+reservations.all-inclusive.marriott.com
+mipartnerprivileges.marriott.com
+travelagents.marriott.com/
 help.marriott.com
 www.marriott.com
 traveler.marriott.com
@@ -2953,8 +2953,8 @@ help.steampowered.com
 api.steampowered.com
 steamcommunity.com
 www.teamfortress.com
-www.dota2.com
 www.counter-strike.net
+www.dota2.com
 support.steampowered.com
 www.dota2.com
 support.steampowered.com
@@ -2974,9 +2974,9 @@ auth.crypto.com
 js.crypto.com
 merchant.crypto.com
 *.crypto.com
-*.mona.co
-www.crypto.com
 tax.crypto.com
+www.crypto.com
+*.mona.co
 pay.crypto.com
 *.crypto.com
 *.mona.co
@@ -3380,9 +3380,9 @@ yelptop100.com
 *.yelp-support.com
 *.yelpwifi.com
 yelptop100.com
+getharvest.com
 id.getharvest.com
 harvestapp.com
-getharvest.com
 forecastapp.com
 harvestapp.com
 forecastapp.com
@@ -3543,8 +3543,8 @@ www.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 linkpop.com
-*.shopifykloud.com
 shopify.plus
+*.shopifykloud.com
 arrive-server.shopifycloud.com
 *.shopify.io
 shop.app
@@ -3913,9 +3913,9 @@ b5s.hackerone-ext-content.com
 www.wearehackerone.com
 reviewer.pullrequest.com
 errors.hackerone.net
-hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 ctf.hacker101.com
 hackerone.live
+hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 app.pullrequest.com
 cover-photos.hackerone-user-content.com
 hackerone-user-content.com
