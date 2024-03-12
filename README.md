@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Mar 12 22:16:58 UTC 2024)
+## Domains with Bounties (Last Updated Tue Mar 12 23:19:58 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -320,9 +320,9 @@ webdirectory-eu.truecaller.com
 webonboarding-eu.truecaller.com
 cards.remitly.io
 rewire.com
-app.rewire.to
 api.remitly.io
 remitly.com
+app.rewire.to
 remitly.com
 api.remitly.io
 cards.remitly.io
@@ -335,8 +335,8 @@ bioid-management.app
 *.worldcoin.dev
 worldcoin.org
 *.toolsforhumanity.com
-*.worldcoin.org
 *.consumer.worldcoin.org
+*.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -450,7 +450,6 @@ you.23andme.com
 research.23andme.com
 api.mercadopago.com
 www.mercadopago.com.ar
-www.mercadopago.com.br
 www.mercadopago.com.mx
 www.mercadopago.com.co
 www.mercadopago.com.pe
@@ -463,6 +462,7 @@ www.mercadolibre.com.uy
 www.mercadolibre.cl
 www.mercadopago.cl
 api.mercadolibre.com
+www.mercadopago.com.br
 www.mercadolivre.com.br
 api.mercadopago.com
 www.mercadopago.com.ar
@@ -509,10 +509,10 @@ www.fareharbor.com
 spark.fareharbor.com
 kyc-onboarding.booking.com
 secure.booking.com
-*.booking.com
 account.booking.com
-*.rentalcars.com
 careers.booking.com
+*.booking.com
+*.rentalcars.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -557,8 +557,8 @@ api2.frontapp.com
 app.frontapp.com
 app.frontapp.com
 api2.frontapp.com
-*.boozt.com
 *.booztlet.com
+*.boozt.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -1010,7 +1010,6 @@ www.malwarebytes.com
 my.malwarebytes.com
 cloud.malwarebytes.com
 oneview.malwarebytes.com
-online.s-pankki.fi
 www.s-pankki.fi
 mobile.s-pankki.fi
 www.s-kaupat.fi
@@ -1021,6 +1020,7 @@ www.sokos.fi
 api.sokos.fi
 cfapi.voikukka.fi
 digili.s-cloud.fi
+online.s-pankki.fi
 online.s-pankki.fi
 www.s-pankki.fi
 https://crosskey.io/stores/s-pankki/apis
@@ -1659,7 +1659,6 @@ therecord.media
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
 ci.fr.cloud.gov
-dashboard.fr.cloud.gov
 login.fr.cloud.gov
 logs.fr.cloud.gov
 www.data.gov
@@ -2660,9 +2659,9 @@ www.marriott.com
 *uat.marriott.com
 moments.marriottbonvoy.com
 help.marriott.com
-traveler.marriott.com
 travelagents.marriott.com/
 mipartnerprivileges.marriott.com
+traveler.marriott.com
 homes-and-villas.marriott.com
 careers.marriott.com
 sso.marriott.com
@@ -2851,12 +2850,9 @@ app.command.cysiv.com
 api.rezserver.com
 admin.rezserver.com
 www.priceline.com
-secure.rezserver.com
 reservations.rezserver.com
 cruises.priceline.com
-www.bookingholdings.com
 press.priceline.com
-priceline.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -3061,12 +3057,10 @@ grammarly.ai
 *.grammarlyaws.com
 *.grammarly.com
 grammarly.ai
-fdbox.net
 fanduel.design
 com.fanduel.android.live
 sportsbook.fanduel.com
 *racing.fanduel.com
-tvg.com
 4njbets.tvgnetwork.com
 www.tvg.com
 b2b.tvgnetwork.com
@@ -3081,8 +3075,10 @@ pabets.tvg.com
 promos.tvg.com
 service.tvg.com
 us.tvg.com
-www.4njbets.com
 *.fanduel.com
+tvg.com
+fdbox.net
+www.4njbets.com
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -3305,10 +3301,10 @@ www.valvesoftware.com
 partner.steamgames.com
 playartifact.com
 api.steampowered.com
-steamcommunity.com
 store.steampowered.com
 help.steampowered.com
 www.teamfortress.com
+steamcommunity.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3632,7 +3628,6 @@ www.starbucks.fr
 www.starbucks.co.uk
 www.starbucks.com.br
 www.starbucks.ca
-www.starbucks.com
 app.starbucks.com
 openapi.starbucks.com
 secureui.starbucks.com
@@ -3641,6 +3636,7 @@ www.starbucks.com.sg
 cart.starbucks.co.jp
 www.starbucks.co.kr
 gift.starbucks.co.jp
+www.starbucks.com
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3860,11 +3856,11 @@ shopify.plus
 arrive-server.shopifycloud.com
 *.shopifycs.com
 accounts.shopify.com
-admin.shopify.com
 partners.shopify.com
 your-store.myshopify.com
 *.shopify.io
 *.shopify.com
+admin.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3994,8 +3990,8 @@ callbacks.airbnb.com
 *.luxuryretreats.com
 *.hoteltonight-test.com
 www.hoteltonight.com
-www.airbnb.com
 *.airbnbcitizen.com
+www.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -4158,18 +4154,18 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
+api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
 institutional.coinbase.com
-api.coinbase.com
 *.base.org
 international.coinbase.com
 nft.coinbase.com
-cloud.coinbase.com
 coinbase.com
 *.coinbase.com
+cloud.coinbase.com
 *.coinbase.com
 *.cbhq.net
 pro.coinbase.com
@@ -4212,6 +4208,7 @@ www.quip.com
 le.yahooapis.com
 onepush.query.yahoo.com
 proddata.xobni.yahoo.com
+apis.mail.yahoo.com
 data.mail.yahoo.com
 le.yahooapis.com
 onepush.query.yahoo.com
