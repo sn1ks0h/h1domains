@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar 13 20:18:46 UTC 2024)
+## Domains with Bounties (Last Updated Wed Mar 13 21:19:08 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -32,7 +32,6 @@ api.dyson.de
 api.dyson.ch
 api.dyson.fr
 api.dyson.ie
-api.fi.dyson.com
 www.dyson.com.mx
 www.dyson.com.sg
 www.dyson.co.kr
@@ -41,10 +40,10 @@ www.dyson.ae
 www.dyson.hk
 shop.dyson.co.za
 www.sa.dyson.com
-www.dyson.cz
 www.dyson.com.ro
 *.cp.dyson.com
 www.dyson.cn
+shop.dyson.ru
 *.dyson.com
 www.dyson.co.uk
 www.dyson.com
@@ -111,7 +110,6 @@ account-onboarding-noneu.truecaller.com
 ads-audience-ingestion-noneu.truecaller.com
 ads-audience-uploader.truecaller.com
 ads-config-engine-noneu.truecaller.com
-ads-partner-noneu.truecaller.com
 ads-rules-asia-south1.truecaller.com
 ads-rules-noneu.truecaller.com
 ads5-asia-south1.truecaller.com
@@ -144,16 +142,17 @@ duo.truecaller.com
 edge-locations5.truecaller.com
 email-verification-noneu.truecaller.com
 enterprise-account-management-noneu.truecaller.com
-enterprise-accounts-noneu.truecaller.com
 enterprise-auth-noneu.truecaller.com
 enterprise-bizengage-noneu.truecaller.com
 enterprise-biznumbers-noneu.truecaller.com
 enterprise-feedback-noneu.truecaller.com
-enterprise-reports-noneu.truecaller.com
 enterprise-service-management-noneu.truecaller.com
 enterprise-survey-asia-south1.truecaller.com
 enterprise-survey-noneu.truecaller.com
 enterprise-webhooks-noneu.truecaller.com
+feedback-asia-south1.truecaller.com
+filter-store4-asia-south1.truecaller.com
+filter-store4.truecaller.com
 business.truecaller.com
 account-noneu.truecaller.com
 account-onboarding-noneu.truecaller.com
@@ -461,8 +460,8 @@ www.mercadolibre.com.uy
 www.mercadolibre.cl
 www.mercadopago.cl
 www.mercadopago.com.br
-www.mercadolibre.com.ar
 www.mercadolivre.com.br
+www.mercadolibre.com.ar
 api.mercadolibre.com
 www.mercadopago.com.ar
 api.mercadopago.com
@@ -564,8 +563,8 @@ api2.frontapp.com
 *.booztlet.com
 *.trip.com
 *.trip.com
-api.mergify.com
 dashboard.mergify.com
+api.mergify.com
 api.mergify.com
 dashboard.mergify.com
 www.compass.com
@@ -699,7 +698,6 @@ www.visa.com.lk
 www.visa.com.ms
 www.visa.com.my
 www.visa.com.ng
-www.visa.com.ph
 www.visa.com.sg
 www.visa.com.tr
 visa.com.ua
@@ -723,6 +721,7 @@ www.cardinalcommerce.com
 www.yellowpepper.com
 www.fraedom.com
 www.tink.com
+www.practicalmoneyskills.com
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -870,8 +869,8 @@ stage.taskcluster.nonprod.cloudops.mozgcp.net
 community-tc.services.mozilla.com
 support.mozilla.org
 hg.mozilla.org
-www.mozilla.org
 monitor.mozilla.org
+www.mozilla.org
 developer.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
@@ -1490,8 +1489,8 @@ community.databricks.com
 customer-academy.databricks.com
 labs.databricks.com
 marketplace.databricks.com
-databricks.com
 accounts.cloud.databricks.com
+databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -1778,8 +1777,8 @@ js.stripe.com
 *.getbouncer.com
 app.taxjar.com
 *.touchtechpayments.com
-*.stripe.com
 api.stripe.com
+*.stripe.com
 api.stripe.com
 *.stripe.com
 *.touchtechpayments.com
@@ -2078,10 +2077,10 @@ creatormarketplace.tiktok.com
 www.pangleglobal.com
 business.tiktok.com
 *.tiktokv.com
-partner.tiktokshop.com
-*.tiktok.com
 tiktok.com
 ads.tiktok.com
+partner.tiktokshop.com
+*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2347,15 +2346,14 @@ portal.polygon.technology
 *.miui.com
 *.xiaomiyoupin.com
 *.miwifi.com
-*.mi.com
 *.xiaomi.com
+*.mi.com
 *.mi.com
 *.xiaomi.com
 *.miui.com
 *.xiaomiyoupin.com
 *.miwifi.com
 *.betfair.com
-*.paddypower.com
 *.betfair.es
 *.betfair.ro
 *.betfair.se
@@ -2385,6 +2383,7 @@ portal.polygon.technology
 *.skybettingandgaming.design
 *.skybettingandgaming.info
 *.betsharedservices.io
+super6.skysports.com
 *.betfair.com
 *.paddypower.com
 *.betfair.es
@@ -3075,10 +3074,10 @@ promos.tvg.com
 service.tvg.com
 us.tvg.com
 tvg.com
-fdbox.net
-fanduel.design
 www.4njbets.com
 *.fanduel.com
+fanduel.design
+fdbox.net
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -3411,8 +3410,8 @@ verovelvollisuustiedot.lahitapiola.fi
 sijoitusvakuutus.lahitapiola.fi
 privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
-*.lahitapiola.fi
 *.beta.lahitapiola.fi
+*.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -3580,11 +3579,11 @@ gutenberg.run
 socialclub.rockstargames.com
 lifeinvader.com
 rockstarnorth.com
-prod.ros.rockstargames.com
 support.rockstargames.com
 circolocorecords.com/
 store.rockstargames.com
 *.rockstargames.com
+prod.ros.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -3703,8 +3702,8 @@ classroom.github.com
 education.github.com
 npmjs.com
 npmjs.org
-*.githubusercontent.com
 api.github.com
+*.githubusercontent.com
 github.com
 github.com
 api.github.com
@@ -4152,18 +4151,18 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
-api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
+api.coinbase.com
 institutional.coinbase.com
 *.base.org
 international.coinbase.com
-nft.coinbase.com
 *.coinbase.com
 cloud.coinbase.com
 coinbase.com
+nft.coinbase.com
 *.coinbase.com
 *.cbhq.net
 pro.coinbase.com
@@ -4228,10 +4227,10 @@ ctf.hacker101.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 www.wearehackerone.com
 hackerone-user-content.com
-cover-photos.hackerone-user-content.com
 app.pullrequest.com
-www.hackerone.com
+cover-photos.hackerone-user-content.com
 hackerone-ext-content.com
+www.hackerone.com
 api.hackerone.com
 hackathon-photos.hackerone-user-content.com
 hackerone.com
@@ -4402,13 +4401,13 @@ https://github.com/evolveum/midpoint
 https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty
 marketplace.magento.com
 magentocommerce.com
-magento.com
 u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
 repo.magento.com
 accounts.magento.cloud
+magento.com
 marketplace.magento.com
 magentocommerce.com
 repo.magento.com
