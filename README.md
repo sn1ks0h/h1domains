@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar 13 22:14:10 UTC 2024)
+## Domains with Bounties (Last Updated Wed Mar 13 23:17:45 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -333,10 +333,10 @@ getworldcoin.com
 *.worldcoin-distributors.com
 bioid-management.app
 *.worldcoin.dev
-worldcoin.org
 *.toolsforhumanity.com
 *.consumer.worldcoin.org
 *.worldcoin.org
+worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -459,11 +459,11 @@ www.mercadolibre.com.pe
 www.mercadolibre.com.uy
 www.mercadolibre.cl
 www.mercadopago.cl
-www.mercadopago.com.br
-www.mercadolivre.com.br
-www.mercadolibre.com.ar
 api.mercadolibre.com
+www.mercadopago.com.br
 www.mercadopago.com.ar
+www.mercadolibre.com.ar
+www.mercadolivre.com.br
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -508,10 +508,10 @@ spark.fareharbor.com
 kyc-onboarding.booking.com
 account.booking.com
 careers.booking.com
-secure.booking.com
 widget.rentalcars.com
-booking.com
 *.booking.com
+booking.com
+secure.booking.com
 *.rentalcars.com
 *.booking.com
 *.rentalcars.com
@@ -828,7 +828,6 @@ api.tideplatform.in
 addons.allizom.org
 accounts.firefox.com
 location.services.mozilla.com
-sync.services.mozilla.com
 push.services.mozilla.com
 crash-reports.allizom.org
 crash-stats.allizom.org
@@ -843,6 +842,7 @@ lando.services.mozilla.com
 phabricator.allizom.org
 firefox-ci-tc.services.mozilla.com
 aus5.mozilla.org
+sync.services.mozilla.com
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -869,8 +869,8 @@ stage.taskcluster.nonprod.cloudops.mozgcp.net
 community-tc.services.mozilla.com
 support.mozilla.org
 hg.mozilla.org
-monitor.mozilla.org
 www.mozilla.org
+monitor.mozilla.org
 developer.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
@@ -1181,10 +1181,10 @@ www.stayz.com.au
 www.expediagroup.com
 www.flights.com
 www.expedia.com
-*.expediacruises.com
 *.expediapartnercentral.com
 *.travelocity.com
 *.travelocity.ca
+*.expediacruises.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1469,8 +1469,8 @@ bullsheet.me
 api.instacart.com
 admin.instacart.com
 shoppers.instacart.com
-www.instacart.com
 *.instacart.com
+www.instacart.com
 *.instacart.com
 *.instacart.tools
 api.instacart.com
@@ -1517,8 +1517,8 @@ teams.krisp.ai
 download.krisp.ai
 analytics.krisp.ai
 upld.krisp.ai
-*.krisp.ai
 api.krisp.ai
+*.krisp.ai
 *.krisp.ai
 krisp.ai
 account.krisp.ai
@@ -1554,7 +1554,6 @@ accounts.evernote.com
 api.evernote.com
 *.unrealtournament.com
 *.psynet.gg
-*.epicgames.dev
 metahuman.unrealengine.com
 twinmotion.unrealengine.com
 *.psyonix.com
@@ -1758,8 +1757,8 @@ www.elastic.co
 *.elstc.co
 *.elasticnet.co
 *.eops.nl
-*.swiftype.com
 cloud.elastic.co
+*.swiftype.com
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1814,7 +1813,6 @@ strapi.reddit.com
 m.reddit.com
 reddit.secure.force.com
 s.reddit.com
-*.reddit.com
 sh.reddit.com
 *.redditmedia.com
 redditforbusiness.com
@@ -1824,6 +1822,7 @@ old.reddit.com
 www.reddit.com
 ads.reddit.com
 matrix.redditspace.com
+*.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -2070,16 +2069,16 @@ developers.tiktok.com
 live-backstage.tiktok.com
 academy-outbound-ads.tiktok.com
 fp-sg.tiktokv.com
-careers.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
+careers.tiktok.com
 creatormarketplace.tiktok.com
 www.pangleglobal.com
 business.tiktok.com
 *.tiktokv.com
 tiktok.com
-ads.tiktok.com
 partner.tiktokshop.com
+ads.tiktok.com
 *.tiktok.com
 *.tiktok.com
 business.tiktok.com
@@ -2346,8 +2345,8 @@ portal.polygon.technology
 *.miui.com
 *.xiaomiyoupin.com
 *.miwifi.com
-*.xiaomi.com
 *.mi.com
+*.xiaomi.com
 *.mi.com
 *.xiaomi.com
 *.miui.com
@@ -2559,8 +2558,8 @@ www.alibabagroup.com
 *.alimama.com
 *.aliexpress.ru
 *.Daraz.com
-*.alibaba.com
 *.aliexpress.com
+*.alibaba.com
 *.aliyun.com
 *.tmall.com
 *.alibaba.com
@@ -3074,9 +3073,9 @@ promos.tvg.com
 service.tvg.com
 us.tvg.com
 tvg.com
-www.4njbets.com
-*.fanduel.com
 fanduel.design
+*.fanduel.com
+www.4njbets.com
 fdbox.net
 *.fanduel.com
 *racing.fanduel.com
@@ -3297,12 +3296,12 @@ partner.steampowered.com
 www.valvesoftware.com
 partner.steamgames.com
 playartifact.com
-help.steampowered.com
 www.teamfortress.com
-steamcommunity.com
+help.steampowered.com
 store.steampowered.com
 www.counter-strike.net
 api.steampowered.com
+steamcommunity.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3410,8 +3409,8 @@ verovelvollisuustiedot.lahitapiola.fi
 sijoitusvakuutus.lahitapiola.fi
 privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
-*.beta.lahitapiola.fi
 *.lahitapiola.fi
+*.beta.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -3582,8 +3581,8 @@ rockstarnorth.com
 support.rockstargames.com
 circolocorecords.com/
 store.rockstargames.com
-*.rockstargames.com
 prod.ros.rockstargames.com
+*.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -3751,8 +3750,8 @@ winecellar.zomato.com
 api.grofers.com
 api2.grofers.com
 blinkit.com
-*.runnr.in
 *.zomato.com
+*.runnr.in
 *.zomato.com
 *.zdev.net
 *.zomans.com
@@ -3793,8 +3792,8 @@ secure-dfadmin.deriv.com
 werkenbijdefensie.nl
 mijnkombijdepolitie.nl
 doorstromen.mijnkombijdepolitie.nl
-www.werkenbijbakertilly.nl
 devmaximum.com
+www.werkenbijbakertilly.nl
 acme-challenge.nl
 nossl.nl
 no-reply.cloud
@@ -3852,12 +3851,12 @@ shop.app
 shopify.plus
 arrive-server.shopifycloud.com
 *.shopifycs.com
-accounts.shopify.com
 *.shopify.io
 shopifyinbox.com
 your-store.myshopify.com
 partners.shopify.com
 admin.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifycs.com
 *.shopify.io
@@ -3884,7 +3883,6 @@ accounts.snapchat.com
 app.snapchat.com
 map.snapchat.com
 story.snapchat.com
-ads.snapchat.com
 businesshelp.snapchat.com
 store.snapchat.com
 *.sc-core.net
@@ -3905,6 +3903,7 @@ playcanv.as
 web.snapchat.com
 login.playcanvas.com
 playcanvas.com
+ads.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -4151,11 +4150,11 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
+api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
-api.coinbase.com
 institutional.coinbase.com
 *.base.org
 international.coinbase.com
@@ -4226,14 +4225,14 @@ reviewer.pullrequest.com
 ctf.hacker101.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 www.wearehackerone.com
-hackerone-user-content.com
-app.pullrequest.com
 cover-photos.hackerone-user-content.com
-hackerone-ext-content.com
+app.pullrequest.com
 www.hackerone.com
+hackerone-ext-content.com
 api.hackerone.com
 hackathon-photos.hackerone-user-content.com
 hackerone.com
+hackerone-user-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
