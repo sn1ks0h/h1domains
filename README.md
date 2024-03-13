@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar 13 12:28:46 UTC 2024)
+## Domains with Bounties (Last Updated Wed Mar 13 13:20:19 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -321,8 +321,8 @@ webonboarding-eu.truecaller.com
 cards.remitly.io
 rewire.com
 app.rewire.to
-api.remitly.io
 remitly.com
+api.remitly.io
 remitly.com
 api.remitly.io
 cards.remitly.io
@@ -509,10 +509,10 @@ spark.fareharbor.com
 kyc-onboarding.booking.com
 account.booking.com
 careers.booking.com
+booking.com
+*.booking.com
 secure.booking.com
 *.rentalcars.com
-*.booking.com
-booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -869,8 +869,8 @@ stage.taskcluster.nonprod.cloudops.mozgcp.net
 community-tc.services.mozilla.com
 support.mozilla.org
 hg.mozilla.org
-www.mozilla.org
 monitor.mozilla.org
+www.mozilla.org
 developer.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
@@ -901,8 +901,8 @@ hiltonhotels.jp
 hilton.com.tr
 hiltonbusinessonline.com
 hiltonlocalbiz.com
-*.hilton.com.tr
 *.hilton.com
+*.hilton.com.tr
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -1181,10 +1181,10 @@ www.stayz.com.au
 www.expediagroup.com
 www.flights.com
 *.travelocity.ca
-www.expedia.com
-*.expediapartnercentral.com
-*.expediacruises.com
 *.travelocity.com
+www.expedia.com
+*.expediacruises.com
+*.expediapartnercentral.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1984,8 +1984,8 @@ internal-docs.netlify.com
 internal.netlify.com
 *.ops.netlify.com
 app.netlify.com
-api.netlify.com
 *.infra-prod.nsvcs.net
+api.netlify.com
 *.services.netlify.com
 *.services-prod.nsvcs.net
 *.infra-prod.nsvcs.net
@@ -2033,8 +2033,8 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-www.cloud.com
 (yoursubdomain).sharefile.com
+www.cloud.com
 (yoursubdomain).sharefile.eu
 citrix.cloud.com
 www.cloud.com
@@ -2074,13 +2074,13 @@ fp-sg.tiktokv.com
 business.tiktok.com
 creatormarketplace.tiktok.com
 partner.tiktokshop.com
-tiktok.com
 *.tiktokv.com
-www.pangleglobal.com
 ads.tiktok.com
 shop.tiktok.com
 *.tiktok.com
 effecthouse.tiktok.com
+tiktok.com
+www.pangleglobal.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2549,7 +2549,6 @@ paragon-na.amazon.com
 read.amazon.com
 updates.amazon.com
 *.taobao.com
-*.aliyun.com
 *.alibabacloud.com
 *.1688.com
 *.alibaba-inc.com
@@ -2558,9 +2557,10 @@ www.alibabagroup.com
 *.alimama.com
 *.aliexpress.ru
 *.Daraz.com
-*.tmall.com
 *.aliexpress.com
 *.alibaba.com
+*.tmall.com
+*.aliyun.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2586,7 +2586,6 @@ www.bmw-motorrad.de
 configure.bmw.de
 configure.mini.de
 konfigurator.bmw-motorrad.de
-auth.magic.link
 dashboard.magic.link
 api.magic.link
 fortmatic.com
@@ -2594,6 +2593,7 @@ api.fortmatic.com
 x2.fortmatic.com
 careers.fortmatic.com
 dashboard.fortmatic.com
+auth.magic.link
 api.fortmatic.com
 x2.fortmatic.com
 careers.fortmatic.com
@@ -2845,11 +2845,11 @@ cysiv.com
 app.command.cysiv.com
 api.rezserver.com
 admin.rezserver.com
-www.priceline.com
 reservations.rezserver.com
 cruises.priceline.com
 press.priceline.com
 www.bookingholdings.com
+secure.rezserver.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -3130,8 +3130,8 @@ scrutiny.swiftfinancial.com
 *.braintreegateway.com
 *.paypalcorp.com
 www.loanbuilder.com
-*.paypal.com
 my.swiftfinancial.com
+*.paypal.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3319,9 +3319,9 @@ auth.crypto.com
 pay.crypto.com
 app.mona.co
 *.mona.co
+js.crypto.com
 merchant.crypto.com
 *.crypto.com
-js.crypto.com
 tax.crypto.com
 *.crypto.com
 *.mona.co
@@ -3852,11 +3852,11 @@ shopify.plus
 arrive-server.shopifycloud.com
 *.shopifycs.com
 accounts.shopify.com
-your-store.myshopify.com
-*.shopify.com
-partners.shopify.com
-admin.shopify.com
 *.shopify.io
+partners.shopify.com
+*.shopify.com
+admin.shopify.com
+your-store.myshopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -4153,8 +4153,8 @@ pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
-institutional.coinbase.com
 api.coinbase.com
+institutional.coinbase.com
 *.base.org
 international.coinbase.com
 nft.coinbase.com
@@ -4228,10 +4228,10 @@ ctf.hacker101.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 www.wearehackerone.com
 hackerone-user-content.com
-www.hackerone.com
+hackerone.com
 cover-photos.hackerone-user-content.com
 app.pullrequest.com
-hackerone.com
+www.hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
