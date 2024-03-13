@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar 13 02:23:16 UTC 2024)
+## Domains with Bounties (Last Updated Wed Mar 13 03:19:11 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -349,8 +349,8 @@ worldcoin.org
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
-www.tari.com
 www.tarilabs.com
+www.tari.com
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
@@ -389,9 +389,9 @@ sandbox.fireblocks.io
 http://sb-mobile-api.fireblocks.io
 http://sb-console-api.fireblocks.io
 http://sandbox-api.fireblocks.io
-sso-sprint.dynatracelabs.com
 account-sprint.dynatracelabs.com
 *.sprint.dynatracelabs.com
+sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
@@ -436,8 +436,8 @@ mediacenter.23andme.com
 medical.23andme.com
 store.23andme.com
 therapeutics.23andme.com
-you.23andme.com
 research.23andme.com
+you.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -510,9 +510,9 @@ spark.fareharbor.com
 kyc-onboarding.booking.com
 secure.booking.com
 account.booking.com
-*.booking.com
 *.rentalcars.com
 careers.booking.com
+*.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -784,8 +784,8 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshdesk.com
 yourdomain.freshchat.com
 yourdomain.freshcaller.com
-yourdomain.myfreshworks.com
 yourdomain.freshservice.com
+yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -870,8 +870,8 @@ stage.taskcluster.nonprod.cloudops.mozgcp.net
 community-tc.services.mozilla.com
 support.mozilla.org
 hg.mozilla.org
-www.mozilla.org
 monitor.mozilla.org
+www.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -2077,12 +2077,12 @@ fp-sg.tiktokv.com
 effecthouse.tiktok.com
 business.tiktok.com
 creatormarketplace.tiktok.com
-ads.tiktok.com
 *.tiktokv.com
+ads.tiktok.com
 www.pangleglobal.com
 partner.tiktokshop.com
-tiktok.com
 *.tiktok.com
+tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2752,7 +2752,6 @@ codahosted.io
 codacontent.io
 sketch.pixiv.net
 sensei.pixiv.net
-accounts.pixiv.net
 www.pixiv.net
 booth.pm
 comic.pixiv.net
@@ -2764,6 +2763,7 @@ payment.pixiv.net
 neoket.net
 novel.pixiv.net
 coban.pixiv.net
+accounts.pixiv.net
 *.fanbox.cc
 booth.pm
 comic.pixiv.net
@@ -2940,7 +2940,6 @@ booking.beachbound.com
 book.beachbound.com
 book.extraholidaysvacations.com
 holidays-nz.fijiairways.com
-res.en.travelbrandsagent.com
 res.funjet.com
 res.marival.globalbookingsolutions.com
 res.secretsresorts.com
@@ -2965,6 +2964,7 @@ res.fr.travelbrandsagent.com
 res.southwestvacations.com
 res.universalorlandovacations.com
 res.vacations.united.com
+res.vacations.universalstudioshollywood.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -3133,8 +3133,8 @@ scrutiny.swiftfinancial.com
 *.paylution.com
 *.braintreegateway.com
 *.paypalcorp.com
-www.loanbuilder.com
 *.paypal.com
+www.loanbuilder.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3225,7 +3225,6 @@ www.shipt.com
 *.goldman.com
 *.marcus.com
 *.honestdollar.com
-*.goldmansachs.com
 *.gspublishing.com
 research.gs.com
 *.ayco.com
@@ -3300,8 +3299,8 @@ www.valvesoftware.com
 partner.steamgames.com
 playartifact.com
 api.steampowered.com
-www.teamfortress.com
 help.steampowered.com
+www.teamfortress.com
 steamcommunity.com
 store.steampowered.com
 www.counter-strike.net
@@ -3859,8 +3858,8 @@ accounts.shopify.com
 your-store.myshopify.com
 *.shopify.io
 *.shopify.com
-partners.shopify.com
 admin.shopify.com
+partners.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -4154,12 +4153,12 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
-api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
 institutional.coinbase.com
+api.coinbase.com
 *.base.org
 international.coinbase.com
 nft.coinbase.com

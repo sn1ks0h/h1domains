@@ -370,9 +370,9 @@ vendasta,partners.vendasta.com,False
 tari_labs,explore.tari.com,True
 tari_labs,rfc.tari.com,True
 tari_labs,textexplore.tari.com,True
-tari_labs,www.tari.com,True
 tari_labs,tlu.tarilabs.com,False
 tari_labs,www.tarilabs.com,True
+tari_labs,www.tari.com,True
 tari_labs,explore.tari.com,True
 tari_labs,rfc.tari.com,True
 tari_labs,textexplore.tari.com,True
@@ -438,9 +438,9 @@ fireblocks,sandbox.fireblocks.io,True
 fireblocks,http://sb-mobile-api.fireblocks.io,True
 fireblocks,http://sb-console-api.fireblocks.io,True
 fireblocks,http://sandbox-api.fireblocks.io,True
-dynatrace,sso-sprint.dynatracelabs.com,True
 dynatrace,account-sprint.dynatracelabs.com,True
 dynatrace,*.sprint.dynatracelabs.com,True
+dynatrace,sso-sprint.dynatracelabs.com,True
 dynatrace,university-staging.dynatracelabs.com,True
 dynatrace,myaccount-hardening.dynatracelabs.com,True
 dynatrace,*.sprint.apps.dynatracelabs.com,True
@@ -499,8 +499,8 @@ egress-vdp,www.egress.com,False
 23andme_bbp,medical.23andme.com,True
 23andme_bbp,store.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
-23andme_bbp,you.23andme.com,True
 23andme_bbp,research.23andme.com,True
+23andme_bbp,you.23andme.com,True
 23andme_bbp,api.23andme.com,True
 23andme_bbp,auth.23andme.com,True
 23andme_bbp,blog.23andme.com,True
@@ -573,9 +573,9 @@ bookingcom,spark.fareharbor.com,True
 bookingcom,kyc-onboarding.booking.com,True
 bookingcom,secure.booking.com,True
 bookingcom,account.booking.com,True
-bookingcom,*.booking.com,True
 bookingcom,*.rentalcars.com,True
 bookingcom,careers.booking.com,True
+bookingcom,*.booking.com,True
 bookingcom,*.booking.com,True
 bookingcom,*.rentalcars.com,True
 bookingcom,booking.com,True
@@ -1907,7 +1907,6 @@ fertitta_entertainment,thepostoakhotel.com,False
 fertitta_entertainment,shoppostoak.com,False
 fertitta_entertainment,tilmanfertitta.com,False
 fertitta_entertainment,fertittaentertainmentinc.com,False
-aboitizpower_corporation,*.aboitizpower.com,False
 aboitizpower_corporation,*.snaboitiz.com,False
 aboitizpower_corporation,*.enerzone.com.ph,False
 aboitizpower_corporation,*.cotabatolight.com,False
@@ -1946,6 +1945,7 @@ aboitizpower_corporation,sustainablephilippines.com,False
 aboitizpower_corporation,veco.com.ph,False
 aboitizpower_corporation,visayanelectric.com.ph,False
 aboitizpower_corporation,visayanelectric.ph,False
+aboitizpower_corporation,*.aboitizpower.com,False
 aboitizpower_corporation,*.aboitizpower.com,False
 aboitizpower_corporation,*.snaboitiz.com,False
 aboitizpower_corporation,*.enerzone.com.ph,False
@@ -3160,8 +3160,8 @@ clarivate,biologyfinder.com,False
 freshworks,yourdomain.freshdesk.com,True
 freshworks,yourdomain.freshchat.com,True
 freshworks,yourdomain.freshcaller.com,True
-freshworks,yourdomain.myfreshworks.com,True
 freshworks,yourdomain.freshservice.com,True
+freshworks,yourdomain.myfreshworks.com,True
 freshworks,yourdomain.freshdesk.com,True
 freshworks,yourdomain.freshservice.com,True
 freshworks,yourdomain.freshchat.com,True
@@ -3251,8 +3251,8 @@ mozilla_core_services,stage.taskcluster.nonprod.cloudops.mozgcp.net,True
 mozilla_core_services,community-tc.services.mozilla.com,True
 mozilla_core_services,support.mozilla.org,True
 mozilla_core_services,hg.mozilla.org,True
-mozilla_core_services,www.mozilla.org,True
 mozilla_core_services,monitor.mozilla.org,True
+mozilla_core_services,www.mozilla.org,True
 mozilla_core_services,developer.mozilla.org,True
 mozilla_core_services,profiler.firefox.com,True
 mozilla_core_services,vpn.mozilla.org,True
@@ -4930,8 +4930,8 @@ trendyol,www.trendyol.com,True
 trendyol,m.trendyol.com,True
 trendyol,www.dolap.com,True
 trendyol,www.trendyol-milla.com,True
-trellix,*.trellix.com,False
 trellix,*.skyhighsecurity.com,False
+trellix,*.trellix.com,False
 trellix,*.trellix.com,False
 trellix,*.skyhighsecurity.com,False
 sidefx,*.sidefx.com,True
@@ -7381,12 +7381,12 @@ tiktok,fp-sg.tiktokv.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
-tiktok,ads.tiktok.com,True
 tiktok,*.tiktokv.com,True
+tiktok,ads.tiktok.com,True
 tiktok,www.pangleglobal.com,True
 tiktok,partner.tiktokshop.com,True
-tiktok,tiktok.com,True
 tiktok,*.tiktok.com,True
+tiktok,tiktok.com,True
 tiktok,*.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,ads.tiktok.com,True
@@ -8966,7 +8966,6 @@ coda_bbp,codahosted.io,True
 coda_bbp,codacontent.io,True
 pixiv,sketch.pixiv.net,True
 pixiv,sensei.pixiv.net,True
-pixiv,accounts.pixiv.net,True
 pixiv,www.pixiv.net,True
 pixiv,booth.pm,True
 pixiv,comic.pixiv.net,True
@@ -8978,6 +8977,7 @@ pixiv,payment.pixiv.net,True
 pixiv,neoket.net,True
 pixiv,novel.pixiv.net,True
 pixiv,coban.pixiv.net,True
+pixiv,accounts.pixiv.net,True
 pixiv,*.fanbox.cc,True
 pixiv,booth.pm,True
 pixiv,comic.pixiv.net,True
@@ -9107,7 +9107,6 @@ equifax,*.datacredito1.com,False
 equifax,*.datacredito2.com,False
 equifax,*.datacredito3.com,False
 equifax,*.equifax.cl,False
-equifax,*.equifax.com,False
 equifax,*.idwatchdog.com,False
 equifax,*.mercury.com.au,False
 equifax,*.ntcusa.com,False
@@ -9362,7 +9361,6 @@ hyatt,booking.beachbound.com,True
 hyatt,book.beachbound.com,True
 hyatt,book.extraholidaysvacations.com,True
 hyatt,holidays-nz.fijiairways.com,True
-hyatt,res.en.travelbrandsagent.com,True
 hyatt,res.funjet.com,True
 hyatt,res.marival.globalbookingsolutions.com,True
 hyatt,res.secretsresorts.com,True
@@ -9387,6 +9385,7 @@ hyatt,res.fr.travelbrandsagent.com,True
 hyatt,res.southwestvacations.com,True
 hyatt,res.universalorlandovacations.com,True
 hyatt,res.vacations.united.com,True
+hyatt,res.vacations.universalstudioshollywood.com,True
 hyatt,hyatt.com,True
 hyatt,www.hyatt.com,True
 hyatt,world.hyatt.com,True
@@ -9557,8 +9556,8 @@ paypal,*.hyperwallet.com,True
 paypal,*.paylution.com,True
 paypal,*.braintreegateway.com,True
 paypal,*.paypalcorp.com,True
-paypal,www.loanbuilder.com,True
 paypal,*.paypal.com,True
+paypal,www.loanbuilder.com,True
 paypal,www.paypal-*.com,True
 paypal,*.xoom.com,True
 paypal,*.paypal.com,True
@@ -9655,7 +9654,6 @@ goldmansachs,*.marcus.co.uk,True
 goldmansachs,*.goldman.com,True
 goldmansachs,*.marcus.com,True
 goldmansachs,*.honestdollar.com,True
-goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.gspublishing.com,True
 goldmansachs,research.gs.com,True
 goldmansachs,*.ayco.com,True
@@ -9734,8 +9732,8 @@ valve,www.valvesoftware.com,True
 valve,partner.steamgames.com,True
 valve,playartifact.com,True
 valve,api.steampowered.com,True
-valve,www.teamfortress.com,True
 valve,help.steampowered.com,True
+valve,www.teamfortress.com,True
 valve,steamcommunity.com,True
 valve,store.steampowered.com,True
 valve,www.counter-strike.net,True
@@ -10429,8 +10427,8 @@ shopify,accounts.shopify.com,True
 shopify,your-store.myshopify.com,True
 shopify,*.shopify.io,True
 shopify,*.shopify.com,True
-shopify,partners.shopify.com,True
 shopify,admin.shopify.com,True
+shopify,partners.shopify.com,True
 shopify,*.shopifycs.com,True
 shopify,*.shopify.io,True
 shopify,*.shopify.com,True
@@ -10874,12 +10872,12 @@ irccloud,team-irc.irccloud.com,True
 irccloud,blog.irccloud.com,True
 coinbase,*.cbhq.net,True
 coinbase,api.custody.coinbase.com,True
-coinbase,api.coinbase.com,True
 coinbase,pro.coinbase.com,True
 coinbase,custody.coinbase.com,True
 coinbase,commerce.coinbase.com,True
 coinbase,prime.coinbase.com,True
 coinbase,institutional.coinbase.com,True
+coinbase,api.coinbase.com,True
 coinbase,*.base.org,True
 coinbase,international.coinbase.com,True
 coinbase,nft.coinbase.com,True
