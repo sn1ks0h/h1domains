@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar 13 03:19:11 UTC 2024)
+## Domains with Bounties (Last Updated Wed Mar 13 04:18:41 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -721,7 +721,7 @@ www.authorize.net
 www.cardinalcommerce.com
 www.yellowpepper.com
 www.fraedom.com
-usa.visa.com
+www.tink.com
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -784,8 +784,8 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshdesk.com
 yourdomain.freshchat.com
 yourdomain.freshcaller.com
-yourdomain.freshservice.com
 yourdomain.myfreshworks.com
+yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -1060,7 +1060,6 @@ cloud8.8x8.com
 *.p8t.us
 *.wavecell.com
 pay.8x8.com
-sso.8x8.com
 platform.8x8.com
 *.chalet.8x8.com
 work.8x8.com
@@ -1133,8 +1132,8 @@ moonpay.com
 hypermint.com
 doppler.team
 api.doppler.com
-dashboard.doppler.com
 share.doppler.com
+dashboard.doppler.com
 doppler.team
 api.doppler.com
 dashboard.doppler.com
@@ -1215,8 +1214,8 @@ www.expediagroup.com
 www.flights.com
 magiceden.io
 *.magiceden.dev
-*.magiceden.workers.dev
 *.magiceden.io
+*.magiceden.workers.dev
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -1939,8 +1938,8 @@ passport.larksuite.com
 internal-api.larksuite.com
 internal-api-lark-api.larksuite.com
 internal-api-drive-stream.larksuite.com
-hackers_chosendomain.larksuite.com
 app.larksuite.com
+hackers_chosendomain.larksuite.com
 larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
@@ -2024,7 +2023,6 @@ launch.cloud.com
 (yoursubdomain).sf-api.com
 (yoursubdomain).sf-api.eu
 sf-rp-eu.sharefile.com
-(yoursubdomain).sharefile.com
 (yoursubdomain).sharefile.eu
 sf-rp-us.sharefile.com
 secure.sharefile.com
@@ -2038,6 +2036,7 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
+(yoursubdomain).sharefile.com
 citrix.cloud.com
 www.cloud.com
 ap-s.cloud.com
@@ -2077,12 +2076,12 @@ fp-sg.tiktokv.com
 effecthouse.tiktok.com
 business.tiktok.com
 creatormarketplace.tiktok.com
-*.tiktokv.com
+tiktok.com
 ads.tiktok.com
-www.pangleglobal.com
+*.tiktokv.com
 partner.tiktokshop.com
 *.tiktok.com
-tiktok.com
+www.pangleglobal.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2168,7 +2167,6 @@ www.kruidvat.be
 www.iciparisxl.nl
 www.iciparisxl.be
 www.iciparisxl.lu
-www.theperfumeshop.com
 app.kruidvat.nl
 app.kruidvat.be
 app.iciparisxl.nl
@@ -3112,6 +3110,14 @@ https://github.com/matomo-org/docker
 paypalobjects.com
 paypal.me
 py.pl
+*.braintreepayments.com
+*.braintree-api.com
+*.braintree.tools
+prequal.swiftfinancial.com
+partner.swiftfinancial.com
+decision.swiftfinancial.com
+pigeon.swiftfinancial.com
+scrutiny.swiftfinancial.com
 www.swiftcapital.com
 www.swiftfinancial.com
 api.swiftfinancial.com
@@ -3121,20 +3127,12 @@ my.loanbuilder.com
 loanbuilder.com
 swiftfinancial.com
 swiftcapital.com
-*.braintreepayments.com
-*.braintree-api.com
-*.braintree.tools
-prequal.swiftfinancial.com
-partner.swiftfinancial.com
-decision.swiftfinancial.com
-pigeon.swiftfinancial.com
-scrutiny.swiftfinancial.com
 *.hyperwallet.com
 *.paylution.com
 *.braintreegateway.com
 *.paypalcorp.com
-*.paypal.com
 www.loanbuilder.com
+*.paypal.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3299,8 +3297,8 @@ www.valvesoftware.com
 partner.steamgames.com
 playartifact.com
 api.steampowered.com
-help.steampowered.com
 www.teamfortress.com
+help.steampowered.com
 steamcommunity.com
 store.steampowered.com
 www.counter-strike.net
@@ -3411,8 +3409,8 @@ verovelvollisuustiedot.lahitapiola.fi
 sijoitusvakuutus.lahitapiola.fi
 privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
-*.beta.lahitapiola.fi
 *.lahitapiola.fi
+*.beta.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -3431,13 +3429,13 @@ asiointi.lahitapiola.fi
 api.lahitapiola.fi
 privatetarget-2-secure.zigzag
 privatetarget-1-www.zigzag
-*.semrush.com
 *.semrush.net
 *.seoquake.com
 *.seoab.io
 *.scatec.io
 *.sellzone.com
 *.myinsights.io
+*.semrush.com
 *.semrush.com
 *.semrush.net
 *.seoquake.com
@@ -3857,9 +3855,9 @@ arrive-server.shopifycloud.com
 accounts.shopify.com
 your-store.myshopify.com
 *.shopify.io
+partners.shopify.com
 *.shopify.com
 admin.shopify.com
-partners.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -4011,7 +4009,6 @@ callbacks.airbnb.com
 *.luxuryretreats.com
 *.hoteltonight-test.com
 www.hoteltonight.com
-*.vimeo.com
 checkout.vimeo.com
 player.vimeo.com
 api.vimeo.com
@@ -4026,6 +4023,7 @@ www.magisto.com
 *.magisto.com
 staging.magisto.com
 applause1.magisto.com
+*.livestream.com
 *.cloud.vimeo.com
 *.vimeo.com
 *.vhx.tv
@@ -4153,12 +4151,12 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
+api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
 institutional.coinbase.com
-api.coinbase.com
 *.base.org
 international.coinbase.com
 nft.coinbase.com
