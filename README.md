@@ -2,11 +2,10 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar 13 13:20:19 UTC 2024)
+## Domains with Bounties (Last Updated Wed Mar 13 14:21:56 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
-www.dyson.it
 www.dyson.ie
 www.dyson.ch
 www.dyson.se
@@ -44,6 +43,8 @@ www.dyson.hk
 www.dyson.co.th
 www.dyson.my
 shop.dyson.co.za
+www.sa.dyson.com
+www.dyson.cz
 *.dyson.com
 www.dyson.co.uk
 www.dyson.com
@@ -321,8 +322,8 @@ webonboarding-eu.truecaller.com
 cards.remitly.io
 rewire.com
 app.rewire.to
-remitly.com
 api.remitly.io
+remitly.com
 remitly.com
 api.remitly.io
 cards.remitly.io
@@ -335,8 +336,8 @@ bioid-management.app
 *.worldcoin.dev
 worldcoin.org
 *.toolsforhumanity.com
-*.consumer.worldcoin.org
 *.worldcoin.org
+*.consumer.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -413,10 +414,10 @@ editor.zyro.com
 logo.zyro.com
 cpanel.hostinger.com
 payments.hostinger.com
-www.niagahoster.co.id
 *.000webhost.com
 www.hostinger.com
 hpanel.hostinger.com
+www.niagahoster.co.id
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -869,8 +870,8 @@ stage.taskcluster.nonprod.cloudops.mozgcp.net
 community-tc.services.mozilla.com
 support.mozilla.org
 hg.mozilla.org
-monitor.mozilla.org
 www.mozilla.org
+monitor.mozilla.org
 developer.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
@@ -901,8 +902,8 @@ hiltonhotels.jp
 hilton.com.tr
 hiltonbusinessonline.com
 hiltonlocalbiz.com
-*.hilton.com
 *.hilton.com.tr
+*.hilton.com
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -1180,11 +1181,11 @@ www.fewo-direkt.de
 www.stayz.com.au
 www.expediagroup.com
 www.flights.com
-*.travelocity.ca
-*.travelocity.com
 www.expedia.com
 *.expediacruises.com
 *.expediapartnercentral.com
+*.travelocity.com
+*.travelocity.ca
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1643,8 +1644,8 @@ securitytrails.com
 geminiadvisory.io
 hatching.io
 tria.ge
-www.recordedfuture.com
 app.recordedfuture.com
+www.recordedfuture.com
 www.recordedfuture.com
 api.recordedfuture.com
 app.recordedfuture.com
@@ -1768,7 +1769,6 @@ cloud.elastic.co
 *.eops.nl
 www.elastic.co
 cloud.elastic.co
-api.stripe.com
 *.stripe.com
 *.touchtechpayments.com
 api.taxjar.com
@@ -1779,6 +1779,7 @@ js.stripe.com
 *.reckostaging.com
 *.link.co
 *.getbouncer.com
+api.stripe.com
 api.stripe.com
 *.stripe.com
 *.touchtechpayments.com
@@ -1929,7 +1930,6 @@ nvio.ar
 larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
-open.larksuite.com
 api.larksuite.com
 caldav.larksuite.com
 status.larksuite.com
@@ -1939,6 +1939,7 @@ internal-api-lark-api.larksuite.com
 internal-api-drive-stream.larksuite.com
 app.larksuite.com
 hackers_chosendomain.larksuite.com
+open.larksuite.com
 larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
@@ -1984,8 +1985,8 @@ internal-docs.netlify.com
 internal.netlify.com
 *.ops.netlify.com
 app.netlify.com
-*.infra-prod.nsvcs.net
 api.netlify.com
+*.infra-prod.nsvcs.net
 *.services.netlify.com
 *.services-prod.nsvcs.net
 *.infra-prod.nsvcs.net
@@ -2033,8 +2034,8 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-(yoursubdomain).sharefile.com
 www.cloud.com
+(yoursubdomain).sharefile.com
 (yoursubdomain).sharefile.eu
 citrix.cloud.com
 www.cloud.com
@@ -2066,7 +2067,6 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-careers.tiktok.com
 developers.tiktok.com
 live-backstage.tiktok.com
 academy-outbound-ads.tiktok.com
@@ -2074,13 +2074,14 @@ fp-sg.tiktokv.com
 business.tiktok.com
 creatormarketplace.tiktok.com
 partner.tiktokshop.com
-*.tiktokv.com
+www.pangleglobal.com
+tiktok.com
 ads.tiktok.com
 shop.tiktok.com
-*.tiktok.com
 effecthouse.tiktok.com
-tiktok.com
-www.pangleglobal.com
+*.tiktokv.com
+careers.tiktok.com
+*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2448,6 +2449,7 @@ msh.amazon.com
 music-api.amazon.com
 music-hints-na.amazon.com
 musicapp.amazon.com
+musiccentral.amazon.com
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -2557,8 +2559,8 @@ www.alibabagroup.com
 *.alimama.com
 *.aliexpress.ru
 *.Daraz.com
-*.aliexpress.com
 *.alibaba.com
+*.aliexpress.com
 *.tmall.com
 *.aliyun.com
 *.alibaba.com
@@ -2586,7 +2588,6 @@ www.bmw-motorrad.de
 configure.bmw.de
 configure.mini.de
 konfigurator.bmw-motorrad.de
-dashboard.magic.link
 api.magic.link
 fortmatic.com
 api.fortmatic.com
@@ -2594,6 +2595,7 @@ x2.fortmatic.com
 careers.fortmatic.com
 dashboard.fortmatic.com
 auth.magic.link
+dashboard.magic.link
 api.fortmatic.com
 x2.fortmatic.com
 careers.fortmatic.com
@@ -3073,8 +3075,8 @@ service.tvg.com
 us.tvg.com
 tvg.com
 www.4njbets.com
-fdbox.net
 *.fanduel.com
+fdbox.net
 fanduel.design
 *.fanduel.com
 *racing.fanduel.com
@@ -3295,12 +3297,12 @@ partner.steampowered.com
 www.valvesoftware.com
 partner.steamgames.com
 playartifact.com
-api.steampowered.com
 www.teamfortress.com
 help.steampowered.com
 steamcommunity.com
 store.steampowered.com
 www.counter-strike.net
+api.steampowered.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3701,8 +3703,8 @@ education.github.com
 npmjs.com
 npmjs.org
 api.github.com
-github.com
 *.githubusercontent.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3746,11 +3748,11 @@ winecellar.zomato.com
 *.zomans.com
 *.hyperpure.com
 *.zdev.net
-*.runnr.in
 api.grofers.com
 api2.grofers.com
 blinkit.com
 *.zomato.com
+*.runnr.in
 *.zomato.com
 *.zdev.net
 *.zomans.com
@@ -3851,12 +3853,12 @@ shop.app
 shopify.plus
 arrive-server.shopifycloud.com
 *.shopifycs.com
-accounts.shopify.com
-*.shopify.io
 partners.shopify.com
 *.shopify.com
-admin.shopify.com
+accounts.shopify.com
 your-store.myshopify.com
+admin.shopify.com
+*.shopify.io
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3985,8 +3987,8 @@ callbacks.airbnb.com
 *.hoteltonight-test.com
 www.hoteltonight.com
 *.airbnbcitizen.com
-www.airbnb.com
 *.airbnb.com
+www.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -4176,7 +4178,6 @@ nft.coinbase.com
 http://coinbase.com
 international.coinbase.com
 *.base.org
-api.slack.com
 status.slack.com
 slackb.com
 edgeapi.slack.com
@@ -4188,6 +4189,7 @@ www.quip.com
 *.quip.com
 slack.com
 app.slack.com
+api.slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -4212,12 +4214,10 @@ apis.mail.yahoo.com
 yimg.com
 *.vpn.hackerone.net
 errors.hackerone.net
-api.hackerone.com
 hackerone.live
 mta-sts.wearehackerone.com
 a5s.hackerone-ext-content.com
 b5s.hackerone-ext-content.com
-hackerone-ext-content.com
 hackathon-photos.hackerone-user-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
@@ -4228,10 +4228,12 @@ ctf.hacker101.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 www.wearehackerone.com
 hackerone-user-content.com
-hackerone.com
 cover-photos.hackerone-user-content.com
 app.pullrequest.com
 www.hackerone.com
+hackerone-ext-content.com
+hackerone.com
+api.hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
