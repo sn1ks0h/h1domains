@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar 13 11:19:08 UTC 2024)
+## Domains with Bounties (Last Updated Wed Mar 13 12:28:46 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -320,9 +320,9 @@ webdirectory-eu.truecaller.com
 webonboarding-eu.truecaller.com
 cards.remitly.io
 rewire.com
+app.rewire.to
 api.remitly.io
 remitly.com
-app.rewire.to
 remitly.com
 api.remitly.io
 cards.remitly.io
@@ -509,10 +509,10 @@ spark.fareharbor.com
 kyc-onboarding.booking.com
 account.booking.com
 careers.booking.com
-*.booking.com
-booking.com
 secure.booking.com
 *.rentalcars.com
+*.booking.com
+booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -901,8 +901,8 @@ hiltonhotels.jp
 hilton.com.tr
 hiltonbusinessonline.com
 hiltonlocalbiz.com
-*.hilton.com
 *.hilton.com.tr
+*.hilton.com
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -1182,8 +1182,8 @@ www.expediagroup.com
 www.flights.com
 *.travelocity.ca
 www.expedia.com
-*.expediacruises.com
 *.expediapartnercentral.com
+*.expediacruises.com
 *.travelocity.com
 *.vrbo.com
 *.hotwire.com
@@ -1372,13 +1372,13 @@ ws.sorare.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
-my.exness.com
 pay.ibex.exchange
 exnessaffiliates.com
 social-trading.exness.com
 pwapi.ex2b.com
 exness.com
 api.excalls.mobi
+my.exness.com
 my.exness.com
 pay.ibex.exchange
 https://my.exness.com/webtrading/
@@ -1469,8 +1469,8 @@ bullsheet.me
 api.instacart.com
 admin.instacart.com
 shoppers.instacart.com
-*.instacart.com
 www.instacart.com
+*.instacart.com
 *.instacart.com
 *.instacart.tools
 api.instacart.com
@@ -1489,8 +1489,8 @@ community.databricks.com
 customer-academy.databricks.com
 labs.databricks.com
 marketplace.databricks.com
-databricks.com
 accounts.cloud.databricks.com
+databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -1559,7 +1559,6 @@ metahuman.unrealengine.com
 twinmotion.unrealengine.com
 *.psyonix.com
 *.unrealengine.com
-*.fortnite.com
 *.mediatonic.co.uk
 *.3lateral.com
 *.cubicmotion.com
@@ -1920,8 +1919,8 @@ fetlife.com
 fetlife.com
 bitso.com
 api.bitso.com
-nvio.mx
 nvio.ar
+nvio.mx
 bitso.com
 api.bitso.com
 http://bitso.com/alpha
@@ -1983,10 +1982,10 @@ internal-docs.netlify.com
 *.services.netlify.com
 *.services-prod.nsvcs.net
 internal.netlify.com
-*.infra-prod.nsvcs.net
 *.ops.netlify.com
 app.netlify.com
 api.netlify.com
+*.infra-prod.nsvcs.net
 *.services.netlify.com
 *.services-prod.nsvcs.net
 *.infra-prod.nsvcs.net
@@ -2075,13 +2074,13 @@ fp-sg.tiktokv.com
 business.tiktok.com
 creatormarketplace.tiktok.com
 partner.tiktokshop.com
-effecthouse.tiktok.com
-ads.tiktok.com
-*.tiktokv.com
-shop.tiktok.com
 tiktok.com
-*.tiktok.com
+*.tiktokv.com
 www.pangleglobal.com
+ads.tiktok.com
+shop.tiktok.com
+*.tiktok.com
+effecthouse.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2428,7 +2427,6 @@ chat.amazon.com
 track.amazon.com
 api.amazon.com
 manufacturing.amazon.com
-aax-us-iad.amazon.com
 aca-livecards-service.amazon.com
 address-photos.amazon.com
 ads-setu-proxy.amazon.com
@@ -2449,6 +2447,7 @@ mas-sdk.amazon.com
 msh.amazon.com
 music-api.amazon.com
 music-hints-na.amazon.com
+musicapp.amazon.com
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -2850,6 +2849,7 @@ www.priceline.com
 reservations.rezserver.com
 cruises.priceline.com
 press.priceline.com
+www.bookingholdings.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -3073,8 +3073,8 @@ service.tvg.com
 us.tvg.com
 tvg.com
 www.4njbets.com
-*.fanduel.com
 fdbox.net
+*.fanduel.com
 fanduel.design
 *.fanduel.com
 *racing.fanduel.com
@@ -3318,11 +3318,11 @@ www.crypto.com
 auth.crypto.com
 pay.crypto.com
 app.mona.co
-tax.crypto.com
 *.mona.co
 merchant.crypto.com
 *.crypto.com
 js.crypto.com
+tax.crypto.com
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3984,8 +3984,8 @@ callbacks.airbnb.com
 *.luxuryretreats.com
 *.hoteltonight-test.com
 www.hoteltonight.com
-www.airbnb.com
 *.airbnbcitizen.com
+www.airbnb.com
 *.airbnb.com
 www.airbnb.com
 next.airbnb.com
@@ -4149,12 +4149,12 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
-api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
 institutional.coinbase.com
+api.coinbase.com
 *.base.org
 international.coinbase.com
 nft.coinbase.com
