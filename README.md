@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Mar 14 21:18:28 UTC 2024)
+## Domains with Bounties (Last Updated Thu Mar 14 22:16:51 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -101,7 +101,6 @@ www.dyson.cn
 shop.dyson.ru
 www.dyson.com.ua
 *.dyson.com
-business.truecaller.com
 account-noneu.truecaller.com
 account-onboarding-noneu.truecaller.com
 ads-audience-ingestion-noneu.truecaller.com
@@ -151,6 +150,7 @@ feedback-asia-south1.truecaller.com
 filter-store4-asia-south1.truecaller.com
 filter-store4.truecaller.com
 images-asia-south1.truecaller.com
+images.truecaller.com
 business.truecaller.com
 account-noneu.truecaller.com
 account-onboarding-noneu.truecaller.com
@@ -389,10 +389,10 @@ http://sb-console-api.fireblocks.io
 http://sandbox-api.fireblocks.io
 sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
-*.sprint.apps.dynatracelabs.com
-myaccount-hardening.dynatracelabs.com
 *.sprint.dynatracelabs.com
+myaccount-hardening.dynatracelabs.com
 account-sprint.dynatracelabs.com
+*.sprint.apps.dynatracelabs.com
 *.sprint.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -459,8 +459,8 @@ www.mercadolibre.cl
 www.mercadopago.cl
 www.mercadolibre.com.ar
 www.mercadopago.com.ar
-www.mercadopago.com.br
 api.mercadolibre.com
+www.mercadopago.com.br
 www.mercadolivre.com.br
 api.mercadopago.com
 www.mercadopago.com.ar
@@ -782,8 +782,8 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
-yourdomain.freshchat.com
 yourdomain.myfreshworks.com
+yourdomain.freshchat.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -1017,8 +1017,8 @@ www.sokos.fi
 api.sokos.fi
 cfapi.voikukka.fi
 digili.s-cloud.fi
-online.s-pankki.fi
 www.s-pankki.fi
+online.s-pankki.fi
 online.s-pankki.fi
 www.s-pankki.fi
 https://crosskey.io/stores/s-pankki/apis
@@ -1035,8 +1035,8 @@ www.kiwi.com
 auth.skypicker.com
 jobs.kiwi.com
 tequila.kiwi.com
-*.skypicker.com
 *.kiwi.com
+*.skypicker.com
 *.kiwi.com
 *.skypicker.com
 www.kiwi.com
@@ -1177,8 +1177,8 @@ www.fewo-direkt.de
 www.stayz.com.au
 www.expediagroup.com
 www.flights.com
-*.travelocity.ca
 *.expediapartnercentral.com
+*.travelocity.ca
 www.expedia.com
 *.travelocity.com
 *.vrbo.com
@@ -1487,8 +1487,8 @@ community.databricks.com
 customer-academy.databricks.com
 labs.databricks.com
 marketplace.databricks.com
-accounts.cloud.databricks.com
 databricks.com
+accounts.cloud.databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -1638,8 +1638,8 @@ securitytrails.com
 geminiadvisory.io
 hatching.io
 tria.ge
-www.recordedfuture.com
 app.recordedfuture.com
+www.recordedfuture.com
 www.recordedfuture.com
 api.recordedfuture.com
 app.recordedfuture.com
@@ -1753,8 +1753,8 @@ www.elastic.co
 *.elstc.co
 *.elasticnet.co
 *.eops.nl
-*.swiftype.com
 cloud.elastic.co
+*.swiftype.com
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1766,12 +1766,12 @@ cloud.elastic.co
 api.taxjar.com
 *.reckoproduction.com
 *.link.co
-api.stripe.com
 *.reckostaging.com
 *.recko.io
 js.stripe.com
 *.touchtechpayments.com
 *.stripe.com
+api.stripe.com
 app.taxjar.com
 api.stripe.com
 *.stripe.com
@@ -1796,7 +1796,6 @@ ads-api.reddit.com
 new.reddit.com
 *.redditinc.com
 *.redditblog.com
-*.reddithelp.com
 api.reddit.com
 mod.reddit.com
 oauth.reddit.com
@@ -1813,10 +1812,11 @@ redditforbusiness.com
 app.spiketrap.io
 www.spiketrap.io
 old.reddit.com
-ads.reddit.com
 matrix.redditspace.com
-www.reddit.com
+*.reddithelp.com
 *.reddit.com
+www.reddit.com
+ads.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1912,8 +1912,8 @@ fetlife.com
 fetlife.com
 api.bitso.com
 nvio.ar
-nvio.mx
 bitso.com
+nvio.mx
 bitso.com
 api.bitso.com
 http://bitso.com/alpha
@@ -1976,8 +1976,8 @@ internal-docs.netlify.com
 *.services-prod.nsvcs.net
 internal.netlify.com
 *.ops.netlify.com
-*.infra-prod.nsvcs.net
 api.netlify.com
+*.infra-prod.nsvcs.net
 app.netlify.com
 *.services.netlify.com
 *.services-prod.nsvcs.net
@@ -2024,8 +2024,8 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-www.cloud.com
 (yoursubdomain).sharefile.com
+www.cloud.com
 (yoursubdomain).sharefile.eu
 adm.cloud.com
 citrix.cloud.com
@@ -2062,18 +2062,18 @@ api.adm.cloud.com
 live-backstage.tiktok.com
 academy-outbound-ads.tiktok.com
 fp-sg.tiktokv.com
-careers.tiktok.com
-effecthouse.tiktok.com
 creatormarketplace.tiktok.com
-business.tiktok.com
 developers.tiktok.com
+effecthouse.tiktok.com
+careers.tiktok.com
+business.tiktok.com
 *.tiktokv.com
 shop.tiktok.com
 tiktok.com
-partner.tiktokshop.com
 www.pangleglobal.com
 *.tiktok.com
 ads.tiktok.com
+partner.tiktokshop.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2139,8 +2139,8 @@ api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
 *.acronis.work
-account.acronis.com
 *.acronis.com
+account.acronis.com
 beta-cloud.acronis.com
 *.5nine.com
 *-api-*.acronis.com
@@ -2553,8 +2553,8 @@ www.alibabagroup.com
 *.aliexpress.ru
 *.Daraz.com
 *.aliyun.com
-*.alibaba.com
 *.taobao.com
+*.alibaba.com
 *.alibabacloud.com
 *.aliexpress.com
 *.tmall.com
@@ -2575,8 +2575,8 @@ configure.bmw.de
 configure.mini.de
 konfigurator.bmw-motorrad.de
 www.mini.de
-www.bmw.de
 www.bmw-motorrad.de
+www.bmw.de
 www.bmw.de
 www.mini.de
 www.bmw-motorrad.de
@@ -2845,8 +2845,8 @@ admin.rezserver.com
 reservations.rezserver.com
 cruises.priceline.com
 flyiin.com
-priceline.com
 www.getaroom.com
+priceline.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -2934,7 +2934,6 @@ booking.beachbound.com
 book.beachbound.com
 book.extraholidaysvacations.com
 holidays-nz.fijiairways.com
-res.funjet.com
 res.marival.globalbookingsolutions.com
 res.secretsresorts.com
 res.skyteam.com
@@ -2959,6 +2958,7 @@ vacations.grandclass.grandvelas.com
 vacations.rivieramaya.grandvelas.com
 www.triseptapi.com
 www.triseptdemo.com
+www.applevacations.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -3065,14 +3065,14 @@ service.tvg.com
 fanduel.design
 fdbox.net
 *.fanduel.com
-us.tvg.com
 ia.tvg.com
-www.4njbets.com
 tvg.com
 mobile-prod.tvg.com
 login.tvg.com
 *racing.fanduel.com
 www.tvg.com
+us.tvg.com
+www.4njbets.com
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -3121,14 +3121,14 @@ pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
 *.hyperwallet.com
 *.paylution.com
+*.paypalcorp.com
 www.loanbuilder.com
 my.swiftfinancial.com
-*.paypalcorp.com
 paypalobjects.com
 *.venmo.com
 *.braintreegateway.com
-*.braintreepayments.com
 *.paypal.com
+*.braintreepayments.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3166,8 +3166,8 @@ m.chaturbate.com
 billingsupport.chaturbate.com
 *.mmcdn.com
 *.mmwebc.dev
-*.cb.dev
 chaturbate.com
+*.cb.dev
 *.highwebmedia.com
 *.securegatewayaccess.com
 *.mmcdn.com
@@ -3292,8 +3292,8 @@ partner.steampowered.com
 www.valvesoftware.com
 partner.steamgames.com
 playartifact.com
-www.teamfortress.com
 help.steampowered.com
+www.teamfortress.com
 www.counter-strike.net
 steamcommunity.com
 api.steampowered.com
@@ -3315,10 +3315,10 @@ www.crypto.com
 auth.crypto.com
 pay.crypto.com
 app.mona.co
-*.crypto.com
-js.crypto.com
-tax.crypto.com
 *.mona.co
+js.crypto.com
+*.crypto.com
+tax.crypto.com
 merchant.crypto.com
 *.crypto.com
 *.mona.co
@@ -3577,8 +3577,8 @@ support.rockstargames.com
 circolocorecords.com/
 store.rockstargames.com
 prod.ros.rockstargames.com
-socialclub.rockstargames.com
 *.rockstargames.com
+socialclub.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -3690,7 +3690,6 @@ moneybird.com
 moneybirdstorage.com
 moneybird.com
 moneybirdstorage.com
-gist.github.com
 classroom.github.com
 *.githubapp.com
 *.github.net
@@ -3700,6 +3699,7 @@ npmjs.org
 api.github.com
 *.githubusercontent.com
 github.com
+gist.github.com
 github.com
 api.github.com
 gist.github.com
@@ -3980,9 +3980,9 @@ callbacks.airbnb.com
 www.hoteltonight.com
 *.airbnbcitizen.com
 *.withairbnb.com
-*.airbnb.com
 api.airbnb.com
 www.airbnb.com
+*.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -4042,7 +4042,6 @@ staging.magisto.com
 applause1.magisto.com
 www.livestream.com
 donations.livestream.com
-www.greenhouse.io
 boards.greenhouse.io
 api.greenhouse.io
 onboarding.greenhouse.io
@@ -4051,6 +4050,7 @@ jss.greenhouse.io
 app.interseller.io
 app.greenhouse.io
 interseller.io
+www.greenhouse.io
 app.greenhouse.io
 boards.greenhouse.io
 api.greenhouse.io
@@ -4219,14 +4219,14 @@ www.wearehackerone.com
 cover-photos.hackerone-user-content.com
 app.pullrequest.com
 hackathon-photos.hackerone-user-content.com
-hackerone-user-content.com
-hackerone.live
 api.hackerone.com
 www.hackerone.com
 hackerone-ext-content.com
 errors.hackerone.net
 ctf.hacker101.com
 hackerone.com
+hackerone-user-content.com
+hackerone.live
 hackerone.com
 api.hackerone.com
 www.hackerone.com
