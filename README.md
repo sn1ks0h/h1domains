@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Mar 14 03:17:59 UTC 2024)
+## Domains with Bounties (Last Updated Thu Mar 14 04:19:55 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -334,8 +334,8 @@ getworldcoin.com
 bioid-management.app
 *.worldcoin.dev
 *.toolsforhumanity.com
-worldcoin.org
 *.worldcoin.org
+worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
@@ -389,8 +389,8 @@ sandbox.fireblocks.io
 http://sb-mobile-api.fireblocks.io
 http://sb-console-api.fireblocks.io
 http://sandbox-api.fireblocks.io
-sso-sprint.dynatracelabs.com
 *.sprint.dynatracelabs.com
+sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -412,10 +412,10 @@ backend.zyro.com
 editor.zyro.com
 logo.zyro.com
 payments.hostinger.com
-www.niagahoster.co.id
-cpanel.hostinger.com
 *.000webhost.com
 www.hostinger.com
+www.niagahoster.co.id
+cpanel.hostinger.com
 hpanel.hostinger.com
 *.000webhost.com
 www.hostinger.com
@@ -461,8 +461,8 @@ www.mercadolibre.cl
 www.mercadopago.cl
 api.mercadolibre.com
 www.mercadopago.com.br
-www.mercadolibre.com.ar
 www.mercadopago.com.ar
+www.mercadolibre.com.ar
 www.mercadolivre.com.br
 api.mercadopago.com
 www.mercadopago.com.ar
@@ -549,8 +549,8 @@ spark.fareharbor.com
 www.fareharbor.com
 *.bybit.com
 *.bybit.com
-api.au.frontegg.com
 portal.au.frontegg.com
+api.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
 api2.frontapp.com
@@ -672,7 +672,6 @@ fhir.redoxengine.com
 explore.redoxengine.com
 www.redoxengine.com
 help.redoxengine.com
-aw.visa.com
 bb.visa.com
 bd.visa.com
 bm.visa.com
@@ -722,6 +721,7 @@ www.yellowpepper.com
 www.fraedom.com
 www.tink.com
 www.practicalmoneyskills.com
+www.practicalbusinessskills.org
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -783,9 +783,9 @@ http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshdesk.com
 yourdomain.freshcaller.com
-yourdomain.freshservice.com
 yourdomain.myfreshworks.com
 yourdomain.freshchat.com
+yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -869,8 +869,8 @@ stage.taskcluster.nonprod.cloudops.mozgcp.net
 community-tc.services.mozilla.com
 support.mozilla.org
 hg.mozilla.org
-developer.mozilla.org
 www.mozilla.org
+developer.mozilla.org
 monitor.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
@@ -1098,7 +1098,6 @@ admin.8x8.com
 *.superbet.rs
 *.magicjackpot.ro
 *.spinaway.com
-*.luckydays.com
 *.luckydays.ca
 *.napoleoncasino.be
 *.napoleondice.be
@@ -1107,6 +1106,7 @@ admin.8x8.com
 *.superbet.pl
 *.superbet.ro
 *.superbet.com
+*.luckydays.com
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -1180,10 +1180,10 @@ www.fewo-direkt.de
 www.stayz.com.au
 www.expediagroup.com
 www.flights.com
+*.travelocity.ca
 www.expedia.com
 *.expediapartnercentral.com
 *.travelocity.com
-*.travelocity.ca
 *.expediacruises.com
 *.vrbo.com
 *.hotwire.com
@@ -1212,9 +1212,9 @@ www.stayz.com.au
 www.expediagroup.com
 www.flights.com
 *.magiceden.dev
-*.magiceden.io
 *.magiceden.workers.dev
 magiceden.io
+*.magiceden.io
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -1517,8 +1517,8 @@ teams.krisp.ai
 download.krisp.ai
 analytics.krisp.ai
 upld.krisp.ai
-api.krisp.ai
 *.krisp.ai
+api.krisp.ai
 *.krisp.ai
 krisp.ai
 account.krisp.ai
@@ -1924,7 +1924,6 @@ api.bitso.com
 http://bitso.com/alpha
 nvio.mx
 nvio.ar
-larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
 api.larksuite.com
@@ -1934,9 +1933,10 @@ passport.larksuite.com
 internal-api.larksuite.com
 internal-api-lark-api.larksuite.com
 internal-api-drive-stream.larksuite.com
+larksuite.com
+open.larksuite.com
 app.larksuite.com
 hackers_chosendomain.larksuite.com
-open.larksuite.com
 larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
@@ -2067,18 +2067,18 @@ api.adm.cloud.com
 live-backstage.tiktok.com
 academy-outbound-ads.tiktok.com
 fp-sg.tiktokv.com
-business.tiktok.com
-*.tiktokv.com
-creatormarketplace.tiktok.com
-www.pangleglobal.com
+careers.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
-careers.tiktok.com
-partner.tiktokshop.com
+creatormarketplace.tiktok.com
+www.pangleglobal.com
+business.tiktok.com
+*.tiktokv.com
 *.tiktok.com
 developers.tiktok.com
 tiktok.com
 ads.tiktok.com
+partner.tiktokshop.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2558,8 +2558,8 @@ www.alibabagroup.com
 *.alimama.com
 *.aliexpress.ru
 *.Daraz.com
-*.alibaba.com
 *.aliexpress.com
+*.alibaba.com
 *.aliyun.com
 *.tmall.com
 *.alibaba.com
@@ -2656,9 +2656,9 @@ hotel-deals.marriott.com
 moments.marriottbonvoy.com
 help.marriott.com
 mipartnerprivileges.marriott.com
-travelagents.marriott.com/
 www.marriott.com
 traveler.marriott.com
+travelagents.marriott.com/
 homes-and-villas.marriott.com
 careers.marriott.com
 sso.marriott.com
@@ -2723,10 +2723,10 @@ app.nordpass.com
 *.nordvpn.com
 app.nordpass.com
 *.line.me
-*.line-apps.com
 *.line.naver.jp
 *.line.biz
 *.linecorp.com
+*.line-apps.com
 *.line.me
 *.line-apps.com
 *.line.naver.jp
@@ -3073,10 +3073,10 @@ promos.tvg.com
 service.tvg.com
 us.tvg.com
 tvg.com
-fanduel.design
-*.fanduel.com
-www.4njbets.com
 fdbox.net
+fanduel.design
+www.4njbets.com
+*.fanduel.com
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -3296,10 +3296,10 @@ partner.steampowered.com
 www.valvesoftware.com
 partner.steamgames.com
 playartifact.com
-help.steampowered.com
 www.teamfortress.com
-www.counter-strike.net
+help.steampowered.com
 api.steampowered.com
+www.counter-strike.net
 steamcommunity.com
 store.steampowered.com
 www.dota2.com
@@ -3319,11 +3319,11 @@ www.crypto.com
 auth.crypto.com
 pay.crypto.com
 app.mona.co
+*.crypto.com
+js.crypto.com
+tax.crypto.com
 *.mona.co
 merchant.crypto.com
-js.crypto.com
-*.crypto.com
-tax.crypto.com
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3409,8 +3409,8 @@ verovelvollisuustiedot.lahitapiola.fi
 sijoitusvakuutus.lahitapiola.fi
 privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
-*.lahitapiola.fi
 *.beta.lahitapiola.fi
+*.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -3702,8 +3702,8 @@ education.github.com
 npmjs.com
 npmjs.org
 api.github.com
-github.com
 *.githubusercontent.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3901,9 +3901,9 @@ store.playcanvas.com
 playcanv.as
 *.sc-corp.net
 web.snapchat.com
-login.playcanvas.com
 playcanvas.com
 ads.snapchat.com
+login.playcanvas.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -4071,8 +4071,8 @@ gnip.com
 api.x.ai
 grok.x.ai
 ide.x.ai
-x.com
 *.twitter.com
+x.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -4150,11 +4150,11 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
+api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
-api.coinbase.com
 institutional.coinbase.com
 *.base.org
 international.coinbase.com
@@ -4187,8 +4187,8 @@ www.quip.com
 *.quip.com
 api.slack.com
 slack.com
-app.slack.com
 slack-imgs.com
+app.slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -4225,13 +4225,13 @@ reviewer.pullrequest.com
 ctf.hacker101.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 www.wearehackerone.com
-hackathon-photos.hackerone-user-content.com
-app.pullrequest.com
-cover-photos.hackerone-user-content.com
-hackerone-ext-content.com
-www.hackerone.com
-api.hackerone.com
 hackerone-user-content.com
+cover-photos.hackerone-user-content.com
+app.pullrequest.com
+www.hackerone.com
+hackerone-ext-content.com
+api.hackerone.com
+hackathon-photos.hackerone-user-content.com
 hackerone.com
 hackerone.com
 api.hackerone.com
