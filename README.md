@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Mar 14 20:18:33 UTC 2024)
+## Domains with Bounties (Last Updated Thu Mar 14 21:18:28 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -410,9 +410,9 @@ backend.zyro.com
 editor.zyro.com
 logo.zyro.com
 payments.hostinger.com
-www.niagahoster.co.id
 *.000webhost.com
 www.hostinger.com
+www.niagahoster.co.id
 hpanel.hostinger.com
 cpanel.hostinger.com
 *.000webhost.com
@@ -508,9 +508,9 @@ careers.booking.com
 widget.rentalcars.com
 booking.com
 account.booking.com
-*.rentalcars.com
 secure.booking.com
 *.booking.com
+*.rentalcars.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -868,8 +868,8 @@ community-tc.services.mozilla.com
 support.mozilla.org
 hg.mozilla.org
 developer.mozilla.org
-www.mozilla.org
 monitor.mozilla.org
+www.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -898,9 +898,9 @@ hiltonbusinessonline.com
 hiltonlocalbiz.com
 *.hilton.com.tr
 hilton.com
-*.hiltonbusinessonline.com
 hilton.io
 *.hilton.com
+*.hiltonbusinessonline.com
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -1177,8 +1177,8 @@ www.fewo-direkt.de
 www.stayz.com.au
 www.expediagroup.com
 www.flights.com
-*.expediapartnercentral.com
 *.travelocity.ca
+*.expediapartnercentral.com
 www.expedia.com
 *.travelocity.com
 *.vrbo.com
@@ -1638,8 +1638,8 @@ securitytrails.com
 geminiadvisory.io
 hatching.io
 tria.ge
-app.recordedfuture.com
 www.recordedfuture.com
+app.recordedfuture.com
 www.recordedfuture.com
 api.recordedfuture.com
 app.recordedfuture.com
@@ -1753,8 +1753,8 @@ www.elastic.co
 *.elstc.co
 *.elasticnet.co
 *.eops.nl
-cloud.elastic.co
 *.swiftype.com
+cloud.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1813,10 +1813,10 @@ redditforbusiness.com
 app.spiketrap.io
 www.spiketrap.io
 old.reddit.com
-www.reddit.com
 ads.reddit.com
-*.reddit.com
 matrix.redditspace.com
+www.reddit.com
+*.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1976,8 +1976,8 @@ internal-docs.netlify.com
 *.services-prod.nsvcs.net
 internal.netlify.com
 *.ops.netlify.com
-api.netlify.com
 *.infra-prod.nsvcs.net
+api.netlify.com
 app.netlify.com
 *.services.netlify.com
 *.services-prod.nsvcs.net
@@ -2024,8 +2024,8 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-(yoursubdomain).sharefile.com
 www.cloud.com
+(yoursubdomain).sharefile.com
 (yoursubdomain).sharefile.eu
 adm.cloud.com
 citrix.cloud.com
@@ -2062,18 +2062,18 @@ api.adm.cloud.com
 live-backstage.tiktok.com
 academy-outbound-ads.tiktok.com
 fp-sg.tiktokv.com
-effecthouse.tiktok.com
 careers.tiktok.com
+effecthouse.tiktok.com
 creatormarketplace.tiktok.com
 business.tiktok.com
 developers.tiktok.com
 *.tiktokv.com
 shop.tiktok.com
 tiktok.com
-ads.tiktok.com
-www.pangleglobal.com
 partner.tiktokshop.com
+www.pangleglobal.com
 *.tiktok.com
+ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2444,6 +2444,7 @@ pitangui.amazon.com
 preview-flex-capacity-na.amazon.com
 prod-dp-discovery-us-east-1.amazon.com
 rabbitinstruction-na.amazon.com
+relay.amazon.com
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -2844,6 +2845,7 @@ admin.rezserver.com
 reservations.rezserver.com
 cruises.priceline.com
 flyiin.com
+priceline.com
 www.getaroom.com
 www.priceline.com
 secure.rezserver.com
@@ -2950,13 +2952,13 @@ res.blueskytours.globalbookingsolutions.com
 res.fr.travelbrandsagent.com
 res.southwestvacations.com
 res.universalorlandovacations.com
-res.vacations.universalstudioshollywood.com
 reservations.wynnvacations.com
 rezagent.triseptsolutions.com
 shop.wyndhamvacationownership.trisept.travel
 vacations.grandclass.grandvelas.com
 vacations.rivieramaya.grandvelas.com
 www.triseptapi.com
+www.triseptdemo.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -3051,26 +3053,26 @@ grammarly.ai
 grammarly.ai
 com.fanduel.android.live
 sportsbook.fanduel.com
-*racing.fanduel.com
 4njbets.tvgnetwork.com
 b2b.tvgnetwork.com
-ia.tvg.com
 login-4ngbets.us.betfair.com
 login.pabets.tvg.com
 login-ia.tvg.com
-login.tvg.com
 m.4njbets.tvg.com
-mobile-prod.tvg.com
 pabets.tvg.com
 promos.tvg.com
 service.tvg.com
-us.tvg.com
 fanduel.design
-tvg.com
-www.4njbets.com
-www.tvg.com
 fdbox.net
 *.fanduel.com
+us.tvg.com
+ia.tvg.com
+www.4njbets.com
+tvg.com
+mobile-prod.tvg.com
+login.tvg.com
+*racing.fanduel.com
+www.tvg.com
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -3122,11 +3124,11 @@ scrutiny.swiftfinancial.com
 www.loanbuilder.com
 my.swiftfinancial.com
 *.paypalcorp.com
+paypalobjects.com
 *.venmo.com
 *.braintreegateway.com
-paypalobjects.com
-*.paypal.com
 *.braintreepayments.com
+*.paypal.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3336,8 +3338,8 @@ bounty-node.rsk.co
 *.deliveroo-data.net
 *.deliveroo-data.io
 *.deliveroo-data-test.io
-*.deliveroo.*
 *.deliveroo-streams.net
+*.deliveroo.*
 *.deliveroo-data.net
 *.deliveroo-data.io
 *.deliveroo-data-test.io
@@ -3978,8 +3980,8 @@ callbacks.airbnb.com
 www.hoteltonight.com
 *.airbnbcitizen.com
 *.withairbnb.com
-api.airbnb.com
 *.airbnb.com
+api.airbnb.com
 www.airbnb.com
 www.airbnb.com
 next.airbnb.com
@@ -4046,9 +4048,9 @@ api.greenhouse.io
 onboarding.greenhouse.io
 support.greenhouse.io
 jss.greenhouse.io
-interseller.io
 app.interseller.io
 app.greenhouse.io
+interseller.io
 app.greenhouse.io
 boards.greenhouse.io
 api.greenhouse.io
@@ -4142,12 +4144,12 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
-api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
 institutional.coinbase.com
+api.coinbase.com
 *.base.org
 international.coinbase.com
 cloud.coinbase.com
@@ -4214,10 +4216,10 @@ cover-photos-us-east-2.hackerone-user-content.com
 reviewer.pullrequest.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 www.wearehackerone.com
-hackerone-user-content.com
 cover-photos.hackerone-user-content.com
 app.pullrequest.com
 hackathon-photos.hackerone-user-content.com
+hackerone-user-content.com
 hackerone.live
 api.hackerone.com
 www.hackerone.com
@@ -4396,8 +4398,8 @@ u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
-accounts.magento.cloud
 repo.magento.com
+accounts.magento.cloud
 magento.com
 marketplace.magento.com
 magentocommerce.com
