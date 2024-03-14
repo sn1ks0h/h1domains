@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Mar 14 16:24:32 UTC 2024)
+## Domains with Bounties (Last Updated Thu Mar 14 17:19:00 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -459,10 +459,10 @@ www.mercadolibre.com.uy
 www.mercadolibre.cl
 www.mercadopago.cl
 www.mercadolibre.com.ar
-www.mercadolivre.com.br
 www.mercadopago.com.ar
-www.mercadopago.com.br
 api.mercadolibre.com
+www.mercadopago.com.br
+www.mercadolivre.com.br
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -508,10 +508,10 @@ kyc-onboarding.booking.com
 careers.booking.com
 widget.rentalcars.com
 booking.com
+account.booking.com
+secure.booking.com
 *.booking.com
 *.rentalcars.com
-secure.booking.com
-account.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -781,8 +781,8 @@ www.visainfinite.ca
 http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
-yourdomain.freshdesk.com
 yourdomain.freshservice.com
+yourdomain.freshdesk.com
 yourdomain.freshchat.com
 yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
@@ -868,9 +868,9 @@ stage.taskcluster.nonprod.cloudops.mozgcp.net
 community-tc.services.mozilla.com
 support.mozilla.org
 hg.mozilla.org
+developer.mozilla.org
 monitor.mozilla.org
 www.mozilla.org
-developer.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -1488,8 +1488,8 @@ community.databricks.com
 customer-academy.databricks.com
 labs.databricks.com
 marketplace.databricks.com
-databricks.com
 accounts.cloud.databricks.com
+databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -1754,8 +1754,8 @@ www.elastic.co
 *.elstc.co
 *.elasticnet.co
 *.eops.nl
-cloud.elastic.co
 *.swiftype.com
+cloud.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1922,6 +1922,7 @@ api.bitso.com
 http://bitso.com/alpha
 nvio.mx
 nvio.ar
+larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
 api.larksuite.com
@@ -1931,9 +1932,8 @@ passport.larksuite.com
 internal-api.larksuite.com
 internal-api-lark-api.larksuite.com
 internal-api-drive-stream.larksuite.com
-larksuite.com
-open.larksuite.com
 app.larksuite.com
+open.larksuite.com
 hackers_chosendomain.larksuite.com
 larksuite.com
 lark-frontier.byteoversea.com
@@ -1979,8 +1979,8 @@ internal-docs.netlify.com
 *.services-prod.nsvcs.net
 internal.netlify.com
 *.ops.netlify.com
-api.netlify.com
 *.infra-prod.nsvcs.net
+api.netlify.com
 app.netlify.com
 *.services.netlify.com
 *.services-prod.nsvcs.net
@@ -2065,18 +2065,18 @@ api.adm.cloud.com
 live-backstage.tiktok.com
 academy-outbound-ads.tiktok.com
 fp-sg.tiktokv.com
-creatormarketplace.tiktok.com
-developers.tiktok.com
 effecthouse.tiktok.com
 careers.tiktok.com
+creatormarketplace.tiktok.com
 business.tiktok.com
-ads.tiktok.com
-partner.tiktokshop.com
+developers.tiktok.com
 *.tiktokv.com
 www.pangleglobal.com
 shop.tiktok.com
-tiktok.com
 *.tiktok.com
+tiktok.com
+ads.tiktok.com
+partner.tiktokshop.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2142,8 +2142,8 @@ api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
 *.acronis.work
-*.acronis.com
 account.acronis.com
+*.acronis.com
 beta-cloud.acronis.com
 *.5nine.com
 *-api-*.acronis.com
@@ -2348,7 +2348,6 @@ portal.polygon.technology
 *.miui.com
 *.xiaomiyoupin.com
 *.miwifi.com
-*.betfair.com
 *.betfair.es
 *.betfair.ro
 *.betfair.se
@@ -2379,6 +2378,7 @@ portal.polygon.technology
 *.skybettingandgaming.info
 *.betsharedservices.io
 super6.skysports.com
+itv7.itv.com
 *.betfair.com
 *.paddypower.com
 *.betfair.es
@@ -2576,8 +2576,8 @@ configure.bmw.de
 configure.mini.de
 konfigurator.bmw-motorrad.de
 www.mini.de
-www.bmw.de
 www.bmw-motorrad.de
+www.bmw.de
 www.bmw.de
 www.mini.de
 www.bmw-motorrad.de
@@ -3067,12 +3067,12 @@ pabets.tvg.com
 promos.tvg.com
 service.tvg.com
 us.tvg.com
-fanduel.design
-tvg.com
 www.4njbets.com
-fdbox.net
-*.fanduel.com
+tvg.com
+fanduel.design
 www.tvg.com
+*.fanduel.com
+fdbox.net
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -3104,14 +3104,6 @@ https://github.com/matomo-org/docker
 *.paydiant.com
 paypal.me
 py.pl
-*.braintreepayments.com
-*.braintree-api.com
-*.braintree.tools
-prequal.swiftfinancial.com
-partner.swiftfinancial.com
-decision.swiftfinancial.com
-pigeon.swiftfinancial.com
-scrutiny.swiftfinancial.com
 www.swiftcapital.com
 www.swiftfinancial.com
 api.swiftfinancial.com
@@ -3120,15 +3112,23 @@ my.loanbuilder.com
 loanbuilder.com
 swiftfinancial.com
 swiftcapital.com
+*.braintree-api.com
+*.braintree.tools
+prequal.swiftfinancial.com
+partner.swiftfinancial.com
+decision.swiftfinancial.com
+pigeon.swiftfinancial.com
+scrutiny.swiftfinancial.com
 *.hyperwallet.com
 *.paylution.com
+*.paypalcorp.com
 www.loanbuilder.com
 my.swiftfinancial.com
-*.paypalcorp.com
 *.braintreegateway.com
-*.venmo.com
 paypalobjects.com
+*.venmo.com
 *.paypal.com
+*.braintreepayments.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3166,8 +3166,8 @@ m.chaturbate.com
 billingsupport.chaturbate.com
 *.mmcdn.com
 *.mmwebc.dev
-chaturbate.com
 *.cb.dev
+chaturbate.com
 *.highwebmedia.com
 *.securegatewayaccess.com
 *.mmcdn.com
@@ -3315,10 +3315,10 @@ www.crypto.com
 auth.crypto.com
 pay.crypto.com
 app.mona.co
-*.mona.co
-js.crypto.com
 *.crypto.com
+js.crypto.com
 tax.crypto.com
+*.mona.co
 merchant.crypto.com
 *.crypto.com
 *.mona.co
@@ -3456,8 +3456,8 @@ gifts.grab.com
 *.taralite.com
 kartaview.org
 wiki.grab.com
-*.grab.com
 *.myteksi.com
+*.grab.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3842,7 +3842,6 @@ www.udemy.com
 yourcompany.udemy.com
 *.shopifykloud.com
 linkpop.com
-shop.app
 shopify.plus
 arrive-server.shopifycloud.com
 *.shopifycs.com
@@ -3854,6 +3853,7 @@ admin.shopify.com
 accounts.shopify.com
 *.shopify.com
 *.shopifycloud.com
+shop.app
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3981,8 +3981,8 @@ www.hoteltonight.com
 *.airbnbcitizen.com
 *.withairbnb.com
 www.airbnb.com
-api.airbnb.com
 *.airbnb.com
+api.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -4144,16 +4144,16 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
+api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
 institutional.coinbase.com
-api.coinbase.com
 *.base.org
 international.coinbase.com
-cloud.coinbase.com
 *.coinbase.com
+cloud.coinbase.com
 coinbase.com
 nft.coinbase.com
 *.coinbase.com
@@ -4217,10 +4217,10 @@ cover-photos-us-east-2.hackerone-user-content.com
 reviewer.pullrequest.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 www.wearehackerone.com
+hackerone-user-content.com
 cover-photos.hackerone-user-content.com
 app.pullrequest.com
 hackathon-photos.hackerone-user-content.com
-hackerone-user-content.com
 hackerone.live
 api.hackerone.com
 www.hackerone.com
