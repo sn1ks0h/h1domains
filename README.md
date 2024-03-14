@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Mar 14 12:27:17 UTC 2024)
+## Domains with Bounties (Last Updated Thu Mar 14 13:21:18 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -333,8 +333,8 @@ bioid-management.app
 *.worldcoin.dev
 *.toolsforhumanity.com
 worldcoin.org
-*.worldcoin.org
 *.consumer.worldcoin.org
+*.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -410,11 +410,11 @@ backend.zyro.com
 editor.zyro.com
 logo.zyro.com
 payments.hostinger.com
+www.niagahoster.co.id
 *.000webhost.com
 www.hostinger.com
-www.niagahoster.co.id
-cpanel.hostinger.com
 hpanel.hostinger.com
+cpanel.hostinger.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -504,13 +504,13 @@ cars.booking.com
 www.fareharbor.com
 spark.fareharbor.com
 kyc-onboarding.booking.com
-booking.com
-secure.booking.com
 account.booking.com
 careers.booking.com
 widget.rentalcars.com
-*.rentalcars.com
+booking.com
+secure.booking.com
 *.booking.com
+*.rentalcars.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -780,10 +780,10 @@ www.visainfinite.ca
 http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
-yourdomain.freshdesk.com
 yourdomain.freshservice.com
-yourdomain.freshchat.com
+yourdomain.freshdesk.com
 yourdomain.myfreshworks.com
+yourdomain.freshchat.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -833,14 +833,14 @@ bugzilla.mozilla.org
 hg.mozilla.org
 contile.services.mozilla.com
 merino.services.mozilla.com
-firefox.settings.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 shavar.services.mozilla.com
 lando.services.mozilla.com
 phabricator.allizom.org
+firefox-ci-tc.services.mozilla.com
 aus5.mozilla.org
 sync.services.mozilla.com
-firefox-ci-tc.services.mozilla.com
+firefox.settings.services.mozilla.com
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -889,7 +889,6 @@ api-eu.floqast.app
 *.eu.floqast.app
 *.floqast.app
 api-eu.floqast.app
-hilton.io
 *.hiltonlocalbiz.com
 *.hiltonhotels.jp
 hiltonhotels.jp
@@ -898,9 +897,10 @@ hilton.com.tr
 hiltonbusinessonline.com
 hiltonlocalbiz.com
 *.hilton.com.tr
-hilton.com
 *.hilton.com
 *.hiltonbusinessonline.com
+hilton.com
+hilton.io
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -1178,9 +1178,9 @@ www.fewo-direkt.de
 www.stayz.com.au
 www.expediagroup.com
 www.flights.com
+*.travelocity.ca
 www.expedia.com
 *.expediapartnercentral.com
-*.travelocity.ca
 *.travelocity.com
 *.expediacruises.com
 *.vrbo.com
@@ -1255,11 +1255,11 @@ insights.deribit.com
 pb.deribit.com
 tools.deribit.com
 metrics.deribit.com
-www.poloniex.com
 api.poloniex.com
 api2.poloniex.com
 m.poloniex.com
 public.poloniex.com
+www.poloniex.com
 www.poloniex.com
 api.poloniex.com
 m.poloniex.com
@@ -1347,9 +1347,9 @@ business.kayak.com
 www.momondo.com
 www.cheapflights.com
 www.mundi.com.br
+www.hotelscombined.com
 www.kayak.com
 www.checkfelix.com
-www.hotelscombined.com
 www.kayak.com
 www.swoodoo.com
 www.checkfelix.com
@@ -1817,8 +1817,8 @@ www.spiketrap.io
 old.reddit.com
 www.reddit.com
 ads.reddit.com
-matrix.redditspace.com
 *.reddit.com
+matrix.redditspace.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1978,9 +1978,9 @@ internal-docs.netlify.com
 *.services-prod.nsvcs.net
 internal.netlify.com
 *.ops.netlify.com
-api.netlify.com
 app.netlify.com
 *.infra-prod.nsvcs.net
+api.netlify.com
 *.services.netlify.com
 *.services-prod.nsvcs.net
 *.infra-prod.nsvcs.net
@@ -2003,7 +2003,6 @@ world.hey.com
 3.basecamp.com
 launchpad.37signals.com
 world.hey.com
-citrix.cloud.com
 ap-s.cloud.com
 eu.cloud.com
 us.cloud.com
@@ -2031,6 +2030,7 @@ api.adm.cloud.com
 www.cloud.com
 (yoursubdomain).sharefile.eu
 adm.cloud.com
+citrix.cloud.com
 citrix.cloud.com
 www.cloud.com
 ap-s.cloud.com
@@ -2064,17 +2064,17 @@ api.adm.cloud.com
 live-backstage.tiktok.com
 academy-outbound-ads.tiktok.com
 fp-sg.tiktokv.com
-business.tiktok.com
-creatormarketplace.tiktok.com
 effecthouse.tiktok.com
 careers.tiktok.com
-developers.tiktok.com
+creatormarketplace.tiktok.com
+business.tiktok.com
 tiktok.com
+developers.tiktok.com
 ads.tiktok.com
+partner.tiktokshop.com
 *.tiktokv.com
 www.pangleglobal.com
 shop.tiktok.com
-partner.tiktokshop.com
 *.tiktok.com
 *.tiktok.com
 business.tiktok.com
@@ -2140,12 +2140,12 @@ api.faraday.ai
 app.faraday.ai
 api.faraday.ai
 *-api-*.acronis.com
-*.5nine.com
 *.devicelock.com
 *.acronis.work
 account.acronis.com
 *.acronis.com
 beta-cloud.acronis.com
+*.5nine.com
 *-api-*.acronis.com
 *.acronis.com
 *.5nine.com
@@ -2555,10 +2555,10 @@ www.alibabagroup.com
 *.Daraz.com
 *.aliexpress.com
 *.aliyun.com
-*.tmall.com
+*.alibabacloud.com
 *.taobao.com
 *.alibaba.com
-*.alibabacloud.com
+*.tmall.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2722,8 +2722,8 @@ app.nordpass.com
 *.line.me
 *.line.naver.jp
 *.line.biz
-*.linecorp.com
 *.line-apps.com
+*.linecorp.com
 *.line.me
 *.line-apps.com
 *.line.naver.jp
@@ -3068,10 +3068,10 @@ pabets.tvg.com
 promos.tvg.com
 service.tvg.com
 us.tvg.com
-fanduel.design
-tvg.com
-www.4njbets.com
 *.fanduel.com
+www.4njbets.com
+tvg.com
+fanduel.design
 fdbox.net
 *.fanduel.com
 *racing.fanduel.com
@@ -3166,8 +3166,8 @@ m.chaturbate.com
 billingsupport.chaturbate.com
 *.mmcdn.com
 *.mmwebc.dev
-*.cb.dev
 chaturbate.com
+*.cb.dev
 *.highwebmedia.com
 *.securegatewayaccess.com
 *.mmcdn.com
@@ -3292,8 +3292,8 @@ partner.steampowered.com
 www.valvesoftware.com
 partner.steamgames.com
 playartifact.com
-help.steampowered.com
 www.teamfortress.com
+help.steampowered.com
 www.counter-strike.net
 steamcommunity.com
 api.steampowered.com
@@ -3315,10 +3315,10 @@ www.crypto.com
 auth.crypto.com
 pay.crypto.com
 app.mona.co
+*.mona.co
 *.crypto.com
 js.crypto.com
 tax.crypto.com
-*.mona.co
 merchant.crypto.com
 *.crypto.com
 *.mona.co
@@ -3593,11 +3593,11 @@ app.files.com
 app.files.com
 your-assigned-subdomain.files.com
 www.files.com
-*.lyst.com
 cdna.lystit.com
 mobileapi.lystit.com
 *.lystit.com
 *.lyst.co
+*.lyst.com
 *.lyst.com
 *.lystit.com
 *.lyst.co
@@ -3852,8 +3852,8 @@ your-store.myshopify.com
 partners.shopify.com
 admin.shopify.com
 *.shopify.com
-accounts.shopify.com
 *.shopifycloud.com
+accounts.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3897,8 +3897,8 @@ store.playcanvas.com
 playcanv.as
 *.sc-corp.net
 web.snapchat.com
-login.playcanvas.com
 ads.snapchat.com
+login.playcanvas.com
 playcanvas.com
 accounts.snapchat.com
 app.snapchat.com
@@ -3979,9 +3979,9 @@ callbacks.airbnb.com
 *.hoteltonight-test.com
 www.hoteltonight.com
 *.airbnbcitizen.com
-*.airbnb.com
-api.airbnb.com
 *.withairbnb.com
+api.airbnb.com
+*.airbnb.com
 www.airbnb.com
 www.airbnb.com
 next.airbnb.com
@@ -4144,11 +4144,11 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
+api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
-api.coinbase.com
 institutional.coinbase.com
 *.base.org
 international.coinbase.com
@@ -4179,8 +4179,8 @@ slack-redir.net
 spaces.pm
 www.quip.com
 *.quip.com
-api.slack.com
 slack.com
+api.slack.com
 slack-imgs.com
 app.slack.com
 slack.com
@@ -4398,9 +4398,9 @@ u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
-magento.com
 repo.magento.com
 accounts.magento.cloud
+magento.com
 marketplace.magento.com
 magentocommerce.com
 repo.magento.com
