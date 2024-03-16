@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Mar 16 11:14:51 UTC 2024)
+## Domains with Bounties (Last Updated Sat Mar 16 12:26:07 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -330,9 +330,9 @@ getworldcoin.com
 *.worldcoin-distributors.com
 bioid-management.app
 *.worldcoin.dev
+*.consumer.worldcoin.org
 worldcoin.org
 *.toolsforhumanity.com
-*.consumer.worldcoin.org
 *.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
@@ -389,8 +389,8 @@ http://sandbox-api.fireblocks.io
 sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 *.sprint.dynatracelabs.com
-myaccount-hardening.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
+myaccount-hardening.dynatracelabs.com
 account-sprint.dynatracelabs.com
 *.sprint.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
@@ -455,12 +455,12 @@ www.mercadolibre.com.pe
 www.mercadolibre.com.uy
 www.mercadolibre.cl
 www.mercadopago.cl
-www.mercadolibre.com.ar
 api.mercadolibre.com
 www.mercadolivre.com.br
 www.mercadopago.com.ar
 api.mercadopago.com
 www.mercadopago.com.br
+www.mercadolibre.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -500,16 +500,16 @@ secure-supply-xml.booking.com
 taxi.booking.com
 cars.booking.com
 kyc-onboarding.booking.com
-booking.com
 widget.rentalcars.com
+booking.com
 secure.booking.com
 account.booking.com
 spark.fareharbor.com
 www.fareharbor.com
 admin.booking.com
 *.rentalcars.com
-*.booking.com
 careers.booking.com
+*.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -781,8 +781,8 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
 yourdomain.freshservice.com
-yourdomain.freshdesk.com
 yourdomain.myfreshworks.com
+yourdomain.freshdesk.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -838,8 +838,8 @@ aus5.mozilla.org
 sync.services.mozilla.com
 firefox.settings.services.mozilla.com
 addons.allizom.org
-accounts.firefox.com
 phabricator.allizom.org
+accounts.firefox.com
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -1054,7 +1054,6 @@ cloud8.8x8.com
 *.8x8.id
 *.8x8cloud.net
 *.p8t.us
-*.wavecell.com
 pay.8x8.com
 platform.8x8.com
 *.chalet.8x8.com
@@ -1065,6 +1064,7 @@ sso.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
 *.8x8staging.com
+admin.8x8.com
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1162,7 +1162,6 @@ www.ebookers.com
 www.ebookers.fi
 www.mrjet.se
 www.expediaagents.com
-*.hotwire.com
 *.wotif.com
 *.cheaptickets.com
 *.lastminute.co.nz
@@ -1176,11 +1175,12 @@ www.flights.com
 www.expedia.com
 *.travelocity.com
 *.carrentals.com
-*.travelocity.ca
-*.vrbo.com
-www.expediapartnersolutions.com
 *.expediacruises.com
+*.travelocity.ca
+www.expediapartnersolutions.com
 www.fewo-direkt.de
+*.vrbo.com
+*.hotwire.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1209,8 +1209,8 @@ www.expediagroup.com
 www.flights.com
 *.magiceden.io
 magiceden.io
-*.magiceden.dev
 *.magiceden.workers.dev
+*.magiceden.dev
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -1455,8 +1455,8 @@ bullsheet.me
 api.instacart.com
 shoppers.instacart.com
 www.instacart.com
-admin.instacart.com
 *.instacart.com
+admin.instacart.com
 *.instacart.com
 *.instacart.tools
 api.instacart.com
@@ -1740,8 +1740,8 @@ www.elastic.co
 *.elasticnet.co
 *.eops.nl
 cloud.elastic.co
-*.elastic.co
 *.swiftype.com
+*.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1915,8 +1915,8 @@ passport.larksuite.com
 internal-api.larksuite.com
 internal-api-lark-api.larksuite.com
 internal-api-drive-stream.larksuite.com
-app.larksuite.com
 open.larksuite.com
+app.larksuite.com
 hackers_chosendomain.larksuite.com
 larksuite.com
 larksuite.com
@@ -2599,8 +2599,8 @@ maria.casino
 www.32red.com
 *.kes.kindredext.net
 *.highrolling.nu
-*.bingo.com
 *.unibet.com
+*.bingo.com
 *.unibet.com
 *.unibet.fr
 *.storspiller.com
@@ -3089,6 +3089,13 @@ https://github.com/matomo-org/docker
 *.paydiant.com
 paypal.me
 py.pl
+*.braintree-api.com
+*.braintree.tools
+prequal.swiftfinancial.com
+partner.swiftfinancial.com
+decision.swiftfinancial.com
+pigeon.swiftfinancial.com
+scrutiny.swiftfinancial.com
 www.swiftcapital.com
 www.swiftfinancial.com
 api.swiftfinancial.com
@@ -3097,22 +3104,15 @@ my.loanbuilder.com
 loanbuilder.com
 swiftfinancial.com
 swiftcapital.com
-*.braintree-api.com
-*.braintree.tools
-prequal.swiftfinancial.com
-partner.swiftfinancial.com
-decision.swiftfinancial.com
-pigeon.swiftfinancial.com
-scrutiny.swiftfinancial.com
 *.hyperwallet.com
 *.paylution.com
 www.loanbuilder.com
 my.swiftfinancial.com
 *.paypalcorp.com
-*.braintreepayments.com
 *.venmo.com
-*.braintreegateway.com
+*.braintreepayments.com
 paypalobjects.com
+*.braintreegateway.com
 *.paypal.com
 www.paypal-*.com
 *.xoom.com
@@ -3754,10 +3754,10 @@ oauth.deriv.com
 app.deriv.com
 derivws.com
 *.deriv.cloud
-*.deriv.com
-*.binary.com
-api.deriv.com
 smarttrader.deriv.com
+*.binary.com
+*.deriv.com
+api.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -4132,8 +4132,8 @@ pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
-api.coinbase.com
 institutional.coinbase.com
+api.coinbase.com
 *.base.org
 international.coinbase.com
 cloud.coinbase.com
@@ -4199,8 +4199,8 @@ profile-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 www.wearehackerone.com
-app.pullrequest.com
 hackathon-photos.hackerone-user-content.com
+app.pullrequest.com
 hackerone-ext-content.com
 hackerone.live
 reviewer.pullrequest.com
@@ -4208,9 +4208,9 @@ api.hackerone.com
 errors.hackerone.net
 ctf.hacker101.com
 hackerone-user-content.com
-cover-photos.hackerone-user-content.com
-hackerone.com
 www.hackerone.com
+hackerone.com
+cover-photos.hackerone-user-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -4392,8 +4392,8 @@ u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
-repo.magento.com
 accounts.magento.cloud
+repo.magento.com
 magento.com
 marketplace.magento.com
 magentocommerce.com
