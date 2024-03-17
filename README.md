@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Mar 17 17:14:30 UTC 2024)
+## Domains with Bounties (Last Updated Sun Mar 17 18:18:15 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -332,8 +332,8 @@ getworldcoin.com
 worldcoin.org
 *.toolsforhumanity.com
 *.consumer.worldcoin.org
-*.worldcoin.org
 bioid-management.app
+*.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -389,8 +389,8 @@ http://sandbox-api.fireblocks.io
 sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 *.sprint.dynatracelabs.com
-*.sprint.apps.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
+*.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
 *.sprint.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
@@ -411,8 +411,8 @@ logo.zyro.com
 payments.hostinger.com
 www.niagahoster.co.id
 cpanel.hostinger.com
-www.hostinger.com
 *.000webhost.com
+www.hostinger.com
 hpanel.hostinger.com
 *.000webhost.com
 www.hostinger.com
@@ -457,10 +457,10 @@ www.mercadolibre.cl
 www.mercadopago.cl
 www.mercadopago.com.br
 api.mercadopago.com
-www.mercadolibre.com.ar
 api.mercadolibre.com
 www.mercadopago.com.ar
 www.mercadolivre.com.br
+www.mercadolibre.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -836,8 +836,8 @@ lando.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
 aus5.mozilla.org
 sync.services.mozilla.com
-firefox.settings.services.mozilla.com
 addons.allizom.org
+firefox.settings.services.mozilla.com
 phabricator.allizom.org
 accounts.firefox.com
 addons.allizom.org
@@ -964,8 +964,8 @@ debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 *.grindr.io
 *.grindr.mobi
-*.grindr.com
 web.grindr.com
+*.grindr.com
 *.grindr.io
 *.grindr.com
 *.grindr.mobi
@@ -1179,8 +1179,8 @@ www.expediapartnersolutions.com
 www.fewo-direkt.de
 *.expediacruises.com
 *.vrbo.com
-*.travelocity.com
 *.hotwire.com
+*.travelocity.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1209,8 +1209,8 @@ www.expediagroup.com
 www.flights.com
 *.magiceden.io
 magiceden.io
-*.magiceden.workers.dev
 *.magiceden.dev
+*.magiceden.workers.dev
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -1626,8 +1626,8 @@ securitytrails.com
 geminiadvisory.io
 hatching.io
 tria.ge
-app.recordedfuture.com
 www.recordedfuture.com
+app.recordedfuture.com
 www.recordedfuture.com
 api.recordedfuture.com
 app.recordedfuture.com
@@ -1754,9 +1754,9 @@ api.taxjar.com
 *.reckoproduction.com
 *.link.co
 *.reckostaging.com
+*.touchtechpayments.com
 *.recko.io
 js.stripe.com
-*.touchtechpayments.com
 *.stripe.com
 api.stripe.com
 app.taxjar.com
@@ -1799,8 +1799,8 @@ redditforbusiness.com
 app.spiketrap.io
 www.spiketrap.io
 old.reddit.com
-*.reddit.com
 matrix.redditspace.com
+*.reddit.com
 ads.reddit.com
 *.reddithelp.com
 www.reddit.com
@@ -1915,8 +1915,8 @@ passport.larksuite.com
 internal-api.larksuite.com
 internal-api-lark-api.larksuite.com
 internal-api-drive-stream.larksuite.com
-app.larksuite.com
 open.larksuite.com
+app.larksuite.com
 hackers_chosendomain.larksuite.com
 larksuite.com
 larksuite.com
@@ -2048,12 +2048,12 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 live-backstage.tiktok.com
 effecthouse.tiktok.com
-academy-outbound-ads.tiktok.com
-developers.tiktok.com
 shop.tiktok.com
 business.tiktok.com
 fp-sg.tiktokv.com
 *.tiktokv.com
+academy-outbound-ads.tiktok.com
+developers.tiktok.com
 careers.tiktok.com
 www.pangleglobal.com
 ads.tiktok.com
@@ -2832,7 +2832,7 @@ admin.rezserver.com
 reservations.rezserver.com
 cruises.priceline.com
 priceline.com
-press.priceline.com
+secure.rezserver.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -3089,13 +3089,6 @@ https://github.com/matomo-org/docker
 *.paydiant.com
 paypal.me
 py.pl
-*.braintree-api.com
-*.braintree.tools
-prequal.swiftfinancial.com
-partner.swiftfinancial.com
-decision.swiftfinancial.com
-pigeon.swiftfinancial.com
-scrutiny.swiftfinancial.com
 www.swiftcapital.com
 www.swiftfinancial.com
 api.swiftfinancial.com
@@ -3104,16 +3097,23 @@ my.loanbuilder.com
 loanbuilder.com
 swiftfinancial.com
 swiftcapital.com
+*.braintree-api.com
+*.braintree.tools
+prequal.swiftfinancial.com
+partner.swiftfinancial.com
+decision.swiftfinancial.com
+pigeon.swiftfinancial.com
+scrutiny.swiftfinancial.com
 *.hyperwallet.com
 *.paylution.com
+*.paypalcorp.com
 www.loanbuilder.com
 my.swiftfinancial.com
-*.paypalcorp.com
-*.venmo.com
-*.braintreepayments.com
-paypalobjects.com
 *.braintreegateway.com
+paypalobjects.com
+*.venmo.com
 *.paypal.com
+*.braintreepayments.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3274,12 +3274,12 @@ support.steampowered.com
 partner.steampowered.com
 partner.steamgames.com
 playartifact.com
-www.teamfortress.com
 help.steampowered.com
+www.teamfortress.com
 www.counter-strike.net
-api.steampowered.com
 www.dota2.com
 steamcommunity.com
+api.steampowered.com
 www.valvesoftware.com
 store.steampowered.com
 www.dota2.com
@@ -3438,8 +3438,8 @@ grab.careers
 *.myteksi.com
 *.grab.com
 jira.grab.com
-*.ovo.id
 gifts.grab.com
+*.ovo.id
 kartaview.org
 api.grabpay.com
 *.myteksi.com
@@ -3835,8 +3835,8 @@ accounts.shopify.com
 partners.shopify.com
 shop.app
 *.shopify.io
-admin.shopify.com
 your-store.myshopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifycs.com
 *.shopify.io
@@ -3878,8 +3878,8 @@ playcanv.as
 *.sc-corp.net
 login.playcanvas.com
 ads.snapchat.com
-accounts.snapchat.com
 app.snapchat.com
+accounts.snapchat.com
 web.snapchat.com
 business.snapchat.com
 geofilters.snapchat.com
@@ -4137,8 +4137,8 @@ institutional.coinbase.com
 international.coinbase.com
 cloud.coinbase.com
 coinbase.com
-*.coinbase.com
 nft.coinbase.com
+*.coinbase.com
 *.coinbase.com
 *.cbhq.net
 pro.coinbase.com
