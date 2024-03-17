@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Mar 17 12:25:34 UTC 2024)
+## Domains with Bounties (Last Updated Sun Mar 17 13:19:59 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -459,8 +459,8 @@ www.mercadopago.com.br
 api.mercadopago.com
 www.mercadolivre.com.br
 www.mercadolibre.com.ar
-www.mercadopago.com.ar
 api.mercadolibre.com
+www.mercadopago.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -500,16 +500,16 @@ secure-supply-xml.booking.com
 taxi.booking.com
 cars.booking.com
 kyc-onboarding.booking.com
-booking.com
 widget.rentalcars.com
+booking.com
 secure.booking.com
 account.booking.com
 spark.fareharbor.com
 www.fareharbor.com
 admin.booking.com
 careers.booking.com
-*.rentalcars.com
 *.booking.com
+*.rentalcars.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -833,9 +833,9 @@ merino.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 shavar.services.mozilla.com
 lando.services.mozilla.com
+firefox-ci-tc.services.mozilla.com
 aus5.mozilla.org
 sync.services.mozilla.com
-firefox-ci-tc.services.mozilla.com
 firefox.settings.services.mozilla.com
 addons.allizom.org
 phabricator.allizom.org
@@ -898,8 +898,8 @@ hilton.io
 *.hiltonbusinessonline.com
 hiltonhotels.jp
 *.hilton.io
-*.hilton.com
 hilton.com
+*.hilton.com
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -964,8 +964,8 @@ debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 *.grindr.io
 *.grindr.mobi
-*.grindr.com
 web.grindr.com
+*.grindr.com
 *.grindr.io
 *.grindr.com
 *.grindr.mobi
@@ -1014,9 +1014,9 @@ www.sokos.fi
 api.sokos.fi
 cfapi.voikukka.fi
 digili.s-cloud.fi
+mobile.s-pankki.fi
 www.s-pankki.fi
 www.prisma.fi
-mobile.s-pankki.fi
 online.s-pankki.fi
 online.s-pankki.fi
 www.s-pankki.fi
@@ -1032,8 +1032,8 @@ api.sokos.fi
 cfapi.voikukka.fi
 auth.skypicker.com
 jobs.kiwi.com
-tequila.kiwi.com
 *.skypicker.com
+tequila.kiwi.com
 www.kiwi.com
 *.kiwi.com
 *.kiwi.com
@@ -1335,8 +1335,8 @@ business.kayak.com
 www.cheapflights.com
 www.mundi.com.br
 www.kayak.com
-www.checkfelix.com
 www.momondo.com
+www.checkfelix.com
 www.hotelscombined.com
 www.kayak.com
 www.swoodoo.com
@@ -1626,8 +1626,8 @@ securitytrails.com
 geminiadvisory.io
 hatching.io
 tria.ge
-www.recordedfuture.com
 app.recordedfuture.com
+www.recordedfuture.com
 www.recordedfuture.com
 api.recordedfuture.com
 app.recordedfuture.com
@@ -1939,12 +1939,12 @@ hackers_chosendomain.larksuite.com
 *.a.exodus.io
 *.exodus.com
 core.yoti.com
-api.yoti.com
 ccloud.yoti.com
 code.yoti.com
 identity.yoti.com
 www.yotisign.com
 hub.yoti.com
+api.yoti.com
 core.yoti.com
 api.yoti.com
 ccloud.yoti.com
@@ -1963,8 +1963,8 @@ internal-docs.netlify.com
 *.services-prod.nsvcs.net
 internal.netlify.com
 *.ops.netlify.com
-api.netlify.com
 *.infra-prod.nsvcs.net
+api.netlify.com
 app.netlify.com
 *.services.netlify.com
 *.services-prod.nsvcs.net
@@ -2126,8 +2126,8 @@ api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
 *.acronis.work
-beta-cloud.acronis.com
 account.acronis.com
+beta-cloud.acronis.com
 *.5nine.com
 *.acronis.com
 *-api-*.acronis.com
@@ -2640,8 +2640,8 @@ help.marriott.com
 mipartnerprivileges.marriott.com
 travelagents.marriott.com/
 activities.marriott.com
-traveler.marriott.com
 www.marriott.com
+traveler.marriott.com
 homes-and-villas.marriott.com
 careers.marriott.com
 sso.marriott.com
@@ -3048,14 +3048,14 @@ pabets.tvg.com
 promos.tvg.com
 service.tvg.com
 fanduel.design
-us.tvg.com
 ia.tvg.com
 www.4njbets.com
+us.tvg.com
 tvg.com
-mobile-prod.tvg.com
 login.tvg.com
-*racing.fanduel.com
 www.tvg.com
+mobile-prod.tvg.com
+*racing.fanduel.com
 *.fanduel.com
 fdbox.net
 *.fanduel.com
@@ -3274,12 +3274,12 @@ support.steampowered.com
 partner.steampowered.com
 partner.steamgames.com
 playartifact.com
-help.steampowered.com
 www.teamfortress.com
+help.steampowered.com
 www.counter-strike.net
+api.steampowered.com
 www.dota2.com
 steamcommunity.com
-api.steampowered.com
 www.valvesoftware.com
 store.steampowered.com
 www.dota2.com
@@ -3295,12 +3295,12 @@ www.counter-strike.net
 playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
-auth.crypto.com
+pay.crypto.com
 *.mona.co
 tax.crypto.com
+auth.crypto.com
 app.mona.co
 js.crypto.com
-pay.crypto.com
 www.crypto.com
 *.crypto.com
 merchant.crypto.com
@@ -3436,12 +3436,12 @@ xtramile.grabpay.com
 wiki.grab.com
 grab.careers
 *.myteksi.com
-jira.grab.com
 *.grab.com
+jira.grab.com
 *.ovo.id
 gifts.grab.com
-kartaview.org
 api.grabpay.com
+kartaview.org
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3749,7 +3749,6 @@ www.algolia.com
 www.algolia.com
 cashier.deriv.com
 secure-dfadmin.deriv.com
-oauth.deriv.com
 *.deriv.cloud
 *.binary.com
 *.derivws.com
@@ -3758,6 +3757,7 @@ api.deriv.com
 app.deriv.com
 smarttrader.deriv.com
 derivws.com
+oauth.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3834,10 +3834,10 @@ shopifyinbox.com
 accounts.shopify.com
 partners.shopify.com
 shop.app
-*.shopify.com
 *.shopify.io
 admin.shopify.com
 your-store.myshopify.com
+*.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -4128,12 +4128,12 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
-api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
 institutional.coinbase.com
+api.coinbase.com
 *.base.org
 international.coinbase.com
 cloud.coinbase.com
@@ -4162,11 +4162,11 @@ slackatwork.com
 slack-redir.net
 spaces.pm
 www.quip.com
-*.quip.com
 slack-imgs.com
 app.slack.com
 api.slack.com
 slack.com
+*.quip.com
 slack.com
 api.slack.com
 status.slack.com
