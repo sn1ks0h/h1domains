@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Mar 17 06:18:51 UTC 2024)
+## Domains with Bounties (Last Updated Sun Mar 17 07:15:41 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -315,8 +315,8 @@ webdirectory-eu.truecaller.com
 webonboarding-eu.truecaller.com
 cards.remitly.io
 api.remitly.io
-remitly.com
 rewire.com
+remitly.com
 app.rewire.to
 rates.rewire.com
 remitly.com
@@ -345,9 +345,9 @@ bioid-management.app
 worldcoin.org
 textexplore.tari.com
 www.tarilabs.com
-www.tari.com
 rfc.tari.com
 explore.tari.com
+www.tari.com
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
@@ -389,8 +389,8 @@ http://sandbox-api.fireblocks.io
 sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 *.sprint.dynatracelabs.com
-*.sprint.apps.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
+*.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
 *.sprint.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
@@ -457,9 +457,9 @@ www.mercadolibre.cl
 www.mercadopago.cl
 www.mercadopago.com.br
 api.mercadopago.com
+www.mercadopago.com.ar
 api.mercadolibre.com
 www.mercadolivre.com.br
-www.mercadopago.com.ar
 www.mercadolibre.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
@@ -833,9 +833,9 @@ merino.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 shavar.services.mozilla.com
 lando.services.mozilla.com
+firefox-ci-tc.services.mozilla.com
 aus5.mozilla.org
 sync.services.mozilla.com
-firefox-ci-tc.services.mozilla.com
 firefox.settings.services.mozilla.com
 addons.allizom.org
 phabricator.allizom.org
@@ -864,11 +864,11 @@ relay.firefox.com
 api.profiler.firefox.com
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 community-tc.services.mozilla.com
-support.mozilla.org
 hg.mozilla.org
 developer.mozilla.org
 www.mozilla.org
 monitor.mozilla.org
+support.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -1117,8 +1117,8 @@ admin.8x8.com
 *.superbet.pl
 moonpay.com
 hypermint.com
-*.hypermint.com
 *.moonpaycloud.com
+*.hypermint.com
 *.moonpay.com
 *.moonpaycloud.com
 *.hypermint.com
@@ -1475,8 +1475,8 @@ community.databricks.com
 customer-academy.databricks.com
 labs.databricks.com
 marketplace.databricks.com
-accounts.cloud.databricks.com
 databricks.com
+accounts.cloud.databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -1626,8 +1626,8 @@ securitytrails.com
 geminiadvisory.io
 hatching.io
 tria.ge
-www.recordedfuture.com
 app.recordedfuture.com
+www.recordedfuture.com
 www.recordedfuture.com
 api.recordedfuture.com
 app.recordedfuture.com
@@ -1754,9 +1754,9 @@ api.taxjar.com
 *.reckoproduction.com
 *.link.co
 *.reckostaging.com
+*.touchtechpayments.com
 *.recko.io
 js.stripe.com
-*.touchtechpayments.com
 *.stripe.com
 api.stripe.com
 app.taxjar.com
@@ -1963,8 +1963,8 @@ internal-docs.netlify.com
 *.services-prod.nsvcs.net
 internal.netlify.com
 *.ops.netlify.com
-*.infra-prod.nsvcs.net
 api.netlify.com
+*.infra-prod.nsvcs.net
 app.netlify.com
 *.services.netlify.com
 *.services-prod.nsvcs.net
@@ -2831,8 +2831,9 @@ api.rezserver.com
 admin.rezserver.com
 reservations.rezserver.com
 cruises.priceline.com
-www.getaroom.com
+secure.rezserver.com
 priceline.com
+www.getaroom.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -3050,12 +3051,12 @@ service.tvg.com
 fanduel.design
 ia.tvg.com
 tvg.com
-login.tvg.com
-www.tvg.com
 mobile-prod.tvg.com
+login.tvg.com
 *racing.fanduel.com
-www.4njbets.com
+www.tvg.com
 us.tvg.com
+www.4njbets.com
 *.fanduel.com
 fdbox.net
 *.fanduel.com
@@ -3278,8 +3279,8 @@ www.teamfortress.com
 help.steampowered.com
 www.counter-strike.net
 api.steampowered.com
-store.steampowered.com
 www.dota2.com
+store.steampowered.com
 steamcommunity.com
 www.valvesoftware.com
 www.dota2.com
@@ -3301,8 +3302,8 @@ auth.crypto.com
 app.mona.co
 js.crypto.com
 pay.crypto.com
-*.crypto.com
 www.crypto.com
+*.crypto.com
 merchant.crypto.com
 *.crypto.com
 *.mona.co
@@ -3429,19 +3430,19 @@ privatetarget-1-www.zigzag
 p.grabtaxi.com
 gamma.grab.co
 manage.grab.co
-api.grabpay.com
 *.grabpay.com
 xtramile.grabpay.com
 *.grab-sure.com
 *.taralite.com
-kartaview.org
 wiki.grab.com
 grab.careers
 *.myteksi.com
-*.grab.com
 jira.grab.com
+*.grab.com
 *.ovo.id
 gifts.grab.com
+kartaview.org
+api.grabpay.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3475,9 +3476,9 @@ translate.badoo.com
 ccardseu1.badoo.com
 ccardsus1.badoo.com
 chatdate.app
-www.bumble.com
 bma.bumble.com
 getofficial.co
+www.bumble.com
 www.bumble.com
 bma.bumble.com
 badoo.com
@@ -3782,8 +3783,8 @@ preprod.nl
 qatest.nl
 rudderplatform.com
 werkenbijdnb.nl
-werkenbijderet.nl
 www.werkenbijbakertilly.nl
+werkenbijderet.nl
 werkenbijdefensie.nl
 werkenbijderet.nl
 www.werkenbijbakertilly.nl
@@ -3830,11 +3831,11 @@ shopify.plus
 arrive-server.shopifycloud.com
 *.shopifycs.com
 shopifyinbox.com
-accounts.shopify.com
 *.shopifycloud.com
+accounts.shopify.com
 partners.shopify.com
-*.shopify.com
 shop.app
+*.shopify.com
 *.shopify.io
 admin.shopify.com
 your-store.myshopify.com
@@ -3962,8 +3963,8 @@ callbacks.airbnb.com
 *.hoteltonight-test.com
 www.hoteltonight.com
 *.airbnbcitizen.com
-*.withairbnb.com
 api.airbnb.com
+*.withairbnb.com
 next.airbnb.com
 www.airbnb.com
 *.airbnb.com
@@ -4392,8 +4393,8 @@ u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
-accounts.magento.cloud
 repo.magento.com
+accounts.magento.cloud
 magento.com
 marketplace.magento.com
 magentocommerce.com
