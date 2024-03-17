@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Mar 16 23:17:10 UTC 2024)
+## Domains with Bounties (Last Updated Sun Mar 17 01:02:28 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -315,10 +315,10 @@ webdirectory-eu.truecaller.com
 webonboarding-eu.truecaller.com
 cards.remitly.io
 api.remitly.io
-rates.rewire.com
-remitly.com
 rewire.com
+remitly.com
 app.rewire.to
+rates.rewire.com
 remitly.com
 api.remitly.io
 cards.remitly.io
@@ -330,9 +330,9 @@ getworldcoin.com
 *.worldcoin-distributors.com
 bioid-management.app
 *.worldcoin.dev
+*.consumer.worldcoin.org
 worldcoin.org
 *.toolsforhumanity.com
-*.consumer.worldcoin.org
 *.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
@@ -389,8 +389,8 @@ http://sandbox-api.fireblocks.io
 sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 *.sprint.dynatracelabs.com
-*.sprint.apps.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
+*.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
 *.sprint.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
@@ -432,8 +432,8 @@ education.23andme.com
 mediacenter.23andme.com
 medical.23andme.com
 research.23andme.com
-store.23andme.com
 therapeutics.23andme.com
+store.23andme.com
 you.23andme.com
 api.23andme.com
 auth.23andme.com
@@ -781,8 +781,8 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
 yourdomain.freshservice.com
-yourdomain.freshdesk.com
 yourdomain.myfreshworks.com
+yourdomain.freshdesk.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -836,8 +836,8 @@ lando.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
 aus5.mozilla.org
 sync.services.mozilla.com
-firefox.settings.services.mozilla.com
 addons.allizom.org
+firefox.settings.services.mozilla.com
 phabricator.allizom.org
 accounts.firefox.com
 addons.allizom.org
@@ -964,8 +964,8 @@ debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 *.grindr.io
 *.grindr.mobi
-*.grindr.com
 web.grindr.com
+*.grindr.com
 *.grindr.io
 *.grindr.com
 *.grindr.mobi
@@ -1014,9 +1014,9 @@ www.sokos.fi
 api.sokos.fi
 cfapi.voikukka.fi
 digili.s-cloud.fi
+mobile.s-pankki.fi
 www.s-pankki.fi
 www.prisma.fi
-mobile.s-pankki.fi
 online.s-pankki.fi
 online.s-pankki.fi
 www.s-pankki.fi
@@ -1626,8 +1626,8 @@ securitytrails.com
 geminiadvisory.io
 hatching.io
 tria.ge
-www.recordedfuture.com
 app.recordedfuture.com
+www.recordedfuture.com
 www.recordedfuture.com
 api.recordedfuture.com
 app.recordedfuture.com
@@ -1754,9 +1754,9 @@ api.taxjar.com
 *.reckoproduction.com
 *.link.co
 *.reckostaging.com
-*.touchtechpayments.com
 *.recko.io
 js.stripe.com
+*.touchtechpayments.com
 *.stripe.com
 api.stripe.com
 app.taxjar.com
@@ -1799,9 +1799,9 @@ redditforbusiness.com
 app.spiketrap.io
 www.spiketrap.io
 old.reddit.com
-matrix.redditspace.com
-www.reddit.com
 *.reddit.com
+www.reddit.com
+matrix.redditspace.com
 ads.reddit.com
 *.reddithelp.com
 *.snooguts.net
@@ -1915,8 +1915,8 @@ passport.larksuite.com
 internal-api.larksuite.com
 internal-api-lark-api.larksuite.com
 internal-api-drive-stream.larksuite.com
-app.larksuite.com
 open.larksuite.com
+app.larksuite.com
 hackers_chosendomain.larksuite.com
 larksuite.com
 larksuite.com
@@ -1963,8 +1963,8 @@ internal-docs.netlify.com
 *.services-prod.nsvcs.net
 internal.netlify.com
 *.ops.netlify.com
-api.netlify.com
 *.infra-prod.nsvcs.net
+api.netlify.com
 app.netlify.com
 *.services.netlify.com
 *.services-prod.nsvcs.net
@@ -2010,12 +2010,12 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-(yoursubdomain).sharefile.com
 www.cloud.com
+(yoursubdomain).sharefile.com
 (yoursubdomain).sharefile.eu
-secure.sharefile.com
 adm.cloud.com
 citrix.cloud.com
+secure.sharefile.com
 citrix.cloud.com
 www.cloud.com
 ap-s.cloud.com
@@ -2054,13 +2054,13 @@ fp-sg.tiktokv.com
 *.tiktokv.com
 academy-outbound-ads.tiktok.com
 developers.tiktok.com
-tiktok.com
 careers.tiktok.com
 www.pangleglobal.com
 ads.tiktok.com
-*.tiktok.com
 creatormarketplace.tiktok.com
+*.tiktok.com
 partner.tiktokshop.com
+tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2539,8 +2539,8 @@ www.alibabagroup.com
 *.alimama.com
 *.aliexpress.ru
 *.aliyun.com
-*.alibabacloud.com
 *.aliexpress.com
+*.alibabacloud.com
 *.tmall.com
 *.alibaba.com
 *.Daraz.com
@@ -2639,9 +2639,9 @@ moments.marriottbonvoy.com
 help.marriott.com
 mipartnerprivileges.marriott.com
 travelagents.marriott.com/
-traveler.marriott.com
 www.marriott.com
 activities.marriott.com
+traveler.marriott.com
 homes-and-villas.marriott.com
 careers.marriott.com
 sso.marriott.com
@@ -2701,8 +2701,8 @@ www.datastax.com
 downloads.datastax.com
 docs.datastax.com
 astra.datastax.com
-app.nordpass.com
 *.nordvpn.com
+app.nordpass.com
 *.nordvpn.com
 app.nordpass.com
 *.line.me
@@ -2831,8 +2831,9 @@ api.rezserver.com
 admin.rezserver.com
 reservations.rezserver.com
 cruises.priceline.com
-www.getaroom.com
+secure.rezserver.com
 priceline.com
+www.getaroom.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -3048,14 +3049,14 @@ pabets.tvg.com
 promos.tvg.com
 service.tvg.com
 fanduel.design
-ia.tvg.com
-tvg.com
-login.tvg.com
-www.tvg.com
-mobile-prod.tvg.com
-*racing.fanduel.com
-www.4njbets.com
 us.tvg.com
+ia.tvg.com
+www.4njbets.com
+tvg.com
+mobile-prod.tvg.com
+login.tvg.com
+*racing.fanduel.com
+www.tvg.com
 *.fanduel.com
 fdbox.net
 *.fanduel.com
@@ -3106,13 +3107,13 @@ pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
 *.hyperwallet.com
 *.paylution.com
+*.paypalcorp.com
 www.loanbuilder.com
 my.swiftfinancial.com
-*.paypalcorp.com
-*.venmo.com
-*.braintreepayments.com
 *.braintreegateway.com
 paypalobjects.com
+*.venmo.com
+*.braintreepayments.com
 *.paypal.com
 www.paypal-*.com
 *.xoom.com
@@ -3440,8 +3441,8 @@ grab.careers
 *.myteksi.com
 *.grab.com
 jira.grab.com
-gifts.grab.com
 *.ovo.id
+gifts.grab.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3754,10 +3755,10 @@ derivws.com
 *.deriv.cloud
 smarttrader.deriv.com
 *.binary.com
-api.deriv.com
-app.deriv.com
 *.derivws.com
 *.deriv.com
+api.deriv.com
+app.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3782,8 +3783,8 @@ preprod.nl
 qatest.nl
 rudderplatform.com
 werkenbijdnb.nl
-werkenbijderet.nl
 www.werkenbijbakertilly.nl
+werkenbijderet.nl
 werkenbijdefensie.nl
 werkenbijderet.nl
 www.werkenbijbakertilly.nl
@@ -3820,8 +3821,8 @@ zopim.com
 app.futuresimple.com
 api.getbase.com
 http://h1-your-domain.zendesk.com/sell
-yourcompany.udemy.com
 www.udemy.com
+yourcompany.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 *.shopifykloud.com
@@ -3857,7 +3858,6 @@ www.bitstrips.com
 scan.snapchat.com
 kit.snapchat.com
 snappublisher.snapchat.com
-geofilters.snapchat.com
 spectacles.com
 map.snapchat.com
 story.snapchat.com
@@ -3877,13 +3877,14 @@ rt.playcanvas.com
 store.playcanvas.com
 playcanv.as
 *.sc-corp.net
-ads.snapchat.com
 login.playcanvas.com
-app.snapchat.com
+ads.snapchat.com
 playcanvas.com
 accounts.snapchat.com
+app.snapchat.com
 web.snapchat.com
 business.snapchat.com
+geofilters.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3962,8 +3963,8 @@ callbacks.airbnb.com
 *.hoteltonight-test.com
 www.hoteltonight.com
 *.airbnbcitizen.com
-api.airbnb.com
 *.withairbnb.com
+api.airbnb.com
 next.airbnb.com
 www.airbnb.com
 *.airbnb.com
@@ -4079,7 +4080,6 @@ safe.tumblr.com
 secure.tumblr.com
 assets.tumblr.com
 embed.tumblr.com
-*.tumblr.com
 www.tumblr.com
 t.umblr.com
 *.srvcs.tumblr.com
@@ -4092,6 +4092,7 @@ mailpoet.com
 wordpress.com
 akismet.com
 gravatar.com
+*.tumblr.com
 *.tumblr.com
 *.srvcs.tumblr.com
 api.tumblr.com
@@ -4132,8 +4133,8 @@ pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
-api.coinbase.com
 institutional.coinbase.com
+api.coinbase.com
 *.base.org
 international.coinbase.com
 cloud.coinbase.com
@@ -4392,8 +4393,8 @@ u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
-accounts.magento.cloud
 repo.magento.com
+accounts.magento.cloud
 magento.com
 marketplace.magento.com
 magentocommerce.com
@@ -4651,4 +4652,24 @@ api.enter.health
 api.enter.health
 login.enter.health
 provider.enter.health
+*.urbandictionary.com
+*.urbandictionary.net
+*.urbandictionary.org
+*.urbandictionary.biz
+urbandictionary.github.io
+*.ud.wtf
+*.udimg.com
+*.urbandictionary.blog
+*.urbanup.com
+av.urbandictionary.biz
+*.urbandictionary.com
+*.urbandictionary.net
+*.urbandictionary.biz
+*.urbandictionary.org
+*.ud.wtf
+*.udimg.com
+*.urbandictionary.blog
+*.urbanup.com
+urbandictionary.github.io
+av.urbandictionary.biz
 ```
