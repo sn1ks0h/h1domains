@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Mar 18 22:19:06 UTC 2024)
+## Domains with Bounties (Last Updated Mon Mar 18 23:19:08 UTC 2024)
 ```
 www.dysoncanada.ca
 www.dyson.ie
@@ -312,17 +312,19 @@ video-callerid-eu.truecaller.com
 webdirectory-eu.truecaller.com
 webonboarding-eu.truecaller.com
 cards.remitly.io
-api.remitly.io
 rewire.com
+api.remitly.io
 rates.rewire.com
 app.rewire.to
 remitly.com
+app3.rewire.to
 remitly.com
 api.remitly.io
 cards.remitly.io
 rewire.com
 app.rewire.to
 rates.rewire.com
+app3.rewire.to
 toolsforhumanity.com
 getworldcoin.com
 *.worldcoin-distributors.com
@@ -453,12 +455,12 @@ www.mercadolibre.com.pe
 www.mercadolibre.com.uy
 www.mercadolibre.cl
 www.mercadopago.cl
-www.mercadopago.com.br
 www.mercadolivre.com.br
-api.mercadolibre.com
 www.mercadopago.com.ar
 api.mercadopago.com
 www.mercadolibre.com.ar
+www.mercadopago.com.br
+api.mercadolibre.com
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -498,16 +500,16 @@ taxi.booking.com
 cars.booking.com
 kyc-onboarding.booking.com
 booking.com
-widget.rentalcars.com
 secure.booking.com
 spark.fareharbor.com
 admin.booking.com
 careers.booking.com
 account.booking.com
 flights.booking.com
-*.rentalcars.com
-*.booking.com
 www.fareharbor.com
+widget.rentalcars.com
+*.booking.com
+*.rentalcars.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -796,8 +798,8 @@ app.avtoelon.uz
 id.avtoelon.uz
 m.kolesa.kz
 api.krisha.kz
-avtoelon.uz
 kolesa.kz
+avtoelon.uz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -929,8 +931,8 @@ ingest.clairvoyance.indrive.tech
 injob.indriver.com
 *.indrive.com
 watchdocs.indriverapp.com
-*.indriverapp.com
 new-order.eu-east-1.indriverapp.com
+*.indriverapp.com
 *.indriver.com
 *.indriverapp.com
 *.indrive.com
@@ -958,8 +960,8 @@ debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 *.grindr.io
 *.grindr.mobi
-*.grindr.com
 web.grindr.com
+*.grindr.com
 *.grindr.io
 *.grindr.com
 *.grindr.mobi
@@ -1027,9 +1029,9 @@ cfapi.voikukka.fi
 auth.skypicker.com
 jobs.kiwi.com
 www.kiwi.com
-*.kiwi.com
 tequila.kiwi.com
 *.skypicker.com
+*.kiwi.com
 *.kiwi.com
 *.skypicker.com
 www.kiwi.com
@@ -1058,6 +1060,7 @@ work-staging.8x8.com
 user-profile-staging.8x8.com
 *.8x8staging.com
 connect.8x8.com
+*.jitsi.net
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1202,8 +1205,8 @@ www.expediagroup.com
 www.flights.com
 *.magiceden.dev
 *.magiceden.workers.dev
-magiceden.io
 *.magiceden.io
+magiceden.io
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -1302,11 +1305,11 @@ metamask.io
 snaps.metamask.io
 portfolio.metamask.io
 checkout.razorpay.com
-invoices.razorpay.com
 payroll.razorpay.com
 x.razorpay.com
 dashboard.razorpay.com
 api.razorpay.com
+invoices.razorpay.com
 dashboard.razorpay.com
 api.razorpay.com
 checkout.razorpay.com
@@ -1732,9 +1735,9 @@ www.elastic.co
 *.elasticnet.co
 *.eops.nl
 *.swiftype.com
-*.elastic.co
 *.elstc.co
 cloud.elastic.co
+*.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1775,7 +1778,6 @@ amp.reddit.com
 ads-api.reddit.com
 *.redditinc.com
 *.redditblog.com
-api.reddit.com
 mod.reddit.com
 oauth.reddit.com
 gql.reddit.com
@@ -1795,8 +1797,9 @@ old.reddit.com
 *.reddithelp.com
 ads.reddit.com
 www.reddit.com
-new.reddit.com
 matrix.redditspace.com
+new.reddit.com
+api.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1907,8 +1910,8 @@ status.larksuite.com
 passport.larksuite.com
 internal-api.larksuite.com
 internal-api-drive-stream.larksuite.com
-app.larksuite.com
 open.larksuite.com
+app.larksuite.com
 hackers_chosendomain.larksuite.com
 larksuite.com
 internal-api-lark-api.larksuite.com
@@ -1934,9 +1937,9 @@ hackers_chosendomain.larksuite.com
 core.yoti.com
 ccloud.yoti.com
 code.yoti.com
-www.yotisign.com
 api.yoti.com
 identity.yoti.com
+www.yotisign.com
 hub.yoti.com
 core.yoti.com
 api.yoti.com
@@ -1957,8 +1960,8 @@ internal-docs.netlify.com
 internal.netlify.com
 *.ops.netlify.com
 *.infra-prod.nsvcs.net
-app.netlify.com
 api.netlify.com
+app.netlify.com
 *.services.netlify.com
 *.services-prod.nsvcs.net
 *.infra-prod.nsvcs.net
@@ -2002,12 +2005,12 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-(yoursubdomain).sharefile.com
 www.cloud.com
+(yoursubdomain).sharefile.com
 (yoursubdomain).sharefile.eu
-secure.sharefile.com
 adm.cloud.com
 citrix.cloud.com
+secure.sharefile.com
 secure.sharefile.eu
 citrix.cloud.com
 www.cloud.com
@@ -2046,14 +2049,14 @@ developers.tiktok.com
 careers.tiktok.com
 fp-sg.tiktokv.com
 www.pangleglobal.com
-*.tiktokv.com
 business.tiktok.com
+*.tiktokv.com
 creatormarketplace.tiktok.com
 academy-outbound-ads.tiktok.com
 tiktok.com
-partner.tiktokshop.com
-*.tiktok.com
 ads.tiktok.com
+*.tiktok.com
+partner.tiktokshop.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2623,9 +2626,9 @@ moments.marriottbonvoy.com
 help.marriott.com
 mipartnerprivileges.marriott.com
 travelagents.marriott.com/
-traveler.marriott.com
 activities.marriott.com
 www.marriott.com
+traveler.marriott.com
 homes-and-villas.marriott.com
 careers.marriott.com
 sso.marriott.com
@@ -3032,14 +3035,14 @@ pabets.tvg.com
 promos.tvg.com
 service.tvg.com
 fanduel.design
-us.tvg.com
 ia.tvg.com
 www.4njbets.com
+us.tvg.com
 tvg.com
-mobile-prod.tvg.com
 login.tvg.com
-*racing.fanduel.com
 www.tvg.com
+mobile-prod.tvg.com
+*racing.fanduel.com
 fdbox.net
 *.fanduel.com
 *.fanduel.com
@@ -3257,12 +3260,12 @@ support.steampowered.com
 partner.steampowered.com
 partner.steamgames.com
 playartifact.com
-www.teamfortress.com
 help.steampowered.com
+www.teamfortress.com
 www.counter-strike.net
-api.steampowered.com
 www.dota2.com
 steamcommunity.com
+api.steampowered.com
 www.valvesoftware.com
 store.steampowered.com
 www.dota2.com
@@ -3418,8 +3421,8 @@ xtramile.grabpay.com
 wiki.grab.com
 grab.careers
 *.myteksi.com
-*.ovo.id
 kartaview.org
+*.ovo.id
 api.grabpay.com
 *.myteksi.net
 *.grab.com
@@ -3497,9 +3500,6 @@ app.dashlane.com
 logs.dashlane.com
 api.dashlane.com
 api.wordpress.org
-*.buddypress.org
-bbpress.org
-profiles.wordpress.org
 *.wordcamp.org
 codex.wordpress.org
 codex.bbpress.org
@@ -3517,6 +3517,9 @@ wordpressfoundation.org
 doaction.org
 gutenberg.run
 *.wordpress.org
+*.buddypress.org
+bbpress.org
+profiles.wordpress.org
 *.wordpress.org
 *.buddypress.org
 bbpress.org
@@ -3665,8 +3668,8 @@ npmjs.org
 gist.github.com
 npmjs.com
 *.githubusercontent.com
-github.com
 api.github.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3734,9 +3737,9 @@ cashier.deriv.com
 secure-dfadmin.deriv.com
 *.binary.com
 *.deriv.cloud
+oauth.deriv.com
 derivws.com
 api.deriv.com
-oauth.deriv.com
 *.derivws.com
 smarttrader.deriv.com
 app.deriv.com
@@ -3818,9 +3821,9 @@ shopifyinbox.com
 *.shopify.io
 admin.shopify.com
 accounts.shopify.com
-shop.app
 *.shopify.com
 your-store.myshopify.com
+shop.app
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3943,8 +3946,8 @@ callbacks.airbnb.com
 *.luxuryretreats.com
 www.hoteltonight.com
 *.airbnbcitizen.com
-api.airbnb.com
 *.withairbnb.com
+api.airbnb.com
 next.airbnb.com
 *.hoteltonight-test.com
 www.airbnb.com
@@ -4180,12 +4183,10 @@ profile-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 hackathon-photos.hackerone-user-content.com
-hackerone.live
 reviewer.pullrequest.com
 ctf.hacker101.com
 cover-photos.hackerone-user-content.com
 a5s.hackerone-ext-content.com
-hackerone-user-content.com
 api.hackerone.com
 www.wearehackerone.com
 www.hackerone.com
@@ -4193,6 +4194,8 @@ hackerone-ext-content.com
 app.pullrequest.com
 errors.hackerone.net
 hackerone.com
+hackerone-user-content.com
+hackerone.live
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -4384,8 +4387,8 @@ u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
-repo.magento.com
 accounts.magento.cloud
+repo.magento.com
 magento.com
 marketplace.magento.com
 magentocommerce.com
@@ -4423,7 +4426,7 @@ alerts.eu.newrelic.com
 login.newrelic.com
 developer.newrelic.com
 *.nr-ops.net
-*.newrelic.com
+rpm.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
