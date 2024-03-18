@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Mar 18 02:23:54 UTC 2024)
+## Domains with Bounties (Last Updated Mon Mar 18 03:19:19 UTC 2024)
 ```
 www.dysoncanada.ca
 www.dyson.ie
@@ -331,8 +331,8 @@ getworldcoin.com
 *.toolsforhumanity.com
 *.consumer.worldcoin.org
 bioid-management.app
-*.worldcoin.org
 worldcoin.org
+*.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -387,8 +387,8 @@ http://sb-console-api.fireblocks.io
 http://sandbox-api.fireblocks.io
 sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
-*.sprint.apps.dynatracelabs.com
 *.sprint.dynatracelabs.com
+*.sprint.apps.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
 account-sprint.dynatracelabs.com
 *.sprint.dynatracelabs.com
@@ -410,8 +410,8 @@ logo.zyro.com
 payments.hostinger.com
 www.niagahoster.co.id
 cpanel.hostinger.com
-www.hostinger.com
 *.000webhost.com
+www.hostinger.com
 hpanel.hostinger.com
 *.000webhost.com
 www.hostinger.com
@@ -455,11 +455,11 @@ www.mercadolibre.com.uy
 www.mercadolibre.cl
 www.mercadopago.cl
 www.mercadopago.com.br
-api.mercadopago.com
 api.mercadolibre.com
 www.mercadopago.com.ar
-www.mercadolivre.com.br
+api.mercadopago.com
 www.mercadolibre.com.ar
+www.mercadolivre.com.br
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -494,7 +494,6 @@ paynotifications.booking.com
 supply-xml.booking.com
 accommodations.booking.com
 portal.taxi.booking.com
-flights.booking.com
 secure-supply-xml.booking.com
 taxi.booking.com
 cars.booking.com
@@ -507,8 +506,9 @@ www.fareharbor.com
 admin.booking.com
 careers.booking.com
 account.booking.com
-*.rentalcars.com
 *.booking.com
+*.rentalcars.com
+flights.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -2052,7 +2052,6 @@ academy-outbound-ads.tiktok.com
 developers.tiktok.com
 careers.tiktok.com
 www.pangleglobal.com
-creatormarketplace.tiktok.com
 partner.tiktokshop.com
 tiktok.com
 business.tiktok.com
@@ -2060,6 +2059,7 @@ ads.tiktok.com
 *.tiktok.com
 *.tiktokv.com
 fp-sg.tiktokv.com
+creatormarketplace.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2125,8 +2125,8 @@ api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
 *.acronis.work
-account.acronis.com
 beta-cloud.acronis.com
+account.acronis.com
 *.5nine.com
 *.acronis.com
 *-api-*.acronis.com
@@ -2700,8 +2700,8 @@ www.datastax.com
 downloads.datastax.com
 docs.datastax.com
 astra.datastax.com
-*.nordvpn.com
 app.nordpass.com
+*.nordvpn.com
 *.nordvpn.com
 app.nordpass.com
 *.line.me
@@ -3047,14 +3047,14 @@ pabets.tvg.com
 promos.tvg.com
 service.tvg.com
 fanduel.design
+us.tvg.com
 ia.tvg.com
+www.4njbets.com
 tvg.com
 mobile-prod.tvg.com
 login.tvg.com
 *racing.fanduel.com
 www.tvg.com
-us.tvg.com
-www.4njbets.com
 *.fanduel.com
 fdbox.net
 *.fanduel.com
@@ -3088,6 +3088,13 @@ https://github.com/matomo-org/docker
 *.paydiant.com
 paypal.me
 py.pl
+*.braintree-api.com
+*.braintree.tools
+prequal.swiftfinancial.com
+partner.swiftfinancial.com
+decision.swiftfinancial.com
+pigeon.swiftfinancial.com
+scrutiny.swiftfinancial.com
 www.swiftcapital.com
 www.swiftfinancial.com
 api.swiftfinancial.com
@@ -3096,21 +3103,14 @@ my.loanbuilder.com
 loanbuilder.com
 swiftfinancial.com
 swiftcapital.com
-*.braintree-api.com
-*.braintree.tools
-prequal.swiftfinancial.com
-partner.swiftfinancial.com
-decision.swiftfinancial.com
-pigeon.swiftfinancial.com
-scrutiny.swiftfinancial.com
 *.hyperwallet.com
 *.paylution.com
-*.paypalcorp.com
 www.loanbuilder.com
 my.swiftfinancial.com
-*.braintreegateway.com
-paypalobjects.com
+*.paypalcorp.com
 *.venmo.com
+paypalobjects.com
+*.braintreegateway.com
 *.braintreepayments.com
 *.paypal.com
 www.paypal-*.com
@@ -3297,12 +3297,12 @@ developer.valvesoftware.com
 *.mona.co
 tax.crypto.com
 auth.crypto.com
-app.mona.co
 js.crypto.com
 pay.crypto.com
-*.crypto.com
 www.crypto.com
+*.crypto.com
 merchant.crypto.com
+app.mona.co
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3435,12 +3435,12 @@ xtramile.grabpay.com
 wiki.grab.com
 grab.careers
 *.myteksi.com
-jira.grab.com
 *.grab.com
+jira.grab.com
 *.ovo.id
 gifts.grab.com
-kartaview.org
 api.grabpay.com
+kartaview.org
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3604,7 +3604,6 @@ www.starbucks.fr
 www.starbucks.co.uk
 www.starbucks.com.br
 www.starbucks.ca
-app.starbucks.com
 openapi.starbucks.com
 secureui.starbucks.com
 card.starbucks.com.sg
@@ -3612,6 +3611,7 @@ www.starbucks.com.sg
 cart.starbucks.co.jp
 www.starbucks.co.kr
 gift.starbucks.co.jp
+app.starbucks.com
 www.starbucks.com
 www.starbucksreserve.com
 gift.starbucks.co.jp
@@ -3678,11 +3678,11 @@ classroom.github.com
 *.github.net
 education.github.com
 npmjs.org
-api.github.com
 gist.github.com
 npmjs.com
 *.githubusercontent.com
 github.com
+api.github.com
 github.com
 api.github.com
 gist.github.com
@@ -3748,15 +3748,15 @@ www.algolia.com
 www.algolia.com
 cashier.deriv.com
 secure-dfadmin.deriv.com
-*.deriv.cloud
 *.binary.com
 *.derivws.com
+derivws.com
 app.deriv.com
 smarttrader.deriv.com
-derivws.com
 oauth.deriv.com
 *.deriv.com
 api.deriv.com
+*.deriv.cloud
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3875,10 +3875,10 @@ rt.playcanvas.com
 store.playcanvas.com
 playcanv.as
 *.sc-corp.net
-login.playcanvas.com
 ads.snapchat.com
-accounts.snapchat.com
+login.playcanvas.com
 app.snapchat.com
+accounts.snapchat.com
 web.snapchat.com
 business.snapchat.com
 geofilters.snapchat.com
