@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Mar 18 00:58:32 UTC 2024)
+## Domains with Bounties (Last Updated Mon Mar 18 01:50:57 UTC 2024)
 ```
 www.dysoncanada.ca
 www.dyson.ie
@@ -315,9 +315,9 @@ webonboarding-eu.truecaller.com
 cards.remitly.io
 rates.rewire.com
 app.rewire.to
-remitly.com
 rewire.com
 api.remitly.io
+remitly.com
 remitly.com
 api.remitly.io
 cards.remitly.io
@@ -387,9 +387,9 @@ http://sb-console-api.fireblocks.io
 http://sandbox-api.fireblocks.io
 sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
+*.sprint.apps.dynatracelabs.com
 *.sprint.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
-*.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
 *.sprint.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
@@ -499,8 +499,8 @@ secure-supply-xml.booking.com
 taxi.booking.com
 cars.booking.com
 kyc-onboarding.booking.com
-booking.com
 widget.rentalcars.com
+booking.com
 secure.booking.com
 spark.fareharbor.com
 www.fareharbor.com
@@ -963,8 +963,8 @@ debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 *.grindr.io
 *.grindr.mobi
-web.grindr.com
 *.grindr.com
+web.grindr.com
 *.grindr.io
 *.grindr.com
 *.grindr.mobi
@@ -1013,9 +1013,9 @@ www.sokos.fi
 api.sokos.fi
 cfapi.voikukka.fi
 digili.s-cloud.fi
+mobile.s-pankki.fi
 www.s-pankki.fi
 www.prisma.fi
-mobile.s-pankki.fi
 online.s-pankki.fi
 online.s-pankki.fi
 www.s-pankki.fi
@@ -1116,8 +1116,8 @@ admin.8x8.com
 *.superbet.pl
 moonpay.com
 hypermint.com
-*.hypermint.com
 *.moonpaycloud.com
+*.hypermint.com
 *.moonpay.com
 *.moonpaycloud.com
 *.hypermint.com
@@ -1334,8 +1334,8 @@ business.kayak.com
 www.cheapflights.com
 www.mundi.com.br
 www.kayak.com
-www.checkfelix.com
 www.momondo.com
+www.checkfelix.com
 www.hotelscombined.com
 www.kayak.com
 www.swoodoo.com
@@ -1474,8 +1474,8 @@ community.databricks.com
 customer-academy.databricks.com
 labs.databricks.com
 marketplace.databricks.com
-databricks.com
 accounts.cloud.databricks.com
+databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -1798,8 +1798,8 @@ redditforbusiness.com
 app.spiketrap.io
 www.spiketrap.io
 old.reddit.com
-matrix.redditspace.com
 *.reddit.com
+matrix.redditspace.com
 ads.reddit.com
 *.reddithelp.com
 www.reddit.com
@@ -2011,9 +2011,9 @@ api.adm.cloud.com
 (yoursubdomain).sharefile.com
 www.cloud.com
 (yoursubdomain).sharefile.eu
+secure.sharefile.com
 adm.cloud.com
 citrix.cloud.com
-secure.sharefile.com
 secure.sharefile.eu
 citrix.cloud.com
 www.cloud.com
@@ -2056,10 +2056,10 @@ creatormarketplace.tiktok.com
 partner.tiktokshop.com
 tiktok.com
 business.tiktok.com
+fp-sg.tiktokv.com
+*.tiktokv.com
 ads.tiktok.com
 *.tiktok.com
-*.tiktokv.com
-fp-sg.tiktokv.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2700,8 +2700,8 @@ www.datastax.com
 downloads.datastax.com
 docs.datastax.com
 astra.datastax.com
-app.nordpass.com
 *.nordvpn.com
+app.nordpass.com
 *.nordvpn.com
 app.nordpass.com
 *.line.me
@@ -3111,8 +3111,8 @@ my.swiftfinancial.com
 *.venmo.com
 *.braintreegateway.com
 paypalobjects.com
-*.paypal.com
 *.braintreepayments.com
+*.paypal.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3294,9 +3294,9 @@ www.counter-strike.net
 playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
-auth.crypto.com
 *.mona.co
 tax.crypto.com
+auth.crypto.com
 app.mona.co
 js.crypto.com
 pay.crypto.com
@@ -3751,12 +3751,12 @@ secure-dfadmin.deriv.com
 *.deriv.cloud
 *.binary.com
 *.derivws.com
-derivws.com
 app.deriv.com
 smarttrader.deriv.com
+derivws.com
 oauth.deriv.com
-api.deriv.com
 *.deriv.com
+api.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3834,8 +3834,8 @@ accounts.shopify.com
 partners.shopify.com
 shop.app
 *.shopify.io
-*.shopify.com
 admin.shopify.com
+*.shopify.com
 your-store.myshopify.com
 *.shopifycs.com
 *.shopify.io
@@ -3875,8 +3875,8 @@ rt.playcanvas.com
 store.playcanvas.com
 playcanv.as
 *.sc-corp.net
-ads.snapchat.com
 login.playcanvas.com
+ads.snapchat.com
 app.snapchat.com
 accounts.snapchat.com
 web.snapchat.com
@@ -4126,11 +4126,11 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
-api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
+api.coinbase.com
 institutional.coinbase.com
 *.base.org
 international.coinbase.com
@@ -4390,8 +4390,8 @@ u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
-accounts.magento.cloud
 repo.magento.com
+accounts.magento.cloud
 magento.com
 marketplace.magento.com
 magentocommerce.com
