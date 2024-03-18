@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Mar 18 17:35:02 UTC 2024)
+## Domains with Bounties (Last Updated Mon Mar 18 18:28:31 UTC 2024)
 ```
 www.dysoncanada.ca
 www.dyson.ie
@@ -315,8 +315,8 @@ cards.remitly.io
 rewire.com
 api.remitly.io
 app.rewire.to
-remitly.com
 rates.rewire.com
+remitly.com
 remitly.com
 api.remitly.io
 cards.remitly.io
@@ -454,11 +454,11 @@ www.mercadolibre.com.uy
 www.mercadolibre.cl
 www.mercadopago.cl
 www.mercadopago.com.br
-www.mercadolibre.com.ar
-www.mercadopago.com.ar
 www.mercadolivre.com.br
-api.mercadopago.com
 api.mercadolibre.com
+www.mercadopago.com.ar
+api.mercadopago.com
+www.mercadolibre.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -497,8 +497,8 @@ secure-supply-xml.booking.com
 taxi.booking.com
 cars.booking.com
 kyc-onboarding.booking.com
-booking.com
 widget.rentalcars.com
+booking.com
 secure.booking.com
 spark.fareharbor.com
 admin.booking.com
@@ -506,8 +506,8 @@ careers.booking.com
 account.booking.com
 flights.booking.com
 *.rentalcars.com
-www.fareharbor.com
 *.booking.com
+www.fareharbor.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -572,8 +572,8 @@ cdn.moderntreasury.com
 app.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
-test.nicehash.com
 test.nicex.com
+test.nicehash.com
 test.nicehash.com
 https://test.nicehash.com/shop/
 https://test.nicex.com
@@ -776,8 +776,8 @@ http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
-yourdomain.freshdesk.com
 yourdomain.myfreshworks.com
+yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
@@ -828,9 +828,9 @@ merino.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 shavar.services.mozilla.com
 lando.services.mozilla.com
+firefox-ci-tc.services.mozilla.com
 aus5.mozilla.org
 sync.services.mozilla.com
-firefox-ci-tc.services.mozilla.com
 firefox.settings.services.mozilla.com
 addons.allizom.org
 phabricator.allizom.org
@@ -1008,9 +1008,9 @@ www.sokos.fi
 api.sokos.fi
 cfapi.voikukka.fi
 digili.s-cloud.fi
+mobile.s-pankki.fi
 www.s-pankki.fi
 www.prisma.fi
-mobile.s-pankki.fi
 online.s-pankki.fi
 online.s-pankki.fi
 www.s-pankki.fi
@@ -1111,8 +1111,8 @@ admin.8x8.com
 *.superbet.pl
 moonpay.com
 hypermint.com
-*.moonpaycloud.com
 *.hypermint.com
+*.moonpaycloud.com
 *.moonpay.com
 *.moonpaycloud.com
 *.hypermint.com
@@ -1732,8 +1732,8 @@ https://www.xvideos.net/app/
 www.elastic.co
 *.elasticnet.co
 *.eops.nl
-*.elastic.co
 *.swiftype.com
+*.elastic.co
 *.elstc.co
 cloud.elastic.co
 *.elastic.co
@@ -1748,9 +1748,9 @@ api.taxjar.com
 *.reckoproduction.com
 *.link.co
 *.reckostaging.com
-*.touchtechpayments.com
 *.recko.io
 js.stripe.com
+*.touchtechpayments.com
 *.stripe.com
 api.stripe.com
 app.taxjar.com
@@ -1794,9 +1794,9 @@ app.spiketrap.io
 www.spiketrap.io
 old.reddit.com
 *.reddit.com
-ads.reddit.com
 matrix.redditspace.com
 *.reddithelp.com
+ads.reddit.com
 www.reddit.com
 *.snooguts.net
 *.redditmedia.com
@@ -1911,8 +1911,8 @@ internal-api-drive-stream.larksuite.com
 app.larksuite.com
 open.larksuite.com
 hackers_chosendomain.larksuite.com
-larksuite.com
 internal-api-lark-api.larksuite.com
+larksuite.com
 larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
@@ -2047,14 +2047,14 @@ academy-outbound-ads.tiktok.com
 developers.tiktok.com
 careers.tiktok.com
 fp-sg.tiktokv.com
-*.tiktok.com
-tiktok.com
-www.pangleglobal.com
 creatormarketplace.tiktok.com
+www.pangleglobal.com
+tiktok.com
+business.tiktok.com
 *.tiktokv.com
 ads.tiktok.com
 partner.tiktokshop.com
-business.tiktok.com
+*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2121,8 +2121,8 @@ api.faraday.ai
 *.devicelock.com
 *.acronis.work
 beta-cloud.acronis.com
-account.acronis.com
 *.5nine.com
+account.acronis.com
 *.acronis.com
 *-api-*.acronis.com
 *.acronis.com
@@ -2280,10 +2280,10 @@ transact.playstation.com
 wallets.api.playstation.com
 ca.account.sony.com
 *.sonyentertainmentnetwork.com
-my.playstation.com
-*.api.playstation.com
 my.account.sony.com
 *.playstation.net
+*.api.playstation.com
+my.playstation.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -2416,6 +2416,7 @@ prod-dp-discovery-us-east-1.amazon.com
 rabbitinstruction-na.amazon.com
 relay.amazon.com
 sellercentral.amazon.com
+spapi-na.amazon.com
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -2623,8 +2624,8 @@ moments.marriottbonvoy.com
 help.marriott.com
 mipartnerprivileges.marriott.com
 travelagents.marriott.com/
-traveler.marriott.com
 activities.marriott.com
+traveler.marriott.com
 www.marriott.com
 homes-and-villas.marriott.com
 careers.marriott.com
@@ -2685,8 +2686,8 @@ www.datastax.com
 downloads.datastax.com
 docs.datastax.com
 astra.datastax.com
-*.nordvpn.com
 app.nordpass.com
+*.nordvpn.com
 *.nordvpn.com
 app.nordpass.com
 *.line.me
@@ -3089,13 +3090,13 @@ pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
 *.hyperwallet.com
 *.paylution.com
+*.paypalcorp.com
 www.loanbuilder.com
 my.swiftfinancial.com
-*.paypalcorp.com
-*.venmo.com
 *.braintreegateway.com
-*.braintreepayments.com
+*.venmo.com
 *.xoom.com
+*.braintreepayments.com
 paypalobjects.com
 *.paypal.com
 www.paypal-*.com
@@ -3257,12 +3258,12 @@ support.steampowered.com
 partner.steampowered.com
 partner.steamgames.com
 playartifact.com
-www.teamfortress.com
 help.steampowered.com
+www.teamfortress.com
 www.counter-strike.net
-api.steampowered.com
 www.dota2.com
 steamcommunity.com
+api.steampowered.com
 www.valvesoftware.com
 store.steampowered.com
 www.dota2.com
@@ -3418,8 +3419,8 @@ xtramile.grabpay.com
 wiki.grab.com
 grab.careers
 *.myteksi.com
-*.ovo.id
 kartaview.org
+*.ovo.id
 api.grabpay.com
 *.myteksi.net
 *.grab.com
@@ -3816,11 +3817,11 @@ arrive-server.shopifycloud.com
 partners.shopify.com
 *.shopify.io
 shopifyinbox.com
-shop.app
 accounts.shopify.com
-your-store.myshopify.com
 admin.shopify.com
+shop.app
 *.shopify.com
+your-store.myshopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3862,11 +3863,11 @@ playcanv.as
 login.playcanvas.com
 ads.snapchat.com
 accounts.snapchat.com
-app.snapchat.com
 web.snapchat.com
 geofilters.snapchat.com
 playcanvas.com
 business.snapchat.com
+app.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3943,8 +3944,8 @@ callbacks.airbnb.com
 *.luxuryretreats.com
 www.hoteltonight.com
 *.airbnbcitizen.com
-api.airbnb.com
 *.withairbnb.com
+api.airbnb.com
 next.airbnb.com
 *.hoteltonight-test.com
 www.airbnb.com
@@ -4110,12 +4111,12 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
+api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
 institutional.coinbase.com
-api.coinbase.com
 *.base.org
 international.coinbase.com
 cloud.coinbase.com
