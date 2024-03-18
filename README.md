@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Mar 18 04:18:41 UTC 2024)
+## Domains with Bounties (Last Updated Mon Mar 18 05:19:28 UTC 2024)
 ```
 www.dysoncanada.ca
 www.dyson.ie
@@ -314,8 +314,8 @@ webdirectory-eu.truecaller.com
 webonboarding-eu.truecaller.com
 cards.remitly.io
 app.rewire.to
-api.remitly.io
 rewire.com
+api.remitly.io
 remitly.com
 rates.rewire.com
 remitly.com
@@ -387,8 +387,8 @@ http://sb-console-api.fireblocks.io
 http://sandbox-api.fireblocks.io
 sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
-*.sprint.apps.dynatracelabs.com
 *.sprint.dynatracelabs.com
+*.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
 *.sprint.dynatracelabs.com
@@ -457,8 +457,8 @@ www.mercadopago.cl
 www.mercadopago.com.br
 api.mercadolibre.com
 www.mercadopago.com.ar
-www.mercadolibre.com.ar
 api.mercadopago.com
+www.mercadolibre.com.ar
 www.mercadolivre.com.br
 api.mercadopago.com
 www.mercadopago.com.ar
@@ -506,8 +506,8 @@ www.fareharbor.com
 admin.booking.com
 careers.booking.com
 account.booking.com
-flights.booking.com
 *.booking.com
+flights.booking.com
 *.rentalcars.com
 *.booking.com
 *.rentalcars.com
@@ -698,7 +698,6 @@ visa.com.ua
 www.visa.com.vn
 www.visa.co.ao
 visa.co.cr
-www.visa.co.id
 www.visa.co.il
 www.visa.co.in
 www.visa.co.jp
@@ -780,8 +779,8 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
 yourdomain.freshdesk.com
-yourdomain.myfreshworks.com
 yourdomain.freshservice.com
+yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -835,8 +834,8 @@ lando.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
 aus5.mozilla.org
 sync.services.mozilla.com
-addons.allizom.org
 firefox.settings.services.mozilla.com
+addons.allizom.org
 phabricator.allizom.org
 accounts.firefox.com
 addons.allizom.org
@@ -865,9 +864,9 @@ stage.taskcluster.nonprod.cloudops.mozgcp.net
 community-tc.services.mozilla.com
 hg.mozilla.org
 developer.mozilla.org
-monitor.mozilla.org
 support.mozilla.org
 www.mozilla.org
+monitor.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -1116,8 +1115,8 @@ admin.8x8.com
 *.superbet.pl
 moonpay.com
 hypermint.com
-*.moonpaycloud.com
 *.hypermint.com
+*.moonpaycloud.com
 *.moonpay.com
 *.moonpaycloud.com
 *.hypermint.com
@@ -1172,7 +1171,6 @@ www.expediagroup.com
 www.flights.com
 *.expediapartnercentral.com
 *.carrentals.com
-*.travelocity.ca
 www.expediapartnersolutions.com
 www.fewo-direkt.de
 *.vrbo.com
@@ -1180,6 +1178,7 @@ www.fewo-direkt.de
 *.travelocity.com
 www.expedia.com
 *.expediacruises.com
+*.travelocity.ca
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1914,8 +1913,8 @@ passport.larksuite.com
 internal-api.larksuite.com
 internal-api-lark-api.larksuite.com
 internal-api-drive-stream.larksuite.com
-app.larksuite.com
 open.larksuite.com
+app.larksuite.com
 hackers_chosendomain.larksuite.com
 larksuite.com
 larksuite.com
@@ -2008,8 +2007,8 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-(yoursubdomain).sharefile.com
 www.cloud.com
+(yoursubdomain).sharefile.com
 (yoursubdomain).sharefile.eu
 adm.cloud.com
 citrix.cloud.com
@@ -2047,19 +2046,19 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 live-backstage.tiktok.com
 effecthouse.tiktok.com
+shop.tiktok.com
 academy-outbound-ads.tiktok.com
 developers.tiktok.com
-shop.tiktok.com
 careers.tiktok.com
 www.pangleglobal.com
 partner.tiktokshop.com
 tiktok.com
-*.tiktok.com
 business.tiktok.com
 fp-sg.tiktokv.com
 *.tiktokv.com
 ads.tiktok.com
 creatormarketplace.tiktok.com
+*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2279,7 +2278,6 @@ mkapi.mackeeper.com
 mackeeper.com
 direct.playstation.com
 api.direct.playstation.com
-*.api.playstation.com
 store.playstation.com
 social.playstation.com
 transact.playstation.com
@@ -2289,6 +2287,7 @@ ca.account.sony.com
 my.account.sony.com
 *.sonyentertainmentnetwork.com
 my.playstation.com
+*.api.playstation.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -2539,8 +2538,8 @@ www.alibabagroup.com
 *.alibabacloud.com
 *.tmall.com
 *.Daraz.com
-*.taobao.com
 *.alibaba.com
+*.taobao.com
 *.1688.com
 *.aliexpress.com
 *.aliyun.com
@@ -3047,14 +3046,14 @@ pabets.tvg.com
 promos.tvg.com
 service.tvg.com
 fanduel.design
-us.tvg.com
 ia.tvg.com
-www.4njbets.com
 tvg.com
-mobile-prod.tvg.com
 login.tvg.com
-*racing.fanduel.com
 www.tvg.com
+mobile-prod.tvg.com
+*racing.fanduel.com
+www.4njbets.com
+us.tvg.com
 *.fanduel.com
 fdbox.net
 *.fanduel.com
@@ -3105,12 +3104,12 @@ pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
 *.hyperwallet.com
 *.paylution.com
+*.paypalcorp.com
 www.loanbuilder.com
 my.swiftfinancial.com
-*.paypalcorp.com
-*.venmo.com
 *.braintreegateway.com
 paypalobjects.com
+*.venmo.com
 *.braintreepayments.com
 *.paypal.com
 www.paypal-*.com
@@ -3435,12 +3434,12 @@ xtramile.grabpay.com
 wiki.grab.com
 grab.careers
 *.myteksi.com
-*.grab.com
 jira.grab.com
-*.ovo.id
 gifts.grab.com
-kartaview.org
+*.ovo.id
 api.grabpay.com
+kartaview.org
+*.grab.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3750,13 +3749,13 @@ cashier.deriv.com
 secure-dfadmin.deriv.com
 *.binary.com
 *.derivws.com
+derivws.com
 app.deriv.com
 smarttrader.deriv.com
-derivws.com
 oauth.deriv.com
-*.deriv.com
 api.deriv.com
 *.deriv.cloud
+*.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3875,8 +3874,8 @@ rt.playcanvas.com
 store.playcanvas.com
 playcanv.as
 *.sc-corp.net
-ads.snapchat.com
 login.playcanvas.com
+ads.snapchat.com
 app.snapchat.com
 accounts.snapchat.com
 web.snapchat.com
@@ -3960,8 +3959,8 @@ callbacks.airbnb.com
 *.hoteltonight-test.com
 www.hoteltonight.com
 *.airbnbcitizen.com
-*.withairbnb.com
 api.airbnb.com
+*.withairbnb.com
 next.airbnb.com
 *.airbnb.com
 www.airbnb.com
@@ -4126,11 +4125,11 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
+api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
-api.coinbase.com
 institutional.coinbase.com
 *.base.org
 international.coinbase.com
