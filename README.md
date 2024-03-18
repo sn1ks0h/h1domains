@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Mar 18 08:20:06 UTC 2024)
+## Domains with Bounties (Last Updated Mon Mar 18 09:18:52 UTC 2024)
 ```
 www.dysoncanada.ca
 www.dyson.ie
@@ -409,9 +409,9 @@ logo.zyro.com
 payments.hostinger.com
 www.niagahoster.co.id
 cpanel.hostinger.com
-*.000webhost.com
-www.hostinger.com
 hpanel.hostinger.com
+www.hostinger.com
+*.000webhost.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -456,9 +456,9 @@ www.mercadopago.cl
 www.mercadopago.com.br
 api.mercadolibre.com
 www.mercadopago.com.ar
+api.mercadopago.com
 www.mercadolivre.com.br
 www.mercadolibre.com.ar
-api.mercadopago.com
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -564,8 +564,8 @@ api.mergify.com
 dashboard.mergify.com
 www.compass.com
 www.compass.com
-*.hypr.com
 *.gethypr.com
+*.hypr.com
 *.hypr.com
 *.gethypr.com
 cdn.moderntreasury.com
@@ -778,8 +778,8 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
 yourdomain.freshdesk.com
-yourdomain.freshservice.com
 yourdomain.myfreshworks.com
+yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -864,8 +864,8 @@ community-tc.services.mozilla.com
 hg.mozilla.org
 developer.mozilla.org
 support.mozilla.org
-www.mozilla.org
 monitor.mozilla.org
+www.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -1175,8 +1175,8 @@ www.fewo-direkt.de
 *.hotwire.com
 *.travelocity.com
 www.expedia.com
-*.travelocity.ca
 *.expediacruises.com
+*.travelocity.ca
 *.carrentals.com
 *.vrbo.com
 *.hotwire.com
@@ -1205,9 +1205,9 @@ www.stayz.com.au
 www.expediagroup.com
 www.flights.com
 *.magiceden.io
-magiceden.io
 *.magiceden.dev
 *.magiceden.workers.dev
+magiceden.io
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -1332,9 +1332,9 @@ business.kayak.com
 www.cheapflights.com
 www.kayak.com
 www.checkfelix.com
-www.momondo.com
 www.hotelscombined.com
 www.mundi.com.br
+www.momondo.com
 www.kayak.com
 www.swoodoo.com
 www.checkfelix.com
@@ -1452,8 +1452,8 @@ api.instacart.com
 shoppers.instacart.com
 admin.instacart.com
 www.instacart.com
-*.instacart.tools
 *.instacart.com
+*.instacart.tools
 *.instacart.com
 *.instacart.tools
 api.instacart.com
@@ -1911,8 +1911,8 @@ status.larksuite.com
 passport.larksuite.com
 internal-api.larksuite.com
 internal-api-drive-stream.larksuite.com
-open.larksuite.com
 app.larksuite.com
+open.larksuite.com
 hackers_chosendomain.larksuite.com
 larksuite.com
 internal-api-lark-api.larksuite.com
@@ -1979,8 +1979,8 @@ internal-docs.netlify.com
 supportal.netlify.app
 launchpad.37signals.com
 world.hey.com
-*.hey.com
 3.basecamp.com
+*.hey.com
 *.hey.com
 3.basecamp.com
 launchpad.37signals.com
@@ -2045,19 +2045,19 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 live-backstage.tiktok.com
 effecthouse.tiktok.com
-shop.tiktok.com
 academy-outbound-ads.tiktok.com
 developers.tiktok.com
+shop.tiktok.com
 careers.tiktok.com
 tiktok.com
+*.tiktok.com
 business.tiktok.com
 fp-sg.tiktokv.com
-*.tiktok.com
 creatormarketplace.tiktok.com
-*.tiktokv.com
 www.pangleglobal.com
-ads.tiktok.com
+*.tiktokv.com
 partner.tiktokshop.com
+ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2536,12 +2536,12 @@ www.alibabagroup.com
 *.aliexpress.ru
 *.alibabacloud.com
 *.Daraz.com
-*.alibaba.com
 *.1688.com
 *.aliexpress.com
 *.aliyun.com
 *.taobao.com
 *.tmall.com
+*.alibaba.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2558,9 +2558,9 @@ www.alibabagroup.com
 configure.bmw.de
 konfigurator.bmw-motorrad.de
 www.mini.de
-www.bmw-motorrad.de
 configure.mini.de
 www.bmw.de
+www.bmw-motorrad.de
 www.bmw.de
 www.mini.de
 www.bmw-motorrad.de
@@ -2698,8 +2698,8 @@ www.datastax.com
 downloads.datastax.com
 docs.datastax.com
 astra.datastax.com
-*.nordvpn.com
 app.nordpass.com
+*.nordvpn.com
 *.nordvpn.com
 app.nordpass.com
 *.line.me
@@ -2828,8 +2828,8 @@ api.rezserver.com
 admin.rezserver.com
 reservations.rezserver.com
 cruises.priceline.com
-secure.rezserver.com
 flyiin.com
+www.bookingholdings.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -3045,14 +3045,14 @@ pabets.tvg.com
 promos.tvg.com
 service.tvg.com
 fanduel.design
-us.tvg.com
 ia.tvg.com
 www.4njbets.com
+us.tvg.com
 tvg.com
-mobile-prod.tvg.com
 login.tvg.com
-*racing.fanduel.com
 www.tvg.com
+mobile-prod.tvg.com
+*racing.fanduel.com
 fdbox.net
 *.fanduel.com
 *.fanduel.com
@@ -3102,12 +3102,12 @@ pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
 *.hyperwallet.com
 *.paylution.com
+*.paypalcorp.com
 www.loanbuilder.com
 my.swiftfinancial.com
-*.paypalcorp.com
-*.venmo.com
 *.braintreegateway.com
 paypalobjects.com
+*.venmo.com
 *.braintreepayments.com
 *.xoom.com
 *.paypal.com
@@ -3608,8 +3608,8 @@ cart.starbucks.co.jp
 www.starbucks.co.kr
 gift.starbucks.co.jp
 app.starbucks.com
-www.starbucks.com.cn
 www.starbucks.com
+www.starbucks.com.cn
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3748,9 +3748,9 @@ secure-dfadmin.deriv.com
 *.binary.com
 app.deriv.com
 *.deriv.cloud
-oauth.deriv.com
 derivws.com
 api.deriv.com
+oauth.deriv.com
 *.derivws.com
 *.deriv.com
 smarttrader.deriv.com
@@ -3829,11 +3829,11 @@ shopifyinbox.com
 *.shopifycloud.com
 accounts.shopify.com
 partners.shopify.com
-shop.app
 *.shopify.io
 *.shopify.com
 admin.shopify.com
 your-store.myshopify.com
+shop.app
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3872,10 +3872,10 @@ rt.playcanvas.com
 store.playcanvas.com
 playcanv.as
 *.sc-corp.net
-login.playcanvas.com
 ads.snapchat.com
-accounts.snapchat.com
+login.playcanvas.com
 app.snapchat.com
+accounts.snapchat.com
 web.snapchat.com
 business.snapchat.com
 geofilters.snapchat.com
@@ -3957,8 +3957,8 @@ callbacks.airbnb.com
 *.hoteltonight-test.com
 www.hoteltonight.com
 *.airbnbcitizen.com
-api.airbnb.com
 *.withairbnb.com
+api.airbnb.com
 next.airbnb.com
 www.airbnb.com
 *.airbnb.com
@@ -4043,10 +4043,10 @@ www.greenhouse.io
 gnip.com
 api.x.ai
 ide.x.ai
-*.twimg.com
 grok.x.ai
 x.com
 *.twitter.com
+*.twimg.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -4123,12 +4123,12 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
+api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
 institutional.coinbase.com
-api.coinbase.com
 *.base.org
 international.coinbase.com
 cloud.coinbase.com
@@ -4387,8 +4387,8 @@ u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
-accounts.magento.cloud
 repo.magento.com
+accounts.magento.cloud
 magento.com
 marketplace.magento.com
 magentocommerce.com
