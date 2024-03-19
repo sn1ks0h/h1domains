@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Mar 18 23:19:08 UTC 2024)
+## Domains with Bounties (Last Updated Tue Mar 19 00:58:25 UTC 2024)
 ```
 www.dysoncanada.ca
 www.dyson.ie
@@ -458,9 +458,9 @@ www.mercadopago.cl
 www.mercadolivre.com.br
 www.mercadopago.com.ar
 api.mercadopago.com
-www.mercadolibre.com.ar
-www.mercadopago.com.br
 api.mercadolibre.com
+www.mercadopago.com.br
+www.mercadolibre.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -506,8 +506,8 @@ admin.booking.com
 careers.booking.com
 account.booking.com
 flights.booking.com
-www.fareharbor.com
 widget.rentalcars.com
+www.fareharbor.com
 *.booking.com
 *.rentalcars.com
 *.booking.com
@@ -574,8 +574,8 @@ cdn.moderntreasury.com
 app.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
-test.nicehash.com
 test.nicex.com
+test.nicehash.com
 test.nicehash.com
 https://test.nicehash.com/shop/
 https://test.nicex.com
@@ -647,8 +647,8 @@ launch.gamma.redoxstage.com
 sftp.gamma.redoxstage.com
 webhooks.gamma.redoxstage.com
 testapp.redoxengine.com
-www.redoxengine.com
 10x.redoxengine.com
+www.redoxengine.com
 10x.redoxengine.com
 testapp.redoxengine.com
 testapi.redoxengine.com
@@ -833,8 +833,8 @@ lando.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
 aus5.mozilla.org
 sync.services.mozilla.com
-addons.allizom.org
 firefox.settings.services.mozilla.com
+addons.allizom.org
 phabricator.allizom.org
 accounts.firefox.com
 addons.allizom.org
@@ -960,8 +960,8 @@ debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 *.grindr.io
 *.grindr.mobi
-web.grindr.com
 *.grindr.com
+web.grindr.com
 *.grindr.io
 *.grindr.com
 *.grindr.mobi
@@ -1010,9 +1010,9 @@ www.sokos.fi
 api.sokos.fi
 cfapi.voikukka.fi
 digili.s-cloud.fi
-mobile.s-pankki.fi
 www.s-pankki.fi
 www.prisma.fi
+mobile.s-pankki.fi
 online.s-pankki.fi
 online.s-pankki.fi
 www.s-pankki.fi
@@ -1204,9 +1204,9 @@ www.stayz.com.au
 www.expediagroup.com
 www.flights.com
 *.magiceden.dev
-*.magiceden.workers.dev
 *.magiceden.io
 magiceden.io
+*.magiceden.workers.dev
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -1241,8 +1241,8 @@ pb.deribit.com
 tools.deribit.com
 metrics.deribit.com
 insights.deribit.com
-*.deribit.com
 test.deribit.com
+*.deribit.com
 *.deribit.com
 test.deribit.com
 insights.deribit.com
@@ -2005,12 +2005,12 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-www.cloud.com
 (yoursubdomain).sharefile.com
+www.cloud.com
 (yoursubdomain).sharefile.eu
+secure.sharefile.com
 adm.cloud.com
 citrix.cloud.com
-secure.sharefile.com
 secure.sharefile.eu
 citrix.cloud.com
 www.cloud.com
@@ -2054,9 +2054,9 @@ business.tiktok.com
 creatormarketplace.tiktok.com
 academy-outbound-ads.tiktok.com
 tiktok.com
-ads.tiktok.com
 *.tiktok.com
 partner.tiktokshop.com
+ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2124,8 +2124,8 @@ api.faraday.ai
 *.acronis.work
 beta-cloud.acronis.com
 *.5nine.com
-*.acronis.com
 account.acronis.com
+*.acronis.com
 *-api-*.acronis.com
 *.acronis.com
 *.5nine.com
@@ -3036,13 +3036,13 @@ promos.tvg.com
 service.tvg.com
 fanduel.design
 ia.tvg.com
-www.4njbets.com
-us.tvg.com
 tvg.com
 login.tvg.com
 www.tvg.com
 mobile-prod.tvg.com
 *racing.fanduel.com
+www.4njbets.com
+us.tvg.com
 fdbox.net
 *.fanduel.com
 *.fanduel.com
@@ -3075,6 +3075,13 @@ https://github.com/matomo-org/docker
 *.paydiant.com
 paypal.me
 py.pl
+*.braintree-api.com
+*.braintree.tools
+prequal.swiftfinancial.com
+partner.swiftfinancial.com
+decision.swiftfinancial.com
+pigeon.swiftfinancial.com
+scrutiny.swiftfinancial.com
 www.swiftcapital.com
 www.swiftfinancial.com
 api.swiftfinancial.com
@@ -3083,13 +3090,6 @@ my.loanbuilder.com
 loanbuilder.com
 swiftfinancial.com
 swiftcapital.com
-*.braintree-api.com
-*.braintree.tools
-prequal.swiftfinancial.com
-partner.swiftfinancial.com
-decision.swiftfinancial.com
-pigeon.swiftfinancial.com
-scrutiny.swiftfinancial.com
 *.hyperwallet.com
 *.paylution.com
 www.loanbuilder.com
@@ -3260,12 +3260,12 @@ support.steampowered.com
 partner.steampowered.com
 partner.steamgames.com
 playartifact.com
-help.steampowered.com
 www.teamfortress.com
+help.steampowered.com
 www.counter-strike.net
+api.steampowered.com
 www.dota2.com
 steamcommunity.com
-api.steampowered.com
 www.valvesoftware.com
 store.steampowered.com
 www.dota2.com
@@ -3422,12 +3422,12 @@ wiki.grab.com
 grab.careers
 *.myteksi.com
 kartaview.org
-*.ovo.id
 api.grabpay.com
 *.myteksi.net
 *.grab.com
 gifts.grab.com
 jira.grab.com
+*.ovo.id
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3820,10 +3820,10 @@ partners.shopify.com
 shopifyinbox.com
 *.shopify.io
 admin.shopify.com
-accounts.shopify.com
 *.shopify.com
 your-store.myshopify.com
 shop.app
+accounts.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3862,8 +3862,8 @@ rt.playcanvas.com
 store.playcanvas.com
 playcanv.as
 *.sc-corp.net
-login.playcanvas.com
 ads.snapchat.com
+login.playcanvas.com
 accounts.snapchat.com
 web.snapchat.com
 geofilters.snapchat.com
@@ -3946,8 +3946,8 @@ callbacks.airbnb.com
 *.luxuryretreats.com
 www.hoteltonight.com
 *.airbnbcitizen.com
-*.withairbnb.com
 api.airbnb.com
+*.withairbnb.com
 next.airbnb.com
 *.hoteltonight-test.com
 www.airbnb.com
@@ -4193,9 +4193,9 @@ www.hackerone.com
 hackerone-ext-content.com
 app.pullrequest.com
 errors.hackerone.net
-hackerone.com
 hackerone-user-content.com
 hackerone.live
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -4387,8 +4387,8 @@ u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
-accounts.magento.cloud
 repo.magento.com
+accounts.magento.cloud
 magento.com
 marketplace.magento.com
 magentocommerce.com
