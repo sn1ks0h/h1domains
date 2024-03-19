@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Mar 19 05:18:46 UTC 2024)
+## Domains with Bounties (Last Updated Tue Mar 19 06:20:15 UTC 2024)
 ```
 www.dysoncanada.ca
 www.dyson.ie
@@ -314,10 +314,10 @@ webonboarding-eu.truecaller.com
 cards.remitly.io
 rates.rewire.com
 app.rewire.to
-app3.rewire.to
 api.remitly.io
 rewire.com
 remitly.com
+app3.rewire.to
 remitly.com
 api.remitly.io
 cards.remitly.io
@@ -508,8 +508,8 @@ account.booking.com
 flights.booking.com
 www.fareharbor.com
 *.rentalcars.com
-widget.rentalcars.com
 *.booking.com
+widget.rentalcars.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -574,8 +574,8 @@ cdn.moderntreasury.com
 app.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
-test.nicehash.com
 test.nicex.com
+test.nicehash.com
 test.nicehash.com
 https://test.nicehash.com/shop/
 https://test.nicex.com
@@ -779,8 +779,8 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
 yourdomain.freshdesk.com
-yourdomain.myfreshworks.com
 yourdomain.freshservice.com
+yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -960,8 +960,8 @@ debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 *.grindr.io
 *.grindr.mobi
-*.grindr.com
 web.grindr.com
+*.grindr.com
 *.grindr.io
 *.grindr.com
 *.grindr.mobi
@@ -1010,9 +1010,9 @@ www.sokos.fi
 api.sokos.fi
 cfapi.voikukka.fi
 digili.s-cloud.fi
+mobile.s-pankki.fi
 www.s-pankki.fi
 www.prisma.fi
-mobile.s-pankki.fi
 online.s-pankki.fi
 online.s-pankki.fi
 www.s-pankki.fi
@@ -1060,7 +1060,6 @@ work-staging.8x8.com
 user-profile-staging.8x8.com
 *.8x8staging.com
 connect.8x8.com
-*.jitsi.net
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1298,9 +1297,9 @@ www.dolap.com
 www.trendyol-milla.com
 *.sidefx.com
 *.sidefx.com
+snaps.metamask.io
 portfolio.metamask.io
 metamask.io
-snaps.metamask.io
 metamask.io
 snaps.metamask.io
 portfolio.metamask.io
@@ -1736,8 +1735,8 @@ www.elastic.co
 *.eops.nl
 *.swiftype.com
 *.elstc.co
-cloud.elastic.co
 *.elastic.co
+cloud.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1937,10 +1936,10 @@ hackers_chosendomain.larksuite.com
 core.yoti.com
 ccloud.yoti.com
 code.yoti.com
-api.yoti.com
 identity.yoti.com
 www.yotisign.com
 hub.yoti.com
+api.yoti.com
 core.yoti.com
 api.yoti.com
 ccloud.yoti.com
@@ -2008,9 +2007,9 @@ api.adm.cloud.com
 (yoursubdomain).sharefile.com
 www.cloud.com
 (yoursubdomain).sharefile.eu
-secure.sharefile.com
 adm.cloud.com
 citrix.cloud.com
+secure.sharefile.com
 secure.sharefile.eu
 citrix.cloud.com
 www.cloud.com
@@ -2103,8 +2102,8 @@ nft.io
 platform.enjin.io
 nft.io
 platform.enjin.io
-api.figma.com
 www.figma.com
+api.figma.com
 www.figma.com
 api.figma.com
 cs.money
@@ -2124,8 +2123,8 @@ api.faraday.ai
 *.acronis.work
 beta-cloud.acronis.com
 *.5nine.com
-*.acronis.com
 account.acronis.com
+*.acronis.com
 *-api-*.acronis.com
 *.acronis.com
 *.5nine.com
@@ -2526,12 +2525,12 @@ www.alibabagroup.com
 *.aliexpress.ru
 *.alibabacloud.com
 *.1688.com
-*.tmall.com
 *.aliexpress.com
 *.alibaba.com
 *.aliyun.com
 *.taobao.com
 *.Daraz.com
+*.tmall.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -3035,14 +3034,14 @@ pabets.tvg.com
 promos.tvg.com
 service.tvg.com
 fanduel.design
+us.tvg.com
 ia.tvg.com
 www.4njbets.com
-us.tvg.com
 tvg.com
-login.tvg.com
-www.tvg.com
 mobile-prod.tvg.com
+login.tvg.com
 *racing.fanduel.com
+www.tvg.com
 fdbox.net
 *.fanduel.com
 *.fanduel.com
@@ -3281,11 +3280,11 @@ www.counter-strike.net
 playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
-pay.crypto.com
 *.mona.co
 tax.crypto.com
 auth.crypto.com
 js.crypto.com
+pay.crypto.com
 www.crypto.com
 app.mona.co
 *.crypto.com
@@ -3423,10 +3422,10 @@ grab.careers
 *.myteksi.com
 kartaview.org
 api.grabpay.com
-*.myteksi.net
-*.grab.com
 gifts.grab.com
 jira.grab.com
+*.myteksi.net
+*.grab.com
 *.ovo.id
 *.myteksi.com
 *.myteksi.net
@@ -3737,10 +3736,10 @@ cashier.deriv.com
 secure-dfadmin.deriv.com
 *.binary.com
 *.deriv.cloud
-*.derivws.com
 oauth.deriv.com
 derivws.com
 api.deriv.com
+*.derivws.com
 smarttrader.deriv.com
 app.deriv.com
 *.deriv.com
@@ -4113,11 +4112,11 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
-api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
+api.coinbase.com
 institutional.coinbase.com
 *.base.org
 international.coinbase.com
