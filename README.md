@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Mar 19 10:19:20 UTC 2024)
+## Domains with Bounties (Last Updated Tue Mar 19 11:18:35 UTC 2024)
 ```
 www.dysoncanada.ca
 www.dyson.ie
@@ -315,9 +315,9 @@ cards.remitly.io
 app.rewire.to
 api.remitly.io
 rewire.com
-remitly.com
 app3.rewire.to
 rates.rewire.com
+remitly.com
 remitly.com
 api.remitly.io
 cards.remitly.io
@@ -332,8 +332,8 @@ getworldcoin.com
 *.toolsforhumanity.com
 *.consumer.worldcoin.org
 worldcoin.org
-*.worldcoin.org
 bioid-management.app
+*.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -459,8 +459,8 @@ www.mercadolivre.com.br
 www.mercadopago.com.br
 api.mercadolibre.com
 api.mercadopago.com
-www.mercadopago.com.ar
 www.mercadolibre.com.ar
+www.mercadopago.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -507,9 +507,9 @@ careers.booking.com
 account.booking.com
 flights.booking.com
 www.fareharbor.com
-*.rentalcars.com
 widget.rentalcars.com
 *.booking.com
+*.rentalcars.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -777,9 +777,9 @@ www.visainfinite.ca
 http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
-yourdomain.freshservice.com
 yourdomain.freshchat.com
 yourdomain.freshdesk.com
+yourdomain.freshservice.com
 yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
@@ -834,9 +834,9 @@ aus5.mozilla.org
 sync.services.mozilla.com
 firefox.settings.services.mozilla.com
 addons.allizom.org
-accounts.firefox.com
-bugzilla.mozilla.org
 phabricator.allizom.org
+bugzilla.mozilla.org
+accounts.firefox.com
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -863,8 +863,8 @@ community-tc.services.mozilla.com
 hg.mozilla.org
 developer.mozilla.org
 support.mozilla.org
-monitor.mozilla.org
 www.mozilla.org
+monitor.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -929,11 +929,11 @@ aws.indrive.tech
 debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 injob.indriver.com
-*.indrive.com
 watchdocs.indriverapp.com
 new-order.eu-east-1.indriverapp.com
 *.indriverapp.com
 *.indriver.com
+*.indrive.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -960,8 +960,8 @@ debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 *.grindr.io
 *.grindr.mobi
-web.grindr.com
 *.grindr.com
+web.grindr.com
 *.grindr.io
 *.grindr.com
 *.grindr.mobi
@@ -1171,12 +1171,12 @@ www.flights.com
 www.expediapartnersolutions.com
 *.carrentals.com
 *.travelocity.ca
-*.travelocity.com
-*.hotwire.com
-www.fewo-direkt.de
 *.vrbo.com
+www.fewo-direkt.de
+*.travelocity.com
 www.expedia.com
 *.expediacruises.com
+*.hotwire.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1451,8 +1451,8 @@ api.instacart.com
 shoppers.instacart.com
 admin.instacart.com
 www.instacart.com
-*.instacart.com
 *.instacart.tools
+*.instacart.com
 *.instacart.com
 *.instacart.tools
 api.instacart.com
@@ -1471,8 +1471,8 @@ community.databricks.com
 customer-academy.databricks.com
 labs.databricks.com
 marketplace.databricks.com
-databricks.com
 accounts.cloud.databricks.com
+databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -1736,8 +1736,8 @@ www.elastic.co
 *.eops.nl
 *.swiftype.com
 *.elstc.co
-*.elastic.co
 cloud.elastic.co
+*.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -2005,8 +2005,8 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-www.cloud.com
 (yoursubdomain).sharefile.com
+www.cloud.com
 (yoursubdomain).sharefile.eu
 adm.cloud.com
 citrix.cloud.com
@@ -2103,8 +2103,8 @@ nft.io
 platform.enjin.io
 nft.io
 platform.enjin.io
-www.figma.com
 api.figma.com
+www.figma.com
 www.figma.com
 api.figma.com
 cs.money
@@ -2530,8 +2530,8 @@ www.alibabagroup.com
 *.Daraz.com
 *.tmall.com
 *.alibaba.com
-*.taobao.com
 *.aliyun.com
+*.taobao.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2879,8 +2879,8 @@ vault.omise.co
 api.omise.co
 offsite.omise.co
 www.opn.ooo
-www.omise.co
 dashboard.omise.co
+www.omise.co
 vault.omise.co
 api.omise.co
 dashboard.omise.co
@@ -3037,13 +3037,13 @@ promos.tvg.com
 service.tvg.com
 fanduel.design
 ia.tvg.com
+www.4njbets.com
+us.tvg.com
 tvg.com
 login.tvg.com
 www.tvg.com
 mobile-prod.tvg.com
 *racing.fanduel.com
-www.4njbets.com
-us.tvg.com
 fdbox.net
 *.fanduel.com
 *.fanduel.com
@@ -3093,11 +3093,11 @@ pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
 *.hyperwallet.com
 *.paylution.com
+*.paypalcorp.com
 www.loanbuilder.com
 my.swiftfinancial.com
-*.paypalcorp.com
-*.venmo.com
 *.braintreegateway.com
+*.venmo.com
 *.xoom.com
 *.braintreepayments.com
 paypalobjects.com
@@ -3261,12 +3261,12 @@ support.steampowered.com
 partner.steampowered.com
 partner.steamgames.com
 playartifact.com
-help.steampowered.com
 www.teamfortress.com
+help.steampowered.com
 www.counter-strike.net
+api.steampowered.com
 www.dota2.com
 steamcommunity.com
-api.steampowered.com
 www.valvesoftware.com
 store.steampowered.com
 www.dota2.com
@@ -3282,9 +3282,9 @@ www.counter-strike.net
 playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
-auth.crypto.com
 *.mona.co
 tax.crypto.com
+auth.crypto.com
 js.crypto.com
 pay.crypto.com
 www.crypto.com
@@ -3820,11 +3820,11 @@ arrive-server.shopifycloud.com
 shopifyinbox.com
 *.shopify.io
 accounts.shopify.com
-your-store.myshopify.com
-admin.shopify.com
 partners.shopify.com
+admin.shopify.com
 shop.app
 *.shopify.com
+your-store.myshopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3947,8 +3947,8 @@ callbacks.airbnb.com
 *.luxuryretreats.com
 www.hoteltonight.com
 *.airbnbcitizen.com
-*.withairbnb.com
 api.airbnb.com
+*.withairbnb.com
 next.airbnb.com
 *.hoteltonight-test.com
 www.airbnb.com
@@ -4118,8 +4118,8 @@ pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
-institutional.coinbase.com
 api.coinbase.com
+institutional.coinbase.com
 *.base.org
 international.coinbase.com
 cloud.coinbase.com
@@ -4387,8 +4387,8 @@ u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
-repo.magento.com
 accounts.magento.cloud
+repo.magento.com
 magento.com
 marketplace.magento.com
 magentocommerce.com
