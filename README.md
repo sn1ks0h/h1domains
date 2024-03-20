@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Mar 19 23:18:51 UTC 2024)
+## Domains with Bounties (Last Updated Wed Mar 20 00:56:34 UTC 2024)
 ```
 www.dyson.ie
 www.dyson.ch
@@ -311,12 +311,12 @@ video-callerid-eu.truecaller.com
 webdirectory-eu.truecaller.com
 webonboarding-eu.truecaller.com
 cards.remitly.io
-rates.rewire.com
 app3.rewire.to
 app.rewire.to
 api.remitly.io
 rewire.com
 remitly.com
+rates.rewire.com
 remitly.com
 api.remitly.io
 cards.remitly.io
@@ -331,8 +331,8 @@ getworldcoin.com
 *.toolsforhumanity.com
 *.consumer.worldcoin.org
 bioid-management.app
-*.worldcoin.org
 worldcoin.org
+*.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -455,11 +455,11 @@ www.mercadopago.cl
 www.mercadopago.com.br
 www.mercadolibre.com.co
 www.mercadolibre.cl
+api.mercadolibre.com
 api.mercadopago.com
 www.mercadolivre.com.br
-www.mercadopago.com.ar
-api.mercadolibre.com
 www.mercadolibre.com.ar
+www.mercadopago.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -507,9 +507,9 @@ widget.rentalcars.com
 teleport.fareharbor.engineering
 booking.com
 *.rentalcars.com
-careers.booking.com
 *.booking.com
 account.booking.com
+careers.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -561,8 +561,8 @@ api2.frontapp.com
 *.booztlet.com
 *.trip.com
 *.trip.com
-dashboard.mergify.com
 api.mergify.com
+dashboard.mergify.com
 api.mergify.com
 dashboard.mergify.com
 www.compass.com
@@ -575,8 +575,8 @@ cdn.moderntreasury.com
 app.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
-test.nicex.com
 test.nicehash.com
+test.nicex.com
 test.nicehash.com
 https://test.nicehash.com/shop/
 https://test.nicex.com
@@ -821,23 +821,23 @@ api.tideplatform.in
 *.tide.co
 *.tide.co
 api.tideplatform.in
-firefox-ci-tc.services.mozilla.com
+firefox.settings.services.mozilla.com
+push.services.mozilla.com
+crash-reports.allizom.org
 phabricator.allizom.org
+firefox-ci-tc.services.mozilla.com
 addons.allizom.org
 crash-stats.allizom.org
 bugzilla.mozilla.org
 aus5.mozilla.org
 shavar.services.mozilla.com
-firefox.settings.services.mozilla.com
-push.services.mozilla.com
-crash-reports.allizom.org
-contile.services.mozilla.com
-lando.services.mozilla.com
 sync.services.mozilla.com
+lando.services.mozilla.com
 hg.mozilla.org
 mozilla-pontoon-staging.herokuapp.com
-accounts.firefox.com
 merino.services.mozilla.com
+accounts.firefox.com
+contile.services.mozilla.com
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -864,8 +864,8 @@ developer.mozilla.org
 profiler.firefox.com
 support.mozilla.org
 hg.mozilla.org
-monitor.mozilla.org
 relay.firefox.com
+monitor.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -923,7 +923,6 @@ wga.volans.tech
 argocd.indrive.dev
 ci.indrive.dev
 external.indrive.dev
-auth.indrive.tech
 auth2.indrive.tech
 aws.indrive.tech
 debug.clairvoyance.indrive.tech
@@ -935,6 +934,7 @@ new-order.eu-east-1.indriverapp.com
 *.indrive.com
 truck-api.eu-east-1.indriverapp.com
 *.indriverapp.com
+auth.indrive.tech
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -1031,8 +1031,8 @@ auth.skypicker.com
 jobs.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
-*.skypicker.com
 www.kiwi.com
+*.skypicker.com
 *.kiwi.com
 *.skypicker.com
 www.kiwi.com
@@ -1062,6 +1062,7 @@ user-profile-staging.8x8.com
 *.8x8staging.com
 connect.8x8.com
 *.jitsi.net
+*.wavecell.com
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1172,12 +1173,12 @@ www.expediapartnersolutions.com
 *.carrentals.com
 *.travelocity.ca
 www.fewo-direkt.de
-www.expedia.com
 *.travelocity.com
-www.flights.com
+www.expedia.com
 *.vrbo.com
-*.hotwire.com
+www.flights.com
 *.expediacruises.com
+*.hotwire.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1299,9 +1300,9 @@ www.dolap.com
 www.trendyol-milla.com
 *.sidefx.com
 *.sidefx.com
+snaps.metamask.io
 portfolio.metamask.io
 metamask.io
-snaps.metamask.io
 metamask.io
 snaps.metamask.io
 portfolio.metamask.io
@@ -2055,8 +2056,8 @@ tiktok.com
 business.tiktok.com
 ads.tiktok.com
 careers.tiktok.com
-partner.tiktokshop.com
 *.tiktok.com
+partner.tiktokshop.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2102,8 +2103,8 @@ nft.io
 platform.enjin.io
 nft.io
 platform.enjin.io
-www.figma.com
 api.figma.com
+www.figma.com
 www.figma.com
 api.figma.com
 cs.money
@@ -2121,8 +2122,8 @@ api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
 *.acronis.work
-*.5nine.com
 account.acronis.com
+*.5nine.com
 beta-cloud.acronis.com
 *.acronis.com
 *-api-*.acronis.com
@@ -2528,9 +2529,9 @@ www.alibabagroup.com
 *.tmall.com
 *.aliyun.com
 *.aliexpress.com
-*.Daraz.com
-*.taobao.com
 *.alibaba.com
+*.taobao.com
+*.Daraz.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2878,8 +2879,8 @@ vault.omise.co
 api.omise.co
 offsite.omise.co
 www.opn.ooo
-www.omise.co
 dashboard.omise.co
+www.omise.co
 vault.omise.co
 api.omise.co
 dashboard.omise.co
@@ -3036,12 +3037,12 @@ service.tvg.com
 fanduel.design
 ia.tvg.com
 tvg.com
-mobile-prod.tvg.com
 login.tvg.com
-*racing.fanduel.com
 www.tvg.com
-us.tvg.com
+mobile-prod.tvg.com
+*racing.fanduel.com
 www.4njbets.com
+us.tvg.com
 fdbox.net
 *.fanduel.com
 sportsbook.fanduel.com
@@ -3262,9 +3263,9 @@ partner.steamgames.com
 playartifact.com
 help.steampowered.com
 www.counter-strike.net
-api.steampowered.com
 www.dota2.com
 steamcommunity.com
+api.steampowered.com
 www.valvesoftware.com
 store.steampowered.com
 www.teamfortress.com
@@ -3667,9 +3668,9 @@ education.github.com
 npmjs.org
 gist.github.com
 api.github.com
-github.com
 *.githubusercontent.com
 npmjs.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3741,9 +3742,9 @@ smarttrader.deriv.com
 app.deriv.com
 oauth.deriv.com
 *.deriv.cloud
-*.deriv.com
-api.deriv.com
 *.binary.com
+api.deriv.com
+*.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3819,11 +3820,11 @@ arrive-server.shopifycloud.com
 shopifyinbox.com
 *.shopify.io
 partners.shopify.com
-*.shopify.com
 accounts.shopify.com
 shop.app
 your-store.myshopify.com
 admin.shopify.com
+*.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3868,8 +3869,8 @@ playcanvas.com
 business.snapchat.com
 app.snapchat.com
 ads.snapchat.com
-web.snapchat.com
 accounts.snapchat.com
+web.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -4112,12 +4113,12 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
+api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
 institutional.coinbase.com
-api.coinbase.com
 *.base.org
 international.coinbase.com
 cloud.coinbase.com
@@ -4149,8 +4150,8 @@ www.quip.com
 slack-imgs.com
 *.quip.com
 slack.com
-app.slack.com
 api.slack.com
+app.slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -4184,8 +4185,8 @@ reviewer.pullrequest.com
 cover-photos.hackerone-user-content.com
 a5s.hackerone-ext-content.com
 api.hackerone.com
-www.wearehackerone.com
 hackerone-ext-content.com
+www.wearehackerone.com
 app.pullrequest.com
 hackerone-user-content.com
 hackerone.live
@@ -4423,8 +4424,8 @@ login.newrelic.com
 developer.newrelic.com
 *.nr-ops.net
 synthetics.newrelic.com
-rpm.newrelic.com
 insights.newrelic.com
+rpm.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
