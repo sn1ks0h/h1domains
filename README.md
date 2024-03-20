@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar 20 21:18:53 UTC 2024)
+## Domains with Bounties (Last Updated Wed Mar 20 22:17:07 UTC 2024)
 ```
 www.dyson.ie
 www.dyson.ch
@@ -396,8 +396,8 @@ sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
 demo.dynamic.xyz
-app.dynamic.xyz
 app.dynamic-preprod.xyz
+app.dynamic.xyz
 app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
@@ -455,8 +455,8 @@ www.mercadolibre.cl
 api.mercadopago.com
 www.mercadopago.com.br
 api.mercadolibre.com
-www.mercadolivre.com.br
 www.mercadopago.com.ar
+www.mercadolivre.com.br
 www.mercadolibre.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
@@ -503,11 +503,11 @@ www.fareharbor.com
 widget.rentalcars.com
 teleport.fareharbor.engineering
 booking.com
-careers.booking.com
 *.rentalcars.com
+careers.booking.com
+account.booking.com
 *.booking.com
 flights.booking.com
-account.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -646,8 +646,8 @@ launch.gamma.redoxstage.com
 sftp.gamma.redoxstage.com
 webhooks.gamma.redoxstage.com
 10x.redoxengine.com
-testapp.redoxengine.com
 www.redoxengine.com
+testapp.redoxengine.com
 10x.redoxengine.com
 testapp.redoxengine.com
 testapi.redoxengine.com
@@ -777,9 +777,9 @@ http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.myfreshworks.com
+yourdomain.freshservice.com
 yourdomain.freshchat.com
 yourdomain.freshdesk.com
-yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -819,15 +819,15 @@ api.tideplatform.in
 *.tide.co
 *.tide.co
 api.tideplatform.in
-firefox.settings.services.mozilla.com
-push.services.mozilla.com
 phabricator.allizom.org
 addons.allizom.org
 crash-stats.allizom.org
 aus5.mozilla.org
 shavar.services.mozilla.com
-sync.services.mozilla.com
+firefox.settings.services.mozilla.com
+push.services.mozilla.com
 lando.services.mozilla.com
+sync.services.mozilla.com
 hg.mozilla.org
 mozilla-pontoon-staging.herokuapp.com
 merino.services.mozilla.com
@@ -936,8 +936,8 @@ new-order.eu-east-1.indriverapp.com
 *.indrive.com
 auth.indrive.tech
 *.indriverapp.com
-truck-api.eu-east-1.indriverapp.com
 *.indriver.com
+truck-api.eu-east-1.indriverapp.com
 ci.indrive.dev
 *.indriverapp.com
 *.indrive.com
@@ -1120,9 +1120,9 @@ admin.8x8.com
 *.superbet.pl
 moonpay.com
 hypermint.com
-*.moonpaycloud.com
 *.moonpay.com
 *.hypermint.com
+*.moonpaycloud.com
 *.moonpaycloud.com
 *.hypermint.com
 *.moonpay.com
@@ -1178,10 +1178,10 @@ www.expediapartnersolutions.com
 *.carrentals.com
 *.travelocity.ca
 www.fewo-direkt.de
-www.expedia.com
 *.travelocity.com
-*.expediacruises.com
+www.expedia.com
 *.vrbo.com
+*.expediacruises.com
 *.hotwire.com
 www.flights.com
 *.vrbo.com
@@ -1212,8 +1212,8 @@ www.expediagroup.com
 www.flights.com
 *.magiceden.dev
 *.magiceden.workers.dev
-*.magiceden.io
 magiceden.io
+*.magiceden.io
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -1305,9 +1305,9 @@ www.dolap.com
 www.trendyol-milla.com
 *.sidefx.com
 *.sidefx.com
-snaps.metamask.io
 portfolio.metamask.io
 metamask.io
+snaps.metamask.io
 metamask.io
 snaps.metamask.io
 portfolio.metamask.io
@@ -1940,10 +1940,10 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-ccloud.yoti.com
-api.yoti.com
 core.yoti.com
 www.yotisign.com
+ccloud.yoti.com
+api.yoti.com
 code.yoti.com
 identity.yoti.com
 hub.yoti.com
@@ -2010,12 +2010,12 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-(yoursubdomain).sharefile.com
 www.cloud.com
+(yoursubdomain).sharefile.com
 (yoursubdomain).sharefile.eu
-secure.sharefile.com
 adm.cloud.com
 citrix.cloud.com
+secure.sharefile.com
 secure.sharefile.eu
 accounts.cloud.com
 citrix.cloud.com
@@ -2050,7 +2050,6 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 live-backstage.tiktok.com
 effecthouse.tiktok.com
-shop.tiktok.com
 developers.tiktok.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
@@ -2058,11 +2057,12 @@ academy-outbound-ads.tiktok.com
 careers.tiktok.com
 tiktok.com
 creatormarketplace.tiktok.com
-business.tiktok.com
-partner.tiktokshop.com
-ads.tiktok.com
-fp-sg.tiktokv.com
 *.tiktok.com
+business.tiktok.com
+ads.tiktok.com
+partner.tiktokshop.com
+fp-sg.tiktokv.com
+shop.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -3039,14 +3039,14 @@ pabets.tvg.com
 promos.tvg.com
 service.tvg.com
 fanduel.design
-us.tvg.com
 ia.tvg.com
-www.4njbets.com
 tvg.com
-mobile-prod.tvg.com
 login.tvg.com
-*racing.fanduel.com
 www.tvg.com
+mobile-prod.tvg.com
+*racing.fanduel.com
+www.4njbets.com
+us.tvg.com
 fdbox.net
 sportsbook.fanduel.com
 *.fanduel.com
@@ -3080,13 +3080,6 @@ https://github.com/matomo-org/docker
 *.paydiant.com
 paypal.me
 py.pl
-*.braintree-api.com
-*.braintree.tools
-prequal.swiftfinancial.com
-partner.swiftfinancial.com
-decision.swiftfinancial.com
-pigeon.swiftfinancial.com
-scrutiny.swiftfinancial.com
 www.swiftcapital.com
 www.swiftfinancial.com
 api.swiftfinancial.com
@@ -3095,6 +3088,13 @@ my.loanbuilder.com
 loanbuilder.com
 swiftfinancial.com
 swiftcapital.com
+*.braintree-api.com
+*.braintree.tools
+prequal.swiftfinancial.com
+partner.swiftfinancial.com
+decision.swiftfinancial.com
+pigeon.swiftfinancial.com
+scrutiny.swiftfinancial.com
 *.paylution.com
 www.loanbuilder.com
 my.swiftfinancial.com
@@ -3267,12 +3267,12 @@ partner.steamgames.com
 playartifact.com
 help.steampowered.com
 www.counter-strike.net
-api.steampowered.com
 www.dota2.com
+api.steampowered.com
 www.teamfortress.com
-store.steampowered.com
-steamcommunity.com
 www.valvesoftware.com
+steamcommunity.com
+store.steampowered.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3672,8 +3672,8 @@ education.github.com
 npmjs.org
 gist.github.com
 api.github.com
-npmjs.com
 *.githubusercontent.com
+npmjs.com
 github.com
 github.com
 api.github.com
@@ -3745,8 +3745,8 @@ derivws.com
 smarttrader.deriv.com
 *.deriv.cloud
 api.deriv.com
-oauth.deriv.com
 *.deriv.com
+oauth.deriv.com
 *.binary.com
 app.deriv.com
 *.deriv.com
@@ -3873,8 +3873,8 @@ app.snapchat.com
 accounts.snapchat.com
 web.snapchat.com
 business.snapchat.com
-ads.snapchat.com
 www.bitmoji.com
+ads.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3981,7 +3981,6 @@ player.vimeo.com
 *.cloud.vimeo.com
 vimeopro.com
 vimeo.magisto.com
-vhx.tv
 embed.vhx.tv
 api.vhx.tv
 magisto.com
@@ -4099,11 +4098,11 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
-api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
+api.coinbase.com
 institutional.coinbase.com
 *.base.org
 international.coinbase.com
@@ -4168,8 +4167,8 @@ cover-photos-us-east-2.hackerone-user-content.com
 hackathon-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 a5s.hackerone-ext-content.com
-hackerone-ext-content.com
 www.wearehackerone.com
+hackerone-ext-content.com
 hackerone-user-content.com
 hackerone.live
 errors.hackerone.net
@@ -4178,9 +4177,9 @@ api.hackerone.com
 cover-photos.hackerone-user-content.com
 app.pullrequest.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-www.hackerone.com
-profile-photos.hackerone-user-content.com
 hackerone.com
+profile-photos.hackerone-user-content.com
+www.hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
