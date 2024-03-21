@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Mar 21 05:17:38 UTC 2024)
+## Domains with Bounties (Last Updated Thu Mar 21 06:19:53 UTC 2024)
 ```
 www.dyson.ie
 www.dyson.ch
@@ -311,10 +311,10 @@ webonboarding-eu.truecaller.com
 cards.remitly.io
 api.remitly.io
 rates.rewire.com
-rewire.com
-app3.rewire.to
 remitly.com
 app.rewire.to
+app3.rewire.to
+rewire.com
 remitly.com
 api.remitly.io
 cards.remitly.io
@@ -371,9 +371,9 @@ www.sheer.com
 www.sheer.com
 my.sheer.com
 www.pornworld.com
+www.ddfcontent.com
 www.pornbox.com
 www.analvids.com
-www.ddfcontent.com
 www.pornbox.com
 www.analvids.com
 www.ddfcontent.com
@@ -409,8 +409,8 @@ payments.hostinger.com
 www.niagahoster.co.id
 hpanel.hostinger.com
 *.000webhost.com
-www.hostinger.com
 cpanel.hostinger.com
+www.hostinger.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -453,9 +453,9 @@ www.mercadopago.cl
 www.mercadolibre.com.co
 www.mercadolibre.cl
 api.mercadopago.com
-www.mercadopago.com.br
-api.mercadolibre.com
 www.mercadolivre.com.br
+api.mercadolibre.com
+www.mercadopago.com.br
 www.mercadolibre.com.ar
 www.mercadopago.com.ar
 api.mercadopago.com
@@ -553,8 +553,8 @@ api2.frontapp.com
 app.frontapp.com
 app.frontapp.com
 api2.frontapp.com
-*.boozt.com
 *.booztlet.com
+*.boozt.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -573,8 +573,8 @@ cdn.moderntreasury.com
 app.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
-test.nicex.com
 test.nicehash.com
+test.nicex.com
 test.nicehash.com
 https://test.nicehash.com/shop/
 https://test.nicex.com
@@ -777,8 +777,8 @@ http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.myfreshworks.com
-yourdomain.freshchat.com
 yourdomain.freshdesk.com
+yourdomain.freshchat.com
 yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
@@ -819,9 +819,9 @@ api.tideplatform.in
 *.tide.co
 *.tide.co
 api.tideplatform.in
-phabricator.allizom.org
 addons.allizom.org
 crash-stats.allizom.org
+phabricator.allizom.org
 aus5.mozilla.org
 shavar.services.mozilla.com
 firefox.settings.services.mozilla.com
@@ -831,8 +831,8 @@ sync.services.mozilla.com
 hg.mozilla.org
 mozilla-pontoon-staging.herokuapp.com
 merino.services.mozilla.com
-contile.services.mozilla.com
 crash-reports.allizom.org
+contile.services.mozilla.com
 bugzilla.mozilla.org
 firefox-ci-tc.services.mozilla.com
 accounts.firefox.com
@@ -853,12 +853,12 @@ firefox-ci-tc.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 shavar.services.mozilla.com
 phabricator.allizom.org
-community-tc.services.mozilla.com
 stage.taskcluster.nonprod.cloudops.mozgcp.net
+community-tc.services.mozilla.com
 www.mozilla.org
+profiler.firefox.com
 api.profiler.firefox.com
 vpn.mozilla.org
-profiler.firefox.com
 support.mozilla.org
 hg.mozilla.org
 relay.firefox.com
@@ -892,9 +892,9 @@ hiltonlocalbiz.com
 *.hiltonbusinessonline.com
 hiltonhotels.jp
 *.hilton.io
-hilton.io
 hilton.com
 *.hilton.com
+hilton.io
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -935,9 +935,9 @@ watchdocs.indriverapp.com
 new-order.eu-east-1.indriverapp.com
 *.indrive.com
 auth.indrive.tech
-truck-api.eu-east-1.indriverapp.com
-*.indriver.com
 ci.indrive.dev
+*.indriver.com
+truck-api.eu-east-1.indriverapp.com
 *.indriverapp.com
 *.indriverapp.com
 *.indrive.com
@@ -1015,8 +1015,8 @@ www.sokos.fi
 api.sokos.fi
 cfapi.voikukka.fi
 digili.s-cloud.fi
-www.prisma.fi
 mobile.s-pankki.fi
+www.prisma.fi
 online.s-pankki.fi
 www.s-pankki.fi
 online.s-pankki.fi
@@ -1034,8 +1034,8 @@ cfapi.voikukka.fi
 auth.skypicker.com
 jobs.kiwi.com
 tequila.kiwi.com
-*.skypicker.com
 www.kiwi.com
+*.skypicker.com
 *.kiwi.com
 *.kiwi.com
 *.skypicker.com
@@ -1065,7 +1065,6 @@ user-profile-staging.8x8.com
 *.8x8staging.com
 connect.8x8.com
 *.jitsi.net
-*.wavecell.com
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1174,10 +1173,10 @@ www.expediagroup.com
 www.expediapartnersolutions.com
 *.travelocity.ca
 www.fewo-direkt.de
-*.travelocity.com
 www.expedia.com
-*.vrbo.com
+*.travelocity.com
 *.expediacruises.com
+*.vrbo.com
 *.hotwire.com
 www.flights.com
 *.wotif.com
@@ -1209,9 +1208,9 @@ www.stayz.com.au
 www.expediagroup.com
 www.flights.com
 *.magiceden.dev
-*.magiceden.workers.dev
-magiceden.io
 *.magiceden.io
+magiceden.io
+*.magiceden.workers.dev
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -1303,9 +1302,9 @@ www.dolap.com
 www.trendyol-milla.com
 *.sidefx.com
 *.sidefx.com
-snaps.metamask.io
 portfolio.metamask.io
 metamask.io
+snaps.metamask.io
 metamask.io
 snaps.metamask.io
 portfolio.metamask.io
@@ -1937,8 +1936,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-ccloud.yoti.com
 core.yoti.com
+ccloud.yoti.com
 code.yoti.com
 identity.yoti.com
 hub.yoti.com
@@ -2006,8 +2005,8 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-www.cloud.com
 (yoursubdomain).sharefile.com
+www.cloud.com
 (yoursubdomain).sharefile.eu
 adm.cloud.com
 citrix.cloud.com
@@ -2056,10 +2055,10 @@ shop.tiktok.com
 partner.tiktokshop.com
 fp-sg.tiktokv.com
 effecthouse.tiktok.com
-*.tiktok.com
 creatormarketplace.tiktok.com
 business.tiktok.com
 ads.tiktok.com
+*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2419,6 +2418,7 @@ rabbitinstruction-na.amazon.com
 relay.amazon.com
 sellercentral.amazon.com
 spapi-na.amazon.com
+advertising-api.amazon.com
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -3038,12 +3038,12 @@ service.tvg.com
 fanduel.design
 ia.tvg.com
 tvg.com
-login.tvg.com
-www.tvg.com
 mobile-prod.tvg.com
+login.tvg.com
 *racing.fanduel.com
-www.4njbets.com
+www.tvg.com
 us.tvg.com
+www.4njbets.com
 fdbox.net
 sportsbook.fanduel.com
 *.fanduel.com
@@ -3425,8 +3425,8 @@ grab.careers
 kartaview.org
 gifts.grab.com
 *.myteksi.net
-*.myteksi.com
 jira.grab.com
+*.myteksi.com
 api.grabpay.com
 *.ovo.id
 *.grab.com
@@ -3484,8 +3484,8 @@ ccardsus1.badoo.com
 chatdate.app
 getofficial.co
 backstage.io
-api.spotify.com
 assets.spotify.com
+api.spotify.com
 assets.spotify.com
 api.spotify.com
 backstage.io
@@ -3730,22 +3730,22 @@ api.grofers.com
 api2.grofers.com
 blinkit.com
 *.algolia.net
-www.algolia.com
 *.algolianet.com
+www.algolia.com
 *.algolia.net
 *.algolianet.com
 www.algolia.com
 cashier.deriv.com
 secure-dfadmin.deriv.com
-*.derivws.com
 derivws.com
+*.derivws.com
 smarttrader.deriv.com
 *.deriv.cloud
 api.deriv.com
 *.deriv.com
+*.binary.com
 oauth.deriv.com
 app.deriv.com
-*.binary.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3820,11 +3820,11 @@ arrive-server.shopifycloud.com
 *.shopifycloud.com
 *.shopify.io
 partners.shopify.com
+shop.app
 *.shopify.com
 your-store.myshopify.com
 admin.shopify.com
 shopifyinbox.com
-shop.app
 accounts.shopify.com
 *.shopifycs.com
 *.shopify.io
@@ -3869,8 +3869,8 @@ playcanvas.com
 app.snapchat.com
 web.snapchat.com
 business.snapchat.com
-ads.snapchat.com
 www.bitmoji.com
+ads.snapchat.com
 accounts.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
@@ -4033,6 +4033,7 @@ waf.cumulusfire.net
 one.dash.cloudflare.com
 *.cloudflare.com
 dash.cloudflare.com
+dash.cloudflare.com
 cloudflareworkers.com
 *.teams.cloudflare.com
 api.cloudflare.com
@@ -4173,8 +4174,8 @@ api.hackerone.com
 cover-photos.hackerone-user-content.com
 app.pullrequest.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-www.hackerone.com
 profile-photos.hackerone-user-content.com
+www.hackerone.com
 hackerone.com
 hackerone.com
 api.hackerone.com
@@ -4404,8 +4405,8 @@ alerts.eu.newrelic.com
 login.newrelic.com
 developer.newrelic.com
 synthetics.newrelic.com
-insights.newrelic.com
 rpm.newrelic.com
+insights.newrelic.com
 one.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
