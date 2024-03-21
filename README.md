@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Mar 21 14:21:32 UTC 2024)
+## Domains with Bounties (Last Updated Thu Mar 21 15:23:07 UTC 2024)
 ```
 www.dyson.ie
 www.dyson.ch
@@ -309,12 +309,12 @@ video-callerid-eu.truecaller.com
 webdirectory-eu.truecaller.com
 webonboarding-eu.truecaller.com
 cards.remitly.io
-api.remitly.io
 rewire.com
 app.rewire.to
 rates.rewire.com
 app3.rewire.to
 remitly.com
+api.remitly.io
 remitly.com
 api.remitly.io
 cards.remitly.io
@@ -454,10 +454,10 @@ www.mercadolibre.com.co
 www.mercadolibre.cl
 api.mercadopago.com
 www.mercadopago.com.br
-www.mercadolibre.com.ar
 www.mercadolivre.com.br
-www.mercadopago.com.ar
 api.mercadolibre.com
+www.mercadolibre.com.ar
+www.mercadopago.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -553,8 +553,8 @@ api2.frontapp.com
 app.frontapp.com
 app.frontapp.com
 api2.frontapp.com
-*.boozt.com
 *.booztlet.com
+*.boozt.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -777,8 +777,8 @@ http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
-yourdomain.freshdesk.com
 yourdomain.freshservice.com
+yourdomain.freshdesk.com
 yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
@@ -892,8 +892,8 @@ hiltonlocalbiz.com
 *.hiltonbusinessonline.com
 hiltonhotels.jp
 *.hilton.io
-hilton.com
 hilton.io
+hilton.com
 *.hilton.com
 *.hilton.com
 *.hilton.io
@@ -934,8 +934,8 @@ watchdocs.indriverapp.com
 new-order.eu-east-1.indriverapp.com
 *.indrive.com
 auth.indrive.tech
-*.indriver.com
 truck-api.eu-east-1.indriverapp.com
+*.indriver.com
 ci.indrive.dev
 cargo.indrive.com
 *.indriverapp.com
@@ -1066,6 +1066,7 @@ user-profile-staging.8x8.com
 connect.8x8.com
 *.jitsi.net
 sso.8x8.com
+admin.8x8.com
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1092,7 +1093,6 @@ https://webrtc.8x8.com/
 cloud8.8x8.com
 pay.8x8.com
 admin.8x8.com
-*.superbet.rs
 *.magicjackpot.ro
 *.spinaway.com
 *.luckydays.ca
@@ -1104,6 +1104,7 @@ admin.8x8.com
 *.superbet.ro
 *.superbet.com
 *.luckydays.com
+*.superbet.rs
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -1174,14 +1175,14 @@ www.expediagroup.com
 www.expediapartnersolutions.com
 *.travelocity.ca
 www.fewo-direkt.de
-www.expedia.com
 *.travelocity.com
 www.flights.com
 *.hotwire.com
 *.expediacruises.com
-*.wotif.com
-*.carrentals.com
 *.vrbo.com
+www.expedia.com
+*.carrentals.com
+*.wotif.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1209,8 +1210,8 @@ www.stayz.com.au
 www.expediagroup.com
 www.flights.com
 *.magiceden.dev
-*.magiceden.io
 magiceden.io
+*.magiceden.io
 *.magiceden.workers.dev
 magiceden.io
 *.magiceden.io
@@ -1303,9 +1304,9 @@ www.dolap.com
 www.trendyol-milla.com
 *.sidefx.com
 *.sidefx.com
+snaps.metamask.io
 portfolio.metamask.io
 metamask.io
-snaps.metamask.io
 metamask.io
 snaps.metamask.io
 portfolio.metamask.io
@@ -1757,8 +1758,8 @@ api.taxjar.com
 js.stripe.com
 *.touchtechpayments.com
 app.taxjar.com
-api.stripe.com
 *.stripe.com
+api.stripe.com
 api.stripe.com
 *.stripe.com
 *.touchtechpayments.com
@@ -2006,12 +2007,12 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-(yoursubdomain).sharefile.com
 www.cloud.com
+(yoursubdomain).sharefile.com
 (yoursubdomain).sharefile.eu
-secure.sharefile.com
 adm.cloud.com
 citrix.cloud.com
+secure.sharefile.com
 secure.sharefile.eu
 accounts.cloud.com
 api.sharefile.com
@@ -2050,8 +2051,8 @@ developers.tiktok.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
 tiktok.com
-shop.tiktok.com
 fp-sg.tiktokv.com
+shop.tiktok.com
 effecthouse.tiktok.com
 creatormarketplace.tiktok.com
 business.tiktok.com
@@ -2520,7 +2521,6 @@ paragon-na.amazon.com
 read.amazon.com
 updates.amazon.com
 *.alibaba-inc.com
-*.aliyun-inc.com
 *.alimama.com
 *.aliexpress.ru
 *.alibabacloud.com
@@ -2532,6 +2532,7 @@ updates.amazon.com
 www.alibabagroup.com
 *.1688.com
 *.Daraz.com
+*.aliyun-inc.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -3024,17 +3025,17 @@ pabets.tvg.com
 promos.tvg.com
 service.tvg.com
 fanduel.design
-us.tvg.com
 ia.tvg.com
-www.4njbets.com
-tvg.com
 mobile-prod.tvg.com
 login.tvg.com
 *racing.fanduel.com
 www.tvg.com
+us.tvg.com
+www.4njbets.com
 fdbox.net
-*.fanduel.com
 sportsbook.fanduel.com
+*.fanduel.com
+tvg.com
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -3065,13 +3066,6 @@ https://github.com/matomo-org/docker
 *.paydiant.com
 paypal.me
 py.pl
-*.braintree-api.com
-*.braintree.tools
-prequal.swiftfinancial.com
-partner.swiftfinancial.com
-decision.swiftfinancial.com
-pigeon.swiftfinancial.com
-scrutiny.swiftfinancial.com
 www.swiftcapital.com
 www.swiftfinancial.com
 api.swiftfinancial.com
@@ -3080,6 +3074,13 @@ my.loanbuilder.com
 loanbuilder.com
 swiftfinancial.com
 swiftcapital.com
+*.braintree-api.com
+*.braintree.tools
+prequal.swiftfinancial.com
+partner.swiftfinancial.com
+decision.swiftfinancial.com
+pigeon.swiftfinancial.com
+scrutiny.swiftfinancial.com
 *.paylution.com
 my.swiftfinancial.com
 *.venmo.com
@@ -3414,8 +3415,8 @@ gifts.grab.com
 *.myteksi.net
 api.grabpay.com
 *.ovo.id
-*.myteksi.com
 *.grab.com
+*.myteksi.com
 kartaview.org
 jira.grab.com
 *.myteksi.com
@@ -3732,8 +3733,8 @@ smarttrader.deriv.com
 oauth.deriv.com
 *.deriv.com
 app.deriv.com
-api.deriv.com
 *.binary.com
+api.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3934,12 +3935,12 @@ callbacks.airbnb.com
 *.luxuryretreats.com
 www.hoteltonight.com
 *.airbnbcitizen.com
-api.airbnb.com
 *.withairbnb.com
+api.airbnb.com
 *.hoteltonight-test.com
-next.airbnb.com
 *.airbnb.com
 www.airbnb.com
+next.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -4086,8 +4087,8 @@ pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
-institutional.coinbase.com
 api.coinbase.com
+institutional.coinbase.com
 *.base.org
 international.coinbase.com
 cloud.coinbase.com
