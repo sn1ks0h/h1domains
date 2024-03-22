@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Mar 22 11:17:46 UTC 2024)
+## Domains with Bounties (Last Updated Fri Mar 22 12:27:13 UTC 2024)
 ```
 www.dyson.ch
 www.dyson.se
@@ -454,8 +454,8 @@ www.mercadolivre.com.br
 www.mercadopago.com.br
 www.mercadopago.cl
 api.mercadolibre.com
-www.mercadopago.com.ar
 www.mercadolibre.com.ar
+www.mercadopago.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -775,9 +775,9 @@ http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshdesk.com
 yourdomain.freshcaller.com
+yourdomain.freshchat.com
 yourdomain.freshservice.com
 yourdomain.myfreshworks.com
-yourdomain.freshchat.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -817,15 +817,15 @@ api.tideplatform.in
 *.tide.co
 *.tide.co
 api.tideplatform.in
-aus5.mozilla.org
-shavar.services.mozilla.com
-push.services.mozilla.com
 firefox.settings.services.mozilla.com
+push.services.mozilla.com
+phabricator.allizom.org
 addons.allizom.org
 crash-stats.allizom.org
-phabricator.allizom.org
-lando.services.mozilla.com
+aus5.mozilla.org
+shavar.services.mozilla.com
 sync.services.mozilla.com
+lando.services.mozilla.com
 hg.mozilla.org
 mozilla-pontoon-staging.herokuapp.com
 merino.services.mozilla.com
@@ -851,11 +851,11 @@ firefox-ci-tc.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 shavar.services.mozilla.com
 phabricator.allizom.org
-community-tc.services.mozilla.com
 stage.taskcluster.nonprod.cloudops.mozgcp.net
+community-tc.services.mozilla.com
+profiler.firefox.com
 api.profiler.firefox.com
 vpn.mozilla.org
-profiler.firefox.com
 support.mozilla.org
 hg.mozilla.org
 monitor.mozilla.org
@@ -1117,8 +1117,8 @@ admin.8x8.com
 *.superbet.pl
 moonpay.com
 hypermint.com
-*.moonpaycloud.com
 *.hypermint.com
+*.moonpaycloud.com
 *.moonpay.com
 *.moonpaycloud.com
 *.hypermint.com
@@ -1292,19 +1292,19 @@ royal.checksw.com
 *.superpal.com/*
 *.cornershop.io/*
 *.superpal.io/*
-m.trendyol.com
 www.trendyol-milla.com
 www.trendyol.com
 www.dolap.com
+m.trendyol.com
 www.trendyol.com
 m.trendyol.com
 www.dolap.com
 www.trendyol-milla.com
 *.sidefx.com
 *.sidefx.com
+snaps.metamask.io
 portfolio.metamask.io
 metamask.io
-snaps.metamask.io
 metamask.io
 snaps.metamask.io
 portfolio.metamask.io
@@ -1756,8 +1756,8 @@ api.taxjar.com
 js.stripe.com
 *.touchtechpayments.com
 app.taxjar.com
-api.stripe.com
 *.stripe.com
+api.stripe.com
 api.stripe.com
 *.stripe.com
 *.touchtechpayments.com
@@ -1939,10 +1939,10 @@ hackers_chosendomain.larksuite.com
 ccloud.yoti.com
 core.yoti.com
 code.yoti.com
-identity.yoti.com
 hub.yoti.com
 api.yoti.com
 www.yotisign.com
+identity.yoti.com
 core.yoti.com
 api.yoti.com
 ccloud.yoti.com
@@ -1960,8 +1960,8 @@ internal-docs.netlify.com
 internal.netlify.com
 *.ops.netlify.com
 *.infra-prod.nsvcs.net
-netlify-rum.netlify.app
 *.services.netlify.com
+netlify-rum.netlify.app
 api.netlify.com
 app.netlify.com
 *.services.netlify.com
@@ -2005,11 +2005,11 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-(yoursubdomain).sharefile.com
 www.cloud.com
+(yoursubdomain).sharefile.com
 (yoursubdomain).sharefile.eu
-secure.sharefile.com
 citrix.cloud.com
+secure.sharefile.com
 secure.sharefile.eu
 accounts.cloud.com
 api.sharefile.com
@@ -2047,7 +2047,6 @@ api.adm.cloud.com
 live-backstage.tiktok.com
 developers.tiktok.com
 academy-outbound-ads.tiktok.com
-tiktok.com
 fp-sg.tiktokv.com
 effecthouse.tiktok.com
 business.tiktok.com
@@ -2056,8 +2055,9 @@ creatormarketplace.tiktok.com
 careers.tiktok.com
 *.tiktok.com
 ads.tiktok.com
-shop.tiktok.com
 partner.tiktokshop.com
+shop.tiktok.com
+tiktok.com
 *.tiktokv.com
 *.tiktok.com
 business.tiktok.com
@@ -2526,11 +2526,11 @@ updates.amazon.com
 *.alibaba.com
 *.1688.com
 *.aliyun-inc.com
-*.alimama.com
 www.alibabagroup.com
+*.alimama.com
 *.Daraz.com
-*.aliyun.com
 *.alibabacloud.com
+*.aliyun.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -3024,11 +3024,11 @@ promos.tvg.com
 service.tvg.com
 fanduel.design
 ia.tvg.com
-login.tvg.com
 mobile-prod.tvg.com
+login.tvg.com
 *racing.fanduel.com
-www.4njbets.com
 us.tvg.com
+www.4njbets.com
 tvg.com
 sportsbook.fanduel.com
 www.tvg.com
@@ -3471,8 +3471,8 @@ ccardsus1.badoo.com
 chatdate.app
 getofficial.co
 backstage.io
-api.spotify.com
 assets.spotify.com
+api.spotify.com
 assets.spotify.com
 api.spotify.com
 backstage.io
@@ -3657,8 +3657,8 @@ npmjs.org
 gist.github.com
 *.githubusercontent.com
 github.com
-api.github.com
 npmjs.com
+api.github.com
 github.com
 api.github.com
 gist.github.com
@@ -3724,13 +3724,13 @@ www.algolia.com
 www.algolia.com
 cashier.deriv.com
 secure-dfadmin.deriv.com
-*.derivws.com
 derivws.com
+*.derivws.com
 smarttrader.deriv.com
 *.deriv.cloud
 api.deriv.com
-oauth.deriv.com
 *.binary.com
+oauth.deriv.com
 *.deriv.com
 app.deriv.com
 *.deriv.com
@@ -4061,8 +4061,8 @@ akismet.com
 gravatar.com
 mailpoet.com
 wordpress.com
-*.tumblr.com
 www.tumblr.com
+*.tumblr.com
 *.tumblr.com
 *.srvcs.tumblr.com
 api.tumblr.com
@@ -4099,11 +4099,11 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
-api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
+api.coinbase.com
 institutional.coinbase.com
 *.base.org
 international.coinbase.com
