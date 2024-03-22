@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Mar 22 17:17:10 UTC 2024)
+## Domains with Bounties (Last Updated Fri Mar 22 18:21:27 UTC 2024)
 ```
 www.dyson.ch
 www.dyson.se
@@ -310,9 +310,9 @@ cards.remitly.io
 app.rewire.to
 rewire.com
 rates.rewire.com
-remitly.com
 app3.rewire.to
 api.remitly.io
+remitly.com
 remitly.com
 api.remitly.io
 cards.remitly.io
@@ -325,9 +325,9 @@ getworldcoin.com
 *.worldcoin-distributors.com
 worldcoin.org
 *.toolsforhumanity.com
-bioid-management.app
 *.worldcoin.dev
 *.consumer.worldcoin.org
+bioid-management.app
 *.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
@@ -452,9 +452,9 @@ www.mercadolibre.cl
 api.mercadopago.com
 www.mercadopago.cl
 api.mercadolibre.com
-www.mercadolivre.com.br
 www.mercadopago.com.br
 www.mercadopago.com.ar
+www.mercadolivre.com.br
 www.mercadolibre.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
@@ -500,8 +500,8 @@ admin.booking.com
 www.fareharbor.com
 widget.rentalcars.com
 teleport.fareharbor.engineering
-careers.booking.com
 *.rentalcars.com
+careers.booking.com
 flights.booking.com
 booking.com
 account.booking.com
@@ -890,8 +890,8 @@ hiltonlocalbiz.com
 *.hiltonbusinessonline.com
 hiltonhotels.jp
 *.hilton.io
-hilton.com
 hilton.io
+hilton.com
 *.hilton.com
 *.hilton.com
 *.hilton.io
@@ -906,9 +906,9 @@ hiltonbusinessonline.com
 hiltonlocalbiz.com
 hiltonhotels.jp
 *.okg.com
-*.okcoin.com
 *.okx.com
 *.oklink.com
+*.okcoin.com
 *.okx.com
 *.okcoin.com
 *.oklink.com
@@ -931,8 +931,8 @@ injob.indriver.com
 watchdocs.indriverapp.com
 new-order.eu-east-1.indriverapp.com
 auth.indrive.tech
-*.indriver.com
 truck-api.eu-east-1.indriverapp.com
+*.indriver.com
 ci.indrive.dev
 cargo.indrive.com
 *.indriverapp.com
@@ -1013,8 +1013,8 @@ www.sokos.fi
 api.sokos.fi
 cfapi.voikukka.fi
 digili.s-cloud.fi
-www.prisma.fi
 mobile.s-pankki.fi
+www.prisma.fi
 online.s-pankki.fi
 www.s-pankki.fi
 online.s-pankki.fi
@@ -1177,10 +1177,10 @@ www.fewo-direkt.de
 www.flights.com
 *.vrbo.com
 *.wotif.com
-www.expedia.com
 *.expediacruises.com
-*.carrentals.com
 *.hotwire.com
+*.carrentals.com
+www.expedia.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1293,9 +1293,9 @@ royal.checksw.com
 *.cornershop.io/*
 *.superpal.io/*
 www.trendyol-milla.com
-www.trendyol.com
 m.trendyol.com
 www.dolap.com
+www.trendyol.com
 www.trendyol.com
 m.trendyol.com
 www.dolap.com
@@ -1760,8 +1760,8 @@ api.taxjar.com
 js.stripe.com
 *.touchtechpayments.com
 app.taxjar.com
-*.stripe.com
 api.stripe.com
+*.stripe.com
 api.stripe.com
 *.stripe.com
 *.touchtechpayments.com
@@ -1964,8 +1964,8 @@ internal-docs.netlify.com
 internal.netlify.com
 *.ops.netlify.com
 *.infra-prod.nsvcs.net
-*.services.netlify.com
 netlify-rum.netlify.app
+*.services.netlify.com
 api.netlify.com
 app.netlify.com
 *.services.netlify.com
@@ -2057,12 +2057,12 @@ business.tiktok.com
 www.pangleglobal.com
 creatormarketplace.tiktok.com
 careers.tiktok.com
-partner.tiktokshop.com
 shop.tiktok.com
-tiktok.com
+partner.tiktokshop.com
 *.tiktokv.com
-*.tiktok.com
 ads.tiktok.com
+*.tiktok.com
+tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2895,7 +2895,6 @@ confluence.hyattdev.com
 scapegoat.hyatt.com
 booking.beachbound.com
 book.beachbound.com
-book.extraholidaysvacations.com
 holidays-nz.fijiairways.com
 res.marival.globalbookingsolutions.com
 res.secretsresorts.com
@@ -2923,6 +2922,7 @@ book.cheapcaribbean.com
 holidays-au.fijiairways.com
 holidays-fj.fijiairways.com
 holidays-hk.fijiairways.com
+holidays-sg.fijiairways.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -3026,12 +3026,12 @@ pabets.tvg.com
 promos.tvg.com
 service.tvg.com
 fanduel.design
-us.tvg.com
 ia.tvg.com
-www.4njbets.com
 mobile-prod.tvg.com
 login.tvg.com
 *racing.fanduel.com
+us.tvg.com
+www.4njbets.com
 tvg.com
 sportsbook.fanduel.com
 fdbox.net
@@ -3658,8 +3658,8 @@ education.github.com
 npmjs.org
 gist.github.com
 *.githubusercontent.com
-npmjs.com
 api.github.com
+npmjs.com
 github.com
 github.com
 api.github.com
@@ -3719,22 +3719,22 @@ api.grofers.com
 api2.grofers.com
 blinkit.com
 *.algolia.net
-www.algolia.com
 *.algolianet.com
+www.algolia.com
 *.algolia.net
 *.algolianet.com
 www.algolia.com
 cashier.deriv.com
 secure-dfadmin.deriv.com
-*.derivws.com
 derivws.com
+*.derivws.com
 smarttrader.deriv.com
 *.deriv.cloud
 api.deriv.com
-oauth.deriv.com
 *.binary.com
-*.deriv.com
+oauth.deriv.com
 app.deriv.com
+*.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3808,12 +3808,12 @@ shopify.plus
 *.shopifycloud.com
 *.shopify.io
 shop.app
-*.shopify.com
 arrive-server.shopifycloud.com
-admin.shopify.com
 accounts.shopify.com
 shopifyinbox.com
 partners.shopify.com
+admin.shopify.com
+*.shopify.com
 your-store.myshopify.com
 *.shopifycs.com
 *.shopify.io
@@ -4101,18 +4101,18 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
-api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
 institutional.coinbase.com
-*.base.org
+api.coinbase.com
 international.coinbase.com
 cloud.coinbase.com
 *.coinbase.com
 coinbase.com
 nft.coinbase.com
+*.base.org
 *.coinbase.com
 *.cbhq.net
 pro.coinbase.com
@@ -4180,8 +4180,8 @@ www.wearehackerone.com
 www.hackerone.com
 a5s.hackerone-ext-content.com
 hackathon-photos.hackerone-user-content.com
-api.hackerone.com
 hackerone.com
+api.hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -4385,8 +4385,8 @@ u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
-accounts.magento.cloud
 repo.magento.com
+accounts.magento.cloud
 magento.com
 marketplace.magento.com
 magentocommerce.com
@@ -4422,8 +4422,8 @@ alerts.eu.newrelic.com
 login.newrelic.com
 developer.newrelic.com
 synthetics.newrelic.com
-rpm.newrelic.com
 insights.newrelic.com
+rpm.newrelic.com
 one.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
