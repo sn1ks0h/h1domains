@@ -332,8 +332,8 @@ worldcoin.org
 *.toolsforhumanity.com
 bioid-management.app
 *.worldcoin.org
-*.worldcoin.dev
 *.consumer.worldcoin.org
+*.worldcoin.dev
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -470,8 +470,8 @@ www.niagahoster.co.id
 hpanel.hostinger.com
 *.000webhost.com
 backend.zyro.com
-www.hostinger.com
 cpanel.hostinger.com
+www.hostinger.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -519,9 +519,9 @@ www.mercadolibre.com.uy
 www.mercadolibre.com.co
 www.mercadolibre.cl
 api.mercadopago.com
+www.mercadopago.com.br
 www.mercadopago.cl
 www.mercadolivre.com.br
-www.mercadopago.com.br
 www.mercadopago.com.ar
 www.mercadolibre.com.ar
 api.mercadolibre.com
@@ -573,8 +573,8 @@ teleport.fareharbor.engineering
 careers.booking.com
 flights.booking.com
 booking.com
-account.booking.com
 *.booking.com
+account.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -3160,8 +3160,8 @@ biologyfinder.org
 yourdomain.freshdesk.com
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
-yourdomain.myfreshworks.com
 yourdomain.freshservice.com
+yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -3577,8 +3577,8 @@ www.sokos.fi
 api.sokos.fi
 cfapi.voikukka.fi
 digili.s-cloud.fi
-mobile.s-pankki.fi
 www.prisma.fi
+mobile.s-pankki.fi
 online.s-pankki.fi
 www.s-pankki.fi
 online.s-pankki.fi
@@ -3763,8 +3763,8 @@ admin.8x8.com
 *.superbet.pl
 moonpay.com
 hypermint.com
-*.hypermint.com
 *.moonpaycloud.com
+*.hypermint.com
 *.moonpay.com
 *.moonpaycloud.com
 *.hypermint.com
@@ -3855,8 +3855,8 @@ www.expediagroup.com
 *.expediapartnercentral.com
 www.expediapartnersolutions.com
 *.travelocity.ca
-*.travelocity.com
 www.fewo-direkt.de
+*.travelocity.com
 www.flights.com
 *.vrbo.com
 *.wotif.com
@@ -3920,9 +3920,9 @@ thailand.airasiago.com
 *.wotif.com
 *.hotels.com
 *.fewo-direkt.de
-*.expediacruises.com
 *.carrentals.com
 *.expedia.com
+*.expediacruises.com
 *.hotwire.com
 *.expedia.com
 *.hotwire.com
@@ -5014,8 +5014,8 @@ checkout.razorpay.com
 payroll.razorpay.com
 invoices.razorpay.com
 dashboard.razorpay.com
-api.razorpay.com
 x.razorpay.com
+api.razorpay.com
 dashboard.razorpay.com
 api.razorpay.com
 checkout.razorpay.com
@@ -7270,8 +7270,8 @@ notification.billing.appservices.mendix.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-core.yoti.com
 ccloud.yoti.com
+core.yoti.com
 api.yoti.com
 code.yoti.com
 hub.yoti.com
@@ -7388,10 +7388,10 @@ shop.tiktok.com
 *.tiktokv.com
 tiktok.com
 www.pangleglobal.com
-business.tiktok.com
 partner.tiktokshop.com
-ads.tiktok.com
+business.tiktok.com
 academy-outbound-ads.tiktok.com
+ads.tiktok.com
 fp-sg.tiktokv.com
 creatormarketplace.tiktok.com
 *.tiktok.com
@@ -8388,9 +8388,9 @@ accountmanager.8x8.com
 *.contactnow.8x8.com
 get8x8.com
 *.mycontactual.com
+*.8x8.vc
 *.jitsi.org
 *.jit.si
-*.8x8.vc
 *.8x8.id
 *.8x8.uk
 *.fuze.com
@@ -9503,8 +9503,8 @@ www.loanbuilder.com
 *.xoom.com
 *.hyperwallet.com
 *.braintree-api.com
-paypalobjects.com
 *.paypal.com
+paypalobjects.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -9696,9 +9696,9 @@ help.steampowered.com
 developer.valvesoftware.com
 storefront.steampowered.com
 wiki.teamfortress.com
+auth.crypto.com
 *.mona.co
 tax.crypto.com
-auth.crypto.com
 js.crypto.com
 app.mona.co
 pay.crypto.com
@@ -9923,8 +9923,8 @@ api.grabpay.com
 kartaview.org
 *.myteksi.com
 jira.grab.com
-*.grab.com
 *.ovo.id
+*.grab.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -10185,7 +10185,6 @@ portal.nextcloud.com
 push-notifications.nextcloud.com
 customerupdates.nextcloud.com
 logs.nextcloud.com
-stats.nextcloud.com
 newsletter.nextcloud.com
 help.nextcloud.com
 usercontent.apps.nextcloud.com
@@ -10290,8 +10289,8 @@ www.algolia.com
 www.algolia.com
 cashier.deriv.com
 secure-dfadmin.deriv.com
-derivws.com
 *.derivws.com
+derivws.com
 smarttrader.deriv.com
 *.deriv.cloud
 api.deriv.com
@@ -10378,8 +10377,8 @@ arrive-server.shopifycloud.com
 shopifyinbox.com
 *.shopify.com
 your-store.myshopify.com
-accounts.shopify.com
 partners.shopify.com
+accounts.shopify.com
 admin.shopify.com
 *.shopifycs.com
 *.shopify.io
@@ -10422,8 +10421,8 @@ login.playcanvas.com
 geofilters.snapchat.com
 playcanvas.com
 app.snapchat.com
-business.snapchat.com
 web.snapchat.com
+business.snapchat.com
 www.bitmoji.com
 ads.snapchat.com
 accounts.snapchat.com
@@ -10731,8 +10730,8 @@ api.x.ai
 ide.x.ai
 grok.x.ai
 *.twimg.com
-*.twitter.com
 x.com
+*.twitter.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -10880,8 +10879,8 @@ cover-photos-us-east-2.hackerone-user-content.com
 reviewer.pullrequest.com
 hackerone-ext-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-cover-photos.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
+cover-photos.hackerone-user-content.com
 www.wearehackerone.com
 hackathon-photos.hackerone-user-content.com
 a5s.hackerone-ext-content.com
@@ -11329,8 +11328,8 @@ u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
-repo.magento.com
 accounts.magento.cloud
+repo.magento.com
 magento.com
 marketplace.magento.com
 magentocommerce.com

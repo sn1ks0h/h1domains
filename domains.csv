@@ -333,8 +333,8 @@ toolsforhumanity,worldcoin.org,True
 toolsforhumanity,*.toolsforhumanity.com,True
 toolsforhumanity,bioid-management.app,True
 toolsforhumanity,*.worldcoin.org,True
-toolsforhumanity,*.worldcoin.dev,True
 toolsforhumanity,*.consumer.worldcoin.org,True
+toolsforhumanity,*.worldcoin.dev,True
 toolsforhumanity,*.worldcoin.org,True
 toolsforhumanity,*.consumer.worldcoin.org,True
 toolsforhumanity,*.worldcoin-distributors.com,True
@@ -471,8 +471,8 @@ hostinger,www.niagahoster.co.id,True
 hostinger,hpanel.hostinger.com,True
 hostinger,*.000webhost.com,True
 hostinger,backend.zyro.com,True
-hostinger,www.hostinger.com,True
 hostinger,cpanel.hostinger.com,True
+hostinger,www.hostinger.com,True
 hostinger,*.000webhost.com,True
 hostinger,www.hostinger.com,True
 hostinger,cpanel.hostinger.com,True
@@ -520,9 +520,9 @@ mercadolibre,www.mercadolibre.com.uy,True
 mercadolibre,www.mercadolibre.com.co,True
 mercadolibre,www.mercadolibre.cl,True
 mercadolibre,api.mercadopago.com,True
+mercadolibre,www.mercadopago.com.br,True
 mercadolibre,www.mercadopago.cl,True
 mercadolibre,www.mercadolivre.com.br,True
-mercadolibre,www.mercadopago.com.br,True
 mercadolibre,www.mercadopago.com.ar,True
 mercadolibre,www.mercadolibre.com.ar,True
 mercadolibre,api.mercadolibre.com,True
@@ -574,8 +574,8 @@ bookingcom,*.rentalcars.com,True
 bookingcom,careers.booking.com,True
 bookingcom,flights.booking.com,True
 bookingcom,booking.com,True
-bookingcom,account.booking.com,True
 bookingcom,*.booking.com,True
+bookingcom,account.booking.com,True
 bookingcom,*.booking.com,True
 bookingcom,*.rentalcars.com,True
 bookingcom,booking.com,True
@@ -3161,8 +3161,8 @@ clarivate,biologyfinder.org,False
 freshworks,yourdomain.freshdesk.com,True
 freshworks,yourdomain.freshcaller.com,True
 freshworks,yourdomain.freshchat.com,True
-freshworks,yourdomain.myfreshworks.com,True
 freshworks,yourdomain.freshservice.com,True
+freshworks,yourdomain.myfreshworks.com,True
 freshworks,yourdomain.freshdesk.com,True
 freshworks,yourdomain.freshservice.com,True
 freshworks,yourdomain.freshchat.com,True
@@ -3578,8 +3578,8 @@ s-pankki,www.sokos.fi,True
 s-pankki,api.sokos.fi,True
 s-pankki,cfapi.voikukka.fi,True
 s-pankki,digili.s-cloud.fi,True
-s-pankki,mobile.s-pankki.fi,True
 s-pankki,www.prisma.fi,True
+s-pankki,mobile.s-pankki.fi,True
 s-pankki,online.s-pankki.fi,True
 s-pankki,www.s-pankki.fi,True
 s-pankki,online.s-pankki.fi,True
@@ -3764,8 +3764,8 @@ superbet,*.napoleonsports.be,True
 superbet,*.superbet.pl,True
 moonpay,moonpay.com,True
 moonpay,hypermint.com,True
-moonpay,*.hypermint.com,True
 moonpay,*.moonpaycloud.com,True
+moonpay,*.hypermint.com,True
 moonpay,*.moonpay.com,True
 moonpay,*.moonpaycloud.com,True
 moonpay,*.hypermint.com,True
@@ -3856,8 +3856,8 @@ expediagroup_bbp,www.expediagroup.com,True
 expediagroup_bbp,*.expediapartnercentral.com,True
 expediagroup_bbp,www.expediapartnersolutions.com,True
 expediagroup_bbp,*.travelocity.ca,True
-expediagroup_bbp,*.travelocity.com,True
 expediagroup_bbp,www.fewo-direkt.de,True
+expediagroup_bbp,*.travelocity.com,True
 expediagroup_bbp,www.flights.com,True
 expediagroup_bbp,*.vrbo.com,True
 expediagroup_bbp,*.wotif.com,True
@@ -3921,9 +3921,9 @@ expediagroup,*.vrbo.com,False
 expediagroup,*.wotif.com,False
 expediagroup,*.hotels.com,False
 expediagroup,*.fewo-direkt.de,False
-expediagroup,*.expediacruises.com,False
 expediagroup,*.carrentals.com,False
 expediagroup,*.expedia.com,False
+expediagroup,*.expediacruises.com,False
 expediagroup,*.hotwire.com,False
 expediagroup,*.expedia.com,False
 expediagroup,*.hotwire.com,False
@@ -5015,8 +5015,8 @@ razorpay,checkout.razorpay.com,True
 razorpay,payroll.razorpay.com,True
 razorpay,invoices.razorpay.com,True
 razorpay,dashboard.razorpay.com,True
-razorpay,api.razorpay.com,True
 razorpay,x.razorpay.com,True
+razorpay,api.razorpay.com,True
 razorpay,dashboard.razorpay.com,True
 razorpay,api.razorpay.com,True
 razorpay,checkout.razorpay.com,True
@@ -7271,8 +7271,8 @@ exodus,*.exodus.com,True
 exodus,*.exodus.io,True
 exodus,*.a.exodus.io,True
 exodus,*.exodus.com,True
-yoti,core.yoti.com,True
 yoti,ccloud.yoti.com,True
+yoti,core.yoti.com,True
 yoti,api.yoti.com,True
 yoti,code.yoti.com,True
 yoti,hub.yoti.com,True
@@ -7389,10 +7389,10 @@ tiktok,shop.tiktok.com,True
 tiktok,*.tiktokv.com,True
 tiktok,tiktok.com,True
 tiktok,www.pangleglobal.com,True
-tiktok,business.tiktok.com,True
 tiktok,partner.tiktokshop.com,True
-tiktok,ads.tiktok.com,True
+tiktok,business.tiktok.com,True
 tiktok,academy-outbound-ads.tiktok.com,True
+tiktok,ads.tiktok.com,True
 tiktok,fp-sg.tiktokv.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,*.tiktok.com,True
@@ -8389,9 +8389,9 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,*.contactnow.8x8.com,False
 8x8,get8x8.com,False
 8x8,*.mycontactual.com,False
+8x8,*.8x8.vc,False
 8x8,*.jitsi.org,False
 8x8,*.jit.si,False
-8x8,*.8x8.vc,False
 8x8,*.8x8.id,False
 8x8,*.8x8.uk,False
 8x8,*.fuze.com,False
@@ -9504,8 +9504,8 @@ paypal,www.loanbuilder.com,True
 paypal,*.xoom.com,True
 paypal,*.hyperwallet.com,True
 paypal,*.braintree-api.com,True
-paypal,paypalobjects.com,True
 paypal,*.paypal.com,True
+paypal,paypalobjects.com,True
 paypal,www.paypal-*.com,True
 paypal,*.xoom.com,True
 paypal,*.paypal.com,True
@@ -9697,9 +9697,9 @@ valve,help.steampowered.com,True
 valve,developer.valvesoftware.com,True
 valve,storefront.steampowered.com,False
 valve,wiki.teamfortress.com,False
+crypto,auth.crypto.com,True
 crypto,*.mona.co,True
 crypto,tax.crypto.com,True
-crypto,auth.crypto.com,True
 crypto,js.crypto.com,True
 crypto,app.mona.co,True
 crypto,pay.crypto.com,True
@@ -9924,8 +9924,8 @@ grab,api.grabpay.com,True
 grab,kartaview.org,True
 grab,*.myteksi.com,True
 grab,jira.grab.com,True
-grab,*.grab.com,True
 grab,*.ovo.id,True
+grab,*.grab.com,True
 grab,*.myteksi.com,True
 grab,*.myteksi.net,True
 grab,*.grab.com,True
@@ -10186,7 +10186,6 @@ nextcloud,portal.nextcloud.com,False
 nextcloud,push-notifications.nextcloud.com,False
 nextcloud,customerupdates.nextcloud.com,False
 nextcloud,logs.nextcloud.com,False
-nextcloud,stats.nextcloud.com,False
 nextcloud,newsletter.nextcloud.com,False
 nextcloud,help.nextcloud.com,False
 nextcloud,usercontent.apps.nextcloud.com,False
@@ -10291,8 +10290,8 @@ algolia,*.algolianet.com,True
 algolia,www.algolia.com,True
 deriv,cashier.deriv.com,True
 deriv,secure-dfadmin.deriv.com,True
-deriv,derivws.com,True
 deriv,*.derivws.com,True
+deriv,derivws.com,True
 deriv,smarttrader.deriv.com,True
 deriv,*.deriv.cloud,True
 deriv,api.deriv.com,True
@@ -10379,8 +10378,8 @@ shopify,arrive-server.shopifycloud.com,True
 shopify,shopifyinbox.com,True
 shopify,*.shopify.com,True
 shopify,your-store.myshopify.com,True
-shopify,accounts.shopify.com,True
 shopify,partners.shopify.com,True
+shopify,accounts.shopify.com,True
 shopify,admin.shopify.com,True
 shopify,*.shopifycs.com,True
 shopify,*.shopify.io,True
@@ -10423,8 +10422,8 @@ snapchat,login.playcanvas.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,playcanvas.com,True
 snapchat,app.snapchat.com,True
-snapchat,business.snapchat.com,True
 snapchat,web.snapchat.com,True
+snapchat,business.snapchat.com,True
 snapchat,www.bitmoji.com,True
 snapchat,ads.snapchat.com,True
 snapchat,accounts.snapchat.com,True
@@ -10732,8 +10731,8 @@ x,api.x.ai,True
 x,ide.x.ai,True
 x,grok.x.ai,True
 x,*.twimg.com,True
-x,*.twitter.com,True
 x,x.com,True
+x,*.twitter.com,True
 x,*.twitter.com,True
 x,*.vine.co,True
 x,*.twimg.com,True
@@ -10881,8 +10880,8 @@ security,cover-photos-us-east-2.hackerone-user-content.com,True
 security,reviewer.pullrequest.com,True
 security,hackerone-ext-content.com,True
 security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,True
-security,cover-photos.hackerone-user-content.com,True
 security,profile-photos.hackerone-user-content.com,True
+security,cover-photos.hackerone-user-content.com,True
 security,www.wearehackerone.com,True
 security,hackathon-photos.hackerone-user-content.com,True
 security,a5s.hackerone-ext-content.com,True
@@ -11330,8 +11329,8 @@ magento,u.magento.com,True
 magento,imagine.magento.com,True
 magento,magentolive.com,True
 magento,account.magento.com,True
-magento,repo.magento.com,True
 magento,accounts.magento.cloud,True
+magento,repo.magento.com,True
 magento,magento.com,True
 magento,marketplace.magento.com,True
 magento,magentocommerce.com,True
