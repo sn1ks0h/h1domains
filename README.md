@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Mar 23 00:57:08 UTC 2024)
+## Domains with Bounties (Last Updated Sat Mar 23 01:46:34 UTC 2024)
 ```
 www.dyson.ch
 www.dyson.se
@@ -453,9 +453,9 @@ api.mercadopago.com
 www.mercadopago.com.br
 www.mercadopago.cl
 www.mercadolivre.com.br
-www.mercadolibre.com.ar
 www.mercadopago.com.ar
 api.mercadolibre.com
+www.mercadolibre.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -500,8 +500,8 @@ admin.booking.com
 www.fareharbor.com
 widget.rentalcars.com
 teleport.fareharbor.engineering
-*.rentalcars.com
 careers.booking.com
+*.rentalcars.com
 flights.booking.com
 booking.com
 account.booking.com
@@ -817,20 +817,20 @@ api.tideplatform.in
 *.tide.co
 *.tide.co
 api.tideplatform.in
-firefox.settings.services.mozilla.com
-push.services.mozilla.com
-phabricator.allizom.org
 addons.allizom.org
 crash-stats.allizom.org
+phabricator.allizom.org
 aus5.mozilla.org
 shavar.services.mozilla.com
-sync.services.mozilla.com
+firefox.settings.services.mozilla.com
+push.services.mozilla.com
 lando.services.mozilla.com
+sync.services.mozilla.com
 hg.mozilla.org
 mozilla-pontoon-staging.herokuapp.com
 merino.services.mozilla.com
-contile.services.mozilla.com
 crash-reports.allizom.org
+contile.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -859,8 +859,8 @@ profiler.firefox.com
 support.mozilla.org
 hg.mozilla.org
 monitor.mozilla.org
-developer.mozilla.org
 relay.firefox.com
+developer.mozilla.org
 www.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
@@ -1117,8 +1117,8 @@ admin.8x8.com
 *.superbet.pl
 moonpay.com
 hypermint.com
-*.moonpaycloud.com
 *.hypermint.com
+*.moonpaycloud.com
 *.moonpay.com
 *.moonpaycloud.com
 *.hypermint.com
@@ -1172,8 +1172,8 @@ www.expediagroup.com
 *.expediapartnercentral.com
 www.expediapartnersolutions.com
 *.travelocity.ca
-www.fewo-direkt.de
 *.travelocity.com
+www.fewo-direkt.de
 www.flights.com
 *.vrbo.com
 *.wotif.com
@@ -1756,9 +1756,9 @@ api.taxjar.com
 *.reckoproduction.com
 *.link.co
 *.reckostaging.com
-*.touchtechpayments.com
 *.recko.io
 js.stripe.com
+*.touchtechpayments.com
 app.taxjar.com
 api.stripe.com
 *.stripe.com
@@ -1964,8 +1964,8 @@ internal-docs.netlify.com
 internal.netlify.com
 *.ops.netlify.com
 *.infra-prod.nsvcs.net
-*.services.netlify.com
 netlify-rum.netlify.app
+*.services.netlify.com
 api.netlify.com
 app.netlify.com
 *.services.netlify.com
@@ -2009,8 +2009,8 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-(yoursubdomain).sharefile.com
 www.cloud.com
+(yoursubdomain).sharefile.com
 (yoursubdomain).sharefile.eu
 secure.sharefile.com
 secure.sharefile.eu
@@ -2058,8 +2058,8 @@ shop.tiktok.com
 *.tiktok.com
 tiktok.com
 www.pangleglobal.com
-partner.tiktokshop.com
 business.tiktok.com
+partner.tiktokshop.com
 fp-sg.tiktokv.com
 ads.tiktok.com
 academy-outbound-ads.tiktok.com
@@ -2528,8 +2528,8 @@ updates.amazon.com
 *.taobao.com
 *.alibaba.com
 *.1688.com
-www.alibabagroup.com
 *.alimama.com
+www.alibabagroup.com
 *.alibabacloud.com
 *.aliyun-inc.com
 *.aliyun.com
@@ -3027,11 +3027,11 @@ promos.tvg.com
 service.tvg.com
 fanduel.design
 ia.tvg.com
+www.4njbets.com
+us.tvg.com
 login.tvg.com
 mobile-prod.tvg.com
 *racing.fanduel.com
-www.4njbets.com
-us.tvg.com
 tvg.com
 sportsbook.fanduel.com
 fdbox.net
@@ -3089,8 +3089,8 @@ my.swiftfinancial.com
 *.braintreegateway.com
 www.loanbuilder.com
 paypalobjects.com
-*.paypal.com
 *.xoom.com
+*.paypal.com
 *.hyperwallet.com
 *.braintree-api.com
 www.paypal-*.com
@@ -3413,8 +3413,8 @@ wiki.grab.com
 grab.careers
 gifts.grab.com
 *.myteksi.net
-api.grabpay.com
 *.ovo.id
+api.grabpay.com
 kartaview.org
 *.myteksi.com
 jira.grab.com
@@ -3719,20 +3719,20 @@ api.grofers.com
 api2.grofers.com
 blinkit.com
 *.algolia.net
-www.algolia.com
 *.algolianet.com
+www.algolia.com
 *.algolia.net
 *.algolianet.com
 www.algolia.com
 cashier.deriv.com
 secure-dfadmin.deriv.com
-*.derivws.com
 derivws.com
+*.derivws.com
 smarttrader.deriv.com
 *.deriv.cloud
 api.deriv.com
-oauth.deriv.com
 *.binary.com
+oauth.deriv.com
 app.deriv.com
 *.deriv.com
 *.deriv.com
@@ -3812,8 +3812,8 @@ arrive-server.shopifycloud.com
 shopifyinbox.com
 *.shopify.com
 your-store.myshopify.com
-partners.shopify.com
 accounts.shopify.com
+partners.shopify.com
 admin.shopify.com
 *.shopifycs.com
 *.shopify.io
@@ -3856,8 +3856,8 @@ login.playcanvas.com
 geofilters.snapchat.com
 playcanvas.com
 app.snapchat.com
-business.snapchat.com
 web.snapchat.com
+business.snapchat.com
 www.bitmoji.com
 ads.snapchat.com
 accounts.snapchat.com
@@ -4023,8 +4023,8 @@ api.x.ai
 ide.x.ai
 grok.x.ai
 *.twimg.com
-x.com
 *.twitter.com
+x.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -4385,8 +4385,8 @@ u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
-repo.magento.com
 accounts.magento.cloud
+repo.magento.com
 magento.com
 marketplace.magento.com
 magentocommerce.com
