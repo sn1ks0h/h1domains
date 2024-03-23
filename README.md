@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Mar 23 11:13:13 UTC 2024)
+## Domains with Bounties (Last Updated Sat Mar 23 12:28:25 UTC 2024)
 ```
 www.dyson.ch
 www.dyson.se
@@ -308,10 +308,10 @@ webonboarding-eu.truecaller.com
 cards.remitly.io
 rewire.com
 app3.rewire.to
-rates.rewire.com
 api.remitly.io
-remitly.com
 app.rewire.to
+remitly.com
+rates.rewire.com
 remitly.com
 api.remitly.io
 cards.remitly.io
@@ -406,8 +406,8 @@ www.niagahoster.co.id
 hpanel.hostinger.com
 *.000webhost.com
 backend.zyro.com
-cpanel.hostinger.com
 www.hostinger.com
+cpanel.hostinger.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -449,12 +449,12 @@ www.mercadolibre.com.uy
 www.mercadolibre.com.co
 www.mercadolibre.cl
 api.mercadopago.com
-www.mercadopago.com.br
 www.mercadopago.cl
 www.mercadolivre.com.br
-www.mercadopago.com.ar
-www.mercadolibre.com.ar
+www.mercadopago.com.br
 api.mercadolibre.com
+www.mercadolibre.com.ar
+www.mercadopago.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -499,8 +499,8 @@ admin.booking.com
 www.fareharbor.com
 widget.rentalcars.com
 teleport.fareharbor.engineering
-*.rentalcars.com
 careers.booking.com
+*.rentalcars.com
 flights.booking.com
 booking.com
 *.booking.com
@@ -816,23 +816,23 @@ api.tideplatform.in
 *.tide.co
 *.tide.co
 api.tideplatform.in
-firefox.settings.services.mozilla.com
-push.services.mozilla.com
-phabricator.allizom.org
-addons.allizom.org
 crash-stats.allizom.org
+phabricator.allizom.org
 aus5.mozilla.org
 shavar.services.mozilla.com
-sync.services.mozilla.com
+firefox.settings.services.mozilla.com
+push.services.mozilla.com
 lando.services.mozilla.com
+sync.services.mozilla.com
 hg.mozilla.org
 mozilla-pontoon-staging.herokuapp.com
 merino.services.mozilla.com
-contile.services.mozilla.com
 crash-reports.allizom.org
+contile.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
-bugzilla.mozilla.org
 accounts.firefox.com
+bugzilla.mozilla.org
+addons.allizom.org
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -1012,8 +1012,8 @@ www.sokos.fi
 api.sokos.fi
 cfapi.voikukka.fi
 digili.s-cloud.fi
-www.prisma.fi
 mobile.s-pankki.fi
+www.prisma.fi
 online.s-pankki.fi
 www.s-pankki.fi
 online.s-pankki.fi
@@ -1061,9 +1061,9 @@ work-staging.8x8.com
 user-profile-staging.8x8.com
 connect.8x8.com
 *.jitsi.net
-sso.8x8.com
 admin.8x8.com
 *.wavecell.com
+cloud8.8x8.com
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1178,8 +1178,8 @@ www.flights.com
 *.expediacruises.com
 *.hotwire.com
 *.carrentals.com
-www.expedia.com
 www.hotels.com
+www.expedia.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1311,8 +1311,8 @@ checkout.razorpay.com
 payroll.razorpay.com
 invoices.razorpay.com
 dashboard.razorpay.com
-x.razorpay.com
 api.razorpay.com
+x.razorpay.com
 dashboard.razorpay.com
 api.razorpay.com
 checkout.razorpay.com
@@ -1740,8 +1740,8 @@ www.elastic.co
 *.eops.nl
 *.elstc.co
 *.swiftype.com
-cloud.elastic.co
 *.elastic.co
+cloud.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1942,9 +1942,9 @@ ccloud.yoti.com
 core.yoti.com
 api.yoti.com
 code.yoti.com
-hub.yoti.com
 www.yotisign.com
 identity.yoti.com
+hub.yoti.com
 core.yoti.com
 api.yoti.com
 ccloud.yoti.com
@@ -2054,13 +2054,13 @@ shop.tiktok.com
 *.tiktokv.com
 tiktok.com
 www.pangleglobal.com
-partner.tiktokshop.com
 business.tiktok.com
+partner.tiktokshop.com
 academy-outbound-ads.tiktok.com
-ads.tiktok.com
 fp-sg.tiktokv.com
-creatormarketplace.tiktok.com
 *.tiktok.com
+creatormarketplace.tiktok.com
+ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2524,15 +2524,15 @@ updates.amazon.com
 *.aliexpress.ru
 *.tmall.com
 *.aliexpress.com
-*.taobao.com
-*.alibaba.com
 *.1688.com
+*.alibaba.com
 www.alibabagroup.com
 *.alimama.com
 *.alibabacloud.com
 *.aliyun-inc.com
-*.aliyun.com
 *.Daraz.com
+*.taobao.com
+*.aliyun.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2888,7 +2888,6 @@ soaext.oft.hyatt.com
 sso.oft.hyatt.com
 upsell.hyatt.com
 assets.hyatt.com
-newsroom.images.hyatt.com
 jira.hyattdev.com
 confluence.hyattdev.com
 scapegoat.hyatt.com
@@ -2922,6 +2921,7 @@ holidays-au.fijiairways.com
 holidays-fj.fijiairways.com
 holidays-hk.fijiairways.com
 holidays-sg.fijiairways.com
+holidays-us.fijiairways.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -3025,11 +3025,11 @@ pabets.tvg.com
 promos.tvg.com
 service.tvg.com
 fanduel.design
-us.tvg.com
 ia.tvg.com
 www.4njbets.com
-mobile-prod.tvg.com
+us.tvg.com
 login.tvg.com
+mobile-prod.tvg.com
 *racing.fanduel.com
 tvg.com
 sportsbook.fanduel.com
@@ -3090,8 +3090,8 @@ www.loanbuilder.com
 *.xoom.com
 *.hyperwallet.com
 *.braintree-api.com
-*.paypal.com
 paypalobjects.com
+*.paypal.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3414,10 +3414,10 @@ gifts.grab.com
 *.myteksi.net
 api.grabpay.com
 kartaview.org
-*.myteksi.com
 jira.grab.com
 *.ovo.id
 *.grab.com
+*.myteksi.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3718,8 +3718,8 @@ api.grofers.com
 api2.grofers.com
 blinkit.com
 *.algolia.net
-*.algolianet.com
 www.algolia.com
+*.algolianet.com
 *.algolia.net
 *.algolianet.com
 www.algolia.com
@@ -3810,10 +3810,10 @@ shop.app
 arrive-server.shopifycloud.com
 shopifyinbox.com
 *.shopify.com
-your-store.myshopify.com
-partners.shopify.com
 accounts.shopify.com
+partners.shopify.com
 admin.shopify.com
+your-store.myshopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3933,8 +3933,8 @@ callbacks.airbnb.com
 *.luxuryretreats.com
 www.hoteltonight.com
 *.airbnbcitizen.com
-api.airbnb.com
 *.withairbnb.com
+api.airbnb.com
 *.hoteltonight-test.com
 next.airbnb.com
 *.muscache.com
@@ -4022,8 +4022,8 @@ api.x.ai
 ide.x.ai
 grok.x.ai
 *.twimg.com
-x.com
 *.twitter.com
+x.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -4383,8 +4383,8 @@ u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
-accounts.magento.cloud
 repo.magento.com
+accounts.magento.cloud
 magento.com
 marketplace.magento.com
 magentocommerce.com
