@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Mar 23 03:20:25 UTC 2024)
+## Domains with Bounties (Last Updated Sat Mar 23 04:21:09 UTC 2024)
 ```
 www.dyson.ch
 www.dyson.se
@@ -29,7 +29,6 @@ api.dyson.fr
 api.dyson.ie
 www.dyson.com.sg
 www.sa.dyson.com
-*.cp.dyson.com
 shop.dyson.ru
 *.dyson.com
 www.dyson.co.uk
@@ -311,8 +310,8 @@ rewire.com
 app.rewire.to
 app3.rewire.to
 rates.rewire.com
-remitly.com
 api.remitly.io
+remitly.com
 remitly.com
 api.remitly.io
 cards.remitly.io
@@ -325,10 +324,10 @@ getworldcoin.com
 *.worldcoin-distributors.com
 worldcoin.org
 *.toolsforhumanity.com
-*.worldcoin.dev
 bioid-management.app
 *.worldcoin.org
 *.consumer.worldcoin.org
+*.worldcoin.dev
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -424,12 +423,12 @@ api.23andme.com
 education.23andme.com
 therapeutics.23andme.com
 store.23andme.com
-medical.23andme.com
 auth.23andme.com
 mediacenter.23andme.com
 research.23andme.com
 you.23andme.com
 blog.23andme.com
+medical.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -453,9 +452,9 @@ api.mercadopago.com
 www.mercadopago.com.br
 www.mercadopago.cl
 www.mercadolivre.com.br
+api.mercadolibre.com
 www.mercadopago.com.ar
 www.mercadolibre.com.ar
-api.mercadolibre.com
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -817,23 +816,23 @@ api.tideplatform.in
 *.tide.co
 *.tide.co
 api.tideplatform.in
-aus5.mozilla.org
-shavar.services.mozilla.com
-push.services.mozilla.com
 firefox.settings.services.mozilla.com
+push.services.mozilla.com
+phabricator.allizom.org
 addons.allizom.org
 crash-stats.allizom.org
-phabricator.allizom.org
-lando.services.mozilla.com
+aus5.mozilla.org
+shavar.services.mozilla.com
 sync.services.mozilla.com
+lando.services.mozilla.com
 hg.mozilla.org
 mozilla-pontoon-staging.herokuapp.com
 merino.services.mozilla.com
 contile.services.mozilla.com
 crash-reports.allizom.org
 firefox-ci-tc.services.mozilla.com
-accounts.firefox.com
 bugzilla.mozilla.org
+accounts.firefox.com
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -931,8 +930,8 @@ injob.indriver.com
 watchdocs.indriverapp.com
 new-order.eu-east-1.indriverapp.com
 auth.indrive.tech
-truck-api.eu-east-1.indriverapp.com
 *.indriver.com
+truck-api.eu-east-1.indriverapp.com
 ci.indrive.dev
 cargo.indrive.com
 *.indriverapp.com
@@ -1117,8 +1116,8 @@ admin.8x8.com
 *.superbet.pl
 moonpay.com
 hypermint.com
-*.hypermint.com
 *.moonpaycloud.com
+*.hypermint.com
 *.moonpay.com
 *.moonpaycloud.com
 *.hypermint.com
@@ -1172,8 +1171,8 @@ www.expediagroup.com
 *.expediapartnercentral.com
 www.expediapartnersolutions.com
 *.travelocity.ca
-www.fewo-direkt.de
 *.travelocity.com
+www.fewo-direkt.de
 www.flights.com
 *.vrbo.com
 *.wotif.com
@@ -1455,8 +1454,8 @@ shoppers.instacart.com
 admin.instacart.com
 *.instacart.tools
 *.instacart.com
-api.instacart.com
 www.instacart.com
+api.instacart.com
 *.instacart.com
 *.instacart.tools
 api.instacart.com
@@ -1756,9 +1755,9 @@ api.taxjar.com
 *.reckoproduction.com
 *.link.co
 *.reckostaging.com
+*.touchtechpayments.com
 *.recko.io
 js.stripe.com
-*.touchtechpayments.com
 app.taxjar.com
 api.stripe.com
 *.stripe.com
@@ -1945,8 +1944,8 @@ core.yoti.com
 api.yoti.com
 identity.yoti.com
 code.yoti.com
-www.yotisign.com
 hub.yoti.com
+www.yotisign.com
 core.yoti.com
 api.yoti.com
 ccloud.yoti.com
@@ -1964,8 +1963,8 @@ internal-docs.netlify.com
 internal.netlify.com
 *.ops.netlify.com
 *.infra-prod.nsvcs.net
-netlify-rum.netlify.app
 *.services.netlify.com
+netlify-rum.netlify.app
 api.netlify.com
 app.netlify.com
 *.services.netlify.com
@@ -2055,13 +2054,13 @@ creatormarketplace.tiktok.com
 careers.tiktok.com
 shop.tiktok.com
 *.tiktokv.com
-*.tiktok.com
 tiktok.com
 www.pangleglobal.com
 partner.tiktokshop.com
 business.tiktok.com
-ads.tiktok.com
 academy-outbound-ads.tiktok.com
+ads.tiktok.com
+*.tiktok.com
 fp-sg.tiktokv.com
 *.tiktok.com
 business.tiktok.com
@@ -3026,11 +3025,11 @@ pabets.tvg.com
 promos.tvg.com
 service.tvg.com
 fanduel.design
+us.tvg.com
 ia.tvg.com
 www.4njbets.com
-us.tvg.com
-login.tvg.com
 mobile-prod.tvg.com
+login.tvg.com
 *racing.fanduel.com
 tvg.com
 sportsbook.fanduel.com
@@ -3088,8 +3087,8 @@ my.swiftfinancial.com
 *.paypalcorp.com
 *.braintreegateway.com
 www.loanbuilder.com
-*.paypal.com
 *.xoom.com
+*.paypal.com
 *.hyperwallet.com
 *.braintree-api.com
 paypalobjects.com
@@ -3272,9 +3271,9 @@ www.counter-strike.net
 playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
-auth.crypto.com
 *.mona.co
 tax.crypto.com
+auth.crypto.com
 js.crypto.com
 app.mona.co
 pay.crypto.com
@@ -3719,8 +3718,8 @@ api.grofers.com
 api2.grofers.com
 blinkit.com
 *.algolia.net
-www.algolia.com
 *.algolianet.com
+www.algolia.com
 *.algolia.net
 *.algolianet.com
 www.algolia.com
@@ -3939,8 +3938,8 @@ api.airbnb.com
 *.hoteltonight-test.com
 next.airbnb.com
 *.muscache.com
-*.airbnb.com
 www.airbnb.com
+*.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -4104,8 +4103,8 @@ pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
-api.coinbase.com
 institutional.coinbase.com
+api.coinbase.com
 international.coinbase.com
 cloud.coinbase.com
 *.coinbase.com
@@ -4176,10 +4175,10 @@ a5s.hackerone-ext-content.com
 errors.hackerone.net
 ctf.hacker101.com
 www.hackerone.com
-api.hackerone.com
 app.pullrequest.com
 hackerone-user-content.com
 hackerone.live
+api.hackerone.com
 hackerone.com
 hackerone.com
 api.hackerone.com
@@ -4420,8 +4419,8 @@ alerts.eu.newrelic.com
 *.eu.newrelic.com
 login.newrelic.com
 developer.newrelic.com
-synthetics.newrelic.com
 rpm.newrelic.com
+synthetics.newrelic.com
 insights.newrelic.com
 one.newrelic.com
 *.newrelic.com
