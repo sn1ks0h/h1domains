@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Mar 24 07:15:49 UTC 2024)
+## Domains with Bounties (Last Updated Sun Mar 24 08:19:15 UTC 2024)
 ```
 www.dyson.ch
 www.dyson.se
@@ -324,9 +324,9 @@ worldcoin.org
 *.toolsforhumanity.com
 bioid-management.app
 *.worldcoin-distributors.com
-*.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin.dev
+*.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -447,13 +447,13 @@ www.mercadolibre.com.pe
 www.mercadolibre.com.uy
 www.mercadolibre.com.co
 www.mercadolibre.cl
-www.mercadopago.com.br
 www.mercadopago.cl
-www.mercadolivre.com.br
+www.mercadopago.com.br
 api.mercadopago.com
+www.mercadolivre.com.br
 api.mercadolibre.com
-www.mercadopago.com.ar
 www.mercadolibre.com.ar
+www.mercadopago.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -497,13 +497,13 @@ admin.booking.com
 www.fareharbor.com
 widget.rentalcars.com
 teleport.fareharbor.engineering
-careers.booking.com
 *.rentalcars.com
+careers.booking.com
 flights.booking.com
 booking.com
-paymentcomponent.booking.com
 *.booking.com
 account.booking.com
+paymentcomponent.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -774,8 +774,8 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
 yourdomain.freshservice.com
-yourdomain.freshdesk.com
 yourdomain.myfreshworks.com
+yourdomain.freshdesk.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -815,14 +815,14 @@ api.tideplatform.in
 *.tide.co
 *.tide.co
 api.tideplatform.in
-firefox.settings.services.mozilla.com
-push.services.mozilla.com
 phabricator.allizom.org
 crash-stats.allizom.org
 aus5.mozilla.org
 shavar.services.mozilla.com
-sync.services.mozilla.com
+firefox.settings.services.mozilla.com
+push.services.mozilla.com
 lando.services.mozilla.com
+sync.services.mozilla.com
 hg.mozilla.org
 mozilla-pontoon-staging.herokuapp.com
 merino.services.mozilla.com
@@ -856,8 +856,8 @@ vpn.mozilla.org
 profiler.firefox.com
 support.mozilla.org
 hg.mozilla.org
-relay.firefox.com
 developer.mozilla.org
+relay.firefox.com
 www.mozilla.org
 monitor.mozilla.org
 developer.mozilla.org
@@ -888,8 +888,8 @@ hiltonlocalbiz.com
 *.hiltonbusinessonline.com
 hiltonhotels.jp
 *.hilton.io
-hilton.com
 hilton.io
+hilton.com
 *.hilton.com
 *.hilton.com
 *.hilton.io
@@ -905,8 +905,8 @@ hiltonlocalbiz.com
 hiltonhotels.jp
 *.okg.com
 *.okcoin.com
-*.oklink.com
 *.okx.com
+*.oklink.com
 *.okx.com
 *.okcoin.com
 *.oklink.com
@@ -929,9 +929,9 @@ injob.indriver.com
 watchdocs.indriverapp.com
 new-order.eu-east-1.indriverapp.com
 auth.indrive.tech
-truck-api.eu-east-1.indriverapp.com
-*.indriver.com
 ci.indrive.dev
+*.indriver.com
+truck-api.eu-east-1.indriverapp.com
 cargo.indrive.com
 *.indriverapp.com
 *.indrive.com
@@ -1361,8 +1361,8 @@ pwapi.ex2b.com
 api.excalls.mobi
 social-trading.exness.com
 my.exness.com
-exness.com
 exnessaffiliates.com
+exness.com
 my.exness.com
 pay.ibex.exchange
 https://my.exness.com/webtrading/
@@ -1753,9 +1753,9 @@ api.taxjar.com
 *.reckoproduction.com
 *.link.co
 *.reckostaging.com
+*.touchtechpayments.com
 *.recko.io
 js.stripe.com
-*.touchtechpayments.com
 api.stripe.com
 *.stripe.com
 app.taxjar.com
@@ -1937,8 +1937,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-ccloud.yoti.com
 core.yoti.com
+ccloud.yoti.com
 api.yoti.com
 www.yotisign.com
 identity.yoti.com
@@ -2528,10 +2528,10 @@ updates.amazon.com
 *.taobao.com
 *.aliyun.com
 *.Daraz.com
-*.alibaba.com
 *.aliexpress.com
 *.alibabacloud.com
 www.alibabagroup.com
+*.alibaba.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -3025,11 +3025,11 @@ promos.tvg.com
 service.tvg.com
 fanduel.design
 ia.tvg.com
-mobile-prod.tvg.com
-login.tvg.com
-*racing.fanduel.com
-us.tvg.com
 www.4njbets.com
+us.tvg.com
+login.tvg.com
+mobile-prod.tvg.com
+*racing.fanduel.com
 tvg.com
 sportsbook.fanduel.com
 fdbox.net
@@ -3269,9 +3269,9 @@ www.counter-strike.net
 playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
+auth.crypto.com
 *.mona.co
 tax.crypto.com
-auth.crypto.com
 js.crypto.com
 app.mona.co
 pay.crypto.com
@@ -3413,9 +3413,9 @@ gifts.grab.com
 api.grabpay.com
 kartaview.org
 jira.grab.com
-*.grab.com
 *.myteksi.com
 *.ovo.id
+*.grab.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3655,8 +3655,8 @@ education.github.com
 npmjs.org
 gist.github.com
 *.githubusercontent.com
-npmjs.com
 api.github.com
+npmjs.com
 github.com
 github.com
 api.github.com
@@ -3918,7 +3918,6 @@ imagine.magento.com
 magentolive.com
 account.magento.com
 accounts.magento.cloud
-support-api.airbnb.com
 assets.airbnb.com
 m.airbnb.com
 omgpro.airbnb.com
@@ -3930,14 +3929,15 @@ callbacks.airbnb.com
 *.airbnb-aws.com
 *.luxuryretreats.com
 *.airbnbcitizen.com
-api.airbnb.com
 *.withairbnb.com
+api.airbnb.com
 *.hoteltonight-test.com
 next.airbnb.com
 *.muscache.com
 www.airbnb.com
 *.airbnb.com
 www.hoteltonight.com
+support-api.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -4106,9 +4106,9 @@ international.coinbase.com
 cloud.coinbase.com
 coinbase.com
 *.base.org
-nft.coinbase.com
 *.coinbase.com
 commerce.coinbase.com
+nft.coinbase.com
 *.coinbase.com
 *.cbhq.net
 pro.coinbase.com
@@ -4381,8 +4381,8 @@ u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
-accounts.magento.cloud
 repo.magento.com
+accounts.magento.cloud
 magento.com
 marketplace.magento.com
 magentocommerce.com
@@ -4417,8 +4417,8 @@ alerts.eu.newrelic.com
 *.eu.newrelic.com
 login.newrelic.com
 developer.newrelic.com
-synthetics.newrelic.com
 rpm.newrelic.com
+synthetics.newrelic.com
 insights.newrelic.com
 one.newrelic.com
 *.newrelic.com
