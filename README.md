@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Mar 25 19:17:10 UTC 2024)
+## Domains with Bounties (Last Updated Mon Mar 25 20:19:32 UTC 2024)
 ```
 www.dyson.ch
 www.dyson.se
@@ -306,10 +306,10 @@ webonboarding-eu.truecaller.com
 cards.remitly.io
 app.rewire.to
 rates.rewire.com
-api.remitly.io
 rewire.com
 app3.rewire.to
 remitly.com
+api.remitly.io
 remitly.com
 api.remitly.io
 cards.remitly.io
@@ -367,8 +367,8 @@ www.sheer.com
 my.sheer.com
 www.analvids.com
 www.pornbox.com
-www.ddfcontent.com
 www.pornworld.com
+www.ddfcontent.com
 www.pornbox.com
 www.analvids.com
 www.ddfcontent.com
@@ -568,8 +568,8 @@ cdn.moderntreasury.com
 app.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
-test.nicehash.com
 test.nicex.com
+test.nicehash.com
 test.nicehash.com
 https://test.nicehash.com/shop/
 https://test.nicex.com
@@ -926,12 +926,12 @@ ingest.clairvoyance.indrive.tech
 injob.indriver.com
 new-order.eu-east-1.indriverapp.com
 auth.indrive.tech
-ci.indrive.dev
-*.indriver.com
 truck-api.eu-east-1.indriverapp.com
+*.indriver.com
+ci.indrive.dev
 cargo.indrive.com
-watchdocs.indriverapp.com
 profile-api.eu-east-1.indriverapp.com
+watchdocs.indriverapp.com
 *.indrive.com
 *.indriverapp.com
 *.indriverapp.com
@@ -1010,8 +1010,8 @@ www.sokos.fi
 api.sokos.fi
 cfapi.voikukka.fi
 digili.s-cloud.fi
-www.prisma.fi
 mobile.s-pankki.fi
+www.prisma.fi
 online.s-pankki.fi
 www.s-pankki.fi
 online.s-pankki.fi
@@ -1060,6 +1060,7 @@ connect.8x8.com
 admin.8x8.com
 cloud8.8x8.com
 *.wavecell.com
+sso.8x8.com
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1112,8 +1113,8 @@ admin.8x8.com
 *.superbet.pl
 moonpay.com
 hypermint.com
-*.hypermint.com
 *.moonpaycloud.com
+*.hypermint.com
 *.moonpay.com
 *.moonpaycloud.com
 *.hypermint.com
@@ -1166,8 +1167,8 @@ www.expediagroup.com
 *.expediapartnercentral.com
 www.expediapartnersolutions.com
 *.travelocity.ca
-*.travelocity.com
 www.fewo-direkt.de
+*.travelocity.com
 www.flights.com
 *.vrbo.com
 *.wotif.com
@@ -1795,11 +1796,11 @@ www.reddit.com
 *.reddit.com
 ads.reddit.com
 matrix.redditspace.com
-*.redditmedia.com
-*.redditinc.com
-gql.reddit.com
 *.reddithelp.com
 api.reddit.com
+gql.reddit.com
+*.redditmedia.com
+*.redditinc.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1895,8 +1896,8 @@ fetlife.com
 fetlife.com
 api.bitso.com
 nvio.ar
-nvio.mx
 bitso.com
+nvio.mx
 bitso.com
 api.bitso.com
 http://bitso.com/alpha
@@ -1935,12 +1936,12 @@ hackers_chosendomain.larksuite.com
 *.a.exodus.io
 *.exodus.com
 core.yoti.com
-hub.yoti.com
 code.yoti.com
 ccloud.yoti.com
 identity.yoti.com
 www.yotisign.com
 api.yoti.com
+hub.yoti.com
 core.yoti.com
 api.yoti.com
 ccloud.yoti.com
@@ -1958,8 +1959,8 @@ internal-docs.netlify.com
 internal.netlify.com
 *.ops.netlify.com
 *.infra-prod.nsvcs.net
-netlify-rum.netlify.app
 *.services.netlify.com
+netlify-rum.netlify.app
 api.netlify.com
 app.netlify.com
 *.services.netlify.com
@@ -2051,12 +2052,12 @@ academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
 developers.tiktok.com
 fp-sg.tiktokv.com
-tiktok.com
 *.tiktokv.com
 partner.tiktokshop.com
-*.tiktok.com
 effecthouse.tiktok.com
 ads.tiktok.com
+*.tiktok.com
+tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2527,8 +2528,8 @@ updates.amazon.com
 www.alibabagroup.com
 *.alibabacloud.com
 *.alibaba.com
-*.aliexpress.com
 *.aliyun.com
+*.aliexpress.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2622,10 +2623,10 @@ mipartnerprivileges.marriott.com
 travelagents.marriott.com/
 activities.marriott.com
 homes-and-villas.marriott.com
-all-inclusive.marriott.com
 traveler.marriott.com
 careers.marriott.com
 www.marriott.com
+all-inclusive.marriott.com
 homes-and-villas.marriott.com
 careers.marriott.com
 sso.marriott.com
@@ -3251,8 +3252,8 @@ js.crypto.com
 app.mona.co
 www.crypto.com
 pay.crypto.com
-*.crypto.com
 merchant.crypto.com
+*.crypto.com
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3697,16 +3698,16 @@ www.algolia.com
 *.algolianet.com
 www.algolia.com
 secure-dfadmin.deriv.com
-derivws.com
 *.derivws.com
+derivws.com
 smarttrader.deriv.com
 oauth.deriv.com
 *.binary.com
 api.deriv.com
 *.deriv.cloud
+cashier.deriv.com
 *.deriv.com
 app.deriv.com
-cashier.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3784,9 +3785,9 @@ shop.app
 your-store.myshopify.com
 shopifyinbox.com
 partners.shopify.com
+accounts.shopify.com
 admin.shopify.com
 *.shopify.com
-accounts.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3822,8 +3823,8 @@ relay.playcanvas.com
 rt.playcanvas.com
 store.playcanvas.com
 playcanv.as
-login.playcanvas.com
 businesshelp.snapchat.com
+login.playcanvas.com
 geofilters.snapchat.com
 playcanvas.com
 app.snapchat.com
@@ -3903,16 +3904,16 @@ callbacks.airbnb.com
 *.byairbnb.com
 *.airbnb-aws.com
 *.luxuryretreats.com
-*.airbnbcitizen.com
 support-api.airbnb.com
+*.airbnbcitizen.com
 *.withairbnb.com
 *.hoteltonight-test.com
 next.airbnb.com
 *.muscache.com
 www.hoteltonight.com
-*.airbnb.com
-api.airbnb.com
 www.airbnb.com
+api.airbnb.com
+*.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -4082,8 +4083,8 @@ coinbase.com
 nft.coinbase.com
 cloud.coinbase.com
 institutional.coinbase.com
-*.coinbase.com
 commerce.coinbase.com
+*.coinbase.com
 *.coinbase.com
 *.cbhq.net
 pro.coinbase.com
@@ -4109,8 +4110,8 @@ www.quip.com
 slack-imgs.com
 *.quip.com
 slack.com
-api.slack.com
 app.slack.com
+api.slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -4151,8 +4152,8 @@ hackerone-user-content.com
 cover-photos.hackerone-user-content.com
 hackathon-photos.hackerone-user-content.com
 api.hackerone.com
-hackerone.com
 www.hackerone.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
