@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Mar 25 01:55:31 UTC 2024)
+## Domains with Bounties (Last Updated Mon Mar 25 02:26:59 UTC 2024)
 ```
 www.dyson.ch
 www.dyson.se
@@ -500,10 +500,10 @@ flights.booking.com
 admin.booking.com
 account.booking.com
 paymentcomponent.booking.com
+*.booking.com
 booking.com
 careers.booking.com
 www.fareharbor.com
-*.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -815,12 +815,12 @@ api.tideplatform.in
 *.tide.co
 *.tide.co
 api.tideplatform.in
-phabricator.allizom.org
-crash-stats.allizom.org
 aus5.mozilla.org
 shavar.services.mozilla.com
-firefox.settings.services.mozilla.com
 push.services.mozilla.com
+firefox.settings.services.mozilla.com
+crash-stats.allizom.org
+phabricator.allizom.org
 lando.services.mozilla.com
 sync.services.mozilla.com
 hg.mozilla.org
@@ -856,8 +856,8 @@ vpn.mozilla.org
 profiler.firefox.com
 support.mozilla.org
 hg.mozilla.org
-developer.mozilla.org
 relay.firefox.com
+developer.mozilla.org
 www.mozilla.org
 monitor.mozilla.org
 developer.mozilla.org
@@ -888,8 +888,8 @@ hiltonlocalbiz.com
 *.hiltonbusinessonline.com
 hiltonhotels.jp
 *.hilton.io
-hilton.io
 hilton.com
+hilton.io
 *.hilton.com
 *.hilton.com
 *.hilton.io
@@ -925,7 +925,6 @@ aws.indrive.tech
 debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 injob.indriver.com
-watchdocs.indriverapp.com
 new-order.eu-east-1.indriverapp.com
 auth.indrive.tech
 *.indriver.com
@@ -935,6 +934,7 @@ cargo.indrive.com
 *.indrive.com
 *.indriverapp.com
 profile-api.eu-east-1.indriverapp.com
+watchdocs.indriverapp.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -1168,14 +1168,14 @@ www.expediagroup.com
 *.expediapartnercentral.com
 www.expediapartnersolutions.com
 *.travelocity.ca
-*.travelocity.com
 www.fewo-direkt.de
+*.travelocity.com
 www.flights.com
 *.vrbo.com
 *.wotif.com
 *.carrentals.com
-www.hotels.com
 *.expediacruises.com
+www.hotels.com
 *.hotwire.com
 www.expedia.com
 *.vrbo.com
@@ -1936,13 +1936,13 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-ccloud.yoti.com
 core.yoti.com
-api.yoti.com
-www.yotisign.com
-identity.yoti.com
 hub.yoti.com
 code.yoti.com
+www.yotisign.com
+identity.yoti.com
+api.yoti.com
+ccloud.yoti.com
 core.yoti.com
 api.yoti.com
 ccloud.yoti.com
@@ -2123,9 +2123,9 @@ api.faraday.ai
 *.devicelock.com
 beta-cloud.acronis.com
 *.5nine.com
-*.acronis.com
 *.acronis.work
 account.acronis.com
+*.acronis.com
 *-api-*.acronis.com
 *.acronis.com
 *.5nine.com
@@ -2524,8 +2524,8 @@ updates.amazon.com
 *.alimama.com
 *.aliyun-inc.com
 *.aliyun.com
-*.alibabacloud.com
 *.alibaba.com
+*.alibabacloud.com
 *.Daraz.com
 www.alibabagroup.com
 *.aliexpress.com
@@ -3023,11 +3023,11 @@ promos.tvg.com
 service.tvg.com
 fanduel.design
 ia.tvg.com
-mobile-prod.tvg.com
 login.tvg.com
+mobile-prod.tvg.com
 *racing.fanduel.com
-us.tvg.com
 www.4njbets.com
+us.tvg.com
 tvg.com
 sportsbook.fanduel.com
 fdbox.net
@@ -3063,12 +3063,6 @@ https://github.com/matomo-org/docker
 *.paydiant.com
 paypal.me
 py.pl
-*.braintree.tools
-prequal.swiftfinancial.com
-partner.swiftfinancial.com
-decision.swiftfinancial.com
-pigeon.swiftfinancial.com
-scrutiny.swiftfinancial.com
 www.swiftcapital.com
 www.swiftfinancial.com
 api.swiftfinancial.com
@@ -3077,6 +3071,12 @@ my.loanbuilder.com
 loanbuilder.com
 swiftfinancial.com
 swiftcapital.com
+*.braintree.tools
+prequal.swiftfinancial.com
+partner.swiftfinancial.com
+decision.swiftfinancial.com
+pigeon.swiftfinancial.com
+scrutiny.swiftfinancial.com
 *.paylution.com
 my.swiftfinancial.com
 *.venmo.com
@@ -3332,8 +3332,8 @@ hybrid-analysis.com
 *.preemptsecurity.com
 *.humio.com
 www.crowdstrike.com
-*.crowdstrike.com
 *.reposify.com
+*.crowdstrike.com
 *.crowdstrike.com
 *.humio.com
 *.securecircle.com
@@ -3653,8 +3653,8 @@ education.github.com
 npmjs.org
 gist.github.com
 *.githubusercontent.com
-api.github.com
 npmjs.com
+api.github.com
 github.com
 github.com
 api.github.com
@@ -3721,8 +3721,8 @@ www.algolia.com
 www.algolia.com
 cashier.deriv.com
 secure-dfadmin.deriv.com
-derivws.com
 *.derivws.com
+derivws.com
 *.deriv.cloud
 *.binary.com
 app.deriv.com
@@ -4415,8 +4415,8 @@ alerts.eu.newrelic.com
 *.eu.newrelic.com
 login.newrelic.com
 developer.newrelic.com
-synthetics.newrelic.com
 rpm.newrelic.com
+synthetics.newrelic.com
 insights.newrelic.com
 one.newrelic.com
 *.newrelic.com
