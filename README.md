@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Mar 25 07:18:07 UTC 2024)
+## Domains with Bounties (Last Updated Mon Mar 25 08:22:25 UTC 2024)
 ```
 www.dyson.ch
 www.dyson.se
@@ -446,12 +446,12 @@ www.mercadolibre.com.pe
 www.mercadolibre.com.uy
 www.mercadolibre.com.co
 www.mercadolibre.cl
-www.mercadopago.cl
 www.mercadopago.com.br
-api.mercadopago.com
+www.mercadopago.cl
 www.mercadolivre.com.br
-www.mercadopago.com.ar
+api.mercadopago.com
 www.mercadolibre.com.ar
+www.mercadopago.com.ar
 www.mercadolibre.com.mx
 api.mercadolibre.com
 api.mercadopago.com
@@ -772,9 +772,9 @@ www.visainfinite.ca
 http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
-yourdomain.freshdesk.com
-yourdomain.freshservice.com
 yourdomain.freshchat.com
+yourdomain.freshservice.com
+yourdomain.freshdesk.com
 yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
@@ -815,23 +815,23 @@ api.tideplatform.in
 *.tide.co
 *.tide.co
 api.tideplatform.in
+firefox.settings.services.mozilla.com
+push.services.mozilla.com
+phabricator.allizom.org
+crash-stats.allizom.org
 aus5.mozilla.org
 shavar.services.mozilla.com
-push.services.mozilla.com
-firefox.settings.services.mozilla.com
-crash-stats.allizom.org
-phabricator.allizom.org
-lando.services.mozilla.com
 sync.services.mozilla.com
+lando.services.mozilla.com
 hg.mozilla.org
 mozilla-pontoon-staging.herokuapp.com
 merino.services.mozilla.com
 contile.services.mozilla.com
 crash-reports.allizom.org
 firefox-ci-tc.services.mozilla.com
-bugzilla.mozilla.org
 addons.allizom.org
 accounts.firefox.com
+bugzilla.mozilla.org
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -888,8 +888,8 @@ hiltonlocalbiz.com
 *.hiltonbusinessonline.com
 hiltonhotels.jp
 *.hilton.io
-hilton.io
 hilton.com
+hilton.io
 *.hilton.com
 *.hilton.com
 *.hilton.io
@@ -1168,8 +1168,8 @@ www.expediagroup.com
 *.expediapartnercentral.com
 www.expediapartnersolutions.com
 *.travelocity.ca
-www.fewo-direkt.de
 *.travelocity.com
+www.fewo-direkt.de
 www.flights.com
 *.vrbo.com
 *.wotif.com
@@ -1451,9 +1451,9 @@ bullsheet.me
 shoppers.instacart.com
 admin.instacart.com
 *.instacart.tools
-*.instacart.com
-api.instacart.com
 www.instacart.com
+api.instacart.com
+*.instacart.com
 *.instacart.com
 *.instacart.tools
 api.instacart.com
@@ -1752,9 +1752,9 @@ api.taxjar.com
 *.reckoproduction.com
 *.link.co
 *.reckostaging.com
-*.touchtechpayments.com
 *.recko.io
 js.stripe.com
+*.touchtechpayments.com
 api.stripe.com
 *.stripe.com
 app.taxjar.com
@@ -3023,11 +3023,11 @@ promos.tvg.com
 service.tvg.com
 fanduel.design
 ia.tvg.com
-www.4njbets.com
-us.tvg.com
-login.tvg.com
 mobile-prod.tvg.com
+login.tvg.com
 *racing.fanduel.com
+us.tvg.com
+www.4njbets.com
 tvg.com
 sportsbook.fanduel.com
 fdbox.net
@@ -3272,10 +3272,10 @@ tax.crypto.com
 auth.crypto.com
 js.crypto.com
 app.mona.co
-pay.crypto.com
 www.crypto.com
-merchant.crypto.com
 *.crypto.com
+pay.crypto.com
+merchant.crypto.com
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3728,8 +3728,8 @@ api.deriv.com
 smarttrader.deriv.com
 *.deriv.com
 oauth.deriv.com
-*.binary.com
 app.deriv.com
+*.binary.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3779,8 +3779,8 @@ app.futuresimple.com
 api.getbase.com
 smooch.io
 apps.zendesk.com
-www.zendesk.com
 h1-your-domain.zendesk.com
+www.zendesk.com
 www.zendesk.com
 developer.zendesk.com
 h1-your-domain.zendesk.com
@@ -3845,7 +3845,6 @@ relay.playcanvas.com
 rt.playcanvas.com
 store.playcanvas.com
 playcanv.as
-*.sc-corp.net
 login.playcanvas.com
 geofilters.snapchat.com
 playcanvas.com
@@ -3856,6 +3855,7 @@ ads.snapchat.com
 web.snapchat.com
 businesshelp.snapchat.com
 accounts.snapchat.com
+*.sc-corp.net
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -4018,8 +4018,8 @@ api.x.ai
 ide.x.ai
 grok.x.ai
 *.twimg.com
-*.twitter.com
 x.com
+*.twitter.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -4172,9 +4172,9 @@ hackerone.live
 errors.hackerone.net
 ctf.hacker101.com
 hackerone-user-content.com
-www.hackerone.com
 cover-photos.hackerone-user-content.com
 api.hackerone.com
+www.hackerone.com
 hackerone.com
 hackerone.com
 api.hackerone.com
@@ -4416,8 +4416,8 @@ alerts.eu.newrelic.com
 login.newrelic.com
 developer.newrelic.com
 synthetics.newrelic.com
-insights.newrelic.com
 rpm.newrelic.com
+insights.newrelic.com
 one.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
