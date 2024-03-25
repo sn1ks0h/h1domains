@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Mar 25 17:18:46 UTC 2024)
+## Domains with Bounties (Last Updated Mon Mar 25 18:23:42 UTC 2024)
 ```
 www.dyson.ch
 www.dyson.se
@@ -404,8 +404,8 @@ www.niagahoster.co.id
 hpanel.hostinger.com
 *.000webhost.com
 backend.zyro.com
-www.hostinger.com
 cpanel.hostinger.com
+www.hostinger.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -495,14 +495,14 @@ spark.fareharbor.com
 widget.rentalcars.com
 teleport.fareharbor.engineering
 flights.booking.com
+www.fareharbor.com
 account.booking.com
 paymentcomponent.booking.com
-booking.com
 careers.booking.com
-www.fareharbor.com
+booking.com
 admin.booking.com
-*.booking.com
 *.rentalcars.com
+*.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -814,15 +814,14 @@ api.tideplatform.in
 *.tide.co
 *.tide.co
 api.tideplatform.in
-accounts.firefox.com
+firefox.settings.services.mozilla.com
+push.services.mozilla.com
 phabricator.allizom.org
 crash-stats.allizom.org
 aus5.mozilla.org
 shavar.services.mozilla.com
-firefox.settings.services.mozilla.com
-push.services.mozilla.com
-lando.services.mozilla.com
 sync.services.mozilla.com
+lando.services.mozilla.com
 hg.mozilla.org
 mozilla-pontoon-staging.herokuapp.com
 merino.services.mozilla.com
@@ -831,6 +830,7 @@ crash-reports.allizom.org
 addons.allizom.org
 bugzilla.mozilla.org
 firefox-ci-tc.services.mozilla.com
+accounts.firefox.com
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -848,15 +848,15 @@ firefox-ci-tc.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 shavar.services.mozilla.com
 phabricator.allizom.org
-community-tc.services.mozilla.com
 stage.taskcluster.nonprod.cloudops.mozgcp.net
+community-tc.services.mozilla.com
+profiler.firefox.com
 api.profiler.firefox.com
 vpn.mozilla.org
-profiler.firefox.com
 support.mozilla.org
 hg.mozilla.org
-developer.mozilla.org
 relay.firefox.com
+developer.mozilla.org
 www.mozilla.org
 monitor.mozilla.org
 developer.mozilla.org
@@ -1306,8 +1306,8 @@ portfolio.metamask.io
 checkout.razorpay.com
 payroll.razorpay.com
 invoices.razorpay.com
-api.razorpay.com
 x.razorpay.com
+api.razorpay.com
 dashboard.razorpay.com
 dashboard.razorpay.com
 api.razorpay.com
@@ -1754,8 +1754,8 @@ api.taxjar.com
 js.stripe.com
 *.touchtechpayments.com
 api.stripe.com
-*.stripe.com
 app.taxjar.com
+*.stripe.com
 api.stripe.com
 *.stripe.com
 *.touchtechpayments.com
@@ -1839,8 +1839,8 @@ remix.com
 eu.remix.com
 platform.remix.com
 *.scopely.com
-*.withbuddies.com
 *.scopely.io
+*.withbuddies.com
 *.scopely.io
 *.scopely.com
 *.withbuddies.com
@@ -1860,8 +1860,8 @@ wp-dev5.chime.com
 wp-integ.chime.com
 app.chime.com
 wp-qa.chime.com
-*.chimebank.com
 *.chime.com
+*.chimebank.com
 *.1debit.com
 *.chimebank.com
 *.chimecard.com
@@ -1958,8 +1958,8 @@ internal-docs.netlify.com
 internal.netlify.com
 *.ops.netlify.com
 *.infra-prod.nsvcs.net
-*.services.netlify.com
 netlify-rum.netlify.app
+*.services.netlify.com
 api.netlify.com
 app.netlify.com
 *.services.netlify.com
@@ -2050,13 +2050,13 @@ www.pangleglobal.com
 business.tiktok.com
 academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
-tiktok.com
 developers.tiktok.com
 fp-sg.tiktokv.com
-ads.tiktok.com
+tiktok.com
 partner.tiktokshop.com
-*.tiktokv.com
 *.tiktok.com
+*.tiktokv.com
+ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2524,11 +2524,11 @@ updates.amazon.com
 *.alimama.com
 *.aliyun-inc.com
 *.taobao.com
-*.aliexpress.com
 www.alibabagroup.com
 *.alibabacloud.com
 *.aliyun.com
 *.alibaba.com
+*.aliexpress.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -3000,10 +3000,10 @@ promos.tvg.com
 service.tvg.com
 fanduel.design
 ia.tvg.com
-mobile-prod.tvg.com
-login.tvg.com
-*racing.fanduel.com
 www.4njbets.com
+login.tvg.com
+mobile-prod.tvg.com
+*racing.fanduel.com
 tvg.com
 sportsbook.fanduel.com
 fdbox.net
@@ -3064,8 +3064,8 @@ www.loanbuilder.com
 *.hyperwallet.com
 paypalobjects.com
 *.xoom.com
-*.braintree-api.com
 *.paypal.com
+*.braintree-api.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3251,8 +3251,8 @@ js.crypto.com
 app.mona.co
 www.crypto.com
 pay.crypto.com
-*.crypto.com
 merchant.crypto.com
+*.crypto.com
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3308,9 +3308,9 @@ hybrid-analysis.com
 *.preempt.com
 *.preemptsecurity.com
 *.humio.com
-www.crowdstrike.com
 *.reposify.com
 *.crowdstrike.com
+www.crowdstrike.com
 *.crowdstrike.com
 *.humio.com
 *.securecircle.com
@@ -3475,7 +3475,6 @@ mercantile.wordpress.org
 irclogs.wordpress.org
 lists.wordpress.org
 planet.wordpress.org
-*.wordpress.net
 wordpressfoundation.org
 doaction.org
 gutenberg.run
@@ -3483,6 +3482,7 @@ gutenberg.run
 bbpress.org
 profiles.wordpress.org
 *.wordpress.org
+*.wordpress.net
 *.wordpress.org
 *.buddypress.org
 bbpress.org
@@ -3696,7 +3696,6 @@ www.algolia.com
 *.algolia.net
 *.algolianet.com
 www.algolia.com
-cashier.deriv.com
 secure-dfadmin.deriv.com
 derivws.com
 *.derivws.com
@@ -3707,6 +3706,7 @@ api.deriv.com
 app.deriv.com
 *.deriv.cloud
 *.deriv.com
+cashier.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3785,8 +3785,8 @@ accounts.shopify.com
 *.shopify.com
 your-store.myshopify.com
 shopifyinbox.com
-partners.shopify.com
 admin.shopify.com
+partners.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -4378,8 +4378,8 @@ u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
-repo.magento.com
 accounts.magento.cloud
+repo.magento.com
 magento.com
 marketplace.magento.com
 magentocommerce.com
