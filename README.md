@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar 27 10:18:29 UTC 2024)
+## Domains with Bounties (Last Updated Wed Mar 27 11:18:06 UTC 2024)
 ```
 www.dyson.ch
 www.dyson.se
@@ -442,16 +442,16 @@ www.mercadopago.com.pe
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
 www.mercadolibre.com.uy
+www.mercadopago.com.br
 www.mercadolibre.com.ar
 www.mercadolibre.com.co
 www.mercadolibre.cl
 www.mercadopago.cl
 www.mercadolibre.com.mx
-api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadolivre.com.br
-www.mercadopago.com.br
 api.mercadolibre.com
+api.mercadopago.com
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -662,7 +662,6 @@ fhir.redoxengine.com
 explore.redoxengine.com
 www.redoxengine.com
 help.redoxengine.com
-bd.visa.com
 bm.visa.com
 bq.visa.com
 cw.visa.com
@@ -710,6 +709,7 @@ www.visa.com.ph
 www.authorize.net
 www.visa.com.mx
 www.visa.co.id
+www.visa.co.jp
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -771,9 +771,9 @@ http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshchat.com
 yourdomain.freshcaller.com
-yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
+yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -813,10 +813,10 @@ api.tideplatform.in
 *.tide.co
 *.tide.co
 api.tideplatform.in
-phabricator.allizom.org
-crash-stats.allizom.org
 shavar.services.mozilla.com
 push.services.mozilla.com
+crash-stats.allizom.org
+phabricator.allizom.org
 lando.services.mozilla.com
 sync.services.mozilla.com
 hg.mozilla.org
@@ -828,8 +828,8 @@ firefox-ci-tc.services.mozilla.com
 firefox.settings.services.mozilla.com
 addons.allizom.org
 aus5.mozilla.org
-bugzilla.mozilla.org
 accounts.firefox.com
+bugzilla.mozilla.org
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -847,11 +847,11 @@ firefox-ci-tc.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 shavar.services.mozilla.com
 phabricator.allizom.org
-stage.taskcluster.nonprod.cloudops.mozgcp.net
 community-tc.services.mozilla.com
-profiler.firefox.com
+stage.taskcluster.nonprod.cloudops.mozgcp.net
 api.profiler.firefox.com
 vpn.mozilla.org
+profiler.firefox.com
 support.mozilla.org
 hg.mozilla.org
 relay.firefox.com
@@ -882,12 +882,12 @@ api-eu.floqast.app
 hilton.com.tr
 hiltonbusinessonline.com
 hiltonlocalbiz.com
-*.hilton.com
 *.hilton.com.tr
 *.hiltonbusinessonline.com
 hiltonhotels.jp
 *.hilton.io
 hilton.io
+*.hilton.com
 hilton.com
 *.hilton.com
 *.hilton.io
@@ -930,9 +930,9 @@ super-services.indriverapp.com
 ci.indrive.dev
 wga.volans.tech
 *.indriver.com
-*.indrive.com
 *.indriverapp.com
 watchdocs.indriverapp.com
+*.indrive.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -1005,7 +1005,6 @@ oneview.malwarebytes.com
 www.s-kaupat.fi
 extranet.s-pankki.fi
 tunnistus.s-ryhma.fi
-www.sokos.fi
 api.sokos.fi
 cfapi.voikukka.fi
 digili.s-cloud.fi
@@ -1013,6 +1012,7 @@ mobile.s-pankki.fi
 www.prisma.fi
 online.s-pankki.fi
 www.s-pankki.fi
+www.sokos.fi
 online.s-pankki.fi
 www.s-pankki.fi
 https://crosskey.io/stores/s-pankki/apis
@@ -1111,8 +1111,8 @@ admin.8x8.com
 *.superbet.pl
 moonpay.com
 hypermint.com
-*.hypermint.com
 *.moonpaycloud.com
+*.hypermint.com
 *.moonpay.com
 *.moonpaycloud.com
 *.hypermint.com
@@ -1749,9 +1749,9 @@ api.taxjar.com
 *.reckoproduction.com
 *.link.co
 *.reckostaging.com
+*.touchtechpayments.com
 *.recko.io
 js.stripe.com
-*.touchtechpayments.com
 *.stripe.com
 api.stripe.com
 app.taxjar.com
@@ -1788,17 +1788,17 @@ redditforbusiness.com
 app.spiketrap.io
 www.spiketrap.io
 old.reddit.com
-mod.reddit.com
 new.reddit.com
 www.reddit.com
 ads.reddit.com
 matrix.redditspace.com
-*.redditmedia.com
 api.reddit.com
-*.reddit.com
+*.redditmedia.com
 *.reddithelp.com
-*.redditinc.com
 gql.reddit.com
+*.reddit.com
+*.redditinc.com
+mod.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1859,8 +1859,8 @@ wp-dev5.chime.com
 wp-integ.chime.com
 app.chime.com
 wp-qa.chime.com
-*.chimebank.com
 *.chime.com
+*.chimebank.com
 *.1debit.com
 *.chimebank.com
 *.chimecard.com
@@ -1957,8 +1957,8 @@ internal-docs.netlify.com
 internal.netlify.com
 *.ops.netlify.com
 *.infra-prod.nsvcs.net
-*.services.netlify.com
 netlify-rum.netlify.app
+*.services.netlify.com
 api.netlify.com
 app.netlify.com
 *.services.netlify.com
@@ -2525,9 +2525,9 @@ www.alibabagroup.com
 *.alibabacloud.com
 *.aliyun.com
 *.tmall.com
-*.Daraz.com
 *.taobao.com
 *.aliexpress.com
+*.Daraz.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2582,8 +2582,8 @@ maria.casino
 www.32red.com
 *.highrolling.nu
 *.bingo.com
-*.kes.kindredext.net
 *.unibet.com
+*.kes.kindredext.net
 *.unibet.com
 *.unibet.fr
 *.storspiller.com
@@ -2999,10 +2999,10 @@ promos.tvg.com
 service.tvg.com
 fanduel.design
 ia.tvg.com
-www.4njbets.com
-mobile-prod.tvg.com
 login.tvg.com
+mobile-prod.tvg.com
 *racing.fanduel.com
+www.4njbets.com
 tvg.com
 sportsbook.fanduel.com
 fdbox.net
@@ -3039,18 +3039,18 @@ https://github.com/matomo-org/docker
 *.paydiant.com
 paypal.me
 py.pl
-www.swiftcapital.com
-www.swiftfinancial.com
-api.swiftfinancial.com
-api.loanbuilder.com
-swiftfinancial.com
-swiftcapital.com
 *.braintree.tools
 prequal.swiftfinancial.com
 partner.swiftfinancial.com
 decision.swiftfinancial.com
 pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
+www.swiftcapital.com
+www.swiftfinancial.com
+api.swiftfinancial.com
+api.loanbuilder.com
+swiftfinancial.com
+swiftcapital.com
 *.paylution.com
 my.swiftfinancial.com
 *.braintreepayments.com
@@ -3407,7 +3407,6 @@ xtramile.grabpay.com
 gifts.grab.com
 grab.careers
 kartaview.org
-us1.badoo.com
 corp.badoo.com
 m.badoo.com
 meu1.badoo.com
@@ -3424,6 +3423,7 @@ getofficial.co
 eu1.badoo.com
 www.bumble.com
 badoo.com
+us1.badoo.com
 www.bumble.com
 bma.bumble.com
 badoo.com
@@ -3673,10 +3673,10 @@ winecellar.zomato.com
 *.zdev.net
 api.grofers.com
 api2.grofers.com
+*.zomato.com
 *.zomans.com
 blinkit.com
 *.runnr.in
-*.zomato.com
 *.hyperpure.com
 *.zomato.com
 *.zdev.net
@@ -3753,8 +3753,8 @@ app.futuresimple.com
 api.getbase.com
 smooch.io
 apps.zendesk.com
-h1-your-domain.zendesk.com
 www.zendesk.com
+h1-your-domain.zendesk.com
 www.zendesk.com
 developer.zendesk.com
 h1-your-domain.zendesk.com
@@ -4147,8 +4147,8 @@ hackerone-user-content.com
 cover-photos.hackerone-user-content.com
 hackathon-photos.hackerone-user-content.com
 api.hackerone.com
-www.hackerone.com
 hackerone.com
+www.hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
