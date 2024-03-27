@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar 27 08:22:54 UTC 2024)
+## Domains with Bounties (Last Updated Wed Mar 27 09:20:02 UTC 2024)
 ```
 www.dyson.ch
 www.dyson.se
@@ -442,15 +442,15 @@ www.mercadopago.com.pe
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
 www.mercadolibre.com.uy
+www.mercadopago.com.br
 www.mercadolibre.com.ar
 www.mercadolibre.com.co
 www.mercadolibre.cl
 www.mercadopago.cl
 www.mercadolibre.com.mx
-api.mercadopago.com
 www.mercadopago.com.ar
+api.mercadopago.com
 www.mercadolivre.com.br
-www.mercadopago.com.br
 api.mercadolibre.com
 api.mercadopago.com
 www.mercadopago.com.ar
@@ -539,8 +539,8 @@ www.fareharbor.com
 teleport.fareharbor.engineering
 *.bybit.com
 *.bybit.com
-api.au.frontegg.com
 portal.au.frontegg.com
+api.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
 api2.frontapp.com
@@ -920,6 +920,7 @@ auth2.indrive.tech
 aws.indrive.tech
 debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
+new-order.eu-east-1.indriverapp.com
 injob.indriver.com
 auth.indrive.tech
 truck-api.eu-east-1.indriverapp.com
@@ -928,11 +929,10 @@ profile-api.eu-east-1.indriverapp.com
 super-services.indriverapp.com
 ci.indrive.dev
 wga.volans.tech
-new-order.eu-east-1.indriverapp.com
 *.indriver.com
 *.indrive.com
-watchdocs.indriverapp.com
 *.indriverapp.com
+watchdocs.indriverapp.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -1055,10 +1055,10 @@ work-staging.8x8.com
 user-profile-staging.8x8.com
 *.jitsi.net
 admin.8x8.com
-cloud8.8x8.com
 *.wavecell.com
 platform.8x8pilot.com
 *.chalet.8x8.com
+*.8x8.id
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1162,19 +1162,19 @@ www.abritel.fr
 www.bookabach.co.nz
 www.stayz.com.au
 www.expediagroup.com
-*.hotwire.com
 www.expediapartnersolutions.com
 *.travelocity.ca
-www.fewo-direkt.de
 *.travelocity.com
+www.fewo-direkt.de
 www.flights.com
 *.vrbo.com
 *.wotif.com
 *.carrentals.com
 www.hotels.com
 *.expediacruises.com
-www.expedia.com
+*.hotwire.com
 *.expediapartnercentral.com
+www.expedia.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1238,8 +1238,8 @@ askpam.ai
 pb.deribit.com
 tools.deribit.com
 metrics.deribit.com
-test.deribit.com
 insights.deribit.com
+test.deribit.com
 *.deribit.com
 *.deribit.com
 test.deribit.com
@@ -1749,9 +1749,9 @@ api.taxjar.com
 *.reckoproduction.com
 *.link.co
 *.reckostaging.com
-*.touchtechpayments.com
 *.recko.io
 js.stripe.com
+*.touchtechpayments.com
 *.stripe.com
 api.stripe.com
 app.taxjar.com
@@ -1793,8 +1793,8 @@ new.reddit.com
 www.reddit.com
 ads.reddit.com
 matrix.redditspace.com
-api.reddit.com
 *.redditmedia.com
+api.reddit.com
 *.reddit.com
 *.reddithelp.com
 *.redditinc.com
@@ -1859,8 +1859,8 @@ wp-dev5.chime.com
 wp-integ.chime.com
 app.chime.com
 wp-qa.chime.com
-*.chime.com
 *.chimebank.com
+*.chime.com
 *.1debit.com
 *.chimebank.com
 *.chimecard.com
@@ -1957,8 +1957,8 @@ internal-docs.netlify.com
 internal.netlify.com
 *.ops.netlify.com
 *.infra-prod.nsvcs.net
-netlify-rum.netlify.app
 *.services.netlify.com
+netlify-rum.netlify.app
 api.netlify.com
 app.netlify.com
 *.services.netlify.com
@@ -2003,13 +2003,13 @@ api.adm.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 www.cloud.com
 (yoursubdomain).sharefile.eu
+citrix.cloud.com
 secure.sharefile.com
 secure.sharefile.eu
 accounts.cloud.com
 api.sharefile.com
 (yoursubdomain).sharefile.com
 (youriwssubdomain).cloud.com
-citrix.cloud.com
 adm.cloud.com
 citrix.cloud.com
 www.cloud.com
@@ -2054,8 +2054,8 @@ live-backstage.tiktok.com
 creatormarketplace.tiktok.com
 tiktok.com
 fp-sg.tiktokv.com
-*.tiktok.com
 ads.tiktok.com
+*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2525,8 +2525,8 @@ www.alibabagroup.com
 *.alibabacloud.com
 *.aliyun.com
 *.tmall.com
-*.taobao.com
 *.Daraz.com
+*.taobao.com
 *.aliexpress.com
 *.alibaba.com
 *.aliexpress.com
@@ -2559,8 +2559,8 @@ api.fortmatic.com
 x2.fortmatic.com
 careers.fortmatic.com
 dashboard.fortmatic.com
-dashboard.magic.link
 auth.magic.link
+dashboard.magic.link
 api.fortmatic.com
 x2.fortmatic.com
 careers.fortmatic.com
@@ -2684,8 +2684,8 @@ www.datastax.com
 downloads.datastax.com
 docs.datastax.com
 astra.datastax.com
-app.nordpass.com
 *.nordvpn.com
+app.nordpass.com
 *.nordvpn.com
 app.nordpass.com
 *.line-apps.com
@@ -2999,8 +2999,8 @@ promos.tvg.com
 service.tvg.com
 fanduel.design
 ia.tvg.com
-mobile-prod.tvg.com
 login.tvg.com
+mobile-prod.tvg.com
 *racing.fanduel.com
 www.4njbets.com
 tvg.com
@@ -3221,11 +3221,11 @@ partner.steampowered.com
 partner.steamgames.com
 playartifact.com
 help.steampowered.com
+steamcommunity.com
 www.dota2.com
 www.valvesoftware.com
 store.steampowered.com
 www.counter-strike.net
-steamcommunity.com
 www.teamfortress.com
 api.steampowered.com
 www.dota2.com
@@ -3245,11 +3245,11 @@ developer.valvesoftware.com
 app.mona.co
 js.crypto.com
 merchant.crypto.com
-www.crypto.com
-tax.crypto.com
 auth.crypto.com
 *.crypto.com
 pay.crypto.com
+tax.crypto.com
+www.crypto.com
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3335,8 +3335,8 @@ privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
 *.beta.lahitapiola.fi
 www.lahitapiola.fi
-api.lahitapiola.fi
 *.lahitapiola.fi
+api.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -3673,10 +3673,10 @@ winecellar.zomato.com
 *.zdev.net
 api.grofers.com
 api2.grofers.com
+*.zomato.com
 *.zomans.com
 blinkit.com
 *.runnr.in
-*.zomato.com
 *.hyperpure.com
 *.zomato.com
 *.zdev.net
@@ -3701,9 +3701,9 @@ derivws.com
 cashier.deriv.com
 oauth.deriv.com
 smarttrader.deriv.com
+*.deriv.com
 api.deriv.com
 app.deriv.com
-*.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3826,9 +3826,9 @@ playcanvas.com
 app.snapchat.com
 www.bitmoji.com
 *.sc-corp.net
-accounts.snapchat.com
 ads.snapchat.com
 web.snapchat.com
+accounts.snapchat.com
 kit.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
@@ -3900,8 +3900,8 @@ callbacks.airbnb.com
 *.byairbnb.com
 *.airbnb-aws.com
 *.luxuryretreats.com
-support-api.airbnb.com
 *.airbnbcitizen.com
+support-api.airbnb.com
 *.hoteltonight-test.com
 next.airbnb.com
 *.muscache.com
@@ -3991,8 +3991,8 @@ api.x.ai
 ide.x.ai
 grok.x.ai
 *.twimg.com
-*.twitter.com
 x.com
+*.twitter.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -4068,18 +4068,18 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
+api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 prime.coinbase.com
-api.coinbase.com
 international.coinbase.com
 coinbase.com
 nft.coinbase.com
 cloud.coinbase.com
-commerce.coinbase.com
-institutional.coinbase.com
 *.base.org
+institutional.coinbase.com
 *.coinbase.com
+commerce.coinbase.com
 *.coinbase.com
 *.cbhq.net
 pro.coinbase.com
@@ -4133,7 +4133,6 @@ b5s.hackerone-ext-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
-api.hackerone.com
 reviewer.pullrequest.com
 hackerone-ext-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
@@ -4147,6 +4146,7 @@ ctf.hacker101.com
 hackerone-user-content.com
 cover-photos.hackerone-user-content.com
 hackathon-photos.hackerone-user-content.com
+api.hackerone.com
 www.hackerone.com
 hackerone.com
 hackerone.com
@@ -4401,8 +4401,8 @@ alerts.eu.newrelic.com
 login.newrelic.com
 developer.newrelic.com
 synthetics.newrelic.com
-rpm.newrelic.com
 insights.newrelic.com
+rpm.newrelic.com
 one.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
