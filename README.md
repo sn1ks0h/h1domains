@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Apr  6 22:11:07 UTC 2024)
+## Domains with Bounties (Last Updated Sat Apr  6 23:16:48 UTC 2024)
 ```
 www.dyson.pt
 www.dyson.no
@@ -21,8 +21,8 @@ api.dyson.fr
 api.dyson.ie
 www.sa.dyson.com
 shop.dyson.ru
-www.dyson.fr
 www.dyson.pl
+www.dyson.fr
 *.dyson.com
 www.dyson.co.uk
 www.dyson.com
@@ -498,10 +498,10 @@ admin.booking.com
 careers.booking.com
 flights.booking.com
 secure.booking.com
-booking.com
 *.rentalcars.com
 account.booking.com
 *.booking.com
+booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -916,10 +916,10 @@ external.indrive.dev
 aws.indrive.tech
 debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
-new-order.eu-east-1.indriverapp.com
 auth.indrive.tech
 profile-api.eu-east-1.indriverapp.com
 wga.volans.tech
+new-order.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 injob.indriver.com
 ab-platform-api.eu-east-1.indriverapp.com
@@ -1250,8 +1250,8 @@ blueprints.amazon.com
 creator.amazon.com
 alexa.amazon.com
 skills-store.amazon.com
-read.amazon.com
 a4k.amazon.com
+read.amazon.com
 read.amazon.com
 alexaanswers.amazon.com
 blueprints.amazon.com
@@ -1286,8 +1286,8 @@ royal.checksw.com
 *.superpal.io/*
 www.trendyol-milla.com
 m.trendyol.com
-www.trendyol.com
 www.dolap.com
+www.trendyol.com
 www.trendyol.com
 m.trendyol.com
 www.dolap.com
@@ -1312,8 +1312,8 @@ checkout.razorpay.com
 invoices.razorpay.com
 payroll.razorpay.com
 x.razorpay.com
-business.linkedin.com
 api.linkedin.com
+business.linkedin.com
 www.linkedin.com
 www.linkedin.com
 api.linkedin.com
@@ -1323,9 +1323,9 @@ business.linkedin.com
 *.wealthsimple.com
 *.simpletax.ca
 www.cheapflights.com
-www.swoodoo.com
 www.mundi.com.br
 www.checkfelix.com
+www.swoodoo.com
 www.momondo.com
 www.kayak.com
 business.kayak.com
@@ -1508,8 +1508,8 @@ upld.krisp.ai
 admin.wickr.com
 admin.wickr.com
 *.joinclubhouse.com
-*.clubhouseapi.com
 *.clubhouse.com
+*.clubhouseapi.com
 *.clubhouse.com
 *.joinclubhouse.com
 *.clubhouseapi.com
@@ -1655,7 +1655,7 @@ marketplace.fedramp.gov
 *.search.gov
 federalist.18f.gov
 federalist-docs.18f.gov
-cloud.gov
+dashboard.fr.cloud.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
 ci.fr.cloud.gov
@@ -1728,8 +1728,8 @@ https://www.xvideos.net/app/
 *.eops.nl
 *.swiftype.com
 *.elastic.co
-www.elastic.co
 *.elstc.co
+www.elastic.co
 *.found.io
 cloud.elastic.co
 *.elastic.co
@@ -1780,12 +1780,12 @@ sh.reddit.com
 redditforbusiness.com
 app.spiketrap.io
 www.spiketrap.io
-new.reddit.com
-mod.reddit.com
 old.reddit.com
 api.reddit.com
 *.redditmedia.com
+mod.reddit.com
 gql.reddit.com
+new.reddit.com
 ads-api.reddit.com
 *.reddithelp.com
 *.snooguts.net
@@ -2049,10 +2049,10 @@ tiktok.com
 business.tiktok.com
 www.pangleglobal.com
 partner.tiktokshop.com
+seller-id.tokopedia.com
 affiliate-id.tokopedia.com
 *.tiktok.com
 ads.tiktok.com
-seller-id.tokopedia.com
 creatormarketplace.tiktok.com
 *.tiktokv.com
 *.tiktok.com
@@ -2273,11 +2273,11 @@ direct.playstation.com
 api.direct.playstation.com
 social.playstation.com
 wallets.api.playstation.com
-transact.playstation.com
 my.playstation.com
+transact.playstation.com
 my.account.sony.com
-*.playstation.net
 store.playstation.com
+*.playstation.net
 ca.account.sony.com
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -2301,8 +2301,8 @@ bridge-api.matic.network
 watchgod.polygon.technology
 faucet.polygon.technology
 mapper.polygon.technology
-portal.polygon.technology
 staking-api.polygon.technology
+portal.polygon.technology
 wallet.polygon.technology
 staking-api.polygon.technology
 bridge-explorer.polygon.technology
@@ -2650,8 +2650,8 @@ www.goodrx.com
 www.goodrx.com
 *.ra.roblox.com
 *.rbx.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2680,10 +2680,10 @@ app.nordpass.com
 *.nordvpn.com
 *.nordvpn.com
 app.nordpass.com
-*.line.me
 *.line-apps.com
 *.line.naver.jp
 *.line.biz
+*.line.me
 *.linecorp.com
 *.line.me
 *.line-apps.com
@@ -2806,8 +2806,8 @@ api.rezserver.com
 admin.rezserver.com
 reservations.rezserver.com
 cruises.priceline.com
-flyiin.com
 press.priceline.com
+flyiin.com
 www.bookingholdings.com
 www.priceline.com
 secure.rezserver.com
@@ -2991,8 +2991,8 @@ grammarly.ai
 grammarly.ai
 *.east.fdbox.net
 *.mgmt.fndlsb.net
-*.prd.fndlsb.net
 *.prod.fdbox.net
+*.prd.fndlsb.net
 *inf.fndlsb.net
 com.fanduel.android.live
 sportsbook.fanduel.com
@@ -3000,26 +3000,26 @@ sportsbook.fanduel.com
 4njbets.tvgnetwork.com
 b2b.tvgnetwork.com
 service.racing.fanduel.com
+4njbets.us.betfair.com
 4njbets.tvg.com
 4njbets.com
-4njbets.us.betfair.com
-mobile-prod.tvg.com
-m.4njbets.tvg.com
-pabets.tvg.com
-login.tvg.com
-www.4njbets.com
-service.tvg.com
-promos.tvg.com
 login-4njbets.us.betfair.com
 login-pabets.tvg.com
 login-ia.tvg.com
+m.4njbets.tvg.com
+login.tvg.com
+mobile-prod.tvg.com
+pabets.tvg.com
+service.tvg.com
+promos.tvg.com
+www.4njbets.com
 login-4ngbets.us.betfair.com
 login.pabets.tvg.com
 us.tvg.com
 ia.tvg.com
 fdbox.net
-*.canada.fanduel.com
 tvg.com
+*.canada.fanduel.com
 *.numberfire.com
 fanduel.com
 www.tvg.com
@@ -3236,10 +3236,10 @@ support.steampowered.com
 partner.steampowered.com
 partner.steamgames.com
 playartifact.com
-www.teamfortress.com
-api.steampowered.com
 help.steampowered.com
 www.dota2.com
+www.teamfortress.com
+api.steampowered.com
 store.steampowered.com
 www.valvesoftware.com
 steamcommunity.com
@@ -3460,11 +3460,11 @@ getofficial.co
 backstage.io
 assets.spotify.com
 api.spotify.com
-*.avecspotify.com
 *.atspotify.com
+*.avecspotify.com
 *.enspotify.com
-*.fromspotify.com
 *.forspotify.com
+*.fromspotify.com
 *.tospotify.com
 *.byspotify.com
 *.withspotify.com
@@ -3609,8 +3609,8 @@ ws.blockchain.info
 basicattentiontoken.org
 creators.basicattentiontoken.org
 account.brave.com
-talk.brave.com
 search.brave.com
+talk.brave.com
 brave.com
 brave.com
 basicattentiontoken.org
@@ -3645,9 +3645,9 @@ moneybirdstorage.com
 npmjs.org
 *.githubusercontent.com
 gist.github.com
-api.github.com
 classroom.github.com
 education.github.com
+api.github.com
 npmjs.com
 github.com
 github.com
@@ -3722,8 +3722,8 @@ api.deriv.com
 *.deriv.cloud
 derivws.com
 smarttrader.deriv.com
-oauth.deriv.com
 *.deriv.com
+oauth.deriv.com
 cashier.deriv.com
 app.deriv.com
 *.deriv.com
@@ -3773,8 +3773,8 @@ developer.zendesk.com
 zopim.com
 app.futuresimple.com
 api.getbase.com
-apps.zendesk.com
 www.zendesk.com
+apps.zendesk.com
 smooch.io
 h1-your-domain.zendesk.com
 www.zendesk.com
@@ -3849,8 +3849,8 @@ playcanvas.com
 forum.playcanvas.com
 accounts.snapchat.com
 business.snapchat.com
-app.snapchat.com
 businesshelp.snapchat.com
+app.snapchat.com
 web.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
@@ -3921,8 +3921,8 @@ callbacks.airbnb.com
 *.byairbnb.com
 *.airbnb-aws.com
 *.luxuryretreats.com
-*.airbnbcitizen.com
 support-api.airbnb.com
+*.airbnbcitizen.com
 next.airbnb.com
 api.airbnb.com
 *.muscache.com
@@ -4124,8 +4124,8 @@ www.quip.com
 *.quip.com
 onepush.query.yahoo.com
 proddata.xobni.yahoo.com
-apis.mail.yahoo.com
-le.yahooapis.com
+yimg.com
+data.mail.yahoo.com
 data.mail.yahoo.com
 le.yahooapis.com
 onepush.query.yahoo.com
