@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Apr  7 11:15:49 UTC 2024)
+## Domains with Bounties (Last Updated Sun Apr  7 12:25:03 UTC 2024)
 ```
 www.dyson.pt
 www.dyson.no
@@ -21,8 +21,8 @@ api.dyson.fr
 api.dyson.ie
 www.sa.dyson.com
 shop.dyson.ru
-www.dyson.fr
 www.dyson.pl
+www.dyson.fr
 *.dyson.com
 www.dyson.co.uk
 www.dyson.com
@@ -323,8 +323,8 @@ getworldcoin.com
 bioid-management.app
 *.toolsforhumanity.com
 worldcoin.org
-*.worldcoin.org
 toolsforhumanity.com
+*.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -417,9 +417,9 @@ logo.zyro.com
 www.niagahoster.co.id
 https://passport.eufy.com/?app=eufy-us
 education.23andme.com
-api.23andme.com
 research.23andme.com
 blog.23andme.com
+api.23andme.com
 store.23andme.com
 mediacenter.23andme.com
 therapeutics.23andme.com
@@ -448,10 +448,10 @@ www.mercadopago.com.co
 www.mercadopago.com.br
 www.mercadolibre.com.ar
 www.mercadolivre.com.br
-api.mercadopago.com
-api.mercadolibre.com
-www.mercadopago.com.mx
 www.mercadopago.cl
+api.mercadolibre.com
+api.mercadopago.com
+www.mercadopago.com.mx
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -694,14 +694,14 @@ visa.co.za
 www.fraedom.com
 www.practicalbusinessskills.org
 www.practicalmoneyskills.org
-aw.visa.com
-bd.visa.com
-www.practicalmoneyskills.com
 www.visa.com.ph
 www.visa.com.mx
 www.visa.co.id
 www.visa.co.jp
 bb.visa.com
+www.practicalmoneyskills.com
+aw.visa.com
+bd.visa.com
 visa.co.ni
 www.currencycloud.com
 www.visa.com.kz
@@ -831,8 +831,8 @@ contile.services.mozilla.com
 monitor.mozilla.org
 mozilla-pontoon-staging.herokuapp.com
 crash-stats.allizom.org
-firefox.settings.services.mozilla.com
 merino.services.mozilla.com
+firefox.settings.services.mozilla.com
 aus5.mozilla.org
 push.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
@@ -926,12 +926,12 @@ auth2.indrive.tech
 argocd.indrive.dev
 super-services.indriverapp.com
 *.indrive.com
-new-order.eu-east-1.indriverapp.com
-ci.indrive.dev
+watchdocs.indriverapp.com
 *.indriverapp.com
 cargo.indrive.com
 *.indriver.com
-watchdocs.indriverapp.com
+new-order.eu-east-1.indriverapp.com
+ci.indrive.dev
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -1048,15 +1048,15 @@ work-staging.8x8.com
 platform.8x8pilot.com
 *.chalet.8x8.com
 *.8x8.id
-admin.8x8.com
-user-profile.8x8.com
 voapi.8x8.com
+user-profile.8x8.com
+admin.8x8.com
 cloud8.8x8.com
 user-profile-staging.8x8.com
 connect.8x8.com
 *.jitsi.net
 *.8x8staging.com
-platform.8x8.com
+sso.8x8pilot.com
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1250,8 +1250,8 @@ blueprints.amazon.com
 creator.amazon.com
 alexa.amazon.com
 skills-store.amazon.com
-read.amazon.com
 a4k.amazon.com
+read.amazon.com
 read.amazon.com
 alexaanswers.amazon.com
 blueprints.amazon.com
@@ -1304,8 +1304,8 @@ checkout.razorpay.com
 payroll.razorpay.com
 invoices.razorpay.com
 api.razorpay.com
-dashboard.razorpay.com
 x.razorpay.com
+dashboard.razorpay.com
 dashboard.razorpay.com
 api.razorpay.com
 checkout.razorpay.com
@@ -1727,11 +1727,11 @@ https://www.xvideos.net/app/
 *.elasticnet.co
 *.eops.nl
 *.swiftype.com
-*.elastic.co
 www.elastic.co
 *.found.io
-cloud.elastic.co
 *.elstc.co
+*.elastic.co
+cloud.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1748,8 +1748,8 @@ api.taxjar.com
 js.stripe.com
 app.taxjar.com
 *.touchtechpayments.com
-api.stripe.com
 *.stripe.com
+api.stripe.com
 api.stripe.com
 *.stripe.com
 *.touchtechpayments.com
@@ -1780,12 +1780,12 @@ sh.reddit.com
 redditforbusiness.com
 app.spiketrap.io
 www.spiketrap.io
-old.reddit.com
-*.redditmedia.com
-api.reddit.com
-mod.reddit.com
-gql.reddit.com
 new.reddit.com
+mod.reddit.com
+old.reddit.com
+api.reddit.com
+*.redditmedia.com
+gql.reddit.com
 ads-api.reddit.com
 *.reddithelp.com
 *.snooguts.net
@@ -2047,7 +2047,6 @@ live-backstage.tiktok.com
 shop-id.tokopedia.com
 partner.tiktokshop.com
 affiliate-id.tokopedia.com
-ads.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktokv.com
 seller-id.tokopedia.com
@@ -2055,6 +2054,7 @@ business.tiktok.com
 tiktok.com
 www.pangleglobal.com
 *.tiktok.com
+ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2273,11 +2273,11 @@ direct.playstation.com
 api.direct.playstation.com
 social.playstation.com
 wallets.api.playstation.com
-transact.playstation.com
 my.playstation.com
+transact.playstation.com
 my.account.sony.com
-*.playstation.net
 store.playstation.com
+*.playstation.net
 ca.account.sony.com
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -2680,10 +2680,10 @@ app.nordpass.com
 *.nordvpn.com
 *.nordvpn.com
 app.nordpass.com
-*.line.me
 *.line-apps.com
 *.line.naver.jp
 *.line.biz
+*.line.me
 *.linecorp.com
 *.line.me
 *.line-apps.com
@@ -3396,9 +3396,9 @@ wiki.grab.com
 *.grab.co
 *.ovo.id
 api.grabpay.com
+*.grabpay.com
 kartaview.org
 *.myteksi.com
-*.grabpay.com
 jira.grab.com
 xtramile.grabpay.com
 grab.careers
@@ -3463,9 +3463,9 @@ api.spotify.com
 *.avecspotify.com
 *.atspotify.com
 *.enspotify.com
-*.tospotify.com
 *.fromspotify.com
 *.forspotify.com
+*.tospotify.com
 *.byspotify.com
 *.withspotify.com
 *.withspotify.com
@@ -3573,8 +3573,8 @@ secureui.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
 gift.starbucks.co.jp
-www.starbucks.co.uk
 www.starbucks.com.sg
+www.starbucks.co.uk
 app.starbucks.com
 www.starbucks.com.cn
 www.starbucks.co.jp
@@ -3832,7 +3832,6 @@ create.snapchat.com
 my.snapchat.com
 blog.playcanvas.com
 code.playcanvas.com
-developer.playcanvas.com
 launch.playcanvas.com
 msg.playcanvas.com
 relay.playcanvas.com
@@ -3852,6 +3851,7 @@ business.snapchat.com
 businesshelp.snapchat.com
 app.snapchat.com
 web.snapchat.com
+developer.playcanvas.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3921,8 +3921,8 @@ callbacks.airbnb.com
 *.byairbnb.com
 *.airbnb-aws.com
 *.luxuryretreats.com
-support-api.airbnb.com
 *.airbnbcitizen.com
+support-api.airbnb.com
 next.airbnb.com
 api.airbnb.com
 *.muscache.com
@@ -4074,9 +4074,9 @@ pro.coinbase.com
 custody.coinbase.com
 prime.coinbase.com
 international.coinbase.com
-*.base.org
 institutional.coinbase.com
 nft.coinbase.com
+*.base.org
 api.custody.coinbase.com
 api.coinbase.com
 commerce.coinbase.com
@@ -4124,8 +4124,8 @@ www.quip.com
 *.quip.com
 onepush.query.yahoo.com
 proddata.xobni.yahoo.com
-yimg.com
-data.mail.yahoo.com
+apis.mail.yahoo.com
+le.yahooapis.com
 data.mail.yahoo.com
 le.yahooapis.com
 onepush.query.yahoo.com
