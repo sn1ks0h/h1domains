@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Apr  7 10:16:34 UTC 2024)
+## Domains with Bounties (Last Updated Sun Apr  7 11:15:49 UTC 2024)
 ```
 www.dyson.pt
 www.dyson.no
@@ -21,8 +21,8 @@ api.dyson.fr
 api.dyson.ie
 www.sa.dyson.com
 shop.dyson.ru
-www.dyson.pl
 www.dyson.fr
+www.dyson.pl
 *.dyson.com
 www.dyson.co.uk
 www.dyson.com
@@ -360,8 +360,8 @@ verify.arkoselabs.com
 iframe.arkoselabs.com
 www.arkoselabs.com
 demo.arkoselabs.com
-www.sheer.com
 my.sheer.com
+www.sheer.com
 www.sheer.com
 my.sheer.com
 www.pornworld.com
@@ -417,9 +417,9 @@ logo.zyro.com
 www.niagahoster.co.id
 https://passport.eufy.com/?app=eufy-us
 education.23andme.com
+api.23andme.com
 research.23andme.com
 blog.23andme.com
-api.23andme.com
 store.23andme.com
 mediacenter.23andme.com
 therapeutics.23andme.com
@@ -449,9 +449,9 @@ www.mercadopago.com.br
 www.mercadolibre.com.ar
 www.mercadolivre.com.br
 api.mercadopago.com
+api.mercadolibre.com
 www.mercadopago.com.mx
 www.mercadopago.cl
-api.mercadolibre.com
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -559,8 +559,8 @@ api.mergify.com
 dashboard.mergify.com
 www.compass.com
 www.compass.com
-*.gethypr.com
 *.hypr.com
+*.gethypr.com
 *.hypr.com
 *.gethypr.com
 cdn.moderntreasury.com
@@ -777,8 +777,8 @@ developer.visa.com
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
 yourdomain.freshdesk.com
-yourdomain.myfreshworks.com
 yourdomain.freshservice.com
+yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -831,8 +831,8 @@ contile.services.mozilla.com
 monitor.mozilla.org
 mozilla-pontoon-staging.herokuapp.com
 crash-stats.allizom.org
-merino.services.mozilla.com
 firefox.settings.services.mozilla.com
+merino.services.mozilla.com
 aus5.mozilla.org
 push.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
@@ -919,19 +919,19 @@ ingest.clairvoyance.indrive.tech
 auth.indrive.tech
 profile-api.eu-east-1.indriverapp.com
 wga.volans.tech
-injob.indriver.com
 truck-api.eu-east-1.indriverapp.com
+injob.indriver.com
 ab-platform-api.eu-east-1.indriverapp.com
 auth2.indrive.tech
 argocd.indrive.dev
 super-services.indriverapp.com
 *.indrive.com
-watchdocs.indriverapp.com
-cargo.indrive.com
-*.indriver.com
 new-order.eu-east-1.indriverapp.com
 ci.indrive.dev
 *.indriverapp.com
+cargo.indrive.com
+*.indriver.com
+watchdocs.indriverapp.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -1153,15 +1153,15 @@ www.ebookers.fi
 www.mrjet.se
 www.expediaagents.com
 *.lastminute.co.nz
+*.wotif.com
 www.expediapartnersolutions.com
 *.travelocity.ca
 *.carrentals.com
 www.hotels.com
-*.wotif.com
 *.lastminute.com.au
 www.expedia.com
-www.stayz.com.au
 www.fewo-direkt.de
+www.stayz.com.au
 www.ebookers.com
 *.cheaptickets.com
 *.expediacruises.com
@@ -1170,9 +1170,9 @@ www.abritel.fr
 www.expediagroup.com
 *.travelocity.com
 *.vrbo.com
+*.expediapartnercentral.com
 www.flights.com
 *.hotwire.com
-*.expediapartnercentral.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1286,8 +1286,8 @@ royal.checksw.com
 *.superpal.io/*
 www.trendyol-milla.com
 m.trendyol.com
-www.dolap.com
 www.trendyol.com
+www.dolap.com
 www.trendyol.com
 m.trendyol.com
 www.dolap.com
@@ -1323,9 +1323,9 @@ business.linkedin.com
 *.wealthsimple.com
 *.simpletax.ca
 www.cheapflights.com
-www.swoodoo.com
 www.mundi.com.br
 www.checkfelix.com
+www.swoodoo.com
 www.momondo.com
 www.kayak.com
 business.kayak.com
@@ -1443,9 +1443,9 @@ watchlistapi.etoro.com
 rankings.etoro.com
 delta.app
 bullsheet.me
+*.instacart.tools
 admin.instacart.com
 api.instacart.com
-*.instacart.tools
 www.instacart.com
 shoppers.instacart.com
 *.instacart.com
@@ -1655,7 +1655,7 @@ marketplace.fedramp.gov
 *.search.gov
 federalist.18f.gov
 federalist-docs.18f.gov
-cloud.gov
+dashboard.fr.cloud.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
 ci.fr.cloud.gov
@@ -1781,8 +1781,8 @@ redditforbusiness.com
 app.spiketrap.io
 www.spiketrap.io
 old.reddit.com
-api.reddit.com
 *.redditmedia.com
+api.reddit.com
 mod.reddit.com
 gql.reddit.com
 new.reddit.com
@@ -1972,8 +1972,8 @@ internal-docs.netlify.com
 supportal.netlify.app
 launchpad.37signals.com
 world.hey.com
-3.basecamp.com
 *.hey.com
+3.basecamp.com
 *.hey.com
 3.basecamp.com
 launchpad.37signals.com
@@ -2001,8 +2001,8 @@ secure.sharefile.eu
 api.sharefile.com
 adm.cloud.com
 accounts.cloud.com
-secure.sharefile.com
 (youriwssubdomain).cloud.com
+secure.sharefile.com
 (yoursubdomain).sharefile.com
 (yoursubdomain).sharefile.eu
 www.cloud.com
@@ -2047,7 +2047,6 @@ live-backstage.tiktok.com
 shop-id.tokopedia.com
 partner.tiktokshop.com
 affiliate-id.tokopedia.com
-*.tiktok.com
 ads.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktokv.com
@@ -2055,6 +2054,7 @@ seller-id.tokopedia.com
 business.tiktok.com
 tiktok.com
 www.pangleglobal.com
+*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2245,9 +2245,9 @@ api.account.clario.co
 kbill.mackeeper.com
 api-ne.mackeeper.com
 mkapi.mackeeper.com
-clario.co
-updater.clario.co
 account.mackeeper.com
+updater.clario.co
+clario.co
 mackeeper.com
 account.mackeeper.com
 clario.co
@@ -2273,11 +2273,11 @@ direct.playstation.com
 api.direct.playstation.com
 social.playstation.com
 wallets.api.playstation.com
-my.playstation.com
 transact.playstation.com
+my.playstation.com
 my.account.sony.com
-store.playstation.com
 *.playstation.net
+store.playstation.com
 ca.account.sony.com
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -2520,9 +2520,9 @@ paragon-na.amazon.com
 read.amazon.com
 updates.amazon.com
 *.aliexpress.ru
-*.1688.com
 *.aliyun-inc.com
 *.alibabacloud.com
+*.1688.com
 *.alimama.com
 www.alibabagroup.com
 *.taobao.com
@@ -2680,10 +2680,10 @@ app.nordpass.com
 *.nordvpn.com
 *.nordvpn.com
 app.nordpass.com
+*.line.me
 *.line-apps.com
 *.line.naver.jp
 *.line.biz
-*.line.me
 *.linecorp.com
 *.line.me
 *.line-apps.com
@@ -2820,8 +2820,8 @@ flyiin.com
 priceline.com
 press.priceline.com
 www.bookingholdings.com
-app.smartsheet.com
 admin.smartsheet.com
+app.smartsheet.com
 www.smartsheet.com
 developers.smartsheet.com
 app.smartsheet.com
@@ -3003,15 +3003,15 @@ service.racing.fanduel.com
 4njbets.us.betfair.com
 4njbets.tvg.com
 4njbets.com
+mobile-prod.tvg.com
+pabets.tvg.com
+service.tvg.com
+promos.tvg.com
 login-4njbets.us.betfair.com
 login-pabets.tvg.com
 login-ia.tvg.com
 m.4njbets.tvg.com
 login.tvg.com
-mobile-prod.tvg.com
-pabets.tvg.com
-service.tvg.com
-promos.tvg.com
 www.4njbets.com
 login-4ngbets.us.betfair.com
 login.pabets.tvg.com
@@ -3236,10 +3236,10 @@ support.steampowered.com
 partner.steampowered.com
 partner.steamgames.com
 playartifact.com
-www.teamfortress.com
-api.steampowered.com
 help.steampowered.com
 www.dota2.com
+www.teamfortress.com
+api.steampowered.com
 store.steampowered.com
 steamcommunity.com
 www.counter-strike.net
@@ -3396,9 +3396,9 @@ wiki.grab.com
 *.grab.co
 *.ovo.id
 api.grabpay.com
-*.grabpay.com
 kartaview.org
 *.myteksi.com
+*.grabpay.com
 jira.grab.com
 xtramile.grabpay.com
 grab.careers
@@ -3572,10 +3572,10 @@ openapi.starbucks.com
 secureui.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
-app.starbucks.com
+gift.starbucks.co.jp
 www.starbucks.co.uk
 www.starbucks.com.sg
-gift.starbucks.co.jp
+app.starbucks.com
 www.starbucks.com.cn
 www.starbucks.co.jp
 www.starbucks.co.kr
@@ -3722,8 +3722,8 @@ api.deriv.com
 *.deriv.cloud
 derivws.com
 smarttrader.deriv.com
-*.deriv.com
 oauth.deriv.com
+*.deriv.com
 cashier.deriv.com
 app.deriv.com
 *.deriv.com
@@ -3849,8 +3849,8 @@ playcanvas.com
 forum.playcanvas.com
 accounts.snapchat.com
 business.snapchat.com
-app.snapchat.com
 businesshelp.snapchat.com
+app.snapchat.com
 web.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
@@ -3921,8 +3921,8 @@ callbacks.airbnb.com
 *.byairbnb.com
 *.airbnb-aws.com
 *.luxuryretreats.com
-*.airbnbcitizen.com
 support-api.airbnb.com
+*.airbnbcitizen.com
 next.airbnb.com
 api.airbnb.com
 *.muscache.com
@@ -4108,8 +4108,8 @@ www.quip.com
 *.quip.com
 slack-imgs.com
 app.slack.com
-slack.com
 api.slack.com
+slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -4124,8 +4124,8 @@ www.quip.com
 *.quip.com
 onepush.query.yahoo.com
 proddata.xobni.yahoo.com
-apis.mail.yahoo.com
-le.yahooapis.com
+yimg.com
+data.mail.yahoo.com
 data.mail.yahoo.com
 le.yahooapis.com
 onepush.query.yahoo.com
@@ -4357,8 +4357,8 @@ u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
-repo.magento.com
 accounts.magento.cloud
+repo.magento.com
 magento.com
 marketplace.magento.com
 magentocommerce.com
