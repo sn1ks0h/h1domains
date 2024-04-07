@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Apr  7 03:17:51 UTC 2024)
+## Domains with Bounties (Last Updated Sun Apr  7 04:21:15 UTC 2024)
 ```
 www.dyson.pt
 www.dyson.no
@@ -21,8 +21,8 @@ api.dyson.fr
 api.dyson.ie
 www.sa.dyson.com
 shop.dyson.ru
-www.dyson.fr
 www.dyson.pl
+www.dyson.fr
 *.dyson.com
 www.dyson.co.uk
 www.dyson.com
@@ -366,8 +366,8 @@ www.sheer.com
 my.sheer.com
 www.pornworld.com
 www.ddfcontent.com
-www.pornbox.com
 www.analvids.com
+www.pornbox.com
 www.pornbox.com
 www.analvids.com
 www.ddfcontent.com
@@ -417,9 +417,9 @@ logo.zyro.com
 www.niagahoster.co.id
 https://passport.eufy.com/?app=eufy-us
 education.23andme.com
+api.23andme.com
 research.23andme.com
 blog.23andme.com
-api.23andme.com
 store.23andme.com
 mediacenter.23andme.com
 therapeutics.23andme.com
@@ -449,9 +449,9 @@ www.mercadopago.com.br
 www.mercadolibre.com.ar
 www.mercadolivre.com.br
 api.mercadopago.com
-api.mercadolibre.com
 www.mercadopago.com.mx
 www.mercadopago.cl
+api.mercadolibre.com
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -489,10 +489,10 @@ secure-supply-xml.booking.com
 taxi.booking.com
 cars.booking.com
 kyc-onboarding.booking.com
-spark.fareharbor.com
 teleport.fareharbor.engineering
-www.fareharbor.com
 paymentcomponent.booking.com
+www.fareharbor.com
+spark.fareharbor.com
 widget.rentalcars.com
 admin.booking.com
 careers.booking.com
@@ -547,8 +547,8 @@ api2.frontapp.com
 app.frontapp.com
 app.frontapp.com
 api2.frontapp.com
-*.booztlet.com
 *.boozt.com
+*.booztlet.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -777,8 +777,8 @@ developer.visa.com
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
 yourdomain.freshdesk.com
-yourdomain.freshservice.com
 yourdomain.myfreshworks.com
+yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -790,7 +790,6 @@ app.krisha.kz
 api.avtoelon.uz
 app.avtoelon.uz
 id.avtoelon.uz
-m.kolesa.kz
 m.avtoelon.uz
 api.krisha.kz
 id.kolesa.kz
@@ -798,6 +797,7 @@ avtoelon.uz
 krisha.kz
 kolesa.kz
 api.kolesa.kz
+m.kolesa.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -840,11 +840,11 @@ sync.services.mozilla.com
 phabricator.allizom.org
 aus5.mozilla.org
 www.mozilla.org
-accounts.firefox.com
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 hg.mozilla.org
 bugzilla.mozilla.org
 support.mozilla.org
+accounts.firefox.com
 addons.allizom.org
 developer.mozilla.org
 accounts.firefox.com
@@ -916,12 +916,12 @@ external.indrive.dev
 aws.indrive.tech
 debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
-new-order.eu-east-1.indriverapp.com
 auth.indrive.tech
 profile-api.eu-east-1.indriverapp.com
 wga.volans.tech
-injob.indriver.com
+new-order.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
+injob.indriver.com
 ab-platform-api.eu-east-1.indriverapp.com
 auth2.indrive.tech
 watchdocs.indriverapp.com
@@ -985,10 +985,10 @@ oneview.malwarebytes.com
 *.mwb-threatintel.com
 *.threatdown.com
 *.cyrus-security.com
-www.malwarebytes.com
 cloud.malwarebytes.com
 my.malwarebytes.com
 *.malwarebytes.com
+www.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
 *.mbamupdates.com
@@ -1045,12 +1045,12 @@ pay.8x8.com
 work.8x8.com
 uc.8x8pilot.com
 work-staging.8x8.com
+user-profile.8x8.com
+admin.8x8.com
+voapi.8x8.com
+*.8x8.id
 platform.8x8pilot.com
 *.chalet.8x8.com
-*.8x8.id
-admin.8x8.com
-user-profile.8x8.com
-voapi.8x8.com
 cloud8.8x8.com
 user-profile-staging.8x8.com
 connect.8x8.com
@@ -1153,16 +1153,16 @@ www.ebookers.fi
 www.mrjet.se
 www.expediaagents.com
 *.lastminute.co.nz
+www.flights.com
+*.wotif.com
 www.expediapartnersolutions.com
 *.travelocity.ca
 *.carrentals.com
 www.hotels.com
-www.flights.com
-*.wotif.com
 *.lastminute.com.au
 www.expedia.com
-www.stayz.com.au
 www.fewo-direkt.de
+www.stayz.com.au
 www.ebookers.com
 *.cheaptickets.com
 *.expediacruises.com
@@ -1323,9 +1323,9 @@ business.linkedin.com
 *.wealthsimple.com
 *.simpletax.ca
 www.cheapflights.com
-www.swoodoo.com
 www.mundi.com.br
 www.checkfelix.com
+www.swoodoo.com
 www.momondo.com
 www.kayak.com
 business.kayak.com
@@ -1345,8 +1345,8 @@ sorare.com
 api.sorare.com
 ws.sorare.com
 *.sheingsp.com
-*.romwe.com
 *.shein.com
+*.romwe.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
@@ -1655,7 +1655,7 @@ marketplace.fedramp.gov
 *.search.gov
 federalist.18f.gov
 federalist-docs.18f.gov
-cloud.gov
+dashboard.fr.cloud.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
 ci.fr.cloud.gov
@@ -1728,8 +1728,8 @@ https://www.xvideos.net/app/
 *.eops.nl
 *.swiftype.com
 *.elastic.co
-www.elastic.co
 *.elstc.co
+www.elastic.co
 *.found.io
 cloud.elastic.co
 *.elastic.co
@@ -2001,8 +2001,8 @@ secure.sharefile.eu
 api.sharefile.com
 adm.cloud.com
 accounts.cloud.com
-secure.sharefile.com
 (youriwssubdomain).cloud.com
+secure.sharefile.com
 (yoursubdomain).sharefile.com
 (yoursubdomain).sharefile.eu
 www.cloud.com
@@ -2520,9 +2520,9 @@ paragon-na.amazon.com
 read.amazon.com
 updates.amazon.com
 *.aliexpress.ru
-*.1688.com
 *.aliyun-inc.com
 *.alibabacloud.com
+*.1688.com
 *.alimama.com
 www.alibabagroup.com
 *.taobao.com
@@ -2806,8 +2806,8 @@ api.rezserver.com
 admin.rezserver.com
 reservations.rezserver.com
 cruises.priceline.com
-press.priceline.com
 flyiin.com
+press.priceline.com
 www.bookingholdings.com
 www.priceline.com
 secure.rezserver.com
@@ -3348,9 +3348,9 @@ verovelvollisuustiedot.lahitapiola.fi
 sijoitusvakuutus.lahitapiola.fi
 privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
+*.beta.lahitapiola.fi
 ext-gw.lahitapiola.fi
 api.lahitapiola.fi
-*.beta.lahitapiola.fi
 *.lahitapiola.fi
 www.lahitapiola.fi
 *.lahitapiolarahoitus.fi
@@ -3396,9 +3396,9 @@ wiki.grab.com
 *.grab.co
 *.ovo.id
 api.grabpay.com
-*.grabpay.com
 kartaview.org
 *.myteksi.com
+*.grabpay.com
 jira.grab.com
 xtramile.grabpay.com
 grab.careers
@@ -3460,12 +3460,12 @@ getofficial.co
 backstage.io
 assets.spotify.com
 api.spotify.com
-*.avecspotify.com
 *.atspotify.com
+*.avecspotify.com
 *.enspotify.com
-*.tospotify.com
-*.fromspotify.com
 *.forspotify.com
+*.fromspotify.com
+*.tospotify.com
 *.byspotify.com
 *.withspotify.com
 *.withspotify.com
@@ -3572,10 +3572,10 @@ openapi.starbucks.com
 secureui.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
-gift.starbucks.co.jp
+app.starbucks.com
 www.starbucks.co.uk
 www.starbucks.com.sg
-app.starbucks.com
+gift.starbucks.co.jp
 www.starbucks.com.cn
 www.starbucks.co.jp
 www.starbucks.co.kr
@@ -3722,8 +3722,8 @@ api.deriv.com
 *.deriv.cloud
 derivws.com
 smarttrader.deriv.com
-oauth.deriv.com
 *.deriv.com
+oauth.deriv.com
 cashier.deriv.com
 app.deriv.com
 *.deriv.com
@@ -3800,10 +3800,10 @@ arrive-server.shopifycloud.com
 shopifyinbox.com
 partners.shopify.com
 *.shopifycloud.com
-shop.app
 *.shopify.com
 *.shopify.io
 accounts.shopify.com
+shop.app
 admin.shopify.com
 your-store.myshopify.com
 *.shopifycs.com
@@ -3890,7 +3890,6 @@ design.ui.com
 unifi.ui.com
 ispdesign.ui.com
 *.ubnt.com
-*.ubnt.com
 *.ui.com
 store.ui.com
 community.ui.com
@@ -3921,8 +3920,8 @@ callbacks.airbnb.com
 *.byairbnb.com
 *.airbnb-aws.com
 *.luxuryretreats.com
-*.airbnbcitizen.com
 support-api.airbnb.com
+*.airbnbcitizen.com
 next.airbnb.com
 api.airbnb.com
 *.muscache.com
@@ -4028,8 +4027,8 @@ happy.tools
 my.pressable.com
 simplenote.com
 simperium.com
-*.tumblr.com
 gravatar.com
+*.tumblr.com
 mailpoet.com
 www.tumblr.com
 akismet.com
@@ -4124,8 +4123,8 @@ www.quip.com
 *.quip.com
 onepush.query.yahoo.com
 proddata.xobni.yahoo.com
-yimg.com
-data.mail.yahoo.com
+apis.mail.yahoo.com
+le.yahooapis.com
 data.mail.yahoo.com
 le.yahooapis.com
 onepush.query.yahoo.com
