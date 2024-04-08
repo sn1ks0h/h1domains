@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Apr  8 00:54:56 UTC 2024)
+## Domains with Bounties (Last Updated Mon Apr  8 01:55:34 UTC 2024)
 ```
 www.dyson.pt
 www.dyson.no
@@ -21,8 +21,8 @@ api.dyson.fr
 api.dyson.ie
 www.sa.dyson.com
 shop.dyson.ru
-www.dyson.fr
 www.dyson.pl
+www.dyson.fr
 *.dyson.com
 www.dyson.co.uk
 www.dyson.com
@@ -323,8 +323,8 @@ getworldcoin.com
 bioid-management.app
 *.toolsforhumanity.com
 worldcoin.org
-toolsforhumanity.com
 *.worldcoin.org
+toolsforhumanity.com
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -402,9 +402,9 @@ backend.zyro.com
 cpanel.hostinger.com
 *.000webhost.com
 editor.zyro.com
-hpanel.hostinger.com
 www.hostinger.com
 www.zyro.com
+hpanel.hostinger.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -448,9 +448,9 @@ www.mercadopago.com.br
 www.mercadolibre.com.ar
 www.mercadolivre.com.br
 api.mercadopago.com
-api.mercadolibre.com
 www.mercadopago.com.mx
 www.mercadopago.cl
+api.mercadolibre.com
 www.mercadopago.com.co
 api.mercadopago.com
 www.mercadopago.com.ar
@@ -587,8 +587,6 @@ prisma-ai.com
 appapi.neuralprisma.com
 https://simple-life-app.com/
 connect-sandbox.gocardless.com
-*.gocardless.io
-*.gocardless-banking.io
 oauth-sandbox.gocardless.com
 xero-sandbox.gocardless.com
 *.gocardless-lab.io
@@ -598,6 +596,8 @@ manage-sandbox.gocardless.com
 *.gocardless-cicd.io
 api-sandbox.gocardless.com
 www.gocardless.com
+*.gocardless.io
+*.gocardless-banking.io
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -693,14 +693,14 @@ visa.co.za
 www.fraedom.com
 www.practicalbusinessskills.org
 www.practicalmoneyskills.org
-aw.visa.com
-bd.visa.com
-www.practicalmoneyskills.com
 www.visa.com.ph
 www.visa.com.mx
 www.visa.co.id
 www.visa.co.jp
 bb.visa.com
+www.practicalmoneyskills.com
+aw.visa.com
+bd.visa.com
 visa.co.ni
 www.currencycloud.com
 www.visa.com.kz
@@ -777,8 +777,8 @@ developer.visa.com
 yourdomain.freshcaller.com
 yourdomain.myfreshworks.com
 yourdomain.freshservice.com
-yourdomain.freshchat.com
 yourdomain.freshdesk.com
+yourdomain.freshchat.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -874,9 +874,9 @@ push.services.mozilla.com
 sync.services.mozilla.com
 www.six-group.com
 www.six-group.com
-api-eu.floqast.app
 *.eu.floqast.app
 *.floqast.app
+api-eu.floqast.app
 *.eu.floqast.app
 *.floqast.app
 api-eu.floqast.app
@@ -923,14 +923,14 @@ ab-platform-api.eu-east-1.indriverapp.com
 auth2.indrive.tech
 argocd.indrive.dev
 super-services.indriverapp.com
-*.indrive.com
-*.indriverapp.com
-cargo.indrive.com
 new-order.eu-east-1.indriverapp.com
 ci.indrive.dev
+*.indriverapp.com
+cargo.indrive.com
+*.indrive.com
+*.indriver.com
 watchdocs.indriverapp.com
 injob.indriver.com
-*.indriver.com
 auth.indrive.tech
 *.indriverapp.com
 *.indrive.com
@@ -1165,9 +1165,9 @@ www.stayz.com.au
 www.ebookers.com
 *.cheaptickets.com
 *.expediacruises.com
-www.expediagroup.com
 www.bookabach.co.nz
 www.abritel.fr
+www.expediagroup.com
 *.vrbo.com
 *.expediapartnercentral.com
 www.flights.com
@@ -1250,8 +1250,8 @@ blueprints.amazon.com
 creator.amazon.com
 alexa.amazon.com
 skills-store.amazon.com
-read.amazon.com
 a4k.amazon.com
+read.amazon.com
 read.amazon.com
 alexaanswers.amazon.com
 blueprints.amazon.com
@@ -1323,9 +1323,9 @@ business.linkedin.com
 *.wealthsimple.com
 *.simpletax.ca
 www.cheapflights.com
-www.swoodoo.com
 www.mundi.com.br
 www.checkfelix.com
+www.swoodoo.com
 www.momondo.com
 www.kayak.com
 business.kayak.com
@@ -1748,8 +1748,8 @@ api.taxjar.com
 js.stripe.com
 app.taxjar.com
 *.touchtechpayments.com
-*.stripe.com
 api.stripe.com
+*.stripe.com
 api.stripe.com
 *.stripe.com
 *.touchtechpayments.com
@@ -1781,8 +1781,8 @@ redditforbusiness.com
 app.spiketrap.io
 www.spiketrap.io
 old.reddit.com
-*.redditmedia.com
 api.reddit.com
+*.redditmedia.com
 mod.reddit.com
 gql.reddit.com
 new.reddit.com
@@ -1931,8 +1931,8 @@ hackers_chosendomain.larksuite.com
 core.yoti.com
 ccloud.yoti.com
 identity.yoti.com
-www.yotisign.com
 api.yoti.com
+www.yotisign.com
 code.yoti.com
 hub.yoti.com
 core.yoti.com
@@ -1954,8 +1954,8 @@ internal.netlify.com
 *.infra-prod.nsvcs.net
 netlify-rum.netlify.app
 api.netlify.com
-app.netlify.com
 *.services.netlify.com
+app.netlify.com
 *.services.netlify.com
 *.services-prod.nsvcs.net
 *.infra-prod.nsvcs.net
@@ -2036,15 +2036,15 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
+careers.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
 academy-outbound-ads.tiktok.com
-careers.tiktok.com
 pay.tokopediax.com
 fp-sg.tiktokv.com
 live-backstage.tiktok.com
-shop-id.tokopedia.com
 partner.tiktokshop.com
+shop-id.tokopedia.com
 affiliate-id.tokopedia.com
 creatormarketplace.tiktok.com
 *.tiktokv.com
@@ -2105,9 +2105,9 @@ api.figma.com
 www.figma.com
 www.figma.com
 api.figma.com
-3d.cs.money
 support.cs.money
 wiki.cs.money
+3d.cs.money
 blog.cs.money
 cs.money
 cs.money
@@ -2124,8 +2124,8 @@ api.faraday.ai
 beta-cloud.acronis.com
 *.5nine.com
 account.acronis.com
-*.acronis.work
 *.acronis.com
+*.acronis.work
 *-api-*.acronis.com
 *.acronis.com
 *.5nine.com
@@ -2805,8 +2805,8 @@ api.rezserver.com
 admin.rezserver.com
 reservations.rezserver.com
 cruises.priceline.com
-press.priceline.com
 flyiin.com
+press.priceline.com
 www.bookingholdings.com
 www.priceline.com
 secure.rezserver.com
@@ -2819,8 +2819,8 @@ flyiin.com
 priceline.com
 press.priceline.com
 www.bookingholdings.com
-app.smartsheet.com
 admin.smartsheet.com
+app.smartsheet.com
 www.smartsheet.com
 developers.smartsheet.com
 app.smartsheet.com
@@ -3241,8 +3241,8 @@ www.teamfortress.com
 api.steampowered.com
 store.steampowered.com
 steamcommunity.com
-www.counter-strike.net
 www.valvesoftware.com
+www.counter-strike.net
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3398,11 +3398,11 @@ kartaview.org
 *.myteksi.com
 *.grabpay.com
 jira.grab.com
+grab.careers
+xtramile.grabpay.com
 gifts.grab.com
 *.grab.com
 *.ovo.id
-grab.careers
-xtramile.grabpay.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3571,9 +3571,9 @@ openapi.starbucks.com
 secureui.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
-gift.starbucks.co.jp
 www.starbucks.co.uk
 www.starbucks.com.sg
+gift.starbucks.co.jp
 app.starbucks.com
 www.starbucks.com.cn
 www.starbucks.co.jp
@@ -3608,8 +3608,8 @@ ws.blockchain.info
 basicattentiontoken.org
 creators.basicattentiontoken.org
 account.brave.com
-talk.brave.com
 search.brave.com
+talk.brave.com
 brave.com
 brave.com
 basicattentiontoken.org
@@ -3772,10 +3772,10 @@ developer.zendesk.com
 zopim.com
 app.futuresimple.com
 api.getbase.com
-apps.zendesk.com
 www.zendesk.com
-h1-your-domain.zendesk.com
+apps.zendesk.com
 smooch.io
+h1-your-domain.zendesk.com
 www.zendesk.com
 developer.zendesk.com
 h1-your-domain.zendesk.com
@@ -3787,8 +3787,8 @@ zopim.com
 app.futuresimple.com
 api.getbase.com
 http://h1-your-domain.zendesk.com/sell
-yourcompany.udemy.com
 www.udemy.com
+yourcompany.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 *.shopifykloud.com
@@ -3798,13 +3798,13 @@ shopify.plus
 arrive-server.shopifycloud.com
 shopifyinbox.com
 *.shopifycloud.com
-shop.app
 *.shopify.com
 *.shopify.io
-accounts.shopify.com
+shop.app
 admin.shopify.com
 partners.shopify.com
 your-store.myshopify.com
+accounts.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3847,8 +3847,8 @@ playcanvas.com
 forum.playcanvas.com
 accounts.snapchat.com
 business.snapchat.com
-app.snapchat.com
 businesshelp.snapchat.com
+app.snapchat.com
 web.snapchat.com
 developer.playcanvas.com
 accounts.snapchat.com
@@ -4072,9 +4072,9 @@ pro.coinbase.com
 custody.coinbase.com
 prime.coinbase.com
 international.coinbase.com
+*.base.org
 institutional.coinbase.com
 nft.coinbase.com
-*.base.org
 api.custody.coinbase.com
 api.coinbase.com
 commerce.coinbase.com
