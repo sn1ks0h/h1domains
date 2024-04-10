@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Apr 10 22:16:31 UTC 2024)
+## Domains with Bounties (Last Updated Wed Apr 10 23:18:09 UTC 2024)
 ```
 www.dyson.pt
 www.dyson.no
@@ -419,9 +419,9 @@ logo.zyro.com
 www.niagahoster.co.id
 https://passport.eufy.com/?app=eufy-us
 education.23andme.com
-api.23andme.com
 research.23andme.com
 blog.23andme.com
+api.23andme.com
 store.23andme.com
 mediacenter.23andme.com
 therapeutics.23andme.com
@@ -496,7 +496,6 @@ spark.fareharbor.com
 widget.rentalcars.com
 admin.booking.com
 flights.booking.com
-booking.com
 secure.booking.com
 *.booking.com
 *.rentalcars.com
@@ -504,6 +503,7 @@ account.booking.com
 indicative-pricing.taxi.booking.com
 taxi.booking.com
 careers.booking.com
+booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -708,8 +708,8 @@ visa.com.au
 www.visa.co.nz
 www.cybersource.com
 www.authorize.net
-sandbox.secure.checkout.visa.com
 www.visa.com.br
+sandbox.secure.checkout.visa.com
 developer.authorize.net
 www.cardinalcommerce.com
 aw.visa.com
@@ -790,8 +790,8 @@ app.kolesa.kz
 app.krisha.kz
 m.kolesa.kz
 api.krisha.kz
-krisha.kz
 kolesa.kz
+krisha.kz
 api.kolesa.kz
 id.kolesa.kz
 m.krisha.kz
@@ -822,8 +822,8 @@ lando.services.mozilla.com
 contile.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 crash-stats.allizom.org
-firefox.settings.services.mozilla.com
 merino.services.mozilla.com
+firefox.settings.services.mozilla.com
 aus5.mozilla.org
 push.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
@@ -912,8 +912,8 @@ wga.volans.tech
 auth2.indrive.tech
 argocd.indrive.dev
 super-services.indriverapp.com
-ci.indrive.dev
 cargo.indrive.com
+ci.indrive.dev
 auth.indrive.tech
 injob.indriver.com
 ab-platform-api.eu-east-1.indriverapp.com
@@ -1040,14 +1040,14 @@ work-staging.8x8.com
 platform.8x8pilot.com
 *.chalet.8x8.com
 *.8x8.id
-user-profile.8x8.com
 voapi.8x8.com
+user-profile.8x8.com
 cloud8.8x8.com
 user-profile-staging.8x8.com
 *.jitsi.net
 *.8x8staging.com
-platform.8x8.com
 sso.8x8pilot.com
+platform.8x8.com
 sso.8x8.com
 *.8x8.vc
 *.jit.si
@@ -1157,8 +1157,8 @@ www.expediapartnersolutions.com
 *.cheaptickets.com
 *.expediacruises.com
 www.expedia.com
-*.travelocity.com
 *.wotif.com
+*.travelocity.com
 *.hotwire.com
 *.vrbo.com
 *.expediapartnercentral.com
@@ -1645,9 +1645,8 @@ marketplace.fedramp.gov
 *.search.gov
 federalist.18f.gov
 federalist-docs.18f.gov
+cloud.gov
 dashboard.fr.cloud.gov
-api.data.gov
-ssh.fr.cloud.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
 ci.fr.cloud.gov
@@ -1735,10 +1734,10 @@ cloud.elastic.co
 api.taxjar.com
 *.reckoproduction.com
 *.link.co
+app.taxjar.com
 *.reckostaging.com
 *.recko.io
 js.stripe.com
-app.taxjar.com
 *.touchtechpayments.com
 api.stripe.com
 *.stripe.com
@@ -1769,10 +1768,10 @@ sh.reddit.com
 redditforbusiness.com
 app.spiketrap.io
 www.spiketrap.io
+new.reddit.com
 old.reddit.com
 *.redditmedia.com
 gql.reddit.com
-new.reddit.com
 ads-api.reddit.com
 *.reddithelp.com
 matrix.redditspace.com
@@ -1984,10 +1983,10 @@ api.adm.cloud.com
 (yoursubdomain).us.iws.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
-citrix.cloud.com
+adm.cloud.com
 secure.sharefile.eu
 api.sharefile.com
-adm.cloud.com
+citrix.cloud.com
 (youriwssubdomain).cloud.com
 (yoursubdomain).sharefile.com
 (yoursubdomain).sharefile.eu
@@ -2034,15 +2033,15 @@ partner.tiktokshop.com
 seller-id.tokopedia.com
 careers.tiktok.com
 *.tiktokv.com
-affiliate-id.tokopedia.com
 tiktok.com
-live-backstage.tiktok.com
+affiliate-id.tokopedia.com
 ads.tiktok.com
 academy-outbound-ads.tiktok.com
-effecthouse.tiktok.com
 *.tiktok.com
-creatormarketplace.tiktok.com
 business.tiktok.com
+live-backstage.tiktok.com
+creatormarketplace.tiktok.com
+effecthouse.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2093,9 +2092,9 @@ api.figma.com
 www.figma.com
 www.figma.com
 api.figma.com
-3d.cs.money
 support.cs.money
 wiki.cs.money
+3d.cs.money
 blog.cs.money
 cs.money
 cs.money
@@ -2519,13 +2518,13 @@ updates.amazon.com
 *.alimama.com
 www.alibabagroup.com
 *.tmall.com
-*.alibaba-inc.com
 *.taobao.com
+*.alibaba-inc.com
 *.1688.com
 *.aliyun.com
 *.alibaba.com
-*.Daraz.com
 *.aliexpress.com
+*.Daraz.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2800,8 +2799,8 @@ api.rezserver.com
 admin.rezserver.com
 reservations.rezserver.com
 cruises.priceline.com
-press.priceline.com
 flyiin.com
+press.priceline.com
 www.bookingholdings.com
 www.priceline.com
 secure.rezserver.com
@@ -2814,8 +2813,8 @@ flyiin.com
 priceline.com
 press.priceline.com
 www.bookingholdings.com
-app.smartsheet.com
 admin.smartsheet.com
+app.smartsheet.com
 developers.smartsheet.com
 www.smartsheet.com
 app.smartsheet.com
@@ -3069,10 +3068,10 @@ py.pl
 api.swiftfinancial.com
 paypalobjects.com
 decision.swiftfinancial.com
-partner.swiftfinancial.com
 my.swiftfinancial.com
-scrutiny.swiftfinancial.com
+partner.swiftfinancial.com
 pigeon.swiftfinancial.com
+scrutiny.swiftfinancial.com
 www.swiftfinancial.com
 swiftfinancial.com
 prequal.swiftfinancial.com
@@ -3141,8 +3140,8 @@ testnet.bitmex.com
 testnet.bitmex.com
 *.staging-airtableblocks.com
 api-staging.airtable.com
-*.staging.airtable.com
 staging.airtable.com
+*.staging.airtable.com
 *.staging-airtableblocks.com
 *.staging.airtable.com
 staging.airtable.com
@@ -3157,8 +3156,8 @@ staging-admin.shipt.com
 staging-shoppingcart.shipt.com
 shoppingcart.shipt.com
 api.shipt.com
-*.shipt.com
 www.shipt.com
+*.shipt.com
 *.shipt.com
 app.shipt.com
 api.shipt.com
@@ -3387,12 +3386,12 @@ manage.grab.co
 *.myteksi.net
 *.taralite.com
 api.grabpay.com
+*.grabpay.com
 kartaview.org
 *.myteksi.com
-*.grabpay.com
 jira.grab.com
-gifts.grab.com
 xtramile.grabpay.com
+gifts.grab.com
 grab.careers
 *.grab-sure.com
 *.grabtaxi.com
@@ -3453,17 +3452,17 @@ ccardseu1.badoo.com
 ccardsus1.badoo.com
 chatdate.app
 getofficial.co
-*.avecspotify.com
 *.atspotify.com
+*.avecspotify.com
 *.enspotify.com
-*.fromspotify.com
 *.forspotify.com
+*.fromspotify.com
 *.tospotify.com
 backstage.io
 *.byspotify.com
 assets.spotify.com
-*.withspotify.com
 api.spotify.com
+*.withspotify.com
 *.withspotify.com
 *.byspotify.com
 *.atspotify.com
@@ -3554,8 +3553,8 @@ www.files.com
 cdna.lystit.com
 mobileapi.lystit.com
 *.lyst.co
-*.lyst.com
 *.lystit.com
+*.lyst.com
 *.lyst.com
 *.lystit.com
 *.lyst.co
@@ -3654,10 +3653,10 @@ npmjs.org
 gist.github.com
 education.github.com
 classroom.github.com
-npmjs.com
 *.githubusercontent.com
 api.github.com
 github.com
+npmjs.com
 github.com
 api.github.com
 gist.github.com
@@ -3684,8 +3683,8 @@ design.gitlab.com
 advisories.gitlab.com
 about.gitlab.com
 customers.gitlab.com
-docs.gitlab.com
 *.gitlab.net
+docs.gitlab.com
 gitlab.com
 *.gitlab.net
 *.gitlab.org
@@ -3732,8 +3731,8 @@ derivws.com
 smarttrader.deriv.com
 cashier.deriv.com
 oauth.deriv.com
-*.deriv.com
 app.deriv.com
+*.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3808,12 +3807,12 @@ shopifyinbox.com
 *.shopifycloud.com
 *.shopify.io
 linkpop.com
-accounts.shopify.com
 admin.shopify.com
 *.shopify.com
 partners.shopify.com
 shop.app
 your-store.myshopify.com
+accounts.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3848,7 +3847,6 @@ playcanv.as
 login.playcanvas.com
 geofilters.snapchat.com
 www.bitmoji.com
-*.sc-corp.net
 ads.snapchat.com
 forum.playcanvas.com
 kit.snapchat.com
@@ -3860,6 +3858,7 @@ developer.playcanvas.com
 app.snapchat.com
 business.snapchat.com
 web.snapchat.com
+*.sc-corp.net
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
