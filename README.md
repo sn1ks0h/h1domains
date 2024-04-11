@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Apr 11 04:19:00 UTC 2024)
+## Domains with Bounties (Last Updated Thu Apr 11 05:17:05 UTC 2024)
 ```
 www.dyson.pt
 www.dyson.no
@@ -302,8 +302,8 @@ webdirectory-eu.truecaller.com
 webonboarding-eu.truecaller.com
 cards.remitly.io
 *.dev.remitly.com
-*.int.remitly.com
 rewire.com
+*.int.remitly.com
 api.remitly.io
 remitly.com
 app3.rewire.to
@@ -324,9 +324,9 @@ bioid-management.app
 *.toolsforhumanity.com
 toolsforhumanity.com
 *.consumer.worldcoin.org
-*.worldcoin.org
 worldcoin.org
 getworldcoin.com
+*.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -495,10 +495,10 @@ spark.fareharbor.com
 widget.rentalcars.com
 admin.booking.com
 flights.booking.com
-secure.booking.com
 *.booking.com
 *.rentalcars.com
 account.booking.com
+secure.booking.com
 indicative-pricing.taxi.booking.com
 taxi.booking.com
 careers.booking.com
@@ -694,12 +694,12 @@ visa.co.za
 www.fraedom.com
 www.practicalbusinessskills.org
 www.practicalmoneyskills.org
+bd.visa.com
+www.practicalmoneyskills.com
 www.visa.com.ph
 www.visa.com.mx
 www.visa.co.jp
 bb.visa.com
-www.practicalmoneyskills.com
-bd.visa.com
 visa.co.ni
 www.visa.com.kz
 www.visainfinite.ca
@@ -791,9 +791,9 @@ app.krisha.kz
 m.kolesa.kz
 api.krisha.kz
 krisha.kz
-kolesa.kz
-api.kolesa.kz
 m.krisha.kz
+api.kolesa.kz
+kolesa.kz
 id.kolesa.kz
 kolesa.kz
 m.kolesa.kz
@@ -822,8 +822,8 @@ lando.services.mozilla.com
 contile.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 crash-stats.allizom.org
-firefox.settings.services.mozilla.com
 merino.services.mozilla.com
+firefox.settings.services.mozilla.com
 aus5.mozilla.org
 push.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
@@ -921,9 +921,9 @@ volans.tech
 *.indriver.com
 *.indriverapp.com
 watchdocs.indriverapp.com
-truck-api.eu-east-1.indriverapp.com
 *.indrive.com
 new-order.eu-east-1.indriverapp.com
+truck-api.eu-east-1.indriverapp.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -1036,17 +1036,17 @@ pay.8x8.com
 work.8x8.com
 uc.8x8pilot.com
 work-staging.8x8.com
+user-profile.8x8.com
+voapi.8x8.com
+*.8x8.id
 platform.8x8pilot.com
 *.chalet.8x8.com
-*.8x8.id
-voapi.8x8.com
-user-profile.8x8.com
 cloud8.8x8.com
 user-profile-staging.8x8.com
 *.jitsi.net
 *.8x8staging.com
-sso.8x8pilot.com
 platform.8x8.com
+sso.8x8pilot.com
 *.8x8cloud.net
 admin.8x8.com
 *.8x8.vc
@@ -1156,8 +1156,8 @@ www.expediapartnersolutions.com
 *.cheaptickets.com
 *.expediacruises.com
 www.expedia.com
-*.wotif.com
 *.travelocity.com
+*.wotif.com
 *.hotwire.com
 *.vrbo.com
 *.expediapartnercentral.com
@@ -1343,9 +1343,9 @@ ws.sorare.com
 *.romwe.com
 *.sheingsp.com
 pwapi.ex2b.com
-api.excalls.mobi
 social-trading.exness.com
 exnessaffiliates.com
+api.excalls.mobi
 pay.ibex.exchange
 exness.com
 my.exness.com
@@ -1478,8 +1478,8 @@ customer-academy.databricks.com
 labs.databricks.com
 marketplace.databricks.com
 https://dbc-9a3f8ed1-7608.cloud.databricks.com
-*.payoneer.com
 payoneer.com.cn
+*.payoneer.com
 *.payoneer.com
 payoneer.com.cn
 teams.krisp.ai
@@ -1645,8 +1645,9 @@ marketplace.fedramp.gov
 *.search.gov
 federalist.18f.gov
 federalist-docs.18f.gov
-cloud.gov
 dashboard.fr.cloud.gov
+api.data.gov
+ssh.fr.cloud.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
 ci.fr.cloud.gov
@@ -1958,9 +1959,9 @@ list-v2--netlify-plugins.netlify.app
 internal-docs.netlify.com
 supportal.netlify.app
 world.hey.com
-*.hey.com
 launchpad.37signals.com
 3.basecamp.com
+*.hey.com
 *.hey.com
 3.basecamp.com
 launchpad.37signals.com
@@ -2092,9 +2093,9 @@ api.figma.com
 www.figma.com
 www.figma.com
 api.figma.com
+3d.cs.money
 support.cs.money
 wiki.cs.money
-3d.cs.money
 blog.cs.money
 cs.money
 cs.money
@@ -2518,13 +2519,13 @@ updates.amazon.com
 *.alimama.com
 www.alibabagroup.com
 *.tmall.com
-*.taobao.com
 *.alibaba-inc.com
+*.taobao.com
 *.1688.com
 *.aliyun.com
 *.alibaba.com
-*.aliexpress.com
 *.Daraz.com
+*.aliexpress.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2567,8 +2568,8 @@ maria.casino
 *.mariacasino.com
 *.kes.kindredext.net
 *.unibet.com
-www.32red.com
 *.bingo.com
+www.32red.com
 *.unibet.com
 *.unibet.fr
 *.storspiller.com
@@ -2995,15 +2996,15 @@ service.racing.fanduel.com
 4njbets.us.betfair.com
 4njbets.tvg.com
 4njbets.com
-mobile-prod.tvg.com
-pabets.tvg.com
-service.tvg.com
-promos.tvg.com
 login-4njbets.us.betfair.com
 login-pabets.tvg.com
 login-ia.tvg.com
 m.4njbets.tvg.com
 login.tvg.com
+mobile-prod.tvg.com
+pabets.tvg.com
+service.tvg.com
+promos.tvg.com
 www.4njbets.com
 login-4ngbets.us.betfair.com
 login.pabets.tvg.com
@@ -3066,7 +3067,6 @@ py.pl
 *.venmo.com
 *.xoom.com
 api.swiftfinancial.com
-paypalobjects.com
 decision.swiftfinancial.com
 my.swiftfinancial.com
 partner.swiftfinancial.com
@@ -3084,6 +3084,7 @@ swiftcapital.com
 sandbox.braintreegateway.com
 *.braintreegateway.com
 *.braintree-api.com
+paypalobjects.com
 *.paypal.com
 *.xoom.com
 *.paypal.com
@@ -3230,9 +3231,9 @@ developer.valvesoftware.com
 support.steampowered.com
 partner.steampowered.com
 playartifact.com
+help.steampowered.com
 www.teamfortress.com
 api.steampowered.com
-help.steampowered.com
 www.counter-strike.net
 partner.steamgames.com
 www.dota2.com
@@ -3255,12 +3256,12 @@ developer.valvesoftware.com
 *.mona.co
 auth.crypto.com
 tax.crypto.com
-app.mona.co
 js.crypto.com
-merchant.crypto.com
-pay.crypto.com
 *.crypto.com
+merchant.crypto.com
 www.crypto.com
+app.mona.co
+pay.crypto.com
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3390,15 +3391,15 @@ kartaview.org
 *.myteksi.com
 *.grabpay.com
 jira.grab.com
-gifts.grab.com
 xtramile.grabpay.com
+gifts.grab.com
 grab.careers
 *.grab-sure.com
-*.grabtaxi.com
 wiki.grab.com
+*.grab.com
 *.ovo.id
 *.grab.co
-*.grab.com
+*.grabtaxi.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3576,8 +3577,8 @@ www.starbucks.com.br
 openapi.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
-gift.starbucks.co.jp
 www.starbucks.com.sg
+gift.starbucks.co.jp
 www.starbucks.co.jp
 secureui.starbucks.com
 www.starbucks.com
@@ -3731,8 +3732,8 @@ derivws.com
 smarttrader.deriv.com
 cashier.deriv.com
 oauth.deriv.com
-app.deriv.com
 *.deriv.com
+app.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3808,9 +3809,9 @@ shopifyinbox.com
 *.shopify.io
 linkpop.com
 admin.shopify.com
+*.shopify.com
 partners.shopify.com
 shop.app
-*.shopify.com
 your-store.myshopify.com
 accounts.shopify.com
 *.shopifycs.com
@@ -3856,9 +3857,9 @@ businesshelp.snapchat.com
 developer.playcanvas.com
 app.snapchat.com
 business.snapchat.com
-web.snapchat.com
 *.sc-corp.net
 accounts.snapchat.com
+web.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -4000,8 +4001,8 @@ api.x.ai
 ide.x.ai
 grok.x.ai
 *.twimg.com
-*.twitter.com
 x.com
+*.twitter.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -4034,8 +4035,8 @@ happy.tools
 my.pressable.com
 simplenote.com
 simperium.com
-gravatar.com
 *.tumblr.com
+gravatar.com
 akismet.com
 intensedebate.com
 wordpress.com
@@ -4080,9 +4081,9 @@ pro.coinbase.com
 custody.coinbase.com
 prime.coinbase.com
 international.coinbase.com
-*.base.org
 institutional.coinbase.com
 nft.coinbase.com
+*.base.org
 api.custody.coinbase.com
 api.coinbase.com
 commerce.coinbase.com
@@ -4355,8 +4356,8 @@ u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
-repo.magento.com
 accounts.magento.cloud
+repo.magento.com
 magento.com
 marketplace.magento.com
 magentocommerce.com
