@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Apr 14 08:00:16 UTC 2024)
+## Domains with Bounties (Last Updated Sun Apr 14 10:44:35 UTC 2024)
 ```
 www.dyson.pt
 www.dyson.no
@@ -305,8 +305,8 @@ cards.remitly.io
 api.remitly.io
 app3.rewire.to
 *.int.remitly.com
-app.rewire.to
 rewire.com
+app.rewire.to
 rates.rewire.com
 remitly.com
 *.int.remitly.com
@@ -325,8 +325,8 @@ toolsforhumanity.com
 getworldcoin.com
 bioid-management.app
 *.worldcoin.org
-*.consumer.worldcoin.org
 worldcoin.org
+*.consumer.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -501,8 +501,8 @@ careers.booking.com
 www.fareharbor.com
 widget.rentalcars.com
 *.rentalcars.com
-booking.com
 admin.booking.com
+booking.com
 *.booking.com
 *.booking.com
 *.rentalcars.com
@@ -778,9 +778,9 @@ developer.authorize.net
 developer.visa.com
 yourdomain.freshcaller.com
 yourdomain.freshdesk.com
-yourdomain.freshchat.com
-yourdomain.freshservice.com
 yourdomain.myfreshworks.com
+yourdomain.freshservice.com
+yourdomain.freshchat.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -812,20 +812,20 @@ api.tideplatform.in
 api.tideplatform.in
 api.profiler.firefox.com
 vpn.mozilla.org
-developer.mozilla.org
 relay.firefox.com
+developer.mozilla.org
 profiler.firefox.com
 crash-reports.allizom.org
 lando.services.mozilla.com
 contile.services.mozilla.com
-crash-stats.allizom.org
 mozilla-pontoon-staging.herokuapp.com
+crash-stats.allizom.org
 merino.services.mozilla.com
 firefox.settings.services.mozilla.com
+aus5.mozilla.org
 firefox-ci-tc.services.mozilla.com
 addons.allizom.org
 sync.services.mozilla.com
-aus5.mozilla.org
 hg.mozilla.org
 monitor.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
@@ -1084,8 +1084,8 @@ admin.8x8.com
 *.luckydays.ca
 *.superbet.pl
 *.luckydays.com
-*.superbet.ro
 *.superbet.rs
+*.superbet.ro
 *.superbet.com
 *.superbet.ro
 *.superbet.rs
@@ -1144,8 +1144,8 @@ www.ebookers.fi
 www.mrjet.se
 www.expediaagents.com
 *.lastminute.co.nz
-www.stayz.com.au
 www.fewo-direkt.de
+www.stayz.com.au
 www.bookabach.co.nz
 www.abritel.fr
 www.expediagroup.com
@@ -1156,9 +1156,9 @@ www.expediapartnersolutions.com
 *.expediacruises.com
 *.wotif.com
 *.travelocity.com
+*.expediapartnercentral.com
 www.hotels.com
 www.hotwirepartnercentral.com
-*.expediapartnercentral.com
 *.vrbo.com
 www.ebookers.com
 *.lastminute.com.au
@@ -1645,9 +1645,9 @@ marketplace.fedramp.gov
 *.search.gov
 federalist.18f.gov
 federalist-docs.18f.gov
+cloud.gov
 dashboard.fr.cloud.gov
 api.data.gov
-ssh.fr.cloud.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
 ci.fr.cloud.gov
@@ -1722,8 +1722,8 @@ www.elastic.co
 *.elasticnet.co
 *.elstc.co
 *.swiftype.com
-*.elastic.co
 cloud.elastic.co
+*.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -2093,8 +2093,8 @@ api.figma.com
 www.figma.com
 www.figma.com
 api.figma.com
-3d.cs.money
 support.cs.money
+3d.cs.money
 blog.cs.money
 wiki.cs.money
 cs.money
@@ -2258,14 +2258,14 @@ direct.playstation.com
 api.direct.playstation.com
 social.playstation.com
 wallets.api.playstation.com
-my.playstation.com
 transact.playstation.com
+my.playstation.com
 my.account.sony.com
 *.api.playstation.com
 store.playstation.com
 ca.account.sony.com
-*.sonyentertainmentnetwork.com
 *.playstation.net
+*.sonyentertainmentnetwork.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -2568,8 +2568,8 @@ maria.casino
 *.mariacasino.com
 *.kes.kindredext.net
 *.unibet.com
-*.bingo.com
 www.32red.com
+*.bingo.com
 *.unibet.com
 *.unibet.fr
 *.storspiller.com
@@ -3070,12 +3070,12 @@ swiftcapital.com
 paypalobjects.com
 loanbuilder.com
 sandbox.braintreegateway.com
-*.braintreegateway.com
 *.paypalcorp.com
 *.paypal.com
+*.xoom.com
+*.braintreegateway.com
 *.venmo.com
 *.braintreepayments.com
-*.xoom.com
 *.xoom.com
 *.paypal.com
 *.braintreegateway.com
@@ -3286,8 +3286,8 @@ plaid.com
 api.blockscore.com
 manage.blockscore.com
 app.quovo.com
-dashboard.plaid.com
 my.plaid.com
+dashboard.plaid.com
 production.plaid.com
 dashboard.plaid.com
 cdn.plaid.com
@@ -3336,9 +3336,9 @@ privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
 *.beta.lahitapiola.fi
 ext-gw.lahitapiola.fi
+www.lahitapiola.fi
 api.lahitapiola.fi
 *.lahitapiola.fi
-www.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -3374,7 +3374,6 @@ privatetarget-1-www.zigzag
 p.grabtaxi.com
 gamma.grab.co
 manage.grab.co
-*.myteksi.net
 *.taralite.com
 api.grabpay.com
 *.grabpay.com
@@ -3386,10 +3385,11 @@ gifts.grab.com
 grab.careers
 *.grab-sure.com
 *.ovo.id
+*.grab.co
 *.grabtaxi.com
 *.grab.com
-*.grab.co
 wiki.grab.com
+*.myteksi.net
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3443,11 +3443,11 @@ ccardseu1.badoo.com
 ccardsus1.badoo.com
 chatdate.app
 getofficial.co
-*.atspotify.com
 *.avecspotify.com
+*.atspotify.com
 *.enspotify.com
-*.forspotify.com
 *.fromspotify.com
+*.forspotify.com
 *.tospotify.com
 backstage.io
 *.byspotify.com
@@ -3645,8 +3645,8 @@ gist.github.com
 education.github.com
 *.githubusercontent.com
 api.github.com
-github.com
 classroom.github.com
+github.com
 npmjs.com
 github.com
 api.github.com
@@ -3795,9 +3795,9 @@ arrive-server.shopifycloud.com
 shopifyinbox.com
 *.shopifycloud.com
 linkpop.com
-your-store.myshopify.com
 accounts.shopify.com
 shop.app
+your-store.myshopify.com
 *.shopify.io
 *.shopifykloud.com
 *.shopifycs.com
@@ -3919,8 +3919,8 @@ callbacks.airbnb.com
 *.byairbnb.com
 *.airbnb-aws.com
 *.luxuryretreats.com
-*.airbnbcitizen.com
 support-api.airbnb.com
+*.airbnbcitizen.com
 next.airbnb.com
 api.airbnb.com
 *.muscache.com
@@ -4030,8 +4030,8 @@ akismet.com
 intensedebate.com
 www.tumblr.com
 wordpress.com
-*.tumblr.com
 mailpoet.com
+*.tumblr.com
 *.tumblr.com
 *.srvcs.tumblr.com
 api.tumblr.com
@@ -4071,9 +4071,9 @@ pro.coinbase.com
 custody.coinbase.com
 prime.coinbase.com
 international.coinbase.com
+*.base.org
 institutional.coinbase.com
 nft.coinbase.com
-*.base.org
 api.custody.coinbase.com
 api.coinbase.com
 cloud.coinbase.com
@@ -4355,8 +4355,8 @@ u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
-accounts.magento.cloud
 repo.magento.com
+accounts.magento.cloud
 magento.com
 marketplace.magento.com
 magentocommerce.com
@@ -4571,8 +4571,8 @@ api.greenhouse.io
 onboarding.greenhouse.io
 jss.greenhouse.io
 app.interseller.io
-www.greenhouse.io
 interseller.io
+www.greenhouse.io
 support.greenhouse.io
 app.greenhouse.io
 app.greenhouse.io
