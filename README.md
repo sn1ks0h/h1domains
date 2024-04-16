@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Apr 16 01:53:37 UTC 2024)
+## Domains with Bounties (Last Updated Tue Apr 16 02:25:19 UTC 2024)
 ```
 www.dyson.pt
 www.dyson.no
@@ -17,12 +17,12 @@ api.dyson.de
 api.dyson.ch
 api.dyson.ie
 shop.dyson.ru
-www.dyson.my
 www.dyson.fr
 api.fi.dyson.com
 www.dyson.co.th
 www.dyson.it
 www.dyson.de
+www.dyson.cz
 *.dyson.com
 www.dyson.co.uk
 www.dyson.com
@@ -323,8 +323,8 @@ app3.rewire.to
 *.toolsforhumanity.com
 getworldcoin.com
 bioid-management.app
-*.worldcoin.org
 *.consumer.worldcoin.org
+*.worldcoin.org
 toolsforhumanity.com
 worldcoin.org
 *.worldcoin.org
@@ -352,8 +352,8 @@ verify.arkoselabs.com
 iframe.arkoselabs.com
 cdn.arkoselabs.com
 demo.arkoselabs.com
-www.arkoselabs.com
 portal.arkoselabs.com
+www.arkoselabs.com
 client-api.arkoselabs.com
 cdn.arkoselabs.com
 customer-sessions.arkoselabs.com
@@ -501,8 +501,8 @@ widget.rentalcars.com
 booking.com
 admin.booking.com
 secure.booking.com
-www.fareharbor.com
 account.booking.com
+www.fareharbor.com
 *.booking.com
 *.booking.com
 *.rentalcars.com
@@ -711,7 +711,7 @@ www.cardinalcommerce.com
 www.visa.com.tw
 www.visa.com.tr
 www.visa.com.hr
-www.yellowpepper.com
+www.tink.com
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -819,8 +819,8 @@ lando.services.mozilla.com
 contile.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 crash-stats.allizom.org
-merino.services.mozilla.com
 firefox.settings.services.mozilla.com
+merino.services.mozilla.com
 aus5.mozilla.org
 addons.allizom.org
 sync.services.mozilla.com
@@ -831,9 +831,9 @@ developer.mozilla.org
 shavar.services.mozilla.com
 community-tc.services.mozilla.com
 support.mozilla.org
-bugzilla.mozilla.org
-monitor.mozilla.org
 accounts.firefox.com
+monitor.mozilla.org
+bugzilla.mozilla.org
 firefox-ci-tc.services.mozilla.com
 www.mozilla.org
 phabricator.allizom.org
@@ -950,8 +950,8 @@ debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 *.grindr.mobi
 *.grindr.io
-*.grindr.com
 web.grindr.com
+*.grindr.com
 *.grindr.io
 *.grindr.com
 *.grindr.mobi
@@ -1036,10 +1036,10 @@ pay.8x8.com
 work.8x8.com
 uc.8x8pilot.com
 work-staging.8x8.com
+voapi.8x8.com
+*.8x8.id
 platform.8x8pilot.com
 *.chalet.8x8.com
-*.8x8.id
-voapi.8x8.com
 user-profile-staging.8x8.com
 *.8x8staging.com
 platform.8x8.com
@@ -1048,8 +1048,8 @@ sso.8x8pilot.com
 admin.8x8.com
 *.wavecell.com
 *.jit.si
-*.packet8.net
 *.jitsi.net
+sso.8x8.com
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1316,9 +1316,9 @@ business.linkedin.com
 *.wealthsimple.com
 *.simpletax.ca
 www.cheapflights.com
+www.swoodoo.com
 www.mundi.com.br
 www.checkfelix.com
-www.swoodoo.com
 www.momondo.com
 business.kayak.com
 www.hotelscombined.com
@@ -1649,6 +1649,7 @@ federalist-docs.18f.gov
 dashboard.fr.cloud.gov
 api.data.gov
 ssh.fr.cloud.gov
+cloud.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
 ci.fr.cloud.gov
@@ -1782,8 +1783,8 @@ oauth.reddit.com
 ads.reddit.com
 *.reddit.com
 *.redditinc.com
-www.reddit.com
 accounts.reddit.com
+www.reddit.com
 *.redditmedia.com
 *.snooguts.net
 *.redditmedia.com
@@ -1841,8 +1842,8 @@ wp-dev4.chime.com
 wp-dev5.chime.com
 wp-integ.chime.com
 app.chime.com
-wp-qa.chime.com
 www.chime.com
+wp-qa.chime.com
 *.chimebank.com
 *.chime.com
 *.1debit.com
@@ -2035,15 +2036,15 @@ shop-id.tokopedia.com
 live-backstage.tiktok.com
 effecthouse.tiktok.com
 academy-outbound-ads.tiktok.com
-*.tiktok.com
 business.tiktok.com
-developers.tiktok.com
+*.tiktok.com
 careers.tiktok.com
-tiktok.com
+developers.tiktok.com
 partner.tiktokshop.com
 *.tiktokv.com
-ads.tiktok.com
 seller-id.tokopedia.com
+ads.tiktok.com
+tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2231,8 +2232,8 @@ api.account.clario.co
 kbill.mackeeper.com
 api-ne.mackeeper.com
 mkapi.mackeeper.com
-account.mackeeper.com
 updater.clario.co
+account.mackeeper.com
 mackeeper.com
 clario.co
 account.mackeeper.com
@@ -2259,8 +2260,8 @@ direct.playstation.com
 api.direct.playstation.com
 social.playstation.com
 wallets.api.playstation.com
-transact.playstation.com
 my.playstation.com
+transact.playstation.com
 my.account.sony.com
 *.api.playstation.com
 store.playstation.com
@@ -2378,7 +2379,6 @@ chat.amazon.com
 track.amazon.com
 manufacturing.amazon.com
 aca-livecards-service.amazon.com
-address-photos.amazon.com
 ads-setu-proxy.amazon.com
 cloudaccesstelemetry-us-east-1.amazon.com
 dolphin.amazon.com
@@ -2414,6 +2414,7 @@ kca.amazon.com
 kwis-opf.amazon.com
 mag-na.amazon.com
 merch.amazon.com
+mlis.amazon.com
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -2802,7 +2803,7 @@ admin.rezserver.com
 reservations.rezserver.com
 www.bookingholdings.com
 secure.rezserver.com
-priceline.com
+cruises.priceline.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -2976,26 +2977,26 @@ grammarly.ai
 grammarly.ai
 *.east.fdbox.net
 *.mgmt.fndlsb.net
-*.prd.fndlsb.net
 *.prod.fdbox.net
+*.prd.fndlsb.net
 *inf.fndlsb.net
 *racing.fanduel.com
 4njbets.tvgnetwork.com
 b2b.tvgnetwork.com
 service.racing.fanduel.com
+4njbets.us.betfair.com
 4njbets.tvg.com
 4njbets.com
-4njbets.us.betfair.com
-mobile-prod.tvg.com
-m.4njbets.tvg.com
-pabets.tvg.com
-login.tvg.com
-www.4njbets.com
-service.tvg.com
-promos.tvg.com
 login-4njbets.us.betfair.com
 login-pabets.tvg.com
 login-ia.tvg.com
+m.4njbets.tvg.com
+login.tvg.com
+mobile-prod.tvg.com
+pabets.tvg.com
+service.tvg.com
+promos.tvg.com
+www.4njbets.com
 login-4ngbets.us.betfair.com
 login.pabets.tvg.com
 com.fanduel.android.live
@@ -3074,9 +3075,9 @@ loanbuilder.com
 *.paypalcorp.com
 *.braintreepayments.com
 *.hyperwallet.com
-*.braintree-api.com
-py.pl
 *.paypal.com
+py.pl
+*.braintree-api.com
 *.xoom.com
 *.paypal.com
 *.braintreegateway.com
@@ -3377,12 +3378,12 @@ gamma.grab.co
 manage.grab.co
 *.taralite.com
 api.grabpay.com
+*.grabpay.com
 kartaview.org
 *.myteksi.com
-*.grabpay.com
 jira.grab.com
-gifts.grab.com
 xtramile.grabpay.com
+gifts.grab.com
 grab.careers
 *.grab-sure.com
 *.ovo.id
@@ -3568,8 +3569,8 @@ www.starbucks.com.br
 openapi.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
-gift.starbucks.co.jp
 www.starbucks.com.sg
+gift.starbucks.co.jp
 www.starbucks.co.jp
 secureui.starbucks.com
 www.starbucks.co.uk
@@ -3769,10 +3770,10 @@ accounts.shopify.com
 shop.app
 linkpop.com
 partners.shopify.com
-arrive-server.shopifycloud.com
 *.shopifykloud.com
-*.shopify.io
 *.shopifycs.com
+arrive-server.shopifycloud.com
+*.shopify.io
 your-store.myshopify.com
 admin.shopify.com
 *.shopifycs.com
@@ -3895,9 +3896,9 @@ api.airbnb.com
 www.hoteltonight.com
 *.hoteltonight-test.com
 *.withairbnb.com
+*.airbnb-aws.com
 assets.airbnb.com
 www.airbnb.com
-*.airbnb-aws.com
 *.airbnb.com
 www.airbnb.com
 next.airbnb.com
@@ -4041,8 +4042,8 @@ blog.irccloud.com
 custody.coinbase.com
 prime.coinbase.com
 international.coinbase.com
-*.base.org
 institutional.coinbase.com
+*.base.org
 api.custody.coinbase.com
 api.coinbase.com
 coinbase.com
@@ -4117,8 +4118,8 @@ hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 reviewer.pullrequest.com
 profile-photos.hackerone-user-content.com
 ctf.hacker101.com
-app.pullrequest.com
 www.hackerone.com
+app.pullrequest.com
 api.hackerone.com
 hackerone.com
 a5s.hackerone-ext-content.com
@@ -4325,8 +4326,8 @@ magentocommerce.com
 u.magento.com
 imagine.magento.com
 magentolive.com
-repo.magento.com
 accounts.magento.cloud
+repo.magento.com
 magento.com
 account.magento.com
 marketplace.magento.com
@@ -4572,8 +4573,8 @@ api.greenhouse.io
 onboarding.greenhouse.io
 jss.greenhouse.io
 app.interseller.io
-www.greenhouse.io
 interseller.io
+www.greenhouse.io
 support.greenhouse.io
 app.greenhouse.io
 app.greenhouse.io
