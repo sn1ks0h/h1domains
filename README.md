@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Apr 16 00:57:38 UTC 2024)
+## Domains with Bounties (Last Updated Tue Apr 16 01:53:37 UTC 2024)
 ```
 www.dyson.pt
 www.dyson.no
@@ -17,12 +17,12 @@ api.dyson.de
 api.dyson.ch
 api.dyson.ie
 shop.dyson.ru
+www.dyson.my
 www.dyson.fr
 api.fi.dyson.com
 www.dyson.co.th
 www.dyson.it
 www.dyson.de
-www.dyson.cz
 *.dyson.com
 www.dyson.co.uk
 www.dyson.com
@@ -324,9 +324,9 @@ app3.rewire.to
 getworldcoin.com
 bioid-management.app
 *.worldcoin.org
-worldcoin.org
 *.consumer.worldcoin.org
 toolsforhumanity.com
+worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -426,8 +426,8 @@ mediacenter.23andme.com
 therapeutics.23andme.com
 auth.23andme.com
 api.23andme.com
-you.23andme.com
 medical.23andme.com
+you.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -445,15 +445,15 @@ www.mercadolibre.com.uy
 www.mercadolibre.com.co
 www.mercadolibre.com.mx
 www.mercadopago.com.co
-www.mercadopago.com.mx
 www.mercadopago.cl
+www.mercadopago.com.mx
 www.mercadolibre.cl
 www.mercadopago.com.br
 api.mercadopago.com
 www.mercadolivre.com.br
 api.mercadolibre.com
-www.mercadopago.com.ar
 www.mercadolibre.com.ar
+www.mercadopago.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -501,8 +501,8 @@ widget.rentalcars.com
 booking.com
 admin.booking.com
 secure.booking.com
-account.booking.com
 www.fareharbor.com
+account.booking.com
 *.booking.com
 *.booking.com
 *.rentalcars.com
@@ -779,8 +779,8 @@ developer.visa.com
 yourdomain.freshcaller.com
 yourdomain.freshdesk.com
 yourdomain.freshchat.com
-yourdomain.myfreshworks.com
 yourdomain.freshservice.com
+yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -831,9 +831,9 @@ developer.mozilla.org
 shavar.services.mozilla.com
 community-tc.services.mozilla.com
 support.mozilla.org
-accounts.firefox.com
-monitor.mozilla.org
 bugzilla.mozilla.org
+monitor.mozilla.org
+accounts.firefox.com
 firefox-ci-tc.services.mozilla.com
 www.mozilla.org
 phabricator.allizom.org
@@ -913,8 +913,8 @@ argocd.indrive.dev
 super-services.indriverapp.com
 auth.indrive.tech
 volans.tech
-truck-api.eu-east-1.indriverapp.com
 new-order.eu-east-1.indriverapp.com
+truck-api.eu-east-1.indriverapp.com
 watchdocs.indriverapp.com
 wga.volans.tech
 ci.indrive.dev
@@ -1084,8 +1084,8 @@ admin.8x8.com
 *.napoleonsports.be
 *.superbet.pl
 *.luckydays.com
-*.superbet.ro
 *.superbet.rs
+*.superbet.ro
 *.superbet.com
 *.luckydays.ca
 *.superbet.ro
@@ -1344,9 +1344,9 @@ ws.sorare.com
 *.romwe.com
 *.sheingsp.com
 pwapi.ex2b.com
+api.excalls.mobi
 social-trading.exness.com
 exnessaffiliates.com
-api.excalls.mobi
 pay.ibex.exchange
 exness.com
 my.exness.com
@@ -1649,7 +1649,6 @@ federalist-docs.18f.gov
 dashboard.fr.cloud.gov
 api.data.gov
 ssh.fr.cloud.gov
-cloud.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
 ci.fr.cloud.gov
@@ -1783,8 +1782,8 @@ oauth.reddit.com
 ads.reddit.com
 *.reddit.com
 *.redditinc.com
-accounts.reddit.com
 www.reddit.com
+accounts.reddit.com
 *.redditmedia.com
 *.snooguts.net
 *.redditmedia.com
@@ -1842,8 +1841,8 @@ wp-dev4.chime.com
 wp-dev5.chime.com
 wp-integ.chime.com
 app.chime.com
-www.chime.com
 wp-qa.chime.com
+www.chime.com
 *.chimebank.com
 *.chime.com
 *.1debit.com
@@ -1986,10 +1985,10 @@ api.adm.cloud.com
 (yoursubdomain).us.iws.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
-citrix.cloud.com
+adm.cloud.com
 secure.sharefile.eu
 api.sharefile.com
-adm.cloud.com
+citrix.cloud.com
 (youriwssubdomain).cloud.com
 (yoursubdomain).sharefile.com
 (yoursubdomain).sharefile.eu
@@ -2260,8 +2259,8 @@ direct.playstation.com
 api.direct.playstation.com
 social.playstation.com
 wallets.api.playstation.com
-my.playstation.com
 transact.playstation.com
+my.playstation.com
 my.account.sony.com
 *.api.playstation.com
 store.playstation.com
@@ -2525,9 +2524,9 @@ updates.amazon.com
 *.1688.com
 *.taobao.com
 www.alibabagroup.com
+*.aliexpress.com
 *.Daraz.com
 *.aliyun.com
-*.aliexpress.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2803,7 +2802,7 @@ admin.rezserver.com
 reservations.rezserver.com
 www.bookingholdings.com
 secure.rezserver.com
-cruises.priceline.com
+priceline.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -3052,20 +3051,20 @@ https://github.com/matomo-org/docker
 paypal.me
 *.braintree.tools
 *.paylution.com
-api.swiftfinancial.com
-decision.swiftfinancial.com
-partner.swiftfinancial.com
 my.swiftfinancial.com
-scrutiny.swiftfinancial.com
-pigeon.swiftfinancial.com
-www.swiftfinancial.com
 swiftfinancial.com
 prequal.swiftfinancial.com
+www.swiftcapital.com
+swiftcapital.com
+partner.swiftfinancial.com
+pigeon.swiftfinancial.com
+scrutiny.swiftfinancial.com
+www.swiftfinancial.com
 api.loanbuilder.com
 my.loanbuilder.com
 www.loanbuilder.com
-www.swiftcapital.com
-swiftcapital.com
+api.swiftfinancial.com
+decision.swiftfinancial.com
 paypalobjects.com
 *.xoom.com
 *.braintreegateway.com
@@ -3075,9 +3074,9 @@ loanbuilder.com
 *.paypalcorp.com
 *.braintreepayments.com
 *.hyperwallet.com
-*.paypal.com
 *.braintree-api.com
 py.pl
+*.paypal.com
 *.xoom.com
 *.paypal.com
 *.braintreegateway.com
@@ -3223,8 +3222,8 @@ developer.valvesoftware.com
 support.steampowered.com
 partner.steampowered.com
 playartifact.com
-help.steampowered.com
 api.steampowered.com
+help.steampowered.com
 www.counter-strike.net
 www.dota2.com
 www.teamfortress.com
@@ -3445,12 +3444,12 @@ ccardseu1.badoo.com
 ccardsus1.badoo.com
 chatdate.app
 getofficial.co
-*.atspotify.com
 *.avecspotify.com
+*.atspotify.com
 *.enspotify.com
-*.forspotify.com
-*.fromspotify.com
 *.tospotify.com
+*.fromspotify.com
+*.forspotify.com
 backstage.io
 *.byspotify.com
 assets.spotify.com
@@ -3569,8 +3568,8 @@ www.starbucks.com.br
 openapi.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
-www.starbucks.com.sg
 gift.starbucks.co.jp
+www.starbucks.com.sg
 www.starbucks.co.jp
 secureui.starbucks.com
 www.starbucks.co.uk
@@ -3646,8 +3645,8 @@ npmjs.org
 gist.github.com
 education.github.com
 *.githubusercontent.com
-npmjs.com
 api.github.com
+npmjs.com
 classroom.github.com
 github.com
 github.com
@@ -3888,8 +3887,8 @@ callbacks.airbnb.com
 *.atairbnb.com
 *.byairbnb.com
 *.luxuryretreats.com
-support-api.airbnb.com
 *.airbnbcitizen.com
+support-api.airbnb.com
 next.airbnb.com
 api.airbnb.com
 *.muscache.com
@@ -3897,8 +3896,8 @@ www.hoteltonight.com
 *.hoteltonight-test.com
 *.withairbnb.com
 assets.airbnb.com
-*.airbnb-aws.com
 www.airbnb.com
+*.airbnb-aws.com
 *.airbnb.com
 www.airbnb.com
 next.airbnb.com
@@ -3962,8 +3961,8 @@ api.x.ai
 ide.x.ai
 grok.x.ai
 *.twimg.com
-*.twitter.com
 x.com
+*.twitter.com
 *.twitter.com
 *.vine.co
 *.twimg.com
