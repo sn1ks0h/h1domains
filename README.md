@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Apr 19 12:27:22 UTC 2024)
+## Domains with Bounties (Last Updated Fri Apr 19 13:18:19 UTC 2024)
 ```
 www.fi.dyson.com
 api.dyson.se
@@ -305,11 +305,11 @@ webonboarding-eu.truecaller.com
 rates.rewire.com
 *.int.remitly.com
 cards.remitly.io
-rewire.com
 app.rewire.to
 app3.rewire.to
 api.remitly.io
 remitly.com
+rewire.com
 *.int.remitly.com
 *.dev.remitly.com
 remitly.com
@@ -416,9 +416,9 @@ store.23andme.com
 mediacenter.23andme.com
 therapeutics.23andme.com
 api.23andme.com
-auth.23andme.com
 you.23andme.com
 medical.23andme.com
+auth.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -497,8 +497,8 @@ chat.booking.com
 *.rentalcars.com
 booking.com
 careers.booking.com
-admin.booking.com
 *.booking.com
+admin.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -693,11 +693,11 @@ visa.co.za
 www.fraedom.com
 www.practicalbusinessskills.org
 www.practicalmoneyskills.org
+bd.visa.com
 www.visa.com.ph
 www.visa.com.mx
 www.visa.co.jp
 bb.visa.com
-bd.visa.com
 visa.co.ni
 www.visa.com.kz
 www.visa.co.nz
@@ -710,7 +710,7 @@ www.visa.com.tw
 www.visa.com.tr
 www.visa.com.hr
 www.tink.com
-www.yellowpepper.com
+usa.visa.com
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -791,8 +791,8 @@ id.kolesa.kz
 m.krisha.kz
 app.krisha.kz
 m.kolesa.kz
-api.krisha.kz
 api.kolesa.kz
+api.krisha.kz
 krisha.kz
 kolesa.kz
 m.kolesa.kz
@@ -832,9 +832,9 @@ support.mozilla.org
 firefox.settings.services.mozilla.com
 phabricator.allizom.org
 www.mozilla.org
-accounts.firefox.com
-relay.firefox.com
 firefox-ci-tc.services.mozilla.com
+relay.firefox.com
+accounts.firefox.com
 community-tc.services.mozilla.com
 addons.allizom.org
 developer.mozilla.org
@@ -1041,8 +1041,8 @@ platform.8x8pilot.com
 voapi.8x8.com
 user-profile-staging.8x8.com
 *.8x8staging.com
-platform.8x8.com
 sso.8x8pilot.com
+platform.8x8.com
 *.8x8cloud.net
 admin.8x8.com
 *.wavecell.com
@@ -1143,11 +1143,11 @@ www.orbitz.com
 www.ebookers.fi
 www.mrjet.se
 www.expediaagents.com
-www.fewo-direkt.de
 www.stayz.com.au
-www.expediagroup.com
+www.fewo-direkt.de
 www.bookabach.co.nz
 www.abritel.fr
+www.expediagroup.com
 www.flights.com
 *.travelocity.ca
 www.expediapartnersolutions.com
@@ -1164,8 +1164,8 @@ www.expedia.com
 *.lastminute.co.nz
 www.expediataap.com
 *.expediacruises.com
-www.hotels.com
 *.hotwire.com
+www.hotels.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1788,8 +1788,8 @@ ads.reddit.com
 *.redditinc.com
 www.reddit.com
 *.reddit.com
-*.redditmedia.com
 new.reddit.com
+*.redditmedia.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -2262,8 +2262,8 @@ mackeeper.com
 api.direct.playstation.com
 social.playstation.com
 wallets.api.playstation.com
-transact.playstation.com
 my.playstation.com
+transact.playstation.com
 store.playstation.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
@@ -2438,12 +2438,12 @@ www.amazon.*
 *.1688.com
 *.taobao.com
 *.alibabacloud.com
-*.aliyun.com
 *.alibaba-inc.com
 www.alibabagroup.com
 *.aliexpress.com
 *.alibaba.com
 *.Daraz.com
+*.aliyun.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2904,18 +2904,18 @@ service.racing.fanduel.com
 4njbets.tvg.com
 4njbets.com
 4njbets.us.betfair.com
-login-4njbets.us.betfair.com
-login-pabets.tvg.com
 mobile-prod.tvg.com
-login-ia.tvg.com
 m.4njbets.tvg.com
 pabets.tvg.com
 login.tvg.com
-login-4ngbets.us.betfair.com
-login.pabets.tvg.com
+www.4njbets.com
 service.tvg.com
 promos.tvg.com
-www.4njbets.com
+login-4njbets.us.betfair.com
+login-pabets.tvg.com
+login-ia.tvg.com
+login-4ngbets.us.betfair.com
+login.pabets.tvg.com
 com.fanduel.android.live
 www.tvg.com
 tvg.com
@@ -2969,10 +2969,10 @@ paypal.me
 *.paylution.com
 api.swiftfinancial.com
 decision.swiftfinancial.com
-partner.swiftfinancial.com
 my.swiftfinancial.com
-scrutiny.swiftfinancial.com
+partner.swiftfinancial.com
 pigeon.swiftfinancial.com
+scrutiny.swiftfinancial.com
 www.swiftfinancial.com
 swiftfinancial.com
 prequal.swiftfinancial.com
@@ -2981,8 +2981,8 @@ my.loanbuilder.com
 www.loanbuilder.com
 www.swiftcapital.com
 swiftcapital.com
-*.braintreegateway.com
 *.venmo.com
+*.braintreegateway.com
 loanbuilder.com
 *.paypalcorp.com
 *.braintreepayments.com
@@ -3164,11 +3164,11 @@ developer.valvesoftware.com
 js.crypto.com
 app.mona.co
 www.crypto.com
-tax.crypto.com
 merchant.crypto.com
 auth.crypto.com
 pay.crypto.com
 *.crypto.com
+tax.crypto.com
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3251,11 +3251,11 @@ verovelvollisuustiedot.lahitapiola.fi
 sijoitusvakuutus.lahitapiola.fi
 privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
-*.beta.lahitapiola.fi
 ext-gw.lahitapiola.fi
-www.lahitapiola.fi
-api.lahitapiola.fi
+*.beta.lahitapiola.fi
 *.lahitapiola.fi
+api.lahitapiola.fi
+www.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -3293,9 +3293,9 @@ gamma.grab.co
 manage.grab.co
 *.taralite.com
 api.grabpay.com
-*.grabpay.com
 kartaview.org
 *.myteksi.com
+*.grabpay.com
 jira.grab.com
 xtramile.grabpay.com
 grab.careers
@@ -3492,9 +3492,9 @@ www.starbucks.co.uk
 app.starbucks.com
 www.starbucks.ca
 www.starbucks.fr
-www.starbucks.com
 www.starbucks.co.kr
 www.starbucks.com.cn
+www.starbucks.com
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3689,8 +3689,8 @@ shop.app
 partners.shopify.com
 admin.shopify.com
 accounts.shopify.com
-*.shopify.com
 your-store.myshopify.com
+*.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3804,16 +3804,16 @@ callbacks.airbnb.com
 *.atairbnb.com
 *.byairbnb.com
 *.luxuryretreats.com
-support-api.airbnb.com
 *.airbnbcitizen.com
+support-api.airbnb.com
 next.airbnb.com
 api.airbnb.com
 *.muscache.com
 www.hoteltonight.com
 *.hoteltonight-test.com
 *.withairbnb.com
-assets.airbnb.com
 *.airbnb-aws.com
+assets.airbnb.com
 www.airbnb.com
 *.airbnb.com
 www.airbnb.com
@@ -4240,8 +4240,8 @@ magentocommerce.com
 u.magento.com
 imagine.magento.com
 magentolive.com
-repo.magento.com
 accounts.magento.cloud
+repo.magento.com
 magento.com
 account.magento.com
 marketplace.magento.com
