@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Apr 19 13:18:19 UTC 2024)
+## Domains with Bounties (Last Updated Fri Apr 19 14:18:02 UTC 2024)
 ```
 www.fi.dyson.com
 api.dyson.se
@@ -417,8 +417,8 @@ mediacenter.23andme.com
 therapeutics.23andme.com
 api.23andme.com
 you.23andme.com
-medical.23andme.com
 auth.23andme.com
+medical.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -436,8 +436,8 @@ www.mercadolibre.com.uy
 www.mercadolibre.com.co
 www.mercadolibre.com.mx
 www.mercadopago.com.co
-www.mercadopago.com.mx
 www.mercadopago.cl
+www.mercadopago.com.mx
 www.mercadopago.com.br
 www.mercadolivre.com.br
 www.mercadopago.com.ar
@@ -478,9 +478,9 @@ portal.taxi.booking.com
 secure-supply-xml.booking.com
 cars.booking.com
 kyc-onboarding.booking.com
+spark.fareharbor.com
 teleport.fareharbor.engineering
 paymentcomponent.booking.com
-spark.fareharbor.com
 flights.booking.com
 indicative-pricing.taxi.booking.com
 taxi.booking.com
@@ -490,8 +490,8 @@ www.fareharbor.com
 secure.booking.com
 marketing.fareharbor.com
 readonly.fareharbor.com
-taxis.booking.com
 demo.fareharbor.com
+taxis.booking.com
 sites.fareharbor.com
 chat.booking.com
 *.rentalcars.com
@@ -693,11 +693,11 @@ visa.co.za
 www.fraedom.com
 www.practicalbusinessskills.org
 www.practicalmoneyskills.org
-bd.visa.com
 www.visa.com.ph
 www.visa.com.mx
 www.visa.co.jp
 bb.visa.com
+bd.visa.com
 visa.co.ni
 www.visa.com.kz
 www.visa.co.nz
@@ -709,8 +709,8 @@ www.cardinalcommerce.com
 www.visa.com.tw
 www.visa.com.tr
 www.visa.com.hr
+www.yellowpepper.com
 www.tink.com
-usa.visa.com
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -823,8 +823,8 @@ sync.services.mozilla.com
 hg.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 shavar.services.mozilla.com
-monitor.mozilla.org
 bugzilla.mozilla.org
+monitor.mozilla.org
 push.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 developer.mozilla.org
@@ -892,9 +892,9 @@ hiltonbusinessonline.com
 hiltonlocalbiz.com
 hiltonhotels.jp
 *.okg.com
-*.oklink.com
 *.okx.com
 *.okcoin.com
+*.oklink.com
 *.okx.com
 *.okcoin.com
 *.oklink.com
@@ -910,8 +910,8 @@ auth2.indrive.tech
 argocd.indrive.dev
 auth.indrive.tech
 volans.tech
-new-order.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
+new-order.eu-east-1.indriverapp.com
 watchdocs.indriverapp.com
 wga.volans.tech
 injob.indriver.com
@@ -1041,8 +1041,8 @@ platform.8x8pilot.com
 voapi.8x8.com
 user-profile-staging.8x8.com
 *.8x8staging.com
-sso.8x8pilot.com
 platform.8x8.com
+sso.8x8pilot.com
 *.8x8cloud.net
 admin.8x8.com
 *.wavecell.com
@@ -1143,8 +1143,8 @@ www.orbitz.com
 www.ebookers.fi
 www.mrjet.se
 www.expediaagents.com
-www.stayz.com.au
 www.fewo-direkt.de
+www.stayz.com.au
 www.bookabach.co.nz
 www.abritel.fr
 www.expediagroup.com
@@ -1317,9 +1317,9 @@ business.linkedin.com
 *.wealthsimple.com
 *.simpletax.ca
 www.cheapflights.com
-www.swoodoo.com
 www.mundi.com.br
 www.checkfelix.com
+www.swoodoo.com
 www.momondo.com
 business.kayak.com
 www.hotelscombined.com
@@ -1345,9 +1345,9 @@ ws.sorare.com
 *.romwe.com
 *.sheingsp.com
 pwapi.ex2b.com
-api.excalls.mobi
 social-trading.exness.com
 exnessaffiliates.com
+api.excalls.mobi
 pay.ibex.exchange
 exness.com
 my.exness.com
@@ -1456,13 +1456,13 @@ help.databricks.com
 partners.databricks.com
 support.databricks.com
 advocates.databricks.com
-community.databricks.com
 customer-academy.databricks.com
 labs.databricks.com
 kb.databricks.com
 accounts.cloud.databricks.com
 marketplace.databricks.com
 databricks.com
+community.databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -1827,8 +1827,8 @@ global-api.citymapper.com
 eu.remix.com
 platform.remix.com
 *.withbuddies.com
-*.scopely.com
 *.scopely.io
+*.scopely.com
 *.scopely.io
 *.scopely.com
 *.withbuddies.com
@@ -2041,7 +2041,6 @@ fp-sg.tiktokv.com
 live-backstage.tiktok.com
 academy-outbound-ads.tiktok.com
 seller-id.tokopedia.com
-www.pangleglobal.com
 tiktok.com
 partner.tiktokshop.com
 *.tiktokv.com
@@ -2049,6 +2048,7 @@ business.tiktok.com
 ads.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktok.com
+www.pangleglobal.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2099,8 +2099,8 @@ api.figma.com
 www.figma.com
 www.figma.com
 api.figma.com
-3d.cs.money
 support.cs.money
+3d.cs.money
 blog.cs.money
 wiki.cs.money
 cs.money
@@ -2390,8 +2390,8 @@ itv7.itv.com
 *.amazon.it
 *.amazon.com.be
 *.amazon.com.br
-*.amazon.eg
 *.amazon.com.co
+*.amazon.eg
 *.amazon.ae
 *.amazon.ca
 *.amazon.com.mx
@@ -2402,8 +2402,8 @@ itv7.itv.com
 *.amazon.com
 *.amazon.co.jp
 *.amazon.in
-*.amazon.cn
 *.amazon.pl
+*.amazon.cn
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -2486,8 +2486,8 @@ maria.casino
 *.kes.kindredext.net
 *.bingo.com
 *.unibet.com
-*.unibet.fr
 www.32red.com
+*.unibet.fr
 *.unibet.com
 *.unibet.fr
 *.storspiller.com
@@ -2904,18 +2904,18 @@ service.racing.fanduel.com
 4njbets.tvg.com
 4njbets.com
 4njbets.us.betfair.com
+login-4njbets.us.betfair.com
+login-pabets.tvg.com
 mobile-prod.tvg.com
+login-ia.tvg.com
 m.4njbets.tvg.com
 pabets.tvg.com
 login.tvg.com
-www.4njbets.com
-service.tvg.com
-promos.tvg.com
-login-4njbets.us.betfair.com
-login-pabets.tvg.com
-login-ia.tvg.com
 login-4ngbets.us.betfair.com
 login.pabets.tvg.com
+service.tvg.com
+promos.tvg.com
+www.4njbets.com
 com.fanduel.android.live
 www.tvg.com
 tvg.com
@@ -2969,10 +2969,10 @@ paypal.me
 *.paylution.com
 api.swiftfinancial.com
 decision.swiftfinancial.com
-my.swiftfinancial.com
 partner.swiftfinancial.com
-pigeon.swiftfinancial.com
+my.swiftfinancial.com
 scrutiny.swiftfinancial.com
+pigeon.swiftfinancial.com
 www.swiftfinancial.com
 swiftfinancial.com
 prequal.swiftfinancial.com
@@ -2981,8 +2981,8 @@ my.loanbuilder.com
 www.loanbuilder.com
 www.swiftcapital.com
 swiftcapital.com
-*.venmo.com
 *.braintreegateway.com
+*.venmo.com
 loanbuilder.com
 *.paypalcorp.com
 *.braintreepayments.com
@@ -3138,8 +3138,8 @@ developer.valvesoftware.com
 support.steampowered.com
 partner.steampowered.com
 playartifact.com
-help.steampowered.com
 api.steampowered.com
+help.steampowered.com
 www.dota2.com
 partner.steamgames.com
 www.valvesoftware.com
@@ -3360,12 +3360,12 @@ ccardseu1.badoo.com
 ccardsus1.badoo.com
 chatdate.app
 getofficial.co
-*.atspotify.com
 *.avecspotify.com
+*.atspotify.com
 *.enspotify.com
-*.forspotify.com
-*.fromspotify.com
 *.tospotify.com
+*.fromspotify.com
+*.forspotify.com
 *.withspotify.com
 api.spotify.com
 assets.spotify.com
@@ -3442,8 +3442,8 @@ circolocorecords.com/
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 *.rockstargames.com
-store.rockstargames.com
 support.rockstargames.com
+store.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -3484,8 +3484,8 @@ www.starbucks.com.br
 openapi.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
-gift.starbucks.co.jp
 www.starbucks.com.sg
+gift.starbucks.co.jp
 www.starbucks.co.jp
 secureui.starbucks.com
 www.starbucks.co.uk
@@ -3681,8 +3681,8 @@ shopify.plus
 shopifyinbox.com
 *.shopifycloud.com
 linkpop.com
-*.shopifycs.com
 *.shopifykloud.com
+*.shopifycs.com
 arrive-server.shopifycloud.com
 shop.app
 *.shopify.io
@@ -3804,16 +3804,16 @@ callbacks.airbnb.com
 *.atairbnb.com
 *.byairbnb.com
 *.luxuryretreats.com
-*.airbnbcitizen.com
 support-api.airbnb.com
+*.airbnbcitizen.com
 next.airbnb.com
 api.airbnb.com
 *.muscache.com
 www.hoteltonight.com
 *.hoteltonight-test.com
 *.withairbnb.com
-*.airbnb-aws.com
 assets.airbnb.com
+*.airbnb-aws.com
 www.airbnb.com
 *.airbnb.com
 www.airbnb.com
@@ -3958,8 +3958,8 @@ blog.irccloud.com
 custody.coinbase.com
 prime.coinbase.com
 international.coinbase.com
-*.base.org
 institutional.coinbase.com
+*.base.org
 api.custody.coinbase.com
 api.coinbase.com
 nft.coinbase.com
@@ -4235,15 +4235,15 @@ www.smartsheet.com
 *legal.trustpilot.com
 https://github.com/evolveum/midpoint
 https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty
-marketplace.magento.com
 magentocommerce.com
 u.magento.com
 imagine.magento.com
 magentolive.com
-accounts.magento.cloud
 repo.magento.com
+accounts.magento.cloud
 magento.com
 account.magento.com
+marketplace.magento.com
 marketplace.magento.com
 magentocommerce.com
 repo.magento.com
@@ -4487,8 +4487,8 @@ api.greenhouse.io
 onboarding.greenhouse.io
 jss.greenhouse.io
 app.interseller.io
-www.greenhouse.io
 interseller.io
+www.greenhouse.io
 support.greenhouse.io
 app.greenhouse.io
 app.greenhouse.io
