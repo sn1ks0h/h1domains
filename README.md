@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Apr 28 08:20:59 UTC 2024)
+## Domains with Bounties (Last Updated Sun Apr 28 09:16:40 UTC 2024)
 ```
 api.dyson.se
 api.dyson.dk
@@ -21,9 +21,9 @@ www.dyson.cz
 www.dyson.nl
 shop.dyson.co.za
 www.dyson.at
-www.dyson.ie
-api.dyson.it
 www.dyson.ch
+api.dyson.it
+www.dyson.ie
 *.dyson.com
 www.dyson.co.uk
 www.dyson.com
@@ -301,10 +301,10 @@ verification-eu.truecaller.com
 video-callerid-eu.truecaller.com
 webdirectory-eu.truecaller.com
 webonboarding-eu.truecaller.com
-rewire.com
 *.dev.remitly.com
 cards.remitly.io
 api.remitly.io
+rewire.com
 *.int.remitly.com
 app.rewire.to
 app3.rewire.to
@@ -426,14 +426,14 @@ www.mercadopago.com.co
 www.mercadopago.cl
 www.mercadopago.com.mx
 api.mercadopago.com
-www.mercadopago.com.br
-www.mercadolibre.com.co
-www.mercadopago.com.ar
 www.mercadolibre.cl
-www.mercadolibre.com.ar
 www.mercadolivre.com.br
-api.mercadolibre.com
 www.mercadolibre.com.mx
+api.mercadolibre.com
+www.mercadolibre.com.ar
+www.mercadopago.com.br
+www.mercadopago.com.ar
+www.mercadolibre.com.co
 www.mercadolibre.com.uy
 api.mercadopago.com
 www.mercadopago.com.ar
@@ -585,10 +585,10 @@ pay-sandbox.gocardless.com
 *.gocardless-cicd.io
 manage-sandbox.gocardless.com
 *.gocardless-lab.io
-www.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 api-sandbox.gocardless.com
+www.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -682,11 +682,11 @@ visa.co.za
 www.fraedom.com
 www.practicalbusinessskills.org
 www.practicalmoneyskills.org
+bd.visa.com
 www.visa.com.ph
 www.visa.com.mx
 www.visa.co.jp
 bb.visa.com
-bd.visa.com
 visa.co.ni
 www.visa.com.kz
 www.visa.co.nz
@@ -778,8 +778,8 @@ yourdomain.myfreshworks.com
 id.kolesa.kz
 m.krisha.kz
 api.krisha.kz
-app.kolesa.kz
 krisha.kz
+app.kolesa.kz
 app.krisha.kz
 api.kolesa.kz
 m.kolesa.kz
@@ -799,6 +799,7 @@ api.tideplatform.in
 *.tide.co
 *.tide.co
 api.tideplatform.in
+community-tc.services.mozilla.com
 api.profiler.firefox.com
 vpn.mozilla.org
 profiler.firefox.com
@@ -815,7 +816,6 @@ push.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 firefox.settings.services.mozilla.com
 phabricator.allizom.org
-community-tc.services.mozilla.com
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 addons.allizom.org
 firefox-ci-tc.services.mozilla.com
@@ -864,10 +864,10 @@ api-eu.floqast.app
 *.hiltonlocalbiz.com
 hiltonbusinessonline.com
 hiltonlocalbiz.com
-*.hiltonhotels.jp
 *.hilton.io
 *.hiltonbusinessonline.com
 hilton.io
+*.hiltonhotels.jp
 hiltonhotels.jp
 hilton.com
 *.hilton.com
@@ -882,8 +882,8 @@ hiltonbusinessonline.com
 hiltonlocalbiz.com
 hiltonhotels.jp
 *.okg.com
-*.oklink.com
 *.okcoin.com
+*.oklink.com
 *.okx.com
 *.okx.com
 *.okcoin.com
@@ -1029,8 +1029,8 @@ platform.8x8pilot.com
 voapi.8x8.com
 user-profile-staging.8x8.com
 *.8x8staging.com
-platform.8x8.com
 sso.8x8pilot.com
+platform.8x8.com
 *.wavecell.com
 user-profile.8x8.com
 sso.8x8.com
@@ -1127,6 +1127,8 @@ dookeydash.com
 hv-mtl.com
 www.ebookers.fi
 www.expediaagents.com
+*.lastminute.co.nz
+www.hotels.com
 www.stayz.com.au
 www.bookabach.co.nz
 www.abritel.fr
@@ -1136,8 +1138,6 @@ www.hotwirepartnercentral.com
 www.ebookers.com
 *.wotif.com
 *.lastminute.com.au
-*.lastminute.co.nz
-www.hotels.com
 www.fewo-direkt.de
 www.orbitz.com
 www.flights.com
@@ -1151,8 +1151,8 @@ www.expediataap.com
 *.vrbo.com
 www.expediagroup.com
 www.mrjet.se
-*.hotwire.com
 www.expedia.com
+*.hotwire.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1248,17 +1248,17 @@ royal.checksw.com
 *.superpal.io/*
 m.trendyol.com
 www.trendyol-milla.com
-www.dolap.com
 www.trendyol.com
+www.dolap.com
 www.trendyol.com
 m.trendyol.com
 www.dolap.com
 www.trendyol-milla.com
 *.sidefx.com
 *.sidefx.com
+snaps.metamask.io
 portfolio.metamask.io
 metamask.io
-snaps.metamask.io
 metamask.io
 snaps.metamask.io
 portfolio.metamask.io
@@ -1707,11 +1707,11 @@ cloud.elastic.co
 api.taxjar.com
 *.reckoproduction.com
 *.link.co
-app.taxjar.com
 *.reckostaging.com
 *.recko.io
 js.stripe.com
 *.touchtechpayments.com
+app.taxjar.com
 api.stripe.com
 *.stripe.com
 api.stripe.com
@@ -1750,7 +1750,6 @@ gql.reddit.com
 accounts.reddit.com
 api.reddit.com
 ads.reddit.com
-www.reddit.com
 *.redditmedia.com
 *.redditinc.com
 new.reddit.com
@@ -1758,6 +1757,7 @@ new.reddit.com
 ads-api.reddit.com
 *.reddit.com
 oauth.reddit.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1813,8 +1813,8 @@ wp-dev4.chime.com
 wp-dev5.chime.com
 wp-integ.chime.com
 app.chime.com
-www.chime.com
 wp-qa.chime.com
+www.chime.com
 *.chimebank.com
 *.1debit.com
 *.chime.com
@@ -1958,16 +1958,16 @@ api.adm.cloud.com
 (yoursubdomain).us.iws.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
-adm.cloud.com
-api.sharefile.com
 citrix.cloud.com
+api.sharefile.com
+adm.cloud.com
 (youriwssubdomain).cloud.com
 secure.sharefile.com
 (yoursubdomain).sharefile.com
 (yoursubdomain).sharefile.eu
 secure.sharefile.eu
-www.cloud.com
 accounts.cloud.com
+www.cloud.com
 citrix.cloud.com
 www.cloud.com
 ap-s.cloud.com
@@ -2253,7 +2253,6 @@ direct.playstation.com
 api.direct.playstation.com
 ca.account.sony.com
 my.account.sony.com
-open-api.polygon.technology
 bridge-explorer.polygon.technology
 bridge-api.matic.network
 watchgod.polygon.technology
@@ -2263,6 +2262,7 @@ wallet.polygon.technology
 faucet.polygon.technology
 burn.polygon.technology
 portal.polygon.technology
+open-api.polygon.technology
 wallet.polygon.technology
 staking-api.polygon.technology
 bridge-explorer.polygon.technology
@@ -2360,18 +2360,18 @@ itv7.itv.com
 *.amazon.com.co
 *.amazon.com.mx
 *.amazon.es
+*.amazon.co.jp
 *.amazon.sg
 *.amazon.se
-*.amazon.co.jp
 *.amazon.nl
 *.amazon.fr
 amazonpayinsurance.in
-*.amazon.ae
 *.amazon.com.br
+*.amazon.ae
 *.amazon.pl
-*.amazon.eg
 *.amazon.ca
 *.amazon.cn
+*.amazon.eg
 *.amazon.co.uk
 *.amazon.com
 *.amazon.in
@@ -2566,8 +2566,8 @@ app.nordpass.com
 app.nordpass.com
 *.line.naver.jp
 *.line.me
-*.linecorp.com
 *.line-apps.com
+*.linecorp.com
 *.line.biz
 *.line.me
 *.line-apps.com
@@ -3036,8 +3036,8 @@ staging-admin.shipt.com
 staging-shoppingcart.shipt.com
 shoppingcart.shipt.com
 api.shipt.com
-www.shipt.com
 *.shipt.com
+www.shipt.com
 *.shipt.com
 app.shipt.com
 api.shipt.com
@@ -3156,9 +3156,9 @@ bounty-node.rsk.co
 https://github.com/rsksmart/rsk-powhsm/
 bounty-node.rsk.co
 *.deliveroo.fr
-*.deliveroo.be
 *.deliveroo.ie
 *.deliveroo.it
+*.deliveroo.be
 *.deliveroo.com.hk
 *.deliveroo.com.kw
 *.deliveroo.com.qa
@@ -3236,8 +3236,8 @@ sijoitusvakuutus.lahitapiola.fi
 privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
 *.beta.lahitapiola.fi
-www.lahitapiola.fi
 api.lahitapiola.fi
+www.lahitapiola.fi
 *.lahitapiola.fi
 ext-gw.lahitapiola.fi
 *.lahitapiolarahoitus.fi
@@ -3344,11 +3344,11 @@ ccardseu1.badoo.com
 ccardsus1.badoo.com
 chatdate.app
 getofficial.co
-*.atspotify.com
 *.avecspotify.com
+*.atspotify.com
 *.enspotify.com
-*.forspotify.com
 *.fromspotify.com
+*.forspotify.com
 *.tospotify.com
 api.spotify.com
 assets.spotify.com
@@ -3702,7 +3702,6 @@ launch.playcanvas.com
 msg.playcanvas.com
 relay.playcanvas.com
 playcanv.as
-login.playcanvas.com
 geofilters.snapchat.com
 ads.snapchat.com
 forum.playcanvas.com
@@ -3712,8 +3711,8 @@ developer.playcanvas.com
 rt.playcanvas.com
 store.playcanvas.com
 *.sc-core.net
-www.bitmoji.com
 code.playcanvas.com
+www.bitmoji.com
 story.snapchat.com
 *.sc-corp.net
 business.snapchat.com
@@ -3721,6 +3720,7 @@ web.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 playcanvas.com
+login.playcanvas.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3798,9 +3798,9 @@ next.airbnb.com
 api.airbnb.com
 support-api.airbnb.com
 *.hoteltonight-test.com
-*.airbnb.com
 www.airbnb.com
 *.withairbnb.com
+*.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -4019,8 +4019,8 @@ reviewer.pullrequest.com
 hackerone.live
 api.hackerone.com
 a5s.hackerone-ext-content.com
-www.hackerone.com
 b5s.hackerone-ext-content.com
+www.hackerone.com
 hackerone.com
 hackerone.com
 api.hackerone.com
