@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Apr 30 02:26:29 UTC 2024)
+## Domains with Bounties (Last Updated Tue Apr 30 03:18:52 UTC 2024)
 ```
 api.dyson.se
 api.dyson.dk
@@ -21,8 +21,8 @@ www.dyson.cz
 www.dyson.nl
 shop.dyson.co.za
 www.dyson.at
-www.dyson.ie
 api.dyson.it
+www.dyson.ie
 www.dyson.ch
 *.dyson.com
 www.dyson.co.uk
@@ -324,10 +324,10 @@ app3.rewire.to
 bioid-management.app
 worldcoin.org
 *.worldcoin.dev
-*.consumer.worldcoin.org
 getworldcoin.com
 toolsforhumanity.com
 *.worldcoin.org
+*.consumer.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -426,15 +426,15 @@ www.mercadopago.com.co
 www.mercadopago.cl
 www.mercadopago.com.mx
 www.mercadolibre.com.mx
-api.mercadopago.com
 www.mercadolibre.com.uy
 www.mercadopago.com.ar
 www.mercadopago.com.br
+www.mercadolibre.com.ar
 www.mercadolibre.cl
 www.mercadolivre.com.br
 api.mercadolibre.com
-www.mercadolibre.com.ar
 www.mercadolibre.com.co
+api.mercadopago.com
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -466,9 +466,9 @@ supply-xml.booking.com
 portal.taxi.booking.com
 secure-supply-xml.booking.com
 kyc-onboarding.booking.com
-spark.fareharbor.com
 teleport.fareharbor.engineering
 paymentcomponent.booking.com
+spark.fareharbor.com
 flights.booking.com
 indicative-pricing.taxi.booking.com
 taxi.booking.com
@@ -864,10 +864,10 @@ api-eu.floqast.app
 *.hiltonlocalbiz.com
 hiltonbusinessonline.com
 hiltonlocalbiz.com
+*.hiltonhotels.jp
 *.hilton.io
 *.hiltonbusinessonline.com
 hilton.io
-*.hiltonhotels.jp
 hiltonhotels.jp
 *.hilton.com
 hilton.com
@@ -911,8 +911,8 @@ file-storage-front.eu-east-1.indriverapp.com
 injob.indriver.com
 *.indrive.com
 truck-api.eu-east-1.indriverapp.com
-*.indriverapp.com
 ci.indrive.dev
+*.indriverapp.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -1023,10 +1023,10 @@ sms.8x8.com
 work.8x8.com
 uc.8x8pilot.com
 work-staging.8x8.com
-voapi.8x8.com
-*.8x8.id
 platform.8x8pilot.com
 *.chalet.8x8.com
+*.8x8.id
+voapi.8x8.com
 user-profile-staging.8x8.com
 *.8x8staging.com
 platform.8x8.com
@@ -1813,8 +1813,8 @@ wp-dev4.chime.com
 wp-dev5.chime.com
 wp-integ.chime.com
 app.chime.com
-wp-qa.chime.com
 www.chime.com
+wp-qa.chime.com
 *.chimebank.com
 *.1debit.com
 *.chime.com
@@ -1892,9 +1892,9 @@ hackers_chosendomain.larksuite.com
 *.exodus.com
 identity.yoti.com
 ccloud.yoti.com
-www.yotisign.com
 code.yoti.com
 core.yoti.com
+www.yotisign.com
 hub.yoti.com
 api.yoti.com
 core.yoti.com
@@ -2238,8 +2238,8 @@ my.account.sony.com
 my.playstation.com
 ca.account.sony.com
 *.playstation.net
-direct.playstation.com
 *.sonyentertainmentnetwork.com
+direct.playstation.com
 *.api.playstation.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
@@ -2358,9 +2358,9 @@ itv7.itv.com
 *.amazon.com.be
 *.amazon.com.co
 *.amazon.com.mx
+*.amazon.co.jp
 *.amazon.sg
 *.amazon.se
-*.amazon.co.jp
 *.amazon.nl
 amazonpayinsurance.in
 *.amazon.com.br
@@ -2372,8 +2372,8 @@ amazonpayinsurance.in
 *.amazon.de
 *.amazon.in
 *.amazon.fr
-*.amazon.co.uk
 *.amazon.ca
+*.amazon.co.uk
 *.amazon.com
 *.amazon.cl
 *.amazon.co.za
@@ -2407,8 +2407,8 @@ amazonpayinsurance.in
 *.aliyun-inc.com
 *.alimama.com
 www.alibabagroup.com
-*.alibabacloud.com
 *.aliexpress.com
+*.alibabacloud.com
 *.alibaba-inc.com
 *.alibaba.com
 *.aliyun.com
@@ -2454,8 +2454,8 @@ maria.casino
 *.casinohuone.com
 *.kindredext.net
 *.highrolling.nu
-*.kes.kindredext.net
 *.unibet.fr
+*.kes.kindredext.net
 www.32red.com
 *.mariacasino.com
 *.bingo.com
@@ -2940,19 +2940,18 @@ paypal.me
 *.braintree.tools
 *.paylution.com
 api.swiftfinancial.com
-decision.swiftfinancial.com
-my.swiftfinancial.com
-partner.swiftfinancial.com
-pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
 www.swiftfinancial.com
 swiftfinancial.com
+www.swiftcapital.com
+swiftcapital.com
+decision.swiftfinancial.com
+partner.swiftfinancial.com
+my.swiftfinancial.com
+pigeon.swiftfinancial.com
 prequal.swiftfinancial.com
 api.loanbuilder.com
 my.loanbuilder.com
-www.swiftcapital.com
-swiftcapital.com
-loanbuilder.com
 py.pl
 *.xoom.com
 *.hyperwallet.com
@@ -2962,9 +2961,10 @@ www.loanbuilder.com
 *.paypalcorp.com
 *.venmo.com
 *.braintreepayments.com
-*.braintreegateway.com
 paypalobjects.com
+*.braintreegateway.com
 *.paypal.com
+loanbuilder.com
 *.xoom.com
 *.paypal.com
 *.braintreegateway.com
@@ -3102,9 +3102,9 @@ api.foliofn.com
 *.folioinvesting.com
 developer.valvesoftware.com
 playartifact.com
-partner.steampowered.com
 support.steampowered.com
 www.dota2.com
+partner.steampowered.com
 help.steampowered.com
 api.steampowered.com
 partner.steamgames.com
@@ -3131,10 +3131,10 @@ js.crypto.com
 merchant.crypto.com
 www.crypto.com
 pay.crypto.com
-*.crypto.com
 auth.crypto.com
 app.mona.co
 tax.crypto.com
+*.crypto.com
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3153,12 +3153,12 @@ bounty-node.rsk.co
 *.deliveroo.fr
 *.deliveroo.be
 *.deliveroo.ie
+*.deliveroo.com.sg
+*.deliveroo.ae
 *.deliveroo.it
 *.deliveroo.com.hk
 *.deliveroo.com.kw
 *.deliveroo.com.qa
-*.deliveroo.com.sg
-*.deliveroo.ae
 *.deliveroo.hk
 *.deliveroo.co.uk
 *.deliveroo.co.uk
@@ -3204,8 +3204,8 @@ falcon-sandbox.com
 *.humio.com
 www.crowdstrike.com
 hybrid-analysis.com
-*.crowdstrike.com
 *.preempt.com
+*.crowdstrike.com
 *.crowdstrike.com
 *.humio.com
 *.securecircle.com
@@ -3233,8 +3233,8 @@ privatetarget-2-secure.zigzag
 api.lahitapiola.fi
 ext-gw.lahitapiola.fi
 www.lahitapiola.fi
-*.lahitapiola.fi
 yrityspalvelu.tapiola.fi
+*.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -3461,8 +3461,8 @@ www.starbucks.com.br
 openapi.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
-www.starbucks.com.sg
 gift.starbucks.co.jp
+www.starbucks.com.sg
 www.starbucks.co.jp
 secureui.starbucks.com
 www.starbucks.co.uk
@@ -3503,8 +3503,8 @@ ws.blockchain.info
 basicattentiontoken.org
 creators.basicattentiontoken.org
 account.brave.com
-talk.brave.com
 search.brave.com
+talk.brave.com
 brave.com
 brave.com
 basicattentiontoken.org
@@ -3661,8 +3661,8 @@ shopify.plus
 *.shopifycs.com
 *.shopify.io
 partners.shopify.com
-*.shopifycloud.com
 shopifyinbox.com
+*.shopifycloud.com
 shop.app
 accounts.shopify.com
 linkpop.com
@@ -3991,6 +3991,7 @@ www.quip.com
 onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 le.yahooapis.com
+yimg.com
 data.mail.yahoo.com
 le.yahooapis.com
 onepush.query.yahoo.com
