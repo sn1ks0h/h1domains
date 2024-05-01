@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May  1 02:36:50 UTC 2024)
+## Domains with Bounties (Last Updated Wed May  1 03:20:04 UTC 2024)
 ```
 api.dyson.se
 api.dyson.dk
@@ -20,9 +20,9 @@ www.dyson.cz
 www.dyson.nl
 shop.dyson.co.za
 www.dyson.at
-www.dyson.ie
-api.dyson.it
 www.dyson.ch
+api.dyson.it
+www.dyson.ie
 www.dyson.es
 *.dyson.com
 www.dyson.co.uk
@@ -304,8 +304,8 @@ webonboarding-eu.truecaller.com
 *.dev.remitly.com
 cards.remitly.io
 api.remitly.io
-rewire.com
 app3.rewire.to
+rewire.com
 app.rewire.to
 rates.rewire.com
 remitly.com
@@ -383,8 +383,8 @@ sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
 demo.dynamic.xyz
-app.dynamic-preprod.xyz
 app.dynamic.xyz
+app.dynamic-preprod.xyz
 app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
@@ -427,7 +427,6 @@ www.mercadopago.cl
 www.mercadopago.com.mx
 www.mercadolibre.com.mx
 www.mercadolibre.com.uy
-www.mercadopago.com.ar
 www.mercadolibre.cl
 api.mercadolibre.com
 www.mercadolibre.com.co
@@ -435,6 +434,7 @@ api.mercadopago.com
 www.mercadolivre.com.br
 www.mercadolibre.com.ar
 www.mercadopago.com.br
+www.mercadopago.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -770,8 +770,8 @@ developer.visa.com
 yourdomain.freshchat.com
 yourdomain.freshcaller.com
 yourdomain.myfreshworks.com
-yourdomain.freshservice.com
 yourdomain.freshdesk.com
+yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -940,8 +940,8 @@ aws.indrive.tech
 debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 *.grindr.mobi
-web.grindr.com
 *.grindr.com
+web.grindr.com
 *.grindr.io
 *.grindr.io
 *.grindr.com
@@ -1068,11 +1068,11 @@ admin.8x8.com
 *.napoleondice.be
 *.napoleongames.be
 *.napoleonsports.be
-*.luckydays.com
-*.superbet.rs
 *.luckydays.ca
 *.superbet.pl
 *.magicjackpot.ro
+*.luckydays.com
+*.superbet.rs
 *.superbet.com
 *.superbet.ro
 *.superbet.ro
@@ -1110,12 +1110,12 @@ hv-mtl.com
 *.10ktf.com
 *.yugalabs.io
 *.meebits.app
-*.cryptopunks.app
 dookeydash.com
 *.boredapeyachtclub.com
 *.wenewmoments.com
 *.yuga.com
 *.otherside.xyz
+*.cryptopunks.app
 *.boredapeyachtclub.com
 *.yuga.com
 *.yugalabs.io
@@ -1315,9 +1315,9 @@ ws.sorare.com
 *.romwe.com
 *.sheingsp.com
 pwapi.ex2b.com
-api.excalls.mobi
 social-trading.exness.com
 exnessaffiliates.com
+api.excalls.mobi
 pay.ibex.exchange
 exness.com
 my.exness.com
@@ -1617,10 +1617,10 @@ www.fedramp.gov
 marketplace.fedramp.gov
 federalist.18f.gov
 federalist-docs.18f.gov
-cloud.gov
 dashboard.fr.cloud.gov
 api.data.gov
 ssh.fr.cloud.gov
+cloud.gov
 www.usa.gov
 *.login.gov
 federalist-proxy.app.cloud.gov
@@ -1895,9 +1895,9 @@ hackers_chosendomain.larksuite.com
 *.exodus.com
 identity.yoti.com
 ccloud.yoti.com
+core.yoti.com
 www.yotisign.com
 code.yoti.com
-core.yoti.com
 api.yoti.com
 hub.yoti.com
 core.yoti.com
@@ -2366,8 +2366,8 @@ itv7.itv.com
 *.amazon.co.jp
 *.amazon.nl
 amazonpayinsurance.in
-*.amazon.ae
 *.amazon.com.br
+*.amazon.ae
 *.amazon.pl
 *.amazon.eg
 *.amazon.cn
@@ -2409,8 +2409,8 @@ amazonpayinsurance.in
 *.aliexpress.ru
 *.aliyun-inc.com
 www.alibabagroup.com
-*.alibabacloud.com
 *.aliexpress.com
+*.alibabacloud.com
 *.alibaba-inc.com
 *.aliyun.com
 *.taobao.com
@@ -2457,8 +2457,8 @@ maria.casino
 *.casinohuone.com
 *.kindredext.net
 *.highrolling.nu
-*.kes.kindredext.net
 *.unibet.fr
+*.kes.kindredext.net
 www.32red.com
 *.mariacasino.com
 *.bingo.com
@@ -2879,18 +2879,18 @@ service.racing.fanduel.com
 4njbets.tvg.com
 4njbets.com
 4njbets.us.betfair.com
+login-4njbets.us.betfair.com
+login-pabets.tvg.com
 mobile-prod.tvg.com
+login-ia.tvg.com
 m.4njbets.tvg.com
 pabets.tvg.com
 login.tvg.com
-www.4njbets.com
-service.tvg.com
-promos.tvg.com
-login-4njbets.us.betfair.com
-login-pabets.tvg.com
-login-ia.tvg.com
 login-4ngbets.us.betfair.com
 login.pabets.tvg.com
+service.tvg.com
+promos.tvg.com
+www.4njbets.com
 com.fanduel.android.live
 www.tvg.com
 sportsbook.fanduel.com
@@ -2942,19 +2942,19 @@ https://github.com/matomo-org/docker
 paypal.me
 *.braintree.tools
 *.paylution.com
+api.swiftfinancial.com
+decision.swiftfinancial.com
 my.swiftfinancial.com
-swiftfinancial.com
-prequal.swiftfinancial.com
-www.swiftcapital.com
-swiftcapital.com
 partner.swiftfinancial.com
 pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
 www.swiftfinancial.com
+swiftfinancial.com
+prequal.swiftfinancial.com
 api.loanbuilder.com
 my.loanbuilder.com
-api.swiftfinancial.com
-decision.swiftfinancial.com
+www.swiftcapital.com
+swiftcapital.com
 py.pl
 *.hyperwallet.com
 www.loanbuilder.com
@@ -3153,15 +3153,15 @@ https://crypto.com/price
 bounty-node.rsk.co
 https://github.com/rsksmart/rsk-powhsm/
 bounty-node.rsk.co
+*.deliveroo.hk
 *.deliveroo.be
+*.deliveroo.com.kw
 *.deliveroo.ie
 *.deliveroo.it
 *.deliveroo.com.hk
-*.deliveroo.com.kw
 *.deliveroo.com.qa
 *.deliveroo.com.sg
 *.deliveroo.ae
-*.deliveroo.hk
 *.deliveroo.co.uk
 *.deliveroo.fr
 *.deliveroo.co.uk
@@ -3236,8 +3236,8 @@ privatetarget-2-secure.zigzag
 api.lahitapiola.fi
 ext-gw.lahitapiola.fi
 www.lahitapiola.fi
-yrityspalvelu.tapiola.fi
 *.lahitapiola.fi
+yrityspalvelu.tapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -3342,12 +3342,12 @@ ccardseu1.badoo.com
 ccardsus1.badoo.com
 chatdate.app
 getofficial.co
-*.atspotify.com
 *.avecspotify.com
+*.atspotify.com
 *.enspotify.com
-*.forspotify.com
-*.fromspotify.com
 *.tospotify.com
+*.fromspotify.com
+*.forspotify.com
 api.spotify.com
 assets.spotify.com
 backstage.io
@@ -3475,8 +3475,8 @@ www.starbucks.fr
 login.starbucks.co.jp
 www.starbucks.com.cn
 www.starbucksreserve.com
-www.starbucks.co.kr
 www.starbucks.com
+www.starbucks.co.kr
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3662,8 +3662,8 @@ yourcompany.udemy.com
 shopify.plus
 *.shopifycs.com
 *.shopify.io
-shopifyinbox.com
 *.shopifycloud.com
+shopifyinbox.com
 shop.app
 *.shopify.com
 your-store.myshopify.com
@@ -3701,7 +3701,6 @@ msg.playcanvas.com
 relay.playcanvas.com
 playcanv.as
 geofilters.snapchat.com
-ads.snapchat.com
 forum.playcanvas.com
 businesshelp.snapchat.com
 developer.playcanvas.com
@@ -3719,6 +3718,7 @@ app.snapchat.com
 business.snapchat.com
 web.snapchat.com
 playcanvas.com
+ads.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3943,8 +3943,8 @@ prime.coinbase.com
 international.coinbase.com
 nft.coinbase.com
 cloud.coinbase.com
-pro.coinbase.com
 api.coinbase.com
+pro.coinbase.com
 api.custody.coinbase.com
 institutional.coinbase.com
 *.base.org
@@ -3993,6 +3993,7 @@ www.quip.com
 onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 le.yahooapis.com
+yimg.com
 data.mail.yahoo.com
 le.yahooapis.com
 onepush.query.yahoo.com
@@ -4016,11 +4017,11 @@ errors.hackerone.net
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 b5s.hackerone-ext-content.com
 api.hackerone.com
-hackerone.com
 www.hackerone.com
 app.pullrequest.com
 reviewer.pullrequest.com
 *.vpn.hackerone.net
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
