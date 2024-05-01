@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May  1 12:28:38 UTC 2024)
+## Domains with Bounties (Last Updated Wed May  1 13:18:37 UTC 2024)
 ```
 api.dyson.se
 api.dyson.dk
@@ -304,8 +304,8 @@ webonboarding-eu.truecaller.com
 *.dev.remitly.com
 cards.remitly.io
 api.remitly.io
-app3.rewire.to
 rewire.com
+app3.rewire.to
 app.rewire.to
 rates.rewire.com
 remitly.com
@@ -374,8 +374,8 @@ http://sandbox-api.fireblocks.io
 university-staging.dynatracelabs.com
 sso-sprint.dynatracelabs.com
 account-sprint.dynatracelabs.com
-myaccount-hardening.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
+myaccount-hardening.dynatracelabs.com
 *.sprint.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -466,16 +466,16 @@ supply-xml.booking.com
 portal.taxi.booking.com
 secure-supply-xml.booking.com
 kyc-onboarding.booking.com
+spark.fareharbor.com
 teleport.fareharbor.engineering
 paymentcomponent.booking.com
-spark.fareharbor.com
 flights.booking.com
 indicative-pricing.taxi.booking.com
 taxi.booking.com
 marketing.fareharbor.com
 readonly.fareharbor.com
-taxis.booking.com
 demo.fareharbor.com
+taxis.booking.com
 sites.fareharbor.com
 chat.booking.com
 widget.rentalcars.com
@@ -871,8 +871,8 @@ hiltonlocalbiz.com
 *.hiltonbusinessonline.com
 hilton.io
 hiltonhotels.jp
-hilton.com
 *.hilton.com
+hilton.com
 *.hilton.com
 *.hilton.io
 *.hiltonbusinessonline.com
@@ -1145,7 +1145,6 @@ www.flights.com
 *.vrbo.com
 www.ebookers.fi
 *.expediacruises.com
-*.hotwire.com
 www.fewo-direkt.de
 www.vrbo.com
 www.expediagroup.com
@@ -1155,6 +1154,7 @@ www.expediaagents.com
 www.bookabach.co.nz
 www.expediataap.com
 www.expedia.com
+*.hotwire.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1710,11 +1710,11 @@ cloud.elastic.co
 api.taxjar.com
 *.reckoproduction.com
 *.link.co
-app.taxjar.com
 *.reckostaging.com
 *.recko.io
 js.stripe.com
 *.touchtechpayments.com
+app.taxjar.com
 api.stripe.com
 *.stripe.com
 api.stripe.com
@@ -1816,8 +1816,8 @@ wp-dev4.chime.com
 wp-dev5.chime.com
 wp-integ.chime.com
 app.chime.com
-www.chime.com
 wp-qa.chime.com
+www.chime.com
 *.chimebank.com
 *.1debit.com
 *.chime.com
@@ -1893,11 +1893,11 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-ccloud.yoti.com
 identity.yoti.com
-core.yoti.com
-code.yoti.com
+ccloud.yoti.com
 www.yotisign.com
+code.yoti.com
+core.yoti.com
 api.yoti.com
 hub.yoti.com
 core.yoti.com
@@ -2501,9 +2501,9 @@ www.ritzcarlton.com
 marrtool.com
 all-inclusive.marriott.com
 homes-and-villas.marriott.com
-traveler.marriott.com
-sso.marriott.com
 www.marriott.com
+sso.marriott.com
+traveler.marriott.com
 homes-and-villas.marriott.com
 careers.marriott.com
 sso.marriott.com
@@ -2942,19 +2942,19 @@ https://github.com/matomo-org/docker
 paypal.me
 *.braintree.tools
 *.paylution.com
+api.swiftfinancial.com
+decision.swiftfinancial.com
 my.swiftfinancial.com
-swiftfinancial.com
-prequal.swiftfinancial.com
-www.swiftcapital.com
-swiftcapital.com
 partner.swiftfinancial.com
 pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
 www.swiftfinancial.com
+swiftfinancial.com
+prequal.swiftfinancial.com
 api.loanbuilder.com
 my.loanbuilder.com
-api.swiftfinancial.com
-decision.swiftfinancial.com
+www.swiftcapital.com
+swiftcapital.com
 py.pl
 *.hyperwallet.com
 www.loanbuilder.com
@@ -3105,9 +3105,9 @@ api.foliofn.com
 *.folioinvesting.com
 developer.valvesoftware.com
 playartifact.com
+partner.steampowered.com
 support.steampowered.com
 www.dota2.com
-partner.steampowered.com
 help.steampowered.com
 api.steampowered.com
 partner.steamgames.com
@@ -3153,14 +3153,14 @@ https://crypto.com/price
 bounty-node.rsk.co
 https://github.com/rsksmart/rsk-powhsm/
 bounty-node.rsk.co
-*.deliveroo.be
 *.deliveroo.ie
-*.deliveroo.com.sg
-*.deliveroo.ae
 *.deliveroo.it
+*.deliveroo.be
 *.deliveroo.com.hk
 *.deliveroo.com.kw
 *.deliveroo.com.qa
+*.deliveroo.com.sg
+*.deliveroo.ae
 *.deliveroo.hk
 *.deliveroo.co.uk
 *.deliveroo.fr
@@ -3236,8 +3236,8 @@ privatetarget-2-secure.zigzag
 api.lahitapiola.fi
 ext-gw.lahitapiola.fi
 www.lahitapiola.fi
-yrityspalvelu.tapiola.fi
 *.lahitapiola.fi
+yrityspalvelu.tapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -3464,8 +3464,8 @@ www.starbucks.com.br
 openapi.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
-www.starbucks.com.sg
 gift.starbucks.co.jp
+www.starbucks.com.sg
 www.starbucks.co.jp
 secureui.starbucks.com
 www.starbucks.co.uk
@@ -3475,8 +3475,8 @@ www.starbucks.fr
 login.starbucks.co.jp
 www.starbucks.com.cn
 www.starbucksreserve.com
-www.starbucks.com
 www.starbucks.co.kr
+www.starbucks.com
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3506,8 +3506,8 @@ ws.blockchain.info
 basicattentiontoken.org
 creators.basicattentiontoken.org
 account.brave.com
-search.brave.com
 talk.brave.com
+search.brave.com
 brave.com
 brave.com
 basicattentiontoken.org
@@ -3665,7 +3665,6 @@ shopify.plus
 shopifyinbox.com
 shop.app
 *.shopify.com
-your-store.myshopify.com
 admin.shopify.com
 linkpop.com
 arrive-server.shopifycloud.com
@@ -3673,6 +3672,7 @@ arrive-server.shopifycloud.com
 partners.shopify.com
 accounts.shopify.com
 *.shopifycloud.com
+your-store.myshopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3790,8 +3790,8 @@ callbacks.airbnb.com
 *.luxuryretreats.com
 *.airbnbcitizen.com
 www.hoteltonight.com
-assets.airbnb.com
 *.airbnb-aws.com
+assets.airbnb.com
 next.airbnb.com
 api.airbnb.com
 support-api.airbnb.com
@@ -3900,10 +3900,10 @@ intensedebate.com
 safe.tumblr.com
 assets.tumblr.com
 mailpoet.com
-*.tumblr.com
 gravatar.com
 www.tumblr.com
 wordpress.com
+*.tumblr.com
 *.tumblr.com
 *.srvcs.tumblr.com
 api.tumblr.com
@@ -3994,6 +3994,7 @@ www.quip.com
 onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 le.yahooapis.com
+yimg.com
 data.mail.yahoo.com
 le.yahooapis.com
 onepush.query.yahoo.com
@@ -4502,8 +4503,8 @@ api.greenhouse.io
 onboarding.greenhouse.io
 jss.greenhouse.io
 app.interseller.io
-www.greenhouse.io
 interseller.io
+www.greenhouse.io
 support.greenhouse.io
 app.greenhouse.io
 app.greenhouse.io
