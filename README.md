@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu May  2 12:29:33 UTC 2024)
+## Domains with Bounties (Last Updated Thu May  2 13:20:33 UTC 2024)
 ```
 williamhill.us
 api.americanwagering.com
@@ -23,8 +23,8 @@ https://caesarspalaceonline.com/us/pa/casino
 williamhill.us
 usercontent.koho.ca
 webgateway.koho.ca
-www.koho.ca
 web.koho.ca
+www.koho.ca
 app.koho.ca
 web.koho.ca
 http://api.koho.ca/1.0
@@ -49,9 +49,9 @@ www.dyson.cz
 www.dyson.nl
 shop.dyson.co.za
 www.dyson.at
-www.dyson.ch
 api.dyson.it
 www.dyson.ie
+www.dyson.ch
 www.dyson.es
 *.dyson.com
 www.dyson.co.uk
@@ -334,8 +334,8 @@ webonboarding-eu.truecaller.com
 *.dev.remitly.com
 cards.remitly.io
 api.remitly.io
-rewire.com
 app3.rewire.to
+rewire.com
 app.rewire.to
 rates.rewire.com
 *.int.remitly.com
@@ -436,9 +436,9 @@ auth.23andme.com
 therapeutics.23andme.com
 api.23andme.com
 you.23andme.com
-blog.23andme.com
 mediacenter.23andme.com
 medical.23andme.com
+blog.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -518,7 +518,7 @@ fhdn.fareharbor.com
 *.rentalcars.com
 secure.booking.com
 booking.com
-*.booking.com
+admin.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -712,11 +712,11 @@ visa.co.za
 www.fraedom.com
 www.practicalbusinessskills.org
 www.practicalmoneyskills.org
-bd.visa.com
 www.visa.com.ph
 www.visa.com.mx
 www.visa.co.jp
 bb.visa.com
+bd.visa.com
 visa.co.ni
 www.visa.com.kz
 www.visa.co.nz
@@ -798,10 +798,10 @@ sandbox.authorize.net
 developer.authorize.net
 developer.visa.com
 yourdomain.freshcaller.com
-yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
+yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -915,8 +915,8 @@ hiltonlocalbiz.com
 hiltonhotels.jp
 *.oklink.com
 *.okg.com
-*.okx.com
 *.okcoin.com
+*.okx.com
 *.okx.com
 *.okcoin.com
 *.oklink.com
@@ -940,9 +940,9 @@ file-storage-front.eu-east-1.indriverapp.com
 injob.indriver.com
 truck-api.eu-east-1.indriverapp.com
 ci.indrive.dev
+*.indrive.com
 new-order.eu-east-1.indriverapp.com
 *.indriverapp.com
-*.indrive.com
 volans.tech
 profile-api.eu-east-1.indriverapp.com
 *.indriverapp.com
@@ -1178,14 +1178,14 @@ www.mrjet.se
 www.fewo-direkt.de
 www.hotels.com
 www.expediataap.com
-*.vrbo.com
 *.expediapartnercentral.com
 www.vrbo.com
 *.lastminute.com.au
 *.cheaptickets.com
-*.hotwire.com
-www.expedia.com
 www.expediaagents.com
+www.expedia.com
+*.vrbo.com
+*.hotwire.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1317,9 +1317,9 @@ business.linkedin.com
 *.wealthsimple.com
 *.wealthsimple.com
 *.simpletax.ca
-www.swoodoo.com
 www.mundi.com.br
 www.checkfelix.com
+www.swoodoo.com
 www.momondo.com
 business.kayak.com
 www.kayak.com
@@ -1346,9 +1346,9 @@ ws.sorare.com
 *.romwe.com
 *.sheingsp.com
 pwapi.ex2b.com
+api.excalls.mobi
 social-trading.exness.com
 exnessaffiliates.com
-api.excalls.mobi
 pay.ibex.exchange
 exness.com
 my.exness.com
@@ -1790,8 +1790,8 @@ matrix.redditspace.com
 www.spiketrap.io
 ads.reddit.com
 *.reddit.com
-ads-api.reddit.com
 www.reddit.com
+ads-api.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1924,10 +1924,10 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-ccloud.yoti.com
 identity.yoti.com
-core.yoti.com
+ccloud.yoti.com
 code.yoti.com
+core.yoti.com
 api.yoti.com
 hub.yoti.com
 www.yotisign.com
@@ -2103,8 +2103,8 @@ www.figma.com
 api.figma.com
 3d.cs.money
 blog.cs.money
-wiki.cs.money
 support.cs.money
+wiki.cs.money
 cs.money
 cs.money
 support.cs.money
@@ -2440,8 +2440,8 @@ amazonpayinsurance.in
 *.aliexpress.ru
 *.aliyun-inc.com
 www.alibabagroup.com
-*.aliexpress.com
 *.alibabacloud.com
+*.aliexpress.com
 *.alibaba-inc.com
 *.taobao.com
 *.1688.com
@@ -3100,7 +3100,6 @@ marquee.gs.com
 *.foliodigitalwealth.com
 *.foliofn.com
 *.nnip.com
-*.marcus.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3138,8 +3137,8 @@ api.foliofn.com
 developer.valvesoftware.com
 playartifact.com
 partner.steampowered.com
-support.steampowered.com
 www.dota2.com
+support.steampowered.com
 help.steampowered.com
 api.steampowered.com
 partner.steamgames.com
@@ -3267,8 +3266,8 @@ privatetarget-2-secure.zigzag
 api.lahitapiola.fi
 ext-gw.lahitapiola.fi
 www.lahitapiola.fi
-yrityspalvelu.tapiola.fi
 *.lahitapiola.fi
+yrityspalvelu.tapiola.fi
 verkkopalvelu.tapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
@@ -3318,8 +3317,8 @@ gifts.grab.com
 jira.grab.com
 *.ovo.id
 *.myteksi.com
-kartaview.org
 *.grabtaxi.com
+kartaview.org
 *.grab.com
 *.myteksi.com
 *.myteksi.net
@@ -3383,8 +3382,8 @@ getofficial.co
 assets.spotify.com
 backstage.io
 *.withspotify.com
-*.byspotify.com
 api.spotify.com
+*.byspotify.com
 *.withspotify.com
 *.byspotify.com
 *.atspotify.com
@@ -3538,8 +3537,8 @@ ws.blockchain.info
 basicattentiontoken.org
 creators.basicattentiontoken.org
 account.brave.com
-search.brave.com
 talk.brave.com
+search.brave.com
 brave.com
 brave.com
 basicattentiontoken.org
@@ -3698,13 +3697,13 @@ linkpop.com
 arrive-server.shopifycloud.com
 *.shopifycloud.com
 *.shopifykloud.com
-partners.shopify.com
-*.shopify.com
 *.shopify.io
-your-store.myshopify.com
-admin.shopify.com
+partners.shopify.com
 shopifyinbox.com
 accounts.shopify.com
+your-store.myshopify.com
+admin.shopify.com
+*.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3821,8 +3820,8 @@ callbacks.airbnb.com
 *.byairbnb.com
 *.luxuryretreats.com
 *.airbnbcitizen.com
-*.airbnb-aws.com
 assets.airbnb.com
+*.airbnb-aws.com
 next.airbnb.com
 api.airbnb.com
 support-api.airbnb.com
@@ -3905,7 +3904,6 @@ grok.x.ai
 ide.x.ai
 *.teams.cloudflare.com
 waf.cumulusfire.net
-one.dash.cloudflare.com
 api.cloudflare.com
 cloudflareworkers.com
 dash.cloudflare.com
@@ -3933,8 +3931,8 @@ assets.tumblr.com
 mailpoet.com
 gravatar.com
 www.tumblr.com
-wordpress.com
 *.tumblr.com
+wordpress.com
 *.tumblr.com
 *.srvcs.tumblr.com
 api.tumblr.com
@@ -4007,8 +4005,8 @@ status.slack.com
 slack-imgs.com
 slack.com
 www.quip.com
-*.quip.com
 app.slack.com
+*.quip.com
 api.slack.com
 slack.com
 api.slack.com
@@ -4025,6 +4023,7 @@ www.quip.com
 onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 le.yahooapis.com
+yimg.com
 data.mail.yahoo.com
 le.yahooapis.com
 onepush.query.yahoo.com
@@ -4283,8 +4282,8 @@ magentocommerce.com
 u.magento.com
 imagine.magento.com
 magentolive.com
-repo.magento.com
 accounts.magento.cloud
+repo.magento.com
 marketplace.magento.com
 magento.com
 account.magento.com
