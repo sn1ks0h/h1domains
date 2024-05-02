@@ -2,14 +2,14 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu May  2 04:19:38 UTC 2024)
+## Domains with Bounties (Last Updated Thu May  2 05:18:32 UTC 2024)
 ```
 sportsbook.caesars.com
 williamhill.us
 api.americanwagering.com
 *.us.williamhill.com
-*.williamhill.us
 caesarspalaceonline.com
+*.williamhill.us
 *.us.williamhill.com
 *.williamhill.us
 sportsbook.caesars.com
@@ -24,8 +24,8 @@ williamhill.us
 usercontent.koho.ca
 app.koho.ca
 web.koho.ca
-www.koho.ca
 webgateway.koho.ca
+www.koho.ca
 web.koho.ca
 http://api.koho.ca/1.0
 http://api.koho.ca/partner
@@ -420,8 +420,8 @@ app.dynamic.xyz
 payments.hostinger.com
 cpanel.hostinger.com
 hpanel.hostinger.com
-www.hostinger.com
 *.000webhost.com
+www.hostinger.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -503,8 +503,8 @@ indicative-pricing.taxi.booking.com
 taxi.booking.com
 marketing.fareharbor.com
 readonly.fareharbor.com
-taxis.booking.com
 demo.fareharbor.com
+taxis.booking.com
 sites.fareharbor.com
 chat.booking.com
 widget.rentalcars.com
@@ -515,9 +515,9 @@ www.fareharbor.com
 compass.fareharbor.com
 fhdn.fareharbor.com
 secure.booking.com
-admin.booking.com
 *.rentalcars.com
 *.booking.com
+booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -711,11 +711,11 @@ visa.co.za
 www.fraedom.com
 www.practicalbusinessskills.org
 www.practicalmoneyskills.org
+bd.visa.com
 www.visa.com.ph
 www.visa.com.mx
 www.visa.co.jp
 bb.visa.com
-bd.visa.com
 visa.co.ni
 www.visa.com.kz
 www.visa.co.nz
@@ -799,8 +799,8 @@ developer.visa.com
 yourdomain.freshcaller.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
-yourdomain.myfreshworks.com
 yourdomain.freshchat.com
+yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -941,9 +941,9 @@ file-storage-front.eu-east-1.indriverapp.com
 injob.indriver.com
 truck-api.eu-east-1.indriverapp.com
 ci.indrive.dev
-*.indrive.com
 *.indriverapp.com
 volans.tech
+*.indrive.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -969,8 +969,8 @@ aws.indrive.tech
 debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 *.grindr.mobi
-*.grindr.com
 web.grindr.com
+*.grindr.com
 *.grindr.io
 *.grindr.io
 *.grindr.com
@@ -1103,8 +1103,8 @@ admin.8x8.com
 *.magicjackpot.ro
 *.luckydays.com
 *.superbet.rs
-*.superbet.ro
 *.superbet.com
+*.superbet.ro
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -1173,7 +1173,6 @@ www.ebookers.fi
 www.fewo-direkt.de
 www.bookabach.co.nz
 *.carrentals.com
-www.expediataap.com
 www.hotels.com
 www.expedia.com
 *.vrbo.com
@@ -1185,6 +1184,7 @@ www.expediagroup.com
 *.cheaptickets.com
 www.expediaagents.com
 *.hotwire.com
+www.expediataap.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1345,9 +1345,9 @@ ws.sorare.com
 *.romwe.com
 *.sheingsp.com
 pwapi.ex2b.com
+api.excalls.mobi
 social-trading.exness.com
 exnessaffiliates.com
-api.excalls.mobi
 pay.ibex.exchange
 exness.com
 my.exness.com
@@ -1647,10 +1647,10 @@ www.fedramp.gov
 marketplace.fedramp.gov
 federalist.18f.gov
 federalist-docs.18f.gov
+cloud.gov
 dashboard.fr.cloud.gov
 api.data.gov
 ssh.fr.cloud.gov
-cloud.gov
 www.usa.gov
 *.login.gov
 federalist-proxy.app.cloud.gov
@@ -1740,11 +1740,11 @@ cloud.elastic.co
 api.taxjar.com
 *.reckoproduction.com
 *.link.co
-app.taxjar.com
 *.reckostaging.com
 *.recko.io
 js.stripe.com
 *.touchtechpayments.com
+app.taxjar.com
 api.stripe.com
 *.stripe.com
 api.stripe.com
@@ -1923,10 +1923,10 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-identity.yoti.com
 ccloud.yoti.com
-code.yoti.com
+identity.yoti.com
 core.yoti.com
+code.yoti.com
 www.yotisign.com
 api.yoti.com
 hub.yoti.com
@@ -2102,8 +2102,8 @@ www.figma.com
 api.figma.com
 3d.cs.money
 blog.cs.money
-support.cs.money
 wiki.cs.money
+support.cs.money
 cs.money
 cs.money
 support.cs.money
@@ -2396,7 +2396,6 @@ itv7.itv.com
 *.amazon.se
 *.amazon.nl
 amazonpayinsurance.in
-*.amazon.com.br
 *.amazon.ae
 *.amazon.pl
 *.amazon.eg
@@ -2406,8 +2405,9 @@ amazonpayinsurance.in
 *.amazon.ca
 *.amazon.in
 *.amazon.cn
-*.amazon.com
 *.amazon.co.uk
+*.amazon.com
+*.amazon.com.br
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -2468,8 +2468,8 @@ auth.magic.link
 x2.fortmatic.com
 dashboard.magic.link
 api.magic.link
-fortmatic.com
 api.fortmatic.com
+fortmatic.com
 api.fortmatic.com
 x2.fortmatic.com
 careers.fortmatic.com
@@ -2490,9 +2490,9 @@ maria.casino
 *.kes.kindredext.net
 *.unibet.fr
 www.32red.com
-*.mariacasino.com
 *.bingo.com
 *.unibet.com
+*.mariacasino.com
 *.unibet.com
 *.unibet.fr
 *.storspiller.com
@@ -2722,8 +2722,8 @@ app.command.cysiv.com
 api.rezserver.com
 admin.rezserver.com
 reservations.rezserver.com
-cruises.priceline.com
 press.priceline.com
+cruises.priceline.com
 www.bookingholdings.com
 flyiin.com
 www.priceline.com
@@ -3099,6 +3099,7 @@ marquee.gs.com
 *.foliodigitalwealth.com
 *.foliofn.com
 *.nnip.com
+*.marcus.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3135,9 +3136,9 @@ api.foliofn.com
 *.folioinvesting.com
 developer.valvesoftware.com
 playartifact.com
+partner.steampowered.com
 support.steampowered.com
 www.dota2.com
-partner.steampowered.com
 help.steampowered.com
 api.steampowered.com
 partner.steamgames.com
@@ -3166,8 +3167,8 @@ app.mona.co
 *.mona.co
 merchant.crypto.com
 tax.crypto.com
-*.crypto.com
 auth.crypto.com
+*.crypto.com
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3183,15 +3184,15 @@ https://crypto.com/price
 bounty-node.rsk.co
 https://github.com/rsksmart/rsk-powhsm/
 bounty-node.rsk.co
-*.deliveroo.hk
 *.deliveroo.be
-*.deliveroo.com.kw
 *.deliveroo.ie
-*.deliveroo.it
-*.deliveroo.com.hk
-*.deliveroo.com.qa
 *.deliveroo.com.sg
 *.deliveroo.ae
+*.deliveroo.it
+*.deliveroo.com.hk
+*.deliveroo.com.kw
+*.deliveroo.com.qa
+*.deliveroo.hk
 *.deliveroo.co.uk
 *.deliveroo.fr
 *.deliveroo.co.uk
@@ -3314,11 +3315,11 @@ gifts.grab.com
 *.grab.co
 *.grabpay.com
 jira.grab.com
-*.grabtaxi.com
 *.ovo.id
 *.grab.com
 *.myteksi.com
 kartaview.org
+*.grabtaxi.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3375,13 +3376,13 @@ getofficial.co
 *.avecspotify.com
 *.atspotify.com
 *.enspotify.com
-*.tospotify.com
 *.fromspotify.com
 *.forspotify.com
+*.tospotify.com
 assets.spotify.com
 backstage.io
-*.byspotify.com
 *.withspotify.com
+*.byspotify.com
 api.spotify.com
 *.withspotify.com
 *.byspotify.com
@@ -3505,8 +3506,8 @@ www.starbucks.fr
 login.starbucks.co.jp
 www.starbucks.com.cn
 www.starbucksreserve.com
-www.starbucks.co.kr
 www.starbucks.com
+www.starbucks.co.kr
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3634,10 +3635,10 @@ winecellar.zomato.com
 api.grofers.com
 api2.grofers.com
 blinkit.com
-*.algolia.net
 *.algolianet.com
 dashboard.algolia.com
 www.algolia.com
+*.algolia.net
 *.algolia.net
 *.algolianet.com
 www.algolia.com
@@ -3685,8 +3686,8 @@ zopim.com
 app.futuresimple.com
 api.getbase.com
 http://h1-your-domain.zendesk.com/sell
-www.udemy.com
 yourcompany.udemy.com
+www.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 shopify.plus
@@ -3697,8 +3698,8 @@ linkpop.com
 arrive-server.shopifycloud.com
 *.shopifycloud.com
 admin.shopify.com
-partners.shopify.com
 *.shopifykloud.com
+partners.shopify.com
 your-store.myshopify.com
 *.shopify.com
 accounts.shopify.com
@@ -4006,8 +4007,8 @@ status.slack.com
 slack-imgs.com
 slack.com
 www.quip.com
-app.slack.com
 *.quip.com
+app.slack.com
 api.slack.com
 slack.com
 api.slack.com
@@ -4024,6 +4025,7 @@ www.quip.com
 onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 le.yahooapis.com
+yimg.com
 data.mail.yahoo.com
 le.yahooapis.com
 onepush.query.yahoo.com
@@ -4042,8 +4044,8 @@ ctf.hacker101.com
 hackerone-user-content.com
 www.wearehackerone.com
 hackerone.live
-errors.hackerone.net
 a5s.hackerone-ext-content.com
+errors.hackerone.net
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 b5s.hackerone-ext-content.com
 *.vpn.hackerone.net
@@ -4282,8 +4284,8 @@ magentocommerce.com
 u.magento.com
 imagine.magento.com
 magentolive.com
-accounts.magento.cloud
 repo.magento.com
+accounts.magento.cloud
 marketplace.magento.com
 magento.com
 account.magento.com
@@ -4532,8 +4534,8 @@ api.greenhouse.io
 onboarding.greenhouse.io
 jss.greenhouse.io
 app.interseller.io
-www.greenhouse.io
 interseller.io
+www.greenhouse.io
 support.greenhouse.io
 app.greenhouse.io
 app.greenhouse.io
