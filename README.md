@@ -2,12 +2,12 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat May  4 09:18:43 UTC 2024)
+## Domains with Bounties (Last Updated Sat May  4 10:17:05 UTC 2024)
 ```
 api.americanwagering.com
-sportsbook.caesars.com
 *.us.williamhill.com
 williamhill.us
+sportsbook.caesars.com
 caesarspalaceonline.com
 *.williamhill.us
 *.us.williamhill.com
@@ -49,9 +49,9 @@ www.dyson.cz
 www.dyson.nl
 shop.dyson.co.za
 www.dyson.at
+www.dyson.ch
 api.dyson.it
 www.dyson.ie
-www.dyson.ch
 www.dyson.es
 *.dyson.com
 www.dyson.co.uk
@@ -420,9 +420,9 @@ demo.dynamic.xyz
 app.dynamic.xyz
 payments.hostinger.com
 cpanel.hostinger.com
-hpanel.hostinger.com
 *.000webhost.com
 www.hostinger.com
+hpanel.hostinger.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -462,8 +462,8 @@ api.mercadolibre.com
 www.mercadolibre.com.mx
 www.mercadolibre.com.ar
 www.mercadolivre.com.br
-api.mercadopago.com
 www.mercadopago.com.br
+api.mercadopago.com
 www.mercadopago.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
@@ -798,8 +798,8 @@ sandbox.authorize.net
 developer.authorize.net
 developer.visa.com
 yourdomain.freshcaller.com
-yourdomain.freshdesk.com
 yourdomain.freshservice.com
+yourdomain.freshdesk.com
 yourdomain.freshchat.com
 yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
@@ -840,8 +840,8 @@ crash-stats.allizom.org
 merino.services.mozilla.com
 aus5.mozilla.org
 shavar.services.mozilla.com
-monitor.mozilla.org
 bugzilla.mozilla.org
+monitor.mozilla.org
 push.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 firefox.settings.services.mozilla.com
@@ -854,8 +854,8 @@ sync.services.mozilla.com
 hg.mozilla.org
 accounts.firefox.com
 community-tc.services.mozilla.com
-firefox-ci-tc.services.mozilla.com
 stage.taskcluster.nonprod.cloudops.mozgcp.net
+firefox-ci-tc.services.mozilla.com
 support.mozilla.org
 relay.firefox.com
 addons.allizom.org
@@ -896,9 +896,9 @@ api-eu.floqast.app
 *.hiltonlocalbiz.com
 hiltonbusinessonline.com
 hiltonlocalbiz.com
-*.hiltonhotels.jp
 *.hiltonbusinessonline.com
 hilton.io
+*.hiltonhotels.jp
 hiltonhotels.jp
 *.hilton.io
 *.hilton.com
@@ -914,9 +914,9 @@ hiltonbusinessonline.com
 hiltonlocalbiz.com
 hiltonhotels.jp
 *.oklink.com
-*.okcoin.com
 *.okg.com
 *.okx.com
+*.okcoin.com
 *.okx.com
 *.okcoin.com
 *.oklink.com
@@ -1060,13 +1060,14 @@ platform.8x8pilot.com
 voapi.8x8.com
 user-profile-staging.8x8.com
 *.8x8staging.com
-sso.8x8pilot.com
 platform.8x8.com
+sso.8x8pilot.com
 sso.8x8.com
 *.jitsi.net
 *.jit.si
 pay.8x8.com
 *.8x8.vc
+*.8x8cloud.net
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1098,11 +1099,11 @@ admin.8x8.com
 *.napoleondice.be
 *.napoleongames.be
 *.napoleonsports.be
+*.luckydays.com
+*.superbet.rs
 *.luckydays.ca
 *.superbet.pl
 *.magicjackpot.ro
-*.luckydays.com
-*.superbet.rs
 *.superbet.com
 *.superbet.ro
 *.superbet.ro
@@ -1173,18 +1174,18 @@ www.fewo-direkt.de
 www.hotels.com
 *.cheaptickets.com
 www.mrjet.se
-www.expedia.com
+*.vrbo.com
 www.expediataap.com
 www.expediaagents.com
+www.expedia.com
 www.ebookers.com
 www.orbitz.com
-*.vrbo.com
+*.hotwire.com
 *.wotif.com
 *.expediacruises.com
 *.lastminute.com.au
 www.vrbo.com
 *.expediapartnercentral.com
-*.hotwire.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -2044,8 +2045,8 @@ business.tiktok.com
 partner.tiktokshop.com
 creatormarketplace.tiktok.com
 *.tiktok.com
-live-backstage.tiktok.com
 developers.tiktok.com
+live-backstage.tiktok.com
 ads.tiktok.com
 *.tiktokv.com
 tiktok.com
@@ -2291,8 +2292,8 @@ wallet.polygon.technology
 faucet.polygon.technology
 burn.polygon.technology
 bridge-api.matic.network
-portal.polygon.technology
 open-api.polygon.technology
+portal.polygon.technology
 wallet.polygon.technology
 staking-api.polygon.technology
 bridge-explorer.polygon.technology
@@ -2978,7 +2979,6 @@ py.pl
 loanbuilder.com
 paypalobjects.com
 www.loanbuilder.com
-*.braintreegateway.com
 *.braintree-api.com
 my.swiftfinancial.com
 sandbox.braintreegateway.com
@@ -2986,6 +2986,7 @@ sandbox.braintreegateway.com
 *.braintreepayments.com
 *.paypalcorp.com
 *.xoom.com
+*.braintreegateway.com
 *.paypal.com
 *.xoom.com
 *.paypal.com
@@ -3088,6 +3089,7 @@ marquee.gs.com
 *.foliodigitalwealth.com
 *.foliofn.com
 *.nnip.com
+api.foliofn.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3124,9 +3126,9 @@ api.foliofn.com
 *.folioinvesting.com
 developer.valvesoftware.com
 playartifact.com
-partner.steampowered.com
-www.dota2.com
 support.steampowered.com
+www.dota2.com
+partner.steampowered.com
 help.steampowered.com
 partner.steamgames.com
 www.counter-strike.net
@@ -3153,9 +3155,9 @@ app.mona.co
 *.mona.co
 merchant.crypto.com
 tax.crypto.com
+auth.crypto.com
 www.crypto.com
 *.crypto.com
-auth.crypto.com
 js.crypto.com
 *.crypto.com
 *.mona.co
@@ -3172,11 +3174,11 @@ https://crypto.com/price
 bounty-node.rsk.co
 https://github.com/rsksmart/rsk-powhsm/
 bounty-node.rsk.co
+*.deliveroo.be
+*.deliveroo.com.kw
 *.deliveroo.ie
 *.deliveroo.it
-*.deliveroo.be
 *.deliveroo.com.hk
-*.deliveroo.com.kw
 *.deliveroo.com.qa
 *.deliveroo.com.sg
 *.deliveroo.ae
@@ -3525,8 +3527,8 @@ ws.blockchain.info
 basicattentiontoken.org
 creators.basicattentiontoken.org
 account.brave.com
-talk.brave.com
 search.brave.com
+talk.brave.com
 brave.com
 brave.com
 basicattentiontoken.org
@@ -3564,8 +3566,8 @@ gist.github.com
 classroom.github.com
 education.github.com
 api.github.com
-github.com
 npmjs.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3682,9 +3684,9 @@ shopify.plus
 *.shopifycs.com
 arrive-server.shopifycloud.com
 *.shopifykloud.com
-shopifyinbox.com
 linkpop.com
 *.shopifycloud.com
+shopifyinbox.com
 your-store.myshopify.com
 *.shopify.com
 shop.app
@@ -3966,8 +3968,8 @@ institutional.coinbase.com
 commerce.coinbase.com
 coinbase.com
 *.cbhq.net
-*.coinbase.com
 cloud.coinbase.com
+*.coinbase.com
 nft.coinbase.com
 api.coinbase.com
 *.coinbase.com
@@ -4039,8 +4041,8 @@ reviewer.pullrequest.com
 a5s.hackerone-ext-content.com
 api.hackerone.com
 b5s.hackerone-ext-content.com
-hackerone.com
 www.hackerone.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
