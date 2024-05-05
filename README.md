@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun May  5 07:16:24 UTC 2024)
+## Domains with Bounties (Last Updated Sun May  5 08:19:59 UTC 2024)
 ```
 *.us.williamhill.com
 caesarspalaceonline.com
@@ -49,9 +49,9 @@ www.dyson.cz
 www.dyson.nl
 shop.dyson.co.za
 www.dyson.at
-www.dyson.ch
-api.dyson.it
 www.dyson.ie
+api.dyson.it
+www.dyson.ch
 www.dyson.es
 *.dyson.com
 www.dyson.co.uk
@@ -432,8 +432,8 @@ https://passport.eufy.com/?app=eufy-us
 education.23andme.com
 store.23andme.com
 api.23andme.com
-medical.23andme.com
 therapeutics.23andme.com
+medical.23andme.com
 blog.23andme.com
 mediacenter.23andme.com
 research.23andme.com
@@ -502,8 +502,8 @@ indicative-pricing.taxi.booking.com
 taxi.booking.com
 marketing.fareharbor.com
 readonly.fareharbor.com
-taxis.booking.com
 demo.fareharbor.com
+taxis.booking.com
 sites.fareharbor.com
 widget.rentalcars.com
 cars.booking.com
@@ -515,10 +515,10 @@ fhdn.fareharbor.com
 *.rentalcars.com
 experiences.booking.com
 account.booking.com
-*.booking.com
 paymentcomponent.booking.com
 booking.com
 secure.booking.com
+chat.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -570,8 +570,8 @@ api2.frontapp.com
 app.frontapp.com
 app.frontapp.com
 api2.frontapp.com
-*.booztlet.com
 *.boozt.com
+*.booztlet.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -712,11 +712,11 @@ visa.co.za
 www.fraedom.com
 www.practicalbusinessskills.org
 www.practicalmoneyskills.org
-bd.visa.com
 www.visa.com.ph
 www.visa.com.mx
 www.visa.co.jp
 bb.visa.com
+bd.visa.com
 visa.co.ni
 www.visa.com.kz
 www.visa.co.nz
@@ -840,8 +840,8 @@ crash-stats.allizom.org
 merino.services.mozilla.com
 aus5.mozilla.org
 shavar.services.mozilla.com
-bugzilla.mozilla.org
 monitor.mozilla.org
+bugzilla.mozilla.org
 push.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 firefox.settings.services.mozilla.com
@@ -853,8 +853,8 @@ sync.services.mozilla.com
 hg.mozilla.org
 accounts.firefox.com
 community-tc.services.mozilla.com
-stage.taskcluster.nonprod.cloudops.mozgcp.net
 firefox-ci-tc.services.mozilla.com
+stage.taskcluster.nonprod.cloudops.mozgcp.net
 support.mozilla.org
 relay.firefox.com
 www.mozilla.org
@@ -896,9 +896,9 @@ api-eu.floqast.app
 *.hiltonlocalbiz.com
 hiltonbusinessonline.com
 hiltonlocalbiz.com
-*.hiltonhotels.jp
 *.hiltonbusinessonline.com
 hilton.io
+*.hiltonhotels.jp
 hiltonhotels.jp
 *.hilton.io
 hilton.com
@@ -1098,11 +1098,11 @@ admin.8x8.com
 *.napoleondice.be
 *.napoleongames.be
 *.napoleonsports.be
-*.luckydays.com
-*.superbet.rs
 *.luckydays.ca
 *.superbet.pl
 *.magicjackpot.ro
+*.luckydays.com
+*.superbet.rs
 *.superbet.com
 *.superbet.ro
 *.superbet.ro
@@ -1157,11 +1157,10 @@ dookeydash.com
 *.wenewmoments.com
 dookeydash.com
 hv-mtl.com
+*.lastminute.co.nz
 www.stayz.com.au
 www.abritel.fr
-*.travelocity.ca
 www.hotwirepartnercentral.com
-*.lastminute.co.nz
 *.travelocity.com
 www.flights.com
 www.ebookers.fi
@@ -1172,9 +1171,9 @@ www.expediapartnersolutions.com
 www.fewo-direkt.de
 *.cheaptickets.com
 www.mrjet.se
-www.expediataap.com
-www.expediaagents.com
 www.ebookers.com
+www.expediaagents.com
+www.expediataap.com
 www.orbitz.com
 *.vrbo.com
 *.expediapartnercentral.com
@@ -1185,6 +1184,7 @@ www.vrbo.com
 www.hotels.com
 *.hotwire.com
 www.expedia.com
+*.travelocity.ca
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1345,9 +1345,9 @@ ws.sorare.com
 *.romwe.com
 *.sheingsp.com
 pwapi.ex2b.com
-api.excalls.mobi
 social-trading.exness.com
 exnessaffiliates.com
+api.excalls.mobi
 pay.ibex.exchange
 exness.com
 my.exness.com
@@ -1646,10 +1646,10 @@ www.fedramp.gov
 marketplace.fedramp.gov
 federalist.18f.gov
 federalist-docs.18f.gov
-cloud.gov
 dashboard.fr.cloud.gov
 api.data.gov
 ssh.fr.cloud.gov
+cloud.gov
 www.usa.gov
 *.login.gov
 federalist-proxy.app.cloud.gov
@@ -1724,10 +1724,10 @@ https://www.xvideos.net/app/
 *.found.io
 *.elasticnet.co
 www.elastic.co
-*.elstc.co
 *.elastic.co
-cloud.elastic.co
 *.swiftype.com
+cloud.elastic.co
+*.elstc.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1784,11 +1784,11 @@ oauth.reddit.com
 *.snooguts.net
 *.reddithelp.com
 matrix.redditspace.com
-www.spiketrap.io
 ads.reddit.com
 ads-api.reddit.com
 accounts.reddit.com
 *.reddit.com
+www.spiketrap.io
 www.reddit.com
 *.snooguts.net
 *.redditmedia.com
@@ -2100,8 +2100,8 @@ www.figma.com
 api.figma.com
 3d.cs.money
 blog.cs.money
-wiki.cs.money
 support.cs.money
+wiki.cs.money
 cs.money
 cs.money
 support.cs.money
@@ -2584,8 +2584,8 @@ k8s.io
 kubernetes-csi.github.io
 downloads.datastax.com
 astra.datastax.com
-www.datastax.com
 docs.datastax.com
+www.datastax.com
 www.datastax.com
 downloads.datastax.com
 docs.datastax.com
@@ -2801,9 +2801,9 @@ booking.cheapcaribbean.com
 res.hyattinclusivecollection.com
 booking.applevacations.com
 login.www.vaxvacationaccess.com
-res.en.travelbrandsagent.com
 new.www.vaxvacationaccess.com
 res.vacations.united.com
+vacations.united.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -2897,15 +2897,15 @@ service.racing.fanduel.com
 4njbets.us.betfair.com
 4njbets.tvg.com
 4njbets.com
+mobile-prod.tvg.com
+pabets.tvg.com
+service.tvg.com
+promos.tvg.com
 login-4njbets.us.betfair.com
 login-pabets.tvg.com
 login-ia.tvg.com
 m.4njbets.tvg.com
 login.tvg.com
-mobile-prod.tvg.com
-pabets.tvg.com
-service.tvg.com
-promos.tvg.com
 www.4njbets.com
 login-4ngbets.us.betfair.com
 login.pabets.tvg.com
@@ -2964,8 +2964,8 @@ paypal.me
 api.swiftfinancial.com
 decision.swiftfinancial.com
 partner.swiftfinancial.com
-scrutiny.swiftfinancial.com
 pigeon.swiftfinancial.com
+scrutiny.swiftfinancial.com
 www.swiftfinancial.com
 swiftfinancial.com
 prequal.swiftfinancial.com
@@ -2979,8 +2979,8 @@ paypalobjects.com
 www.loanbuilder.com
 *.braintree-api.com
 my.swiftfinancial.com
-*.hyperwallet.com
 *.braintreepayments.com
+*.hyperwallet.com
 sandbox.braintreegateway.com
 *.paypalcorp.com
 *.xoom.com
@@ -3125,16 +3125,16 @@ api.foliofn.com
 developer.valvesoftware.com
 playartifact.com
 partner.steampowered.com
-support.steampowered.com
 www.dota2.com
+support.steampowered.com
 help.steampowered.com
 partner.steamgames.com
 www.counter-strike.net
 store.steampowered.com
-steamcommunity.com
 www.valvesoftware.com
 www.teamfortress.com
 api.steampowered.com
+steamcommunity.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3150,9 +3150,9 @@ help.steampowered.com
 developer.valvesoftware.com
 pay.crypto.com
 app.mona.co
-tax.crypto.com
 merchant.crypto.com
 *.mona.co
+tax.crypto.com
 auth.crypto.com
 www.crypto.com
 js.crypto.com
@@ -3172,10 +3172,10 @@ https://crypto.com/price
 bounty-node.rsk.co
 https://github.com/rsksmart/rsk-powhsm/
 bounty-node.rsk.co
-*.deliveroo.com.kw
 *.deliveroo.ie
 *.deliveroo.it
 *.deliveroo.com.hk
+*.deliveroo.com.kw
 *.deliveroo.com.qa
 *.deliveroo.com.sg
 *.deliveroo.fr
@@ -3493,9 +3493,9 @@ www.starbucks.fr
 www.starbucks.com.cn
 www.starbucksreserve.com
 app.starbucks.com
-www.starbucks.com
 login.starbucks.co.jp
 www.starbucks.co.kr
+www.starbucks.com
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3723,7 +3723,6 @@ rt.playcanvas.com
 store.playcanvas.com
 *.sc-core.net
 code.playcanvas.com
-www.bitmoji.com
 story.snapchat.com
 *.sc-corp.net
 businesshelp.snapchat.com
@@ -3738,6 +3737,7 @@ accounts.snapchat.com
 kit.snapchat.com
 business.snapchat.com
 snappublisher.snapchat.com
+www.bitmoji.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3815,8 +3815,8 @@ support-api.airbnb.com
 *.muscache.com
 www.hoteltonight.com
 *.airbnb-aws.com
-*.airbnb.com
 *.withairbnb.com
+*.airbnb.com
 www.airbnb.com
 www.airbnb.com
 next.airbnb.com
@@ -3993,8 +3993,8 @@ www.quip.com
 *.quip.com
 api.slack.com
 slack.com
-app.slack.com
 slack-imgs.com
+app.slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -4037,8 +4037,8 @@ a5s.hackerone-ext-content.com
 api.hackerone.com
 b5s.hackerone-ext-content.com
 app.pullrequest.com
-hackerone.com
 www.hackerone.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
