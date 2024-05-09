@@ -2,10 +2,10 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu May  9 14:21:39 UTC 2024)
+## Domains with Bounties (Last Updated Thu May  9 15:21:21 UTC 2024)
 ```
-*.us.williamhill.com
 api.americanwagering.com
+*.us.williamhill.com
 sportsbook.caesars.com
 caesarspalaceonline.com
 williamhill.us
@@ -496,8 +496,8 @@ supply-xml.booking.com
 portal.taxi.booking.com
 secure-supply-xml.booking.com
 kyc-onboarding.booking.com
-teleport.fareharbor.engineering
 spark.fareharbor.com
+teleport.fareharbor.engineering
 flights.booking.com
 indicative-pricing.taxi.booking.com
 taxi.booking.com
@@ -847,8 +847,8 @@ lando.services.mozilla.com
 developer.mozilla.org
 sync.services.mozilla.com
 hg.mozilla.org
-community-tc.services.mozilla.com
 stage.taskcluster.nonprod.cloudops.mozgcp.net
+community-tc.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
 support.mozilla.org
 relay.firefox.com
@@ -913,8 +913,8 @@ hiltonbusinessonline.com
 hiltonlocalbiz.com
 hiltonhotels.jp
 *.oklink.com
-*.okg.com
 *.okx.com
+*.okg.com
 *.okcoin.com
 *.okx.com
 *.okcoin.com
@@ -1170,20 +1170,20 @@ www.expediataap.com
 www.hotels.com
 *.wotif.com
 *.travelocity.ca
-www.expediagroup.com
 www.abritel.fr
 *.vrbo.com
-www.mrjet.se
 www.vrbo.com
 www.orbitz.com
 *.cheaptickets.com
 www.fewo-direkt.de
 www.expedia.com
-*.expediacruises.com
 *.expediapartnercentral.com
 www.ebookers.fi
 *.carrentals.com
 *.hotwire.com
+*.expediacruises.com
+www.expediagroup.com
+www.mrjet.se
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1344,9 +1344,9 @@ ws.sorare.com
 *.romwe.com
 *.sheingsp.com
 pwapi.ex2b.com
-api.excalls.mobi
 social-trading.exness.com
 exnessaffiliates.com
+api.excalls.mobi
 pay.ibex.exchange
 exness.com
 my.exness.com
@@ -1399,8 +1399,8 @@ charts.etoro.com
 aggregator.etoro.com
 www.etoro.com
 delta.app
-bullsheet.me
 etoropartners.com
+bullsheet.me
 www.etoro.com
 etoropartners.com
 partners.etoro.com
@@ -1440,8 +1440,8 @@ shoppers.instacart.com
 api.instacart.com
 *.instacart.tools
 admin.instacart.com
-www.instacart.com
 *.instacart.com
+www.instacart.com
 *.instacart.com
 *.instacart.tools
 api.instacart.com
@@ -1500,9 +1500,9 @@ analytics.krisp.ai
 upld.krisp.ai
 admin.wickr.com
 admin.wickr.com
-*.joinclubhouse.com
 *.clubhouseapi.com
 *.clubhouse.com
+*.joinclubhouse.com
 *.clubhouse.com
 *.joinclubhouse.com
 *.clubhouseapi.com
@@ -1604,9 +1604,9 @@ playwonderbox.com
 therecord.media
 geminiadvisory.io
 hatching.io
+app.recordedfuture.com
 id.recordedfuture.com
 api.recordedfuture.com
-app.recordedfuture.com
 securitytrails.com
 www.recordedfuture.com
 tria.ge
@@ -1646,10 +1646,10 @@ www.fedramp.gov
 marketplace.fedramp.gov
 federalist.18f.gov
 federalist-docs.18f.gov
-cloud.gov
 dashboard.fr.cloud.gov
 api.data.gov
 ssh.fr.cloud.gov
+cloud.gov
 *.login.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
@@ -1782,8 +1782,8 @@ matrix.redditspace.com
 accounts.reddit.com
 www.spiketrap.io
 www.reddit.com
-oauth.reddit.com
 *.reddit.com
+oauth.reddit.com
 new.reddit.com
 *.redditinc.com
 ads.reddit.com
@@ -1921,13 +1921,13 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-identity.yoti.com
 ccloud.yoti.com
-code.yoti.com
+identity.yoti.com
 core.yoti.com
+code.yoti.com
 api.yoti.com
-hub.yoti.com
 www.yotisign.com
+hub.yoti.com
 core.yoti.com
 api.yoti.com
 ccloud.yoti.com
@@ -2023,8 +2023,8 @@ business.tiktok.com
 partner.tiktokshop.com
 *.tiktok.com
 ads.tiktok.com
-creatormarketplace.tiktok.com
 tiktok.com
+creatormarketplace.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2235,7 +2235,6 @@ kbill.mackeeper.com
 api-ne.mackeeper.com
 mkapi.mackeeper.com
 mackeeper.com
-api.direct.playstation.com
 wallets.api.playstation.com
 transact.playstation.com
 my.playstation.com
@@ -2247,6 +2246,7 @@ social.playstation.com
 my.account.sony.com
 *.sonyentertainmentnetwork.com
 *.playstation.net
+api.direct.playstation.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -2371,8 +2371,8 @@ itv7.itv.com
 *.amazon.com.au
 amazonpayinsurance.in
 *.amazon.it
-*.amazon.com.mx
 *.amazon.co.uk
+*.amazon.com.mx
 *.amazon.cn
 *.amazon.eg
 *.amazon.com.br
@@ -2695,8 +2695,8 @@ app.command.cysiv.com
 api.rezserver.com
 admin.rezserver.com
 reservations.rezserver.com
-cruises.priceline.com
 press.priceline.com
+cruises.priceline.com
 www.bookingholdings.com
 flyiin.com
 www.priceline.com
@@ -2776,10 +2776,10 @@ booking.cheapcaribbean.com
 res.hyattinclusivecollection.com
 booking.applevacations.com
 login.www.vaxvacationaccess.com
+res.en.travelbrandsagent.com
 res.vacations.united.com
 vacations.united.com
 res.vacations.universalstudioshollywood.com
-res.en.travelbrandsagent.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -2873,18 +2873,18 @@ service.racing.fanduel.com
 4njbets.tvg.com
 4njbets.com
 4njbets.us.betfair.com
-login-4njbets.us.betfair.com
-login-pabets.tvg.com
 mobile-prod.tvg.com
-login-ia.tvg.com
 m.4njbets.tvg.com
 pabets.tvg.com
 login.tvg.com
-login-4ngbets.us.betfair.com
-login.pabets.tvg.com
+www.4njbets.com
 service.tvg.com
 promos.tvg.com
-www.4njbets.com
+login-4njbets.us.betfair.com
+login-pabets.tvg.com
+login-ia.tvg.com
+login-4ngbets.us.betfair.com
+login.pabets.tvg.com
 com.fanduel.android.live
 www.tvg.com
 sportsbook.fanduel.com
@@ -3063,8 +3063,8 @@ marquee.gs.com
 *.advisorsolutions.gs.com
 *.foliodigitalwealth.com
 *.foliofn.com
-*.marcus.com
 api.foliofn.com
+*.marcus.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3101,9 +3101,9 @@ api.foliofn.com
 *.folioinvesting.com
 developer.valvesoftware.com
 playartifact.com
-partner.steampowered.com
 support.steampowered.com
 www.dota2.com
+partner.steampowered.com
 help.steampowered.com
 partner.steamgames.com
 www.counter-strike.net
@@ -3154,8 +3154,8 @@ bounty-node.rsk.co
 *.deliveroo.com.qa
 *.deliveroo.ae
 *.deliveroo.ie
-*.deliveroo.it
 *.deliveroo.com.sg
+*.deliveroo.it
 *.deliveroo.hk
 *.deliveroo.fr
 *.deliveroo.co.uk
@@ -3203,8 +3203,8 @@ falcon-sandbox.com
 *.crowdstrike.com
 *.preempt.com
 www.crowdstrike.com
-hybrid-analysis.com
 *.bionic.ai
+hybrid-analysis.com
 *.crowdstrike.com
 *.humio.com
 *.securecircle.com
@@ -3338,11 +3338,11 @@ ccardseu1.badoo.com
 ccardsus1.badoo.com
 chatdate.app
 getofficial.co
-*.atspotify.com
 *.avecspotify.com
+*.atspotify.com
 *.enspotify.com
-*.forspotify.com
 *.fromspotify.com
+*.forspotify.com
 *.tospotify.com
 assets.spotify.com
 *.byspotify.com
@@ -3415,12 +3415,12 @@ gutenberg.run
  *.git.wordpress.org
  github.com/WordPress
 rockstarnorth.com
-circolocorecords.com/
 store.rockstargames.com
 lifeinvader.com
+circolocorecords.com/
 prod.ros.rockstargames.com
-support.rockstargames.com
 *.rockstargames.com
+support.rockstargames.com
 socialclub.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
@@ -3650,9 +3650,9 @@ yourcompany.udemy.com
 shopify.plus
 *.shopifycs.com
 *.shopifykloud.com
+shopifyinbox.com
 linkpop.com
 *.shopifycloud.com
-shopifyinbox.com
 arrive-server.shopifycloud.com
 *.shopify.com
 shop.app
@@ -3743,8 +3743,6 @@ fw-update.ubnt.com
 ispdesign.ui.com
 careers.ui.com
 unifi.ui.com
-store.ui.com
-uisp.com
 *.ubnt.com
 *.ui.com
 store.ui.com
@@ -3784,9 +3782,9 @@ support-api.airbnb.com
 *.withairbnb.com
 *.hoteltonight-test.com
 *.muscache.com
-*.airbnb.com
 www.airbnb.com
 *.hoteltonight.com
+*.airbnb.com
 www.hoteltonight.com
 *.hoteltonight.com
 www.airbnb.com
@@ -3848,9 +3846,9 @@ grok.x.ai
 *.twimg.com
 ide.x.ai
 gnip.com
-x.com
 api.x.ai
 *.twitter.com
+x.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -4007,9 +4005,9 @@ ctf.hacker101.com
 hackerone.live
 hackerone-user-content.com
 app.pullrequest.com
-www.hackerone.com
-hackerone.com
 api.hackerone.com
+hackerone.com
+www.hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -4240,8 +4238,8 @@ magentocommerce.com
 u.magento.com
 imagine.magento.com
 magentolive.com
-accounts.magento.cloud
 repo.magento.com
+accounts.magento.cloud
 marketplace.magento.com
 magento.com
 account.magento.com
