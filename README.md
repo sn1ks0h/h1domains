@@ -2,14 +2,14 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun May 12 09:16:43 UTC 2024)
+## Domains with Bounties (Last Updated Sun May 12 10:16:31 UTC 2024)
 ```
 api.americanwagering.com
 sportsbook.caesars.com
 *.us.williamhill.com
-*.williamhill.us
 williamhill.us
 caesarspalaceonline.com
+*.williamhill.us
 *.us.williamhill.com
 *.williamhill.us
 sportsbook.caesars.com
@@ -417,12 +417,12 @@ app.dynamic.xyz
 app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
-hpanel.hostinger.com
 cpanel.hostinger.com
 builder.hostinger.com
 www.hostinger.com
 payments.hostinger.com
 *.000webhost.com
+hpanel.hostinger.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -459,10 +459,10 @@ www.mercadopago.com.br
 www.mercadolibre.com.uy
 www.mercadopago.cl
 www.mercadolibre.com.pe
-www.mercadolibre.cl
 www.mercadopago.com.mx
 www.mercadopago.com.ar
 api.mercadopago.com
+www.mercadolibre.cl
 www.mercadolivre.com.br
 www.mercadopago.com.pe
 www.mercadolibre.com.ar
@@ -496,14 +496,14 @@ supply-xml.booking.com
 portal.taxi.booking.com
 secure-supply-xml.booking.com
 kyc-onboarding.booking.com
-teleport.fareharbor.engineering
 spark.fareharbor.com
+teleport.fareharbor.engineering
 flights.booking.com
 indicative-pricing.taxi.booking.com
 marketing.fareharbor.com
 readonly.fareharbor.com
-taxis.booking.com
 demo.fareharbor.com
+taxis.booking.com
 widget.rentalcars.com
 cars.booking.com
 careers.booking.com
@@ -516,8 +516,8 @@ experiences.booking.com
 taxi.booking.com
 fhdn.fareharbor.com
 sites.fareharbor.com
-account.booking.com
 admin.booking.com
+account.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -709,11 +709,11 @@ www.visa.co.ve
 visa.co.za
 www.fraedom.com
 www.practicalmoneyskills.org
-bd.visa.com
 www.visa.com.ph
 www.visa.com.mx
 www.visa.co.jp
 bb.visa.com
+bd.visa.com
 visa.co.ni
 www.visa.com.kz
 www.visa.co.nz
@@ -846,8 +846,8 @@ developer.mozilla.org
 sync.services.mozilla.com
 hg.mozilla.org
 community-tc.services.mozilla.com
-stage.taskcluster.nonprod.cloudops.mozgcp.net
 firefox-ci-tc.services.mozilla.com
+stage.taskcluster.nonprod.cloudops.mozgcp.net
 support.mozilla.org
 relay.firefox.com
 www.mozilla.org
@@ -895,9 +895,9 @@ api-eu.floqast.app
 *.hiltonlocalbiz.com
 hiltonbusinessonline.com
 hiltonlocalbiz.com
+*.hiltonhotels.jp
 *.hiltonbusinessonline.com
 hilton.io
-*.hiltonhotels.jp
 hiltonhotels.jp
 *.hilton.io
 hilton.com
@@ -1165,11 +1165,11 @@ www.expediataap.com
 www.expediaagents.com
 *.lastminute.com.au
 www.hotels.com
-*.wotif.com
 *.travelocity.ca
+*.wotif.com
 *.vrbo.com
-www.vrbo.com
 www.orbitz.com
+www.vrbo.com
 *.cheaptickets.com
 www.fewo-direkt.de
 www.expedia.com
@@ -1227,8 +1227,8 @@ api.zerobounce.in
 zerobounce.net
 pb.deribit.com
 metrics.deribit.com
-tools.deribit.com
 test.deribit.com
+tools.deribit.com
 *.deribit.com
 insights.deribit.com
 *.deribit.com
@@ -1603,8 +1603,8 @@ playwonderbox.com
 therecord.media
 geminiadvisory.io
 hatching.io
-app.recordedfuture.com
 id.recordedfuture.com
+app.recordedfuture.com
 securitytrails.com
 www.recordedfuture.com
 tria.ge
@@ -1737,11 +1737,11 @@ cloud.elastic.co
 api.taxjar.com
 *.reckoproduction.com
 *.link.co
-app.taxjar.com
 *.reckostaging.com
 *.recko.io
 js.stripe.com
 *.touchtechpayments.com
+app.taxjar.com
 *.stripe.com
 api.stripe.com
 api.stripe.com
@@ -1899,8 +1899,8 @@ internal-api-lark-api.larksuite.com
 hackers_chosendomain.larksuite.com
 api.larksuite.com
 open.larksuite.com
-larksuite.com
 app.larksuite.com
+larksuite.com
 larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
@@ -2011,9 +2011,9 @@ academy-outbound-ads.tiktok.com
 www.pangleglobal.com
 shop-id.tokopedia.com
 developers.tiktok.com
+seller-id.tokopedia.com
 shop.tiktok.com
 creatormarketplace.tiktok.com
-seller-id.tokopedia.com
 business.tiktok.com
 effecthouse.tiktok.com
 tiktok.com
@@ -2075,8 +2075,8 @@ www.figma.com
 api.figma.com
 3d.cs.money
 blog.cs.money
-support.cs.money
 wiki.cs.money
+support.cs.money
 cs.money
 cs.money
 support.cs.money
@@ -2370,8 +2370,8 @@ itv7.itv.com
 *.amazon.com.au
 amazonpayinsurance.in
 *.amazon.it
-*.amazon.co.uk
 *.amazon.com.mx
+*.amazon.co.uk
 *.amazon.eg
 *.amazon.com.br
 *.amazon.co.jp
@@ -2461,10 +2461,10 @@ maria.casino
 *.unibet.fr
 *.kolikkopelit.com
 *.mariacasino.com
+*.unibet.com
 www.32red.com
 *.kindredext.net
 *.bingo.com
-*.unibet.com
 *.unibet.com
 *.unibet.fr
 *.storspiller.com
@@ -2558,8 +2558,8 @@ kubernetes.io
 k8s.io
 kubernetes-csi.github.io
 downloads.datastax.com
-astra.datastax.com
 www.datastax.com
+astra.datastax.com
 docs.datastax.com
 www.datastax.com
 downloads.datastax.com
@@ -3062,8 +3062,8 @@ marquee.gs.com
 *.advisorsolutions.gs.com
 *.foliodigitalwealth.com
 *.foliofn.com
-api.foliofn.com
 *.marcus.com
+api.foliofn.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3100,9 +3100,9 @@ api.foliofn.com
 *.folioinvesting.com
 developer.valvesoftware.com
 playartifact.com
-support.steampowered.com
-www.dota2.com
 partner.steampowered.com
+www.dota2.com
+support.steampowered.com
 help.steampowered.com
 partner.steamgames.com
 www.counter-strike.net
@@ -3148,13 +3148,13 @@ https://crypto.com/price
 bounty-node.rsk.co
 https://github.com/rsksmart/rsk-powhsm/
 bounty-node.rsk.co
-*.deliveroo.com.kw
 *.deliveroo.com.hk
+*.deliveroo.com.kw
 *.deliveroo.com.qa
 *.deliveroo.ae
 *.deliveroo.ie
-*.deliveroo.com.sg
 *.deliveroo.it
+*.deliveroo.com.sg
 *.deliveroo.hk
 *.deliveroo.fr
 *.deliveroo.co.uk
@@ -3311,9 +3311,9 @@ bma.badoo.com
 translate.badoo.com
 ccardsus1.badoo.com
 bma.bumble.com
-ccardseu1.badoo.com
 us1.badoo.com
 eu1.badoo.com
+ccardseu1.badoo.com
 badoocdn.com
 hotornot.com
 chatdate.app
@@ -3418,8 +3418,8 @@ store.rockstargames.com
 lifeinvader.com
 circolocorecords.com/
 prod.ros.rockstargames.com
-support.rockstargames.com
 *.rockstargames.com
+support.rockstargames.com
 socialclub.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
@@ -3556,8 +3556,8 @@ npmjs.org
 *.uberinternal.com
 *.uberinternal.com
 *ubereats.com
-api.mapbox.com
 www.mapbox.com
+api.mapbox.com
 www.mapbox.com
 https://docs.mapbox.com/api/
 api.mapbox.com
@@ -3608,8 +3608,8 @@ oauth.deriv.com
 smarttrader.deriv.com
 derivws.com
 *.deriv.com
-app.deriv.com
 api.deriv.com
+app.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3649,14 +3649,14 @@ yourcompany.udemy.com
 shopify.plus
 *.shopifycs.com
 *.shopifykloud.com
-*.shopifycloud.com
 shopifyinbox.com
+*.shopifycloud.com
 arrive-server.shopifycloud.com
 shop.app
 *.shopify.io
-partners.shopify.com
 your-store.myshopify.com
 *.shopify.com
+partners.shopify.com
 linkpop.com
 accounts.shopify.com
 admin.shopify.com
@@ -3702,8 +3702,8 @@ app.snapchat.com
 accounts.snapchat.com
 ads.snapchat.com
 developer.playcanvas.com
-login.playcanvas.com
 playcanvas.com
+login.playcanvas.com
 web.snapchat.com
 business.snapchat.com
 accounts.snapchat.com
@@ -3781,10 +3781,10 @@ support-api.airbnb.com
 *.hoteltonight-test.com
 *.withairbnb.com
 www.hoteltonight.com
-*.muscache.com
 *.hoteltonight.com
 www.airbnb.com
 *.airbnb.com
+*.muscache.com
 *.hoteltonight.com
 www.airbnb.com
 next.airbnb.com
