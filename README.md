@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun May 12 13:17:11 UTC 2024)
+## Domains with Bounties (Last Updated Sun May 12 14:15:56 UTC 2024)
 ```
 api.americanwagering.com
 sportsbook.caesars.com
@@ -46,9 +46,9 @@ www.dyson.it
 www.dyson.cz
 www.dyson.nl
 shop.dyson.co.za
-www.dyson.ch
 api.dyson.it
 www.dyson.ie
+www.dyson.ch
 www.dyson.es
 www.dyson.se
 www.dyson.be
@@ -433,8 +433,8 @@ https://passport.eufy.com/?app=eufy-us
 education.23andme.com
 store.23andme.com
 api.23andme.com
-medical.23andme.com
 therapeutics.23andme.com
+medical.23andme.com
 blog.23andme.com
 research.23andme.com
 auth.23andme.com
@@ -461,11 +461,11 @@ www.mercadopago.cl
 www.mercadolibre.com.pe
 www.mercadopago.com.mx
 www.mercadopago.com.ar
-api.mercadopago.com
 www.mercadolibre.cl
 www.mercadolivre.com.br
 www.mercadopago.com.pe
 www.mercadolibre.com.ar
+api.mercadopago.com
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -502,8 +502,8 @@ flights.booking.com
 indicative-pricing.taxi.booking.com
 marketing.fareharbor.com
 readonly.fareharbor.com
-taxis.booking.com
 demo.fareharbor.com
+taxis.booking.com
 widget.rentalcars.com
 cars.booking.com
 careers.booking.com
@@ -1040,8 +1040,8 @@ jobs.kiwi.com
 auth.skypicker.com
 tequila.kiwi.com
 www.kiwi.com
-*.skypicker.com
 *.kiwi.com
+*.skypicker.com
 *.kiwi.com
 *.skypicker.com
 www.kiwi.com
@@ -1053,9 +1053,9 @@ sms.8x8.com
 *.p8t.us
 uc.8x8pilot.com
 work-staging.8x8.com
+*.8x8.id
 platform.8x8pilot.com
 *.chalet.8x8.com
-*.8x8.id
 user-profile-staging.8x8.com
 platform.8x8.com
 sso.8x8pilot.com
@@ -1096,10 +1096,10 @@ admin.8x8.com
 *.napoleondice.be
 *.napoleongames.be
 *.napoleonsports.be
-*.luckydays.ca
-*.magicjackpot.ro
 *.luckydays.com
 *.superbet.rs
+*.luckydays.ca
+*.magicjackpot.ro
 *.superbet.ro
 *.superbet.pl
 *.superbet.com
@@ -1178,11 +1178,11 @@ www.mrjet.se
 *.carrentals.com
 *.travelocity.com
 www.ebookers.com
-www.expediagroup.com
 *.expediacruises.com
-*.hotwire.com
 www.abritel.fr
 *.expediapartnercentral.com
+www.expediagroup.com
+*.hotwire.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1227,8 +1227,8 @@ api.zerobounce.in
 zerobounce.net
 pb.deribit.com
 metrics.deribit.com
-test.deribit.com
 tools.deribit.com
+test.deribit.com
 *.deribit.com
 insights.deribit.com
 *.deribit.com
@@ -1397,8 +1397,8 @@ rankings.etoro.com
 charts.etoro.com
 aggregator.etoro.com
 www.etoro.com
-bullsheet.me
 etoropartners.com
+bullsheet.me
 delta.app
 www.etoro.com
 etoropartners.com
@@ -1778,8 +1778,8 @@ api.reddit.com
 matrix.redditspace.com
 accounts.reddit.com
 www.spiketrap.io
-*.reddit.com
 oauth.reddit.com
+*.reddit.com
 new.reddit.com
 *.redditinc.com
 ads.reddit.com
@@ -1899,8 +1899,8 @@ internal-api-lark-api.larksuite.com
 hackers_chosendomain.larksuite.com
 api.larksuite.com
 open.larksuite.com
-larksuite.com
 app.larksuite.com
+larksuite.com
 larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
@@ -2011,9 +2011,9 @@ academy-outbound-ads.tiktok.com
 www.pangleglobal.com
 shop-id.tokopedia.com
 developers.tiktok.com
-seller-id.tokopedia.com
 shop.tiktok.com
 creatormarketplace.tiktok.com
+seller-id.tokopedia.com
 business.tiktok.com
 effecthouse.tiktok.com
 tiktok.com
@@ -2021,8 +2021,8 @@ pay.tokopediax.com
 *.tiktok.com
 partner.tiktokshop.com
 live-backstage.tiktok.com
-ads.tiktok.com
 affiliate-id.tokopedia.com
+ads.tiktok.com
 *.tiktokv.com
 *.tiktok.com
 business.tiktok.com
@@ -2244,8 +2244,8 @@ social.playstation.com
 my.account.sony.com
 *.sonyentertainmentnetwork.com
 *.playstation.net
-ca.account.sony.com
 api.direct.playstation.com
+ca.account.sony.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -2457,14 +2457,14 @@ maria.casino
 *.storspiller.com
 *.casinohuone.com
 *.highrolling.nu
-*.unibet.fr
 *.kes.kindredext.net
+*.unibet.fr
 *.kolikkopelit.com
 *.mariacasino.com
-*.unibet.com
 www.32red.com
 *.kindredext.net
 *.bingo.com
+*.unibet.com
 *.unibet.com
 *.unibet.fr
 *.storspiller.com
@@ -2694,8 +2694,8 @@ app.command.cysiv.com
 api.rezserver.com
 admin.rezserver.com
 reservations.rezserver.com
-cruises.priceline.com
 press.priceline.com
+cruises.priceline.com
 www.bookingholdings.com
 flyiin.com
 www.priceline.com
@@ -2777,8 +2777,8 @@ booking.applevacations.com
 login.www.vaxvacationaccess.com
 res.en.travelbrandsagent.com
 res.vacations.united.com
-res.vacations.universalstudioshollywood.com
 vacations.united.com
+res.vacations.universalstudioshollywood.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -2936,16 +2936,16 @@ https://github.com/matomo-org/docker
 paypal.me
 *.braintree.tools
 *.paylution.com
-decision.swiftfinancial.com
+swiftfinancial.com
+prequal.swiftfinancial.com
+www.swiftcapital.com
+swiftcapital.com
 partner.swiftfinancial.com
 pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
 www.swiftfinancial.com
-swiftfinancial.com
-prequal.swiftfinancial.com
 my.loanbuilder.com
-www.swiftcapital.com
-swiftcapital.com
+decision.swiftfinancial.com
 py.pl
 paypalobjects.com
 www.loanbuilder.com
@@ -3227,9 +3227,9 @@ verkkopalvelu.tapiola.fi
 ext-gw.lahitapiola.fi
 api.lahitapiola.fi
 *.beta.lahitapiola.fi
+www.lahitapiola.fi
 asiointi.lahitapiola.fi
 tunnistus.lahitapiola.fi
-www.lahitapiola.fi
 yrityspalvelu.tapiola.fi
 secure.lahitapiola.fi
 *.lahitapiola.fi
@@ -3311,9 +3311,9 @@ bma.badoo.com
 translate.badoo.com
 ccardsus1.badoo.com
 bma.bumble.com
-ccardseu1.badoo.com
 us1.badoo.com
 eu1.badoo.com
+ccardseu1.badoo.com
 badoocdn.com
 hotornot.com
 chatdate.app
@@ -3337,11 +3337,11 @@ ccardseu1.badoo.com
 ccardsus1.badoo.com
 chatdate.app
 getofficial.co
-*.avecspotify.com
 *.atspotify.com
+*.avecspotify.com
 *.enspotify.com
-*.fromspotify.com
 *.forspotify.com
+*.fromspotify.com
 *.tospotify.com
 assets.spotify.com
 *.byspotify.com
@@ -3459,8 +3459,8 @@ www.starbucks.com.br
 openapi.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
-gift.starbucks.co.jp
 www.starbucks.com.sg
+gift.starbucks.co.jp
 www.starbucks.co.jp
 secureui.starbucks.com
 www.starbucks.co.uk
@@ -3498,12 +3498,12 @@ api.blockchain.info
 www.blockchain.info
 api.blockchain.info
 ws.blockchain.info
-basicattentiontoken.org
 creators.basicattentiontoken.org
 search.brave.com
 brave.com
 talk.brave.com
 account.brave.com
+basicattentiontoken.org
 brave.com
 basicattentiontoken.org
 creators.basicattentiontoken.org
@@ -3536,8 +3536,8 @@ moneybirdstorage.com
 npmjs.org
 *.githubusercontent.com
 education.github.com
-*.githubapp.com
 classroom.github.com
+*.githubapp.com
 api.github.com
 github.com
 npmjs.com
@@ -3556,8 +3556,8 @@ npmjs.org
 *.uberinternal.com
 *.uberinternal.com
 *ubereats.com
-www.mapbox.com
 api.mapbox.com
+www.mapbox.com
 www.mapbox.com
 https://docs.mapbox.com/api/
 api.mapbox.com
@@ -3601,7 +3601,6 @@ api2.grofers.com
 blinkit.com
 secure-dfadmin.deriv.com
 *.derivws.com
-cashier.deriv.com
 *.binary.com
 *.deriv.cloud
 oauth.deriv.com
@@ -3610,6 +3609,7 @@ smarttrader.deriv.com
 derivws.com
 api.deriv.com
 app.deriv.com
+cashier.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3649,14 +3649,14 @@ yourcompany.udemy.com
 shopify.plus
 *.shopifycs.com
 *.shopifykloud.com
-shopifyinbox.com
 *.shopifycloud.com
+shopifyinbox.com
 arrive-server.shopifycloud.com
 shop.app
 *.shopify.io
+partners.shopify.com
 your-store.myshopify.com
 *.shopify.com
-partners.shopify.com
 linkpop.com
 accounts.shopify.com
 admin.shopify.com
@@ -3702,8 +3702,8 @@ app.snapchat.com
 accounts.snapchat.com
 ads.snapchat.com
 developer.playcanvas.com
-playcanvas.com
 login.playcanvas.com
+playcanvas.com
 web.snapchat.com
 business.snapchat.com
 accounts.snapchat.com
@@ -3958,8 +3958,8 @@ slackatwork.com
 slack-redir.net
 spaces.pm
 www.quip.com
-slack-imgs.com
 slack-status.com
+slack-imgs.com
 *.quip.com
 api.slack.com
 slack.com
@@ -3998,16 +3998,16 @@ reviewer.pullrequest.com
 b5s.hackerone-ext-content.com
 hackerone-user-content.com
 hackerone.live
-www.wearehackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
+www.wearehackerone.com
 a5s.hackerone-ext-content.com
 app.pullrequest.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
+ctf.hacker101.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
-ctf.hacker101.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
