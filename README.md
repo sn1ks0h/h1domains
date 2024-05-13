@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon May 13 13:22:06 UTC 2024)
+## Domains with Bounties (Last Updated Mon May 13 14:21:36 UTC 2024)
 ```
 api.americanwagering.com
 sportsbook.caesars.com
@@ -46,9 +46,9 @@ www.dyson.it
 www.dyson.cz
 www.dyson.nl
 shop.dyson.co.za
+www.dyson.ch
 api.dyson.it
 www.dyson.ie
-www.dyson.ch
 www.dyson.es
 www.dyson.se
 www.dyson.be
@@ -709,11 +709,11 @@ www.visa.co.ve
 visa.co.za
 www.fraedom.com
 www.practicalmoneyskills.org
+bd.visa.com
 www.visa.com.ph
 www.visa.com.mx
 www.visa.co.jp
 bb.visa.com
-bd.visa.com
 visa.co.ni
 www.visa.com.kz
 www.visa.co.nz
@@ -845,8 +845,8 @@ lando.services.mozilla.com
 developer.mozilla.org
 sync.services.mozilla.com
 hg.mozilla.org
-stage.taskcluster.nonprod.cloudops.mozgcp.net
 community-tc.services.mozilla.com
+stage.taskcluster.nonprod.cloudops.mozgcp.net
 firefox-ci-tc.services.mozilla.com
 support.mozilla.org
 relay.firefox.com
@@ -940,10 +940,10 @@ auth.indrive.tech
 ci.indrive.dev
 *.indriverapp.com
 cargo.indrive.com
-*.indrive.com
 argocd.indrive.dev
 volans.tech
 *.indriver.com
+*.indrive.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -1057,8 +1057,8 @@ platform.8x8pilot.com
 *.chalet.8x8.com
 *.8x8.id
 user-profile-staging.8x8.com
-sso.8x8pilot.com
 platform.8x8.com
+sso.8x8pilot.com
 sso.8x8.com
 *.jitsi.net
 *.jit.si
@@ -1165,15 +1165,14 @@ www.expediapartnersolutions.com
 www.expediaagents.com
 *.lastminute.com.au
 www.hotels.com
-*.wotif.com
 *.travelocity.ca
+*.wotif.com
 *.vrbo.com
 www.orbitz.com
 www.fewo-direkt.de
 www.expedia.com
 www.ebookers.fi
 www.mrjet.se
-*.carrentals.com
 www.expediagroup.com
 www.vrbo.com
 *.cheaptickets.com
@@ -1184,6 +1183,7 @@ www.expediataap.com
 www.abritel.fr
 *.expediacruises.com
 *.expediapartnercentral.com
+*.carrentals.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1315,9 +1315,9 @@ business.linkedin.com
 *.wealthsimple.com
 *.wealthsimple.com
 *.simpletax.ca
-www.swoodoo.com
 www.mundi.com.br
 www.checkfelix.com
+www.swoodoo.com
 www.cheapflights.com
 www.hotelscombined.com
 www.momondo.com
@@ -1398,8 +1398,8 @@ rankings.etoro.com
 charts.etoro.com
 aggregator.etoro.com
 www.etoro.com
-etoropartners.com
 bullsheet.me
+etoropartners.com
 delta.app
 www.etoro.com
 etoropartners.com
@@ -1500,9 +1500,9 @@ analytics.krisp.ai
 upld.krisp.ai
 admin.wickr.com
 admin.wickr.com
-*.clubhouseapi.com
 *.joinclubhouse.com
 *.clubhouse.com
+*.clubhouseapi.com
 *.clubhouse.com
 *.joinclubhouse.com
 *.clubhouseapi.com
@@ -1604,8 +1604,8 @@ playwonderbox.com
 therecord.media
 geminiadvisory.io
 hatching.io
-id.recordedfuture.com
 app.recordedfuture.com
+id.recordedfuture.com
 securitytrails.com
 www.recordedfuture.com
 tria.ge
@@ -1738,11 +1738,11 @@ cloud.elastic.co
 api.taxjar.com
 *.reckoproduction.com
 *.link.co
-app.taxjar.com
 *.reckostaging.com
 *.recko.io
 js.stripe.com
 *.touchtechpayments.com
+app.taxjar.com
 *.stripe.com
 api.stripe.com
 api.stripe.com
@@ -1925,8 +1925,8 @@ ccloud.yoti.com
 identity.yoti.com
 core.yoti.com
 code.yoti.com
-api.yoti.com
 www.yotisign.com
+api.yoti.com
 hub.yoti.com
 core.yoti.com
 api.yoti.com
@@ -1945,8 +1945,8 @@ internal-docs.netlify.com
 netlify-rum.netlify.app
 screenshot-proxy.netlify.app
 *.services.netlify.com
-*.onegraph.com
 internal.netlify.com
+*.onegraph.com
 api.netlify.com
 app.netlify.com
 *.services.netlify.com
@@ -2019,12 +2019,12 @@ pay.tokopediax.com
 partner.tiktokshop.com
 live-backstage.tiktok.com
 affiliate-id.tokopedia.com
-*.tiktok.com
 ads.tiktok.com
 www.pangleglobal.com
-*.tiktokv.com
 tiktok.com
+*.tiktokv.com
 seller-id.tokopedia.com
+*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2458,8 +2458,8 @@ maria.casino
 *.storspiller.com
 *.casinohuone.com
 *.highrolling.nu
-*.unibet.fr
 *.kes.kindredext.net
+*.unibet.fr
 *.kolikkopelit.com
 *.kindredext.net
 *.bingo.com
@@ -2505,8 +2505,8 @@ passwordchallenge.marriott.com
 traveler.marriott.com
 homes-and-villas.marriott.com
 *uat.marriott.com
-www.marriott.com
 careers.marriott.com
+www.marriott.com
 homes-and-villas.marriott.com
 careers.marriott.com
 sso.marriott.com
@@ -2695,8 +2695,8 @@ app.command.cysiv.com
 api.rezserver.com
 admin.rezserver.com
 reservations.rezserver.com
-press.priceline.com
 cruises.priceline.com
+press.priceline.com
 www.bookingholdings.com
 flyiin.com
 www.priceline.com
@@ -2776,10 +2776,10 @@ booking.cheapcaribbean.com
 res.hyattinclusivecollection.com
 booking.applevacations.com
 login.www.vaxvacationaccess.com
+res.en.travelbrandsagent.com
 res.vacations.united.com
 vacations.united.com
 res.vacations.universalstudioshollywood.com
-res.en.travelbrandsagent.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -2937,16 +2937,16 @@ https://github.com/matomo-org/docker
 paypal.me
 *.braintree.tools
 *.paylution.com
+decision.swiftfinancial.com
+partner.swiftfinancial.com
+scrutiny.swiftfinancial.com
+pigeon.swiftfinancial.com
+www.swiftfinancial.com
 swiftfinancial.com
 prequal.swiftfinancial.com
+my.loanbuilder.com
 www.swiftcapital.com
 swiftcapital.com
-partner.swiftfinancial.com
-pigeon.swiftfinancial.com
-scrutiny.swiftfinancial.com
-www.swiftfinancial.com
-my.loanbuilder.com
-decision.swiftfinancial.com
 py.pl
 paypalobjects.com
 www.loanbuilder.com
@@ -3034,8 +3034,8 @@ staging-admin.shipt.com
 staging-shoppingcart.shipt.com
 shoppingcart.shipt.com
 www.shipt.com
-*.shipt.com
 api.shipt.com
+*.shipt.com
 *.shipt.com
 app.shipt.com
 api.shipt.com
@@ -3126,9 +3126,9 @@ playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
 js.crypto.com
+pay.crypto.com
 auth.crypto.com
 app.mona.co
-pay.crypto.com
 www.crypto.com
 merchant.crypto.com
 *.crypto.com
@@ -3200,8 +3200,8 @@ falcon-sandbox.com
 *.preemptsecurity.com
 *.reposify.com
 *.humio.com
-*.crowdstrike.com
 *.preempt.com
+*.crowdstrike.com
 www.crowdstrike.com
 hybrid-analysis.com
 *.bionic.ai
@@ -3347,8 +3347,8 @@ getofficial.co
 assets.spotify.com
 *.withspotify.com
 backstage.io
-api.spotify.com
 *.byspotify.com
+api.spotify.com
 *.withspotify.com
 *.byspotify.com
 *.atspotify.com
@@ -3537,8 +3537,8 @@ moneybirdstorage.com
 npmjs.org
 *.githubusercontent.com
 education.github.com
-*.githubapp.com
 classroom.github.com
+*.githubapp.com
 api.github.com
 npmjs.com
 gist.github.com
@@ -3589,8 +3589,8 @@ api.grofers.com
 *.runnr.in
 *.zomans.com
 blinkit.com
-*.zomato.com
 api2.grofers.com
+*.zomato.com
 *.zomato.com
 *.zdev.net
 *.zomans.com
@@ -3650,17 +3650,17 @@ yourcompany.udemy.com
 shopify.plus
 *.shopifycs.com
 *.shopifykloud.com
-*.shopifycloud.com
 shopifyinbox.com
+*.shopifycloud.com
 arrive-server.shopifycloud.com
 shop.app
-*.shopify.io
-partners.shopify.com
 *.shopify.com
-accounts.shopify.com
-your-store.myshopify.com
+partners.shopify.com
 admin.shopify.com
 linkpop.com
+your-store.myshopify.com
+accounts.shopify.com
+*.shopify.io
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3784,8 +3784,8 @@ support-api.airbnb.com
 www.hoteltonight.com
 *.hoteltonight.com
 *.muscache.com
-*.airbnb.com
 www.airbnb.com
+*.airbnb.com
 *.hoteltonight.com
 www.airbnb.com
 next.airbnb.com
@@ -3936,8 +3936,8 @@ commerce.coinbase.com
 cloud.coinbase.com
 nft.coinbase.com
 coinbase.com
-*.coinbase.com
 api.coinbase.com
+*.coinbase.com
 *.coinbase.com
 *.cbhq.net
 pro.coinbase.com
@@ -3959,8 +3959,8 @@ slackatwork.com
 slack-redir.net
 spaces.pm
 www.quip.com
-slack-status.com
 slack-imgs.com
+slack-status.com
 *.quip.com
 api.slack.com
 slack.com
@@ -3999,16 +3999,16 @@ reviewer.pullrequest.com
 b5s.hackerone-ext-content.com
 hackerone-user-content.com
 hackerone.live
-profile-photos-us-east-2.hackerone-user-content.com
 www.wearehackerone.com
+profile-photos-us-east-2.hackerone-user-content.com
 ctf.hacker101.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 app.pullrequest.com
 www.hackerone.com
 api.hackerone.com
-hackerone.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 a5s.hackerone-ext-content.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -4450,8 +4450,8 @@ mobile.kiwi.ki
 portal.kiwi.ki
 *.algolianet.com
 dashboard.algolia.com
-*.algolia.net
 www.algolia.com
+*.algolia.net
 *.algolia.net
 *.algolianet.com
 www.algolia.com
