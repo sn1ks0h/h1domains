@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue May 14 03:19:38 UTC 2024)
+## Domains with Bounties (Last Updated Tue May 14 04:19:02 UTC 2024)
 ```
 api.americanwagering.com
 sportsbook.caesars.com
@@ -45,8 +45,8 @@ www.dyson.fr
 www.dyson.cz
 www.dyson.nl
 shop.dyson.co.za
-www.dyson.ie
 api.dyson.it
+www.dyson.ie
 www.dyson.ch
 www.dyson.es
 www.dyson.se
@@ -388,8 +388,8 @@ www.sheer.com
 my.sheer.com
 www.pornworld.com
 www.ddfcontent.com
-www.pornbox.com
 www.analvids.com
+www.pornbox.com
 www.pornbox.com
 www.analvids.com
 www.ddfcontent.com
@@ -464,8 +464,8 @@ api.mercadopago.com
 api.mercadolibre.com
 www.mercadopago.com.pe
 www.mercadolibre.cl
-www.mercadolibre.com.ar
 www.mercadopago.com.ar
+www.mercadolibre.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -502,8 +502,8 @@ flights.booking.com
 indicative-pricing.taxi.booking.com
 marketing.fareharbor.com
 readonly.fareharbor.com
-taxis.booking.com
 demo.fareharbor.com
+taxis.booking.com
 widget.rentalcars.com
 cars.booking.com
 careers.booking.com
@@ -846,8 +846,8 @@ developer.mozilla.org
 sync.services.mozilla.com
 hg.mozilla.org
 community-tc.services.mozilla.com
-stage.taskcluster.nonprod.cloudops.mozgcp.net
 firefox-ci-tc.services.mozilla.com
+stage.taskcluster.nonprod.cloudops.mozgcp.net
 support.mozilla.org
 relay.firefox.com
 www.mozilla.org
@@ -895,8 +895,8 @@ api-eu.floqast.app
 *.hiltonlocalbiz.com
 hiltonbusinessonline.com
 hiltonlocalbiz.com
-*.hiltonhotels.jp
 hilton.io
+*.hiltonhotels.jp
 hiltonhotels.jp
 *.hilton.io
 *.hiltonbusinessonline.com
@@ -914,8 +914,8 @@ hiltonlocalbiz.com
 hiltonhotels.jp
 *.okg.com
 *.oklink.com
-*.okx.com
 *.okcoin.com
+*.okx.com
 *.okx.com
 *.okcoin.com
 *.oklink.com
@@ -1053,9 +1053,9 @@ sms.8x8.com
 *.p8t.us
 uc.8x8pilot.com
 work-staging.8x8.com
+*.8x8.id
 platform.8x8pilot.com
 *.chalet.8x8.com
-*.8x8.id
 user-profile-staging.8x8.com
 platform.8x8.com
 sso.8x8pilot.com
@@ -1156,9 +1156,9 @@ hv-mtl.com
 *.wenewmoments.com
 dookeydash.com
 hv-mtl.com
-*.lastminute.co.nz
 www.stayz.com.au
 www.hotwirepartnercentral.com
+*.lastminute.co.nz
 www.flights.com
 www.bookabach.co.nz
 www.expediapartnersolutions.com
@@ -1167,7 +1167,6 @@ www.expediaagents.com
 *.wotif.com
 *.travelocity.ca
 www.orbitz.com
-www.fewo-direkt.de
 www.expedia.com
 www.ebookers.fi
 *.cheaptickets.com
@@ -1179,11 +1178,12 @@ www.abritel.fr
 *.carrentals.com
 www.mrjet.se
 www.hotels.com
-*.expediapartnercentral.com
 www.vrbo.com
 *.hotwire.com
 *.vrbo.com
 www.expediagroup.com
+*.expediapartnercentral.com
+www.fewo-direkt.de
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1315,9 +1315,9 @@ business.linkedin.com
 *.wealthsimple.com
 *.wealthsimple.com
 *.simpletax.ca
+www.swoodoo.com
 www.mundi.com.br
 www.checkfelix.com
-www.swoodoo.com
 www.cheapflights.com
 www.hotelscombined.com
 www.momondo.com
@@ -1338,8 +1338,8 @@ sorare.com
 api.sorare.com
 ws.sorare.com
 *.sheingsp.com
-*.shein.com
 *.romwe.com
+*.shein.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
@@ -1361,8 +1361,8 @@ social-trading.exness.com
 https://my.exness.com/pa/socialtrading
 exness.com
 api.smtp2go.com
-app.smtp2go.com
 smtp2go.com
+app.smtp2go.com
 smtp2go.com
 app.smtp2go.com
 api.smtp2go.com
@@ -1398,8 +1398,8 @@ rankings.etoro.com
 charts.etoro.com
 aggregator.etoro.com
 www.etoro.com
-bullsheet.me
 etoropartners.com
+bullsheet.me
 delta.app
 www.etoro.com
 etoropartners.com
@@ -1646,10 +1646,10 @@ www.fedramp.gov
 marketplace.fedramp.gov
 federalist.18f.gov
 federalist-docs.18f.gov
-cloud.gov
 dashboard.fr.cloud.gov
 api.data.gov
 ssh.fr.cloud.gov
+cloud.gov
 *.login.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
@@ -1725,8 +1725,8 @@ https://www.xvideos.net/app/
 *.swiftype.com
 *.found.io
 www.elastic.co
-cloud.elastic.co
 *.elstc.co
+cloud.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1779,8 +1779,8 @@ api.reddit.com
 matrix.redditspace.com
 accounts.reddit.com
 www.spiketrap.io
-oauth.reddit.com
 *.reddit.com
+oauth.reddit.com
 new.reddit.com
 *.redditinc.com
 ads.reddit.com
@@ -1921,8 +1921,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-identity.yoti.com
 ccloud.yoti.com
+identity.yoti.com
 core.yoti.com
 code.yoti.com
 www.yotisign.com
@@ -1945,8 +1945,8 @@ internal-docs.netlify.com
 netlify-rum.netlify.app
 screenshot-proxy.netlify.app
 *.services.netlify.com
-internal.netlify.com
 *.onegraph.com
+internal.netlify.com
 api.netlify.com
 app.netlify.com
 *.services.netlify.com
@@ -2460,8 +2460,8 @@ maria.casino
 *.kes.kindredext.net
 *.unibet.fr
 *.kolikkopelit.com
-*.kindredext.net
 *.bingo.com
+*.kindredext.net
 *.unibet.com
 *.mariacasino.com
 www.32red.com
@@ -2500,12 +2500,12 @@ marrtool.com
 all-inclusive.marriott.com
 sso.marriott.com
 passwordchallenge.marriott.com
-traveler.marriott.com
 homes-and-villas.marriott.com
 *uat.marriott.com
 www.marriott.com
 cpp.marriott.com
 careers.marriott.com
+traveler.marriott.com
 homes-and-villas.marriott.com
 careers.marriott.com
 sso.marriott.com
@@ -2558,8 +2558,8 @@ kubernetes.io
 k8s.io
 kubernetes-csi.github.io
 downloads.datastax.com
-astra.datastax.com
 www.datastax.com
+astra.datastax.com
 docs.datastax.com
 www.datastax.com
 downloads.datastax.com
@@ -2570,8 +2570,8 @@ app.nordpass.com
 *.nordvpn.com
 app.nordpass.com
 *.line.naver.jp
-*.line-apps.com
 *.line.biz
+*.line-apps.com
 *.linecorp.com
 *.line.me
 *.line.me
@@ -2777,8 +2777,8 @@ booking.applevacations.com
 login.www.vaxvacationaccess.com
 res.en.travelbrandsagent.com
 res.vacations.united.com
-res.vacations.universalstudioshollywood.com
 vacations.united.com
+res.vacations.universalstudioshollywood.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -2872,15 +2872,15 @@ service.racing.fanduel.com
 4njbets.us.betfair.com
 4njbets.tvg.com
 4njbets.com
-mobile-prod.tvg.com
-pabets.tvg.com
-service.tvg.com
-promos.tvg.com
 login-4njbets.us.betfair.com
 login-pabets.tvg.com
 login-ia.tvg.com
 m.4njbets.tvg.com
 login.tvg.com
+mobile-prod.tvg.com
+pabets.tvg.com
+service.tvg.com
+promos.tvg.com
 www.4njbets.com
 login-4ngbets.us.betfair.com
 login.pabets.tvg.com
@@ -2960,8 +2960,8 @@ api.swiftfinancial.com
 loanbuilder.com
 *.braintreegateway.com
 *.xoom.com
-*.paypalcorp.com
 *.paypal.com
+*.paypalcorp.com
 *.xoom.com
 *.paypal.com
 *.braintreegateway.com
@@ -3063,7 +3063,7 @@ marquee.gs.com
 *.foliodigitalwealth.com
 *.foliofn.com
 api.foliofn.com
-*.marcus.com
+www.rocaton.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3101,8 +3101,8 @@ api.foliofn.com
 developer.valvesoftware.com
 playartifact.com
 partner.steampowered.com
-www.dota2.com
 support.steampowered.com
+www.dota2.com
 help.steampowered.com
 www.counter-strike.net
 www.teamfortress.com
@@ -3199,8 +3199,8 @@ falcon-sandbox.com
 *.preemptsecurity.com
 *.reposify.com
 *.humio.com
-*.crowdstrike.com
 *.preempt.com
+*.crowdstrike.com
 www.crowdstrike.com
 hybrid-analysis.com
 *.bionic.ai
@@ -3224,14 +3224,14 @@ sijoitusvakuutus.lahitapiola.fi
 privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
 verkkopalvelu.tapiola.fi
-ext-gw.lahitapiola.fi
 api.lahitapiola.fi
+ext-gw.lahitapiola.fi
 *.beta.lahitapiola.fi
 asiointi.lahitapiola.fi
 tunnistus.lahitapiola.fi
-www.lahitapiola.fi
 yrityspalvelu.tapiola.fi
 secure.lahitapiola.fi
+www.lahitapiola.fi
 *.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
@@ -3459,8 +3459,8 @@ www.starbucks.com.br
 openapi.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
-www.starbucks.com.sg
 gift.starbucks.co.jp
+www.starbucks.com.sg
 www.starbucks.co.jp
 secureui.starbucks.com
 www.starbucks.co.uk
@@ -3649,8 +3649,8 @@ yourcompany.udemy.com
 shopify.plus
 *.shopifycs.com
 *.shopifykloud.com
-*.shopifycloud.com
 shopifyinbox.com
+*.shopifycloud.com
 arrive-server.shopifycloud.com
 shop.app
 partners.shopify.com
@@ -3999,15 +3999,15 @@ reviewer.pullrequest.com
 b5s.hackerone-ext-content.com
 hackerone-user-content.com
 hackerone.live
-www.wearehackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
+www.wearehackerone.com
 ctf.hacker101.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 app.pullrequest.com
-hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-a5s.hackerone-ext-content.com
 api.hackerone.com
+hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 www.hackerone.com
+a5s.hackerone-ext-content.com
 hackerone.com
 hackerone.com
 api.hackerone.com
