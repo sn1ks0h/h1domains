@@ -2,12 +2,12 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May 15 03:20:33 UTC 2024)
+## Domains with Bounties (Last Updated Wed May 15 04:21:35 UTC 2024)
 ```
 api.americanwagering.com
 *.us.williamhill.com
-sportsbook.caesars.com
 williamhill.us
+sportsbook.caesars.com
 caesarspalaceonline.com
 *.williamhill.us
 *.us.williamhill.com
@@ -45,9 +45,9 @@ www.dyson.fr
 www.dyson.cz
 www.dyson.nl
 shop.dyson.co.za
-www.dyson.ie
-api.dyson.it
 www.dyson.ch
+api.dyson.it
+www.dyson.ie
 www.dyson.es
 www.dyson.se
 www.dyson.be
@@ -387,8 +387,8 @@ www.sheer.com
 www.sheer.com
 my.sheer.com
 www.pornworld.com
-www.analvids.com
 www.ddfcontent.com
+www.analvids.com
 www.pornbox.com
 www.pornbox.com
 www.analvids.com
@@ -420,8 +420,8 @@ app.dynamic.xyz
 cpanel.hostinger.com
 builder.hostinger.com
 payments.hostinger.com
-hpanel.hostinger.com
 *.000webhost.com
+hpanel.hostinger.com
 www.hostinger.com
 *.000webhost.com
 www.hostinger.com
@@ -517,7 +517,7 @@ compass.fareharbor.com
 booking.com
 teleport.fareharbor.engineering
 tableau.fareharbor.engineering
-*.fareharbor.engineering
+account.booking.com
 *.booking.com
 *.rentalcars.com
 *.fareharbor.engineering
@@ -563,8 +563,8 @@ fhdn.fareharbor.com
 tableau.fareharbor.engineering
 *.bybit.com
 *.bybit.com
-portal.au.frontegg.com
 api.au.frontegg.com
+portal.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
 api2.frontapp.com
@@ -799,9 +799,9 @@ sandbox.authorize.net
 developer.authorize.net
 developer.visa.com
 yourdomain.freshcaller.com
+yourdomain.freshdesk.com
 yourdomain.freshchat.com
 yourdomain.freshservice.com
-yourdomain.freshdesk.com
 yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
@@ -847,8 +847,8 @@ lando.services.mozilla.com
 developer.mozilla.org
 sync.services.mozilla.com
 hg.mozilla.org
-community-tc.services.mozilla.com
 stage.taskcluster.nonprod.cloudops.mozgcp.net
+community-tc.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
 www.mozilla.org
 monitor.mozilla.org
@@ -1055,9 +1055,9 @@ sms.8x8.com
 *.p8t.us
 uc.8x8pilot.com
 work-staging.8x8.com
-*.8x8.id
 platform.8x8pilot.com
 *.chalet.8x8.com
+*.8x8.id
 user-profile-staging.8x8.com
 platform.8x8.com
 sso.8x8pilot.com
@@ -1346,9 +1346,9 @@ ws.sorare.com
 *.romwe.com
 *.sheingsp.com
 pwapi.ex2b.com
+api.excalls.mobi
 social-trading.exness.com
 exnessaffiliates.com
-api.excalls.mobi
 pay.ibex.exchange
 exness.com
 my.exness.com
@@ -1648,10 +1648,10 @@ www.fedramp.gov
 marketplace.fedramp.gov
 federalist.18f.gov
 federalist-docs.18f.gov
-cloud.gov
 dashboard.fr.cloud.gov
 api.data.gov
 ssh.fr.cloud.gov
+cloud.gov
 *.login.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
@@ -1902,8 +1902,8 @@ internal-api-lark-api.larksuite.com
 hackers_chosendomain.larksuite.com
 api.larksuite.com
 open.larksuite.com
-app.larksuite.com
 larksuite.com
+app.larksuite.com
 larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
@@ -1925,8 +1925,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.com
 identity.yoti.com
 ccloud.yoti.com
-code.yoti.com
 core.yoti.com
+code.yoti.com
 www.yotisign.com
 hub.yoti.com
 api.yoti.com
@@ -2023,9 +2023,9 @@ business.tiktok.com
 *.tiktok.com
 affiliate-id.tokopedia.com
 ads.tiktok.com
-*.tiktokv.com
-tiktok.com
 creatormarketplace.tiktok.com
+tiktok.com
+*.tiktokv.com
 seller-id.tokopedia.com
 *.tiktok.com
 business.tiktok.com
@@ -2380,8 +2380,8 @@ amazonpayinsurance.in
 *.amazon.cn
 *.amazon.eg
 *.amazon.com.br
-*.amazon.com
 *.amazon.in
+*.amazon.com
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -2459,11 +2459,11 @@ maria.casino
 *.storspiller.com
 *.casinohuone.com
 *.highrolling.nu
-*.kes.kindredext.net
 *.unibet.fr
+*.kes.kindredext.net
 *.kolikkopelit.com
-*.bingo.com
 *.kindredext.net
+*.bingo.com
 *.mariacasino.com
 www.32red.com
 *.unibet.com
@@ -2506,8 +2506,8 @@ homes-and-villas.marriott.com
 traveler.marriott.com
 cpp.marriott.com
 careers.marriott.com
-www.marriott.com
 marriottfranchisetransactions.marriott.com
+www.marriott.com
 homes-and-villas.marriott.com
 careers.marriott.com
 sso.marriott.com
@@ -2560,8 +2560,8 @@ kubernetes.io
 k8s.io
 kubernetes-csi.github.io
 downloads.datastax.com
-www.datastax.com
 astra.datastax.com
+www.datastax.com
 docs.datastax.com
 www.datastax.com
 downloads.datastax.com
@@ -2572,10 +2572,10 @@ app.nordpass.com
 *.nordvpn.com
 app.nordpass.com
 *.line-apps.com
-*.line.biz
 *.linecorp.com
 *.line.naver.jp
 *.line.me
+*.line.biz
 *.line.me
 *.line-apps.com
 *.line.naver.jp
@@ -2696,8 +2696,8 @@ app.command.cysiv.com
 api.rezserver.com
 admin.rezserver.com
 reservations.rezserver.com
-press.priceline.com
 cruises.priceline.com
+press.priceline.com
 www.bookingholdings.com
 flyiin.com
 www.priceline.com
@@ -2779,8 +2779,8 @@ booking.applevacations.com
 login.www.vaxvacationaccess.com
 res.en.travelbrandsagent.com
 res.vacations.united.com
-res.vacations.universalstudioshollywood.com
 vacations.united.com
+res.vacations.universalstudioshollywood.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -2940,8 +2940,8 @@ paypal.me
 *.paylution.com
 decision.swiftfinancial.com
 partner.swiftfinancial.com
-pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
+pigeon.swiftfinancial.com
 www.swiftfinancial.com
 swiftfinancial.com
 prequal.swiftfinancial.com
@@ -3102,16 +3102,16 @@ api.foliofn.com
 *.folioinvesting.com
 developer.valvesoftware.com
 playartifact.com
-support.steampowered.com
 partner.steampowered.com
+support.steampowered.com
 help.steampowered.com
 www.counter-strike.net
 www.teamfortress.com
 api.steampowered.com
 partner.steamgames.com
 store.steampowered.com
-www.dota2.com
 www.valvesoftware.com
+www.dota2.com
 steamcommunity.com
 www.dota2.com
 support.steampowered.com
@@ -3342,9 +3342,9 @@ getofficial.co
 *.avecspotify.com
 *.atspotify.com
 *.enspotify.com
-*.tospotify.com
 *.fromspotify.com
 *.forspotify.com
+*.tospotify.com
 assets.spotify.com
 *.withspotify.com
 backstage.io
@@ -3420,8 +3420,8 @@ store.rockstargames.com
 lifeinvader.com
 circolocorecords.com/
 prod.ros.rockstargames.com
-*.rockstargames.com
 support.rockstargames.com
+*.rockstargames.com
 socialclub.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
@@ -3558,8 +3558,8 @@ npmjs.org
 *.uberinternal.com
 *.uberinternal.com
 *ubereats.com
-api.mapbox.com
 www.mapbox.com
+api.mapbox.com
 www.mapbox.com
 https://docs.mapbox.com/api/
 api.mapbox.com
@@ -3612,10 +3612,10 @@ dashboard.algolia.com
 secure-dfadmin.deriv.com
 *.derivws.com
 oauth.deriv.com
+smarttrader.deriv.com
 *.deriv.cloud
 derivws.com
 cashier.deriv.com
-smarttrader.deriv.com
 api.deriv.com
 *.binary.com
 app.deriv.com
@@ -3659,8 +3659,8 @@ yourcompany.udemy.com
 shopify.plus
 *.shopifycs.com
 *.shopifykloud.com
-shopifyinbox.com
 *.shopifycloud.com
+shopifyinbox.com
 arrive-server.shopifycloud.com
 linkpop.com
 accounts.shopify.com
@@ -3968,8 +3968,8 @@ edgeapi.slack.com
 slackatwork.com
 slack-redir.net
 spaces.pm
-slack-status.com
 slack-imgs.com
+slack-status.com
 app.slack.com
 www.quip.com
 *.quip.com
