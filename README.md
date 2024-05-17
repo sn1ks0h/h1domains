@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May 17 03:16:41 UTC 2024)
+## Domains with Bounties (Last Updated Fri May 17 04:20:24 UTC 2024)
 ```
 api.americanwagering.com
 caesarspalaceonline.com
@@ -45,9 +45,9 @@ www.dyson.fr
 www.dyson.cz
 www.dyson.nl
 shop.dyson.co.za
-www.dyson.ch
 api.dyson.it
 www.dyson.ie
+www.dyson.ch
 www.dyson.es
 www.dyson.se
 www.dyson.be
@@ -386,8 +386,8 @@ my.sheer.com
 www.sheer.com
 www.sheer.com
 my.sheer.com
-www.analvids.com
 www.ddfcontent.com
+www.analvids.com
 www.pornworld.com
 www.pornbox.com
 www.pornbox.com
@@ -419,10 +419,10 @@ demo.dynamic.xyz
 app.dynamic.xyz
 cpanel.hostinger.com
 payments.hostinger.com
-www.hostinger.com
 builder.hostinger.com
 *.000webhost.com
 hpanel.hostinger.com
+www.hostinger.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -459,8 +459,8 @@ www.mercadolibre.com.co
 www.mercadolibre.com.pe
 www.mercadolibre.com.uy
 www.mercadolibre.cl
-api.mercadolibre.com
 www.mercadopago.com.ar
+api.mercadolibre.com
 www.mercadopago.cl
 www.mercadolibre.com.mx
 www.mercadopago.com.br
@@ -498,10 +498,7 @@ kyc-onboarding.booking.com
 spark.fareharbor.com
 flights.booking.com
 indicative-pricing.taxi.booking.com
-marketing.fareharbor.com
-readonly.fareharbor.com
 taxis.booking.com
-demo.fareharbor.com
 widget.rentalcars.com
 cars.booking.com
 careers.booking.com
@@ -512,12 +509,15 @@ secure.booking.com
 experiences.booking.com
 taxi.booking.com
 fhdn.fareharbor.com
-sites.fareharbor.com
 compass.fareharbor.com
 booking.com
 teleport.fareharbor.engineering
 tableau.fareharbor.engineering
 supply-xml.booking.com
+admin.booking.com
+account.booking.com
+*.fareharbor.engineering
+*.booking.com
 *.booking.com
 *.rentalcars.com
 *.fareharbor.engineering
@@ -845,8 +845,8 @@ phabricator.allizom.org
 developer.mozilla.org
 sync.services.mozilla.com
 hg.mozilla.org
-stage.taskcluster.nonprod.cloudops.mozgcp.net
 community-tc.services.mozilla.com
+stage.taskcluster.nonprod.cloudops.mozgcp.net
 firefox-ci-tc.services.mozilla.com
 www.mozilla.org
 monitor.mozilla.org
@@ -854,8 +854,8 @@ accounts.firefox.com
 relay.firefox.com
 lando.services.mozilla.com
 bugzilla.mozilla.org
-support.mozilla.org
 addons.allizom.org
+support.mozilla.org
 firefox.settings.services.mozilla.com
 crash-stats.allizom.org
 profiler.firefox.com
@@ -902,8 +902,8 @@ hilton.io
 hiltonhotels.jp
 *.hiltonbusinessonline.com
 hilton.com
-*.hilton.io
 *.hilton.com
+*.hilton.io
 *.hilton.com
 *.hilton.io
 *.hiltonbusinessonline.com
@@ -916,8 +916,8 @@ hiltonlocalbiz.com
 hiltonhotels.jp
 *.okg.com
 *.oklink.com
-*.okx.com
 *.okcoin.com
+*.okx.com
 *.okx.com
 *.okcoin.com
 *.oklink.com
@@ -1055,9 +1055,9 @@ sms.8x8.com
 *.p8t.us
 uc.8x8pilot.com
 work-staging.8x8.com
+*.8x8.id
 platform.8x8pilot.com
 *.chalet.8x8.com
-*.8x8.id
 user-profile-staging.8x8.com
 platform.8x8.com
 sso.8x8pilot.com
@@ -1317,9 +1317,9 @@ business.linkedin.com
 *.wealthsimple.com
 *.wealthsimple.com
 *.simpletax.ca
-www.swoodoo.com
 www.mundi.com.br
 www.checkfelix.com
+www.swoodoo.com
 www.cheapflights.com
 www.hotelscombined.com
 www.momondo.com
@@ -1606,8 +1606,8 @@ playwonderbox.com
 therecord.media
 geminiadvisory.io
 hatching.io
-id.recordedfuture.com
 app.recordedfuture.com
+id.recordedfuture.com
 tria.ge
 api.recordedfuture.com
 www.recordedfuture.com
@@ -1740,13 +1740,13 @@ cloud.elastic.co
 api.taxjar.com
 *.reckoproduction.com
 *.link.co
+app.taxjar.com
 *.reckostaging.com
 *.recko.io
 js.stripe.com
 *.touchtechpayments.com
-app.taxjar.com
-api.stripe.com
 *.stripe.com
+api.stripe.com
 api.stripe.com
 *.stripe.com
 *.touchtechpayments.com
@@ -1788,9 +1788,9 @@ new.reddit.com
 amp.reddit.com
 *.reddit.com
 ads-api.reddit.com
-www.reddit.com
 *.redditmedia.com
 ads.reddit.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1846,8 +1846,8 @@ wp-dev4.chime.com
 wp-dev5.chime.com
 wp-integ.chime.com
 app.chime.com
-www.chime.com
 wp-qa.chime.com
+www.chime.com
 *.chimebank.com
 *.1debit.com
 *.chime.com
@@ -1925,8 +1925,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.com
 identity.yoti.com
 ccloud.yoti.com
-core.yoti.com
 code.yoti.com
+core.yoti.com
 www.yotisign.com
 hub.yoti.com
 api.yoti.com
@@ -1947,8 +1947,8 @@ internal-docs.netlify.com
 netlify-rum.netlify.app
 screenshot-proxy.netlify.app
 *.services.netlify.com
-internal.netlify.com
 *.onegraph.com
+internal.netlify.com
 api.netlify.com
 app.netlify.com
 *.services.netlify.com
@@ -2014,19 +2014,19 @@ academy-outbound-ads.tiktok.com
 developers.tiktok.com
 pay.tokopediax.com
 effecthouse.tiktok.com
-www.pangleglobal.com
 partner.tiktokshop.com
 business.tiktok.com
 affiliate-id.tokopedia.com
 shop-id.tokopedia.com
 shop.tiktok.com
 ads.tiktok.com
-tiktok.com
 seller-id.tokopedia.com
 live-backstage.tiktok.com
 *.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktokv.com
+www.pangleglobal.com
+tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2285,8 +2285,8 @@ https://agglayer-test.polygon.technology
 *.xiaomiyoupin.com
 *.miwifi.com
 *.miui.com
-*.xiaomi.com
 *.mi.com
+*.xiaomi.com
 *.mi.com
 *.xiaomi.com
 *.miui.com
@@ -2774,10 +2774,10 @@ booking.cheapcaribbean.com
 res.hyattinclusivecollection.com
 booking.applevacations.com
 login.www.vaxvacationaccess.com
-res.en.travelbrandsagent.com
 res.vacations.united.com
 vacations.united.com
 res.vacations.universalstudioshollywood.com
+res.en.travelbrandsagent.com
 www.hyattconnect.com
 res.vacations.discoverycove.com
 hyatt.com
@@ -2873,15 +2873,15 @@ service.racing.fanduel.com
 4njbets.us.betfair.com
 4njbets.tvg.com
 4njbets.com
+mobile-prod.tvg.com
+pabets.tvg.com
+service.tvg.com
+promos.tvg.com
 login-4njbets.us.betfair.com
 login-pabets.tvg.com
 login-ia.tvg.com
 m.4njbets.tvg.com
 login.tvg.com
-mobile-prod.tvg.com
-pabets.tvg.com
-service.tvg.com
-promos.tvg.com
 www.4njbets.com
 login-4ngbets.us.betfair.com
 login.pabets.tvg.com
@@ -3132,8 +3132,8 @@ merchant.crypto.com
 *.mona.co
 pay.crypto.com
 *.crypto.com
-www.crypto.com
 tax.crypto.com
+www.crypto.com
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3149,8 +3149,8 @@ https://crypto.com/price
 bounty-node.rsk.co
 https://github.com/rsksmart/rsk-powhsm/
 bounty-node.rsk.co
-*.deliveroo.com.hk
 *.deliveroo.com.kw
+*.deliveroo.com.hk
 *.deliveroo.com.qa
 *.deliveroo.ae
 *.deliveroo.ie
@@ -3271,7 +3271,6 @@ gamma.grab.co
 manage.grab.co
 xtramile.grabpay.com
 grab.careers
-wiki.grab.com
 gifts.grab.com
 *.grab.co
 *.grabpay.com
@@ -3283,8 +3282,9 @@ kartaview.org
 *.taralite.com
 *.myteksi.net
 *.ovo.id
-*.grab.com
 *.grab-sure.com
+wiki.grab.com
+*.grab.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3420,8 +3420,8 @@ lifeinvader.com
 circolocorecords.com/
 socialclub.rockstargames.com
 support.rockstargames.com
-*.rockstargames.com
 prod.ros.rockstargames.com
+*.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -3557,8 +3557,8 @@ npmjs.org
 *ubereats.com
 *.uberinternal.com
 *ubereats.com
-api.mapbox.com
 www.mapbox.com
+api.mapbox.com
 www.mapbox.com
 https://docs.mapbox.com/api/
 api.mapbox.com
@@ -3611,9 +3611,9 @@ dashboard.algolia.com
 secure-dfadmin.deriv.com
 cashier.deriv.com
 smarttrader.deriv.com
-*.derivws.com
-derivws.com
 oauth.deriv.com
+derivws.com
+*.derivws.com
 *.deriv.cloud
 *.binary.com
 app.deriv.com
@@ -3858,8 +3858,8 @@ ide.x.ai
 gnip.com
 api.x.ai
 x.com
-*.twitter.com
 grok.x.ai
+*.twitter.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -4013,12 +4013,12 @@ hackerone-user-content.com
 hackerone.live
 www.wearehackerone.com
 reviewer.pullrequest.com
-hackerone.com
 api.hackerone.com
 ctf.hacker101.com
 www.hackerone.com
 mta-sts.wearehackerone.com
 app.pullrequest.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -4249,8 +4249,8 @@ magentocommerce.com
 u.magento.com
 imagine.magento.com
 magentolive.com
-accounts.magento.cloud
 repo.magento.com
+accounts.magento.cloud
 marketplace.magento.com
 magento.com
 account.magento.com
