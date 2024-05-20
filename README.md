@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon May 20 09:21:27 UTC 2024)
+## Domains with Bounties (Last Updated Mon May 20 10:19:20 UTC 2024)
 ```
 api.americanwagering.com
 *.us.williamhill.com
@@ -114,7 +114,6 @@ shop.dyson.tw
 www.dyson.tw
 www.gr.dyson.com
 *.dyson.com
-ads-audience-uploader.truecaller.com
 ads-rules-asia-south1.truecaller.com
 ads-rules-noneu.truecaller.com
 api4-asia-south1.truecaller.com
@@ -129,7 +128,6 @@ backup.truecaller.com
 batchlogging4.truecaller.com
 callkit-asia-south1.truecaller.com
 comments-asia-south1.truecaller.com
-comments-noneu.truecaller.com
 company-profile-asia-south1.truecaller.com
 company-profile-noneu.truecaller.com
 contact-lists-noneu.truecaller.com
@@ -164,6 +162,8 @@ messenger-previews.truecaller.com
 messenger-web-relay-compat-noneu.truecaller.com
 messenger-web-relay-noneu.truecaller.com
 nationalidverification-noneu.truecaller.com
+notifications5-asia-south1.truecaller.com
+notifications5.truecaller.com
 business.truecaller.com
 account-noneu.truecaller.com
 account-onboarding-noneu.truecaller.com
@@ -515,8 +515,8 @@ marketing.fareharbor.com
 demo.fareharbor.com
 fhdn.fareharbor.com
 tableau.fareharbor.engineering
-widget.rentalcars.com
 readonly.fareharbor.com
+*.rentalcars.com
 *.booking.com
 *.rentalcars.com
 *.fareharbor.engineering
@@ -708,11 +708,11 @@ www.visa.co.uk
 visa.co.za
 www.fraedom.com
 www.practicalmoneyskills.org
+bd.visa.com
 www.visa.com.ph
 www.visa.com.mx
 www.visa.co.jp
 bb.visa.com
-bd.visa.com
 visa.co.ni
 www.visa.com.kz
 www.visa.co.nz
@@ -915,8 +915,8 @@ hiltonlocalbiz.com
 hiltonhotels.jp
 *.oklink.com
 *.okcoin.com
-*.okg.com
 *.okx.com
+*.okg.com
 *.okx.com
 *.okcoin.com
 *.oklink.com
@@ -1054,8 +1054,8 @@ sms.8x8.com
 *.p8t.us
 uc.8x8pilot.com
 work-staging.8x8.com
-*.8x8.id
 platform.8x8pilot.com
+*.8x8.id
 user-profile-staging.8x8.com
 platform.8x8.com
 sso.8x8pilot.com
@@ -1119,9 +1119,9 @@ admin.8x8.com
 *.superbet.pl
 *.moonpaycloud.com
 *.hypermint.com
-moonpay.com
-hypermint.com
 *.moonpay.com
+hypermint.com
+moonpay.com
 *.moonpaycloud.com
 *.hypermint.com
 *.moonpay.com
@@ -1166,14 +1166,14 @@ www.expediaagents.com
 *.travelocity.ca
 www.ebookers.fi
 *.cheaptickets.com
-www.mrjet.se
 *.expediapartnercentral.com
 www.expediagroup.com
+www.mrjet.se
 *.carrentals.com
+*.travelocity.com
 www.expedia.com
 *.wotif.com
 www.abritel.fr
-*.travelocity.com
 www.flights.com
 www.fewo-direkt.de
 *.vrbo.com
@@ -1349,8 +1349,8 @@ social-trading.exness.com
 api.excalls.mobi
 pay.ibex.exchange
 exnessaffiliates.com
-exness.com
 my.exness.com
+exness.com
 my.exness.com
 pay.ibex.exchange
 https://my.exness.com/webtrading/
@@ -1786,10 +1786,10 @@ new.reddit.com
 *.reddithelp.com
 amp.reddit.com
 *.reddit.com
-www.reddit.com
 *.redditmedia.com
 ads.reddit.com
 ads-api.reddit.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -2014,18 +2014,18 @@ pay.tokopediax.com
 business.tiktok.com
 shop.tiktok.com
 www.pangleglobal.com
-creatormarketplace.tiktok.com
 shop-id.tokopedia.com
 developers.tiktok.com
 live-backstage.tiktok.com
 effecthouse.tiktok.com
 seller-id.tokopedia.com
-tiktok.com
 partner.tiktokshop.com
+tiktok.com
 *.tiktokv.com
-*.tiktok.com
 affiliate-id.tokopedia.com
 ads.tiktok.com
+creatormarketplace.tiktok.com
+*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2415,11 +2415,11 @@ www.alibabagroup.com
 *.1688.com
 *.taobao.com
 *.tmall.com
-*.alibabacloud.com
 *.aliexpress.com
 *.Daraz.com
 *.aliyun.com
 *.alibaba.com
+*.alibabacloud.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -3098,15 +3098,15 @@ api.foliofn.com
 *.folioinvesting.com
 developer.valvesoftware.com
 playartifact.com
-partner.steampowered.com
 support.steampowered.com
+partner.steampowered.com
 help.steampowered.com
 www.counter-strike.net
 www.teamfortress.com
 api.steampowered.com
 partner.steamgames.com
-www.valvesoftware.com
 www.dota2.com
+www.valvesoftware.com
 store.steampowered.com
 steamcommunity.com
 www.dota2.com
@@ -3222,8 +3222,8 @@ sijoitusvakuutus.lahitapiola.fi
 privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
 verkkopalvelu.tapiola.fi
-ext-gw.lahitapiola.fi
 api.lahitapiola.fi
+ext-gw.lahitapiola.fi
 *.beta.lahitapiola.fi
 www.lahitapiola.fi
 asiointi.lahitapiola.fi
@@ -3335,12 +3335,12 @@ ccardseu1.badoo.com
 ccardsus1.badoo.com
 chatdate.app
 getofficial.co
-*.avecspotify.com
 *.atspotify.com
+*.avecspotify.com
 *.enspotify.com
-*.tospotify.com
-*.fromspotify.com
 *.forspotify.com
+*.fromspotify.com
+*.tospotify.com
 assets.spotify.com
 backstage.io
 *.withspotify.com
@@ -3457,8 +3457,8 @@ www.starbucks.com.br
 openapi.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
-www.starbucks.com.sg
 gift.starbucks.co.jp
+www.starbucks.com.sg
 www.starbucks.co.jp
 secureui.starbucks.com
 www.starbucks.co.uk
@@ -3614,8 +3614,8 @@ derivws.com
 *.derivws.com
 app.deriv.com
 smarttrader.deriv.com
-*.deriv.com
 *.deriv.cloud
+*.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3704,8 +3704,8 @@ www.bitmoji.com
 businesshelp.snapchat.com
 developer.playcanvas.com
 login.playcanvas.com
-blog.playcanvas.com
 app.snapchat.com
+blog.playcanvas.com
 playcanvas.com
 web.snapchat.com
 snappublisher.snapchat.com
@@ -3772,7 +3772,6 @@ magentolive.com
 account.magento.com
 accounts.magento.cloud
 https://contentcredentials.org/
-m.airbnb.com
 omgpro.airbnb.com
 one.airbnb.com
 open.airbnb.com
@@ -3784,7 +3783,6 @@ next.airbnb.com
 api.airbnb.com
 support-api.airbnb.com
 *.airbnb-aws.com
-www.hoteltonight.com
 *.muscache.com
 *.withairbnb.com
 *.hoteltonight-test.com
@@ -3793,6 +3791,8 @@ www.hoteltonight.com
 *.airbnb.com
 www.airbnb.com
 *.hoteltonight.com
+m.airbnb.com
+www.hoteltonight.com
 *.hoteltonight.com
 www.airbnb.com
 next.airbnb.com
@@ -4012,10 +4012,10 @@ mta-sts.wearehackerone.com
 hackerone.live
 app.pullrequest.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-hackerone.com
 api.hackerone.com
 ctf.hacker101.com
 www.hackerone.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
