@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May 22 15:18:46 UTC 2024)
+## Domains with Bounties (Last Updated Wed May 22 16:23:31 UTC 2024)
 ```
 *.varonis.net
 *.varonis.io
@@ -17,16 +17,16 @@ hackerone "in-scope" domains
 presentationtracking.netflix.com
 nmtracking.netflix.com
 beacon.netflix.com
+customerevents.netflix.com
 *.prod.cloud.netflix.com
 *.nflxext.com
 secure.netflix.com
-customerevents.netflix.com
 ichnaea.netflix.com
 *.nflxvideo.net
 help.netflix.com
-meechum.netflix.com
 www.netflix.com
 *.nlfxvideo.net
+meechum.netflix.com
 *.nflxext.com
 *.prod.ftl.netflix.com
 *.prod.cloud.netflix.com
@@ -453,8 +453,8 @@ www.sheer.com
 www.sheer.com
 my.sheer.com
 www.pornworld.com
-www.analvids.com
 www.ddfcontent.com
+www.analvids.com
 www.pornbox.com
 www.pornbox.com
 www.analvids.com
@@ -487,8 +487,8 @@ cpanel.hostinger.com
 payments.hostinger.com
 *.000webhost.com
 builder.hostinger.com
-hpanel.hostinger.com
 www.hostinger.com
+hpanel.hostinger.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -583,7 +583,7 @@ teleport.fareharbor.engineering
 fhdn.fareharbor.com
 www.fareharbor.com
 webhooks.booking.com
-admin.booking.com
+*.rentalcars.com
 *.booking.com
 *.rentalcars.com
 *.fareharbor.engineering
@@ -775,11 +775,11 @@ www.visa.co.uk
 visa.co.za
 www.fraedom.com
 www.practicalmoneyskills.org
-bd.visa.com
 www.visa.com.ph
 www.visa.com.mx
 www.visa.co.jp
 bb.visa.com
+bd.visa.com
 visa.co.ni
 www.visa.com.kz
 www.visa.co.nz
@@ -911,8 +911,8 @@ developer.mozilla.org
 sync.services.mozilla.com
 hg.mozilla.org
 community-tc.services.mozilla.com
-stage.taskcluster.nonprod.cloudops.mozgcp.net
 firefox-ci-tc.services.mozilla.com
+stage.taskcluster.nonprod.cloudops.mozgcp.net
 monitor.mozilla.org
 accounts.firefox.com
 relay.firefox.com
@@ -1124,8 +1124,8 @@ work-staging.8x8.com
 platform.8x8pilot.com
 *.8x8.id
 user-profile-staging.8x8.com
-platform.8x8.com
 sso.8x8pilot.com
+platform.8x8.com
 sso.8x8.com
 *.jitsi.net
 *.jit.si
@@ -1224,8 +1224,8 @@ hv-mtl.com
 *.wenewmoments.com
 dookeydash.com
 hv-mtl.com
-*.lastminute.co.nz
 www.hotwirepartnercentral.com
+*.lastminute.co.nz
 www.bookabach.co.nz
 www.expediapartnersolutions.com
 www.expediaagents.com
@@ -1236,9 +1236,9 @@ www.abritel.fr
 www.fewo-direkt.de
 www.orbitz.com
 www.expediataap.com
+www.mrjet.se
 *.travelocity.com
 *.lastminute.com.au
-www.mrjet.se
 *.expediacruises.com
 *.vrbo.com
 *.expediapartnercentral.com
@@ -1248,9 +1248,9 @@ www.ebookers.com
 www.stayz.com.au
 *.wotif.com
 www.flights.com
-*.hotwire.com
 www.expedia.com
 www.vrbo.com
+*.hotwire.com
 www.hotels.com
 *.vrbo.com
 *.hotwire.com
@@ -1361,8 +1361,8 @@ checkout.razorpay.com
 invoices.razorpay.com
 x.razorpay.com
 dashboard.razorpay.com
-api.razorpay.com
 payroll.razorpay.com
+api.razorpay.com
 dashboard.razorpay.com
 api.razorpay.com
 checkout.razorpay.com
@@ -1408,8 +1408,8 @@ ws.sorare.com
 *.romwe.com
 *.sheingsp.com
 pwapi.ex2b.com
-api.excalls.mobi
 social-trading.exness.com
+api.excalls.mobi
 pay.ibex.exchange
 exness.com
 exnessaffiliates.com
@@ -2081,14 +2081,14 @@ live-backstage.tiktok.com
 creatormarketplace.tiktok.com
 seller-id.tokopedia.com
 developers.tiktok.com
-partner.tiktokshop.com
 business.tiktok.com
-*.tiktokv.com
 ads.tiktok.com
-tiktok.com
-*.tiktok.com
 shop-id.tokopedia.com
+tiktok.com
+partner.tiktokshop.com
 affiliate-id.tokopedia.com
+*.tiktok.com
+*.tiktokv.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2344,9 +2344,9 @@ portal.polygon.technology
 https://agglayer-test.polygon.technology
 *.miui.com
 *.mi.com
+*.miwifi.com
 *.xiaomi.com
 *.xiaomiyoupin.com
-*.miwifi.com
 *.mi.com
 *.xiaomi.com
 *.miui.com
@@ -2439,9 +2439,9 @@ amazonpayinsurance.in
 *.amazon.es
 *.amazon.com.br
 *.amazon.co.uk
-*.amazon.com
 *.amazon.co.jp
 *.amazon.in
+*.amazon.com
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -2952,10 +2952,10 @@ ia.tvg.com
 fdbox.net
 *.east.fdbox.net
 us.tvg.com
-tvg.com
 fanduel.com
 sportsbook.fanduel.com
 *.numberfire.com
+tvg.com
 *racing.fanduel.com
 *.east.fdbox.net
 *.prod.fdbox.net
@@ -3262,8 +3262,8 @@ falcon-sandbox.com
 hybrid-analysis.com
 *.securecircle.com
 *.preempt.com
-*.crowdstrike.com
 www.crowdstrike.com
+*.crowdstrike.com
 *.bionic.ai
 *.humio.com
 *.crowdstrike.com
@@ -3399,11 +3399,11 @@ ccardseu1.badoo.com
 ccardsus1.badoo.com
 chatdate.app
 getofficial.co
-*.atspotify.com
 *.avecspotify.com
+*.atspotify.com
 *.enspotify.com
-*.forspotify.com
 *.fromspotify.com
+*.forspotify.com
 *.tospotify.com
 *.withspotify.com
 api.spotify.com
@@ -3449,11 +3449,11 @@ api.wordpress.org
 *.buddypress.org
 bbpress.org
 profiles.wordpress.org
+*.wordpress.org
 *.trac.wordpress.org
  *.svn.wordpress.org
  *.git.wordpress.org
  github.com/WordPress
-*.wordpress.org
 *.wordpress.org
 *.buddypress.org
 bbpress.org
@@ -3719,17 +3719,17 @@ yourcompany.udemy.com
 shopify.plus
 *.shopifycs.com
 *.shopifykloud.com
-*.shopifycloud.com
 shopifyinbox.com
+*.shopifycloud.com
 arrive-server.shopifycloud.com
 linkpop.com
 *.shopify.io
-partners.shopify.com
 accounts.shopify.com
 your-store.myshopify.com
-admin.shopify.com
-shop.app
 *.shopify.com
+shop.app
+partners.shopify.com
+admin.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3812,7 +3812,6 @@ fw-update.ubnt.com
 careers.ui.com
 unifi.ui.com
 *.ubnt.com
-store.ui.com
 *.ubnt.com
 *.ui.com
 store.ui.com
@@ -4034,8 +4033,8 @@ slack-imgs.com
 www.quip.com
 slack.com
 slack-status.com
-app.slack.com
 api.slack.com
+app.slack.com
 slack.com
 api.slack.com
 slackb.com
@@ -4059,15 +4058,15 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 errors.hackerone.net
-hackerone-ext-content.com
-hackathon-photos.hackerone-user-content.com
-profile-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
 cover-photos.hackerone-user-content.com
-hackathon-photos-us-east-2.hackerone-user-content.com
-b5s.hackerone-ext-content.com
 hackerone-user-content.com
+profile-photos-us-east-2.hackerone-user-content.com
+hackathon-photos-us-east-2.hackerone-user-content.com
+hackathon-photos.hackerone-user-content.com
 *.vpn.hackerone.net
+b5s.hackerone-ext-content.com
+hackerone-ext-content.com
 reviewer.pullrequest.com
 mta-sts.wearehackerone.com
 hackerone.live
