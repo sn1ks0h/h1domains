@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May 22 03:20:21 UTC 2024)
+## Domains with Bounties (Last Updated Wed May 22 04:19:39 UTC 2024)
 ```
 *.varonis.net
 *.varonis.com
@@ -24,9 +24,9 @@ help.netflix.com
 secure.netflix.com
 *.nflxext.com
 ichnaea.netflix.com
-www.netflix.com
 *.nflxvideo.net
 meechum.netflix.com
+www.netflix.com
 *.nflxext.com
 *.prod.ftl.netflix.com
 *.prod.cloud.netflix.com
@@ -454,8 +454,8 @@ www.sheer.com
 my.sheer.com
 www.pornworld.com
 www.pornbox.com
-www.analvids.com
 www.ddfcontent.com
+www.analvids.com
 www.pornbox.com
 www.analvids.com
 www.ddfcontent.com
@@ -910,8 +910,8 @@ phabricator.allizom.org
 developer.mozilla.org
 sync.services.mozilla.com
 hg.mozilla.org
-stage.taskcluster.nonprod.cloudops.mozgcp.net
 community-tc.services.mozilla.com
+stage.taskcluster.nonprod.cloudops.mozgcp.net
 firefox-ci-tc.services.mozilla.com
 monitor.mozilla.org
 accounts.firefox.com
@@ -1370,8 +1370,8 @@ invoices.razorpay.com
 payroll.razorpay.com
 x.razorpay.com
 api.linkedin.com
-www.linkedin.com
 business.linkedin.com
+www.linkedin.com
 www.linkedin.com
 api.linkedin.com
 business.linkedin.com
@@ -1807,8 +1807,8 @@ api.taxjar.com
 js.stripe.com
 app.taxjar.com
 *.touchtechpayments.com
-*.stripe.com
 api.stripe.com
+*.stripe.com
 api.stripe.com
 *.stripe.com
 *.touchtechpayments.com
@@ -1850,8 +1850,8 @@ new.reddit.com
 amp.reddit.com
 ads-api.reddit.com
 *.redditmedia.com
-www.reddit.com
 *.reddit.com
+www.reddit.com
 ads.reddit.com
 *.snooguts.net
 *.redditmedia.com
@@ -2085,9 +2085,9 @@ shop-id.tokopedia.com
 tiktok.com
 developers.tiktok.com
 partner.tiktokshop.com
-*.tiktok.com
 business.tiktok.com
 ads.tiktok.com
+*.tiktok.com
 *.tiktokv.com
 *.tiktok.com
 business.tiktok.com
@@ -2304,8 +2304,8 @@ my.playstation.com
 ca.account.sony.com
 store.playstation.com
 direct.playstation.com
-social.playstation.com
 transact.playstation.com
+social.playstation.com
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
 *.playstation.net
@@ -2437,8 +2437,8 @@ amazonpayinsurance.in
 *.amazon.cn
 *.amazon.ca
 *.amazon.es
-*.amazon.co.jp
 *.amazon.in
+*.amazon.co.jp
 *.amazon.com.br
 *.amazon.com
 *.amazon.co.uk
@@ -2632,10 +2632,10 @@ app.nordpass.com
 *.nordvpn.com
 app.nordpass.com
 *.line.naver.jp
-*.line.biz
 *.line-apps.com
 *.linecorp.com
 *.line.me
+*.line.biz
 *.line.me
 *.line-apps.com
 *.line.naver.jp
@@ -2924,28 +2924,28 @@ grammarly.ai
 *.grammarly.com
 grammarly.ai
 *.mgmt.fndlsb.net
-*.prd.fndlsb.net
 *.prod.fdbox.net
+*.prd.fndlsb.net
 *inf.fndlsb.net
 *racing.fanduel.com
 4njbets.tvgnetwork.com
 b2b.tvgnetwork.com
 service.racing.fanduel.com
+4njbets.us.betfair.com
 4njbets.tvg.com
 4njbets.com
-4njbets.us.betfair.com
 login-4njbets.us.betfair.com
 login-pabets.tvg.com
-mobile-prod.tvg.com
 login-ia.tvg.com
 m.4njbets.tvg.com
-pabets.tvg.com
 login.tvg.com
-login-4ngbets.us.betfair.com
-login.pabets.tvg.com
+mobile-prod.tvg.com
+pabets.tvg.com
 service.tvg.com
 promos.tvg.com
 www.4njbets.com
+login-4ngbets.us.betfair.com
+login.pabets.tvg.com
 com.fanduel.android.live
 www.tvg.com
 ia.tvg.com
@@ -2998,16 +2998,16 @@ https://github.com/matomo-org/docker
 paypal.me
 *.braintree.tools
 *.paylution.com
-decision.swiftfinancial.com
-partner.swiftfinancial.com
-scrutiny.swiftfinancial.com
-pigeon.swiftfinancial.com
-www.swiftfinancial.com
 swiftfinancial.com
 prequal.swiftfinancial.com
-my.loanbuilder.com
 www.swiftcapital.com
 swiftcapital.com
+partner.swiftfinancial.com
+pigeon.swiftfinancial.com
+scrutiny.swiftfinancial.com
+www.swiftfinancial.com
+my.loanbuilder.com
+decision.swiftfinancial.com
 py.pl
 paypalobjects.com
 www.loanbuilder.com
@@ -3189,8 +3189,8 @@ developer.valvesoftware.com
 js.crypto.com
 app.mona.co
 *.mona.co
-www.crypto.com
 tax.crypto.com
+www.crypto.com
 merchant.crypto.com
 auth.crypto.com
 pay.crypto.com
@@ -3210,8 +3210,8 @@ https://crypto.com/price
 bounty-node.rsk.co
 https://github.com/rsksmart/rsk-powhsm/
 bounty-node.rsk.co
-*.deliveroo.com.hk
 *.deliveroo.com.kw
+*.deliveroo.com.hk
 *.deliveroo.com.qa
 *.deliveroo.ie
 *.deliveroo.com.sg
@@ -3259,13 +3259,13 @@ www.crowdstrike.org
 falcon-sandbox.com
 *.preemptsecurity.com
 *.reposify.com
-*.humio.com
 hybrid-analysis.com
 *.securecircle.com
 *.preempt.com
-www.crowdstrike.com
 *.crowdstrike.com
+www.crowdstrike.com
 *.bionic.ai
+*.humio.com
 *.crowdstrike.com
 *.humio.com
 *.securecircle.com
@@ -3289,9 +3289,9 @@ verkkopalvelu.tapiola.fi
 ext-gw.lahitapiola.fi
 api.lahitapiola.fi
 *.beta.lahitapiola.fi
+www.lahitapiola.fi
 asiointi.lahitapiola.fi
 tunnistus.lahitapiola.fi
-www.lahitapiola.fi
 yrityspalvelu.tapiola.fi
 secure.lahitapiola.fi
 *.lahitapiola.fi
@@ -3344,8 +3344,8 @@ kartaview.org
 wiki.grab.com
 *.grab-sure.com
 *.myteksi.net
-*.ovo.id
 *.grab.com
+*.ovo.id
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3373,9 +3373,9 @@ bma.badoo.com
 translate.badoo.com
 ccardsus1.badoo.com
 bma.bumble.com
+ccardseu1.badoo.com
 us1.badoo.com
 eu1.badoo.com
-ccardseu1.badoo.com
 badoocdn.com
 hotornot.com
 getofficial.co
@@ -3521,8 +3521,8 @@ www.starbucks.com.br
 openapi.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
-gift.starbucks.co.jp
 www.starbucks.com.sg
+gift.starbucks.co.jp
 www.starbucks.co.jp
 secureui.starbucks.com
 www.starbucks.ca
@@ -3719,14 +3719,14 @@ yourcompany.udemy.com
 shopify.plus
 *.shopifycs.com
 *.shopifykloud.com
-shopifyinbox.com
 *.shopifycloud.com
+shopifyinbox.com
 arrive-server.shopifycloud.com
 linkpop.com
 *.shopify.io
 *.shopify.com
-partners.shopify.com
 accounts.shopify.com
+partners.shopify.com
 admin.shopify.com
 shop.app
 your-store.myshopify.com
@@ -3768,8 +3768,8 @@ www.bitmoji.com
 businesshelp.snapchat.com
 developer.playcanvas.com
 login.playcanvas.com
-app.snapchat.com
 blog.playcanvas.com
+app.snapchat.com
 playcanvas.com
 web.snapchat.com
 snappublisher.snapchat.com
@@ -3812,7 +3812,7 @@ fw-update.ubnt.com
 careers.ui.com
 unifi.ui.com
 *.ubnt.com
-design.ui.com
+store.ui.com
 *.ubnt.com
 *.ui.com
 store.ui.com
@@ -3848,10 +3848,10 @@ support-api.airbnb.com
 *.airbnb-aws.com
 *.muscache.com
 www.hoteltonight.com
+m.airbnb.com
 *.luxuryretreats.com
 *.airbnbcitizen.com
 *.hoteltonight-test.com
-m.airbnb.com
 www.airbnb.com
 *.withairbnb.com
 *.hoteltonight.com
@@ -4078,8 +4078,8 @@ ctf.hacker101.com
 www.wearehackerone.com
 www.hackerone.com
 app.pullrequest.com
-hackerone.com
 api.hackerone.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -4310,8 +4310,8 @@ magentocommerce.com
 u.magento.com
 imagine.magento.com
 magentolive.com
-accounts.magento.cloud
 repo.magento.com
+accounts.magento.cloud
 marketplace.magento.com
 account.magento.com
 magento.com
