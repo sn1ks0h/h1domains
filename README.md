@@ -2,10 +2,10 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May 31 21:17:32 UTC 2024)
+## Domains with Bounties (Last Updated Fri May 31 22:17:05 UTC 2024)
 ```
-api.circle.com
 app.circle.com
+api.circle.com
 api.circle.com
 app.circle.com
 *.varonis.com
@@ -46,9 +46,6 @@ ichnaea.netflix.com
 presentationtracking.netflix.com
 nmtracking.netflix.com
 meechum.netflix.com
-api.zmsp.earlywarning.com
-api.zellepay.com
-*.clearxchange.com
 *.zelle.com
 platformtest.cat.earlywarning.io
 platform.cat.earlywarning.io
@@ -56,6 +53,9 @@ earlywarningapi.force.com
 zellepay.force.com
 zelleservice.my.site.com
 ews-fusion.my.site.com
+api.zmsp.earlywarning.com
+api.zellepay.com
+*.clearxchange.com
 *.earlywarning.com
 *.zellepay.com
 *.zellepay.com
@@ -227,6 +227,7 @@ enterprise-service-management-noneu.truecaller.com
 enterprise-survey-asia-south1.truecaller.com
 enterprise-survey-noneu.truecaller.com
 enterprise-userfeedback-noneu.truecaller.com
+enterprise-webhooks-noneu.truecaller.com
 business.truecaller.com
 account-noneu.truecaller.com
 account-onboarding-noneu.truecaller.com
@@ -469,11 +470,11 @@ sandbox.fireblocks.io
 http://sb-mobile-api.fireblocks.io
 http://sb-console-api.fireblocks.io
 http://sandbox-api.fireblocks.io
+*.sprint.apps.dynatracelabs.com
 sso-sprint.dynatracelabs.com
 account-sprint.dynatracelabs.com
 *.sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
-*.sprint.apps.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
 *.sprint.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
@@ -531,11 +532,11 @@ www.mercadopago.com.uy
 www.mercadopago.cl
 www.mercadolibre.cl
 www.mercadolibre.com.pe
-api.mercadolibre.com
-www.mercadopago.com.br
 www.mercadopago.com.ar
+api.mercadolibre.com
 www.mercadolivre.com.br
 www.mercadolibre.com.ar
+www.mercadopago.com.br
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -1096,16 +1097,16 @@ www.malwarebytes.com
 my.malwarebytes.com
 cloud.malwarebytes.com
 oneview.malwarebytes.com
-online.s-pankki.fi
-mobile.s-pankki.fi
-extranet.s-pankki.fi
-www.s-pankki.fi
-www.s-kaupat.fi
-tunnistus.s-ryhma.fi
-digili.s-cloud.fi
 www.prisma.fi
 www.sokos.fi
 api.sokos.fi
+www.s-pankki.fi
+mobile.s-pankki.fi
+extranet.s-pankki.fi
+online.s-pankki.fi
+www.s-kaupat.fi
+tunnistus.s-ryhma.fi
+digili.s-cloud.fi
 cfapi.voikukka.fi
 online.s-pankki.fi
 www.s-pankki.fi
@@ -1123,8 +1124,8 @@ jobs.kiwi.com
 www.kiwi.com
 *.kiwi.com
 auth.skypicker.com
-tequila.kiwi.com
 *.skypicker.com
+tequila.kiwi.com
 *.kiwi.com
 *.skypicker.com
 www.kiwi.com
@@ -1184,13 +1185,13 @@ admin.8x8.com
 *.spinaway.com
 *.napoleonsports.be
 *.napoleondice.be
+*.superbet.rs
 *.luckydays.com
 *.magicjackpot.ro
 *.luckydays.ca
 *.superbet.com
-*.superbet.rs
-*.napoleoncasino.be
 *.superbet.pl
+*.napoleoncasino.be
 *.superbet.ro
 *.superbet.ro
 *.superbet.rs
@@ -1349,8 +1350,8 @@ artifactory.corp.mongodb.com/
 https://www.*mongodb.com/*
 mongodb.live/*
 artifactory.corp.mongodb.com/
-royal.checksw.com
 checksw.com
+royal.checksw.com
 checksw.com
 royal.checksw.com
 *.cornershopapp.com/*
@@ -1593,8 +1594,8 @@ admin.wickr.com
 shop.judge.me
 woocommerce-adapter.judge.me
 bigcommerce-adapter.judge.me
-judge.me
 cache.judge.me
+judge.me
 judge.me
 https://judge.me/reviews
 shop.judge.me
@@ -2100,7 +2101,6 @@ api.adm.cloud.com
 careers.tiktok.com
 developers.tiktok.com
 business.tiktok.com
-www.pangleglobal.com
 live-backstage.tiktok.com
 partner.tiktokshop.com
 shop.tiktok.com
@@ -2109,13 +2109,14 @@ effecthouse.tiktok.com
 seller-id.tokopedia.com
 shop-id.tokopedia.com
 pay.tokopediax.com
-tiktok.com
-ads.tiktok.com
-affiliate-id.tokopedia.com
 academy-outbound-ads.tiktok.com
-*.tiktokv.com
 creatormarketplace.tiktok.com
 *.tiktok.com
+affiliate-id.tokopedia.com
+*.tiktokv.com
+www.pangleglobal.com
+tiktok.com
+ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2199,7 +2200,6 @@ beta-cloud.acronis.com
 account.acronis.com
 sandbox.affirm.com
 sandbox.affirm.com
-www.superdrug.com
 app.theperfumeshop.com
 api.theperfumeshop.com
 api.iciparisxl.be
@@ -2223,6 +2223,15 @@ app.marionnaud.at
 www.marionnaud.ch
 app.marionnaud.ch
 www.marionnaud.cz
+app.marionnaud.cz
+www.marionnaud.hu
+app.marionnaud.hu
+app.marionnaud.it
+www.marionnaud.it
+www.marionnaud.ro
+app.marionnaud.ro
+app.marionnaud.sk
+www.marionnaud.sk
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2345,8 +2354,8 @@ transact.playstation.com
 wallets.api.playstation.com
 ca.account.sony.com
 my.account.sony.com
-*.sonyentertainmentnetwork.com
 *.playstation.net
+*.sonyentertainmentnetwork.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -2469,7 +2478,6 @@ itv7.itv.com
 *.amazon.com.be
 *.amazon.ae
 *.amazon.eg
-*.amazon.nl
 *.amazon.sa
 *.amazon.se
 *.amazon.sg
@@ -2480,14 +2488,15 @@ amazonpayinsurance.in
 *.amazon.com.tr
 *.amazon.co.jp
 *.amazon.es
-*.amazon.com.br
 *.amazon.de
 *.amazon.co.uk
 *.amazon.it
 *.amazon.ca
 *.amazon.com.mx
-*.amazon.in
+*.amazon.com.br
 *.amazon.com
+*.amazon.in
+*.amazon.nl
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -2532,6 +2541,8 @@ dashboard.magic.link
 api.magic.link
 dashboard.fortmatic.com
 fortmatic.com
+*.highrolling.nu
+*.kes.kindredext.net
 *.unibet.fr
 *.storspiller.com
 *.bingo.com
@@ -2544,8 +2555,6 @@ maria.casino
 *.vladcazino.ro
 *.kindredext.net
 www.32red.com
-*.highrolling.nu
-*.kes.kindredext.net
 *.unibet.com
 *.unibet.com
 *.unibet.fr
@@ -2621,8 +2630,8 @@ www.goodrx.com
 www.goodrx.com
 *.ra.roblox.com
 *.rbx.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2653,8 +2662,8 @@ app.nordpass.com
 app.nordpass.com
 *.line-apps.com
 *.line.naver.jp
-*.line.me
 *.linecorp.com
+*.line.me
 *.line.biz
 *.line.me
 *.line-apps.com
@@ -3018,6 +3027,7 @@ login-pabets.tvg.com
 matomo.cloud
 matomo.cloud
 https://github.com/matomo-org/docker
+sandbox.braintreegateway.com
 paypalobjects.com
 paypal.me
 py.pl
@@ -3045,7 +3055,6 @@ scrutiny.swiftfinancial.com
 *.venmo.com
 *.hyperwallet.com
 *.paylution.com
-sandbox.braintreegateway.com
 *.braintreegateway.com
 *.paypal.com
 *.xoom.com
@@ -3079,15 +3088,15 @@ my.loanbuilder.com
 loanbuilder.com
 swiftfinancial.com
 swiftcapital.com
+*.cb.dev
+*.mmwebc.dev
 *.mmcdn.com
-secure.chaturbate.com
 chaturbate.com
 *.highwebmedia.com
 m.chaturbate.com
 *.securegatewayaccess.com
 billingsupport.chaturbate.com
-*.cb.dev
-*.mmwebc.dev
+secure.chaturbate.com
 *.highwebmedia.com
 *.securegatewayaccess.com
 *.mmcdn.com
@@ -3225,6 +3234,7 @@ www.counter-strike.net
 playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
+*.mona.co
 auth.crypto.com
 merchant.crypto.com
 pay.crypto.com
@@ -3233,7 +3243,6 @@ www.crypto.com
 *.crypto.com
 app.mona.co
 tax.crypto.com
-*.mona.co
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3366,6 +3375,11 @@ privatetarget-1-www.zigzag
 *.scatec.io
 *.myinsights.io
 *.sellzone.com
+*.grab-sure.com
+gifts.grab.com
+*.ovo.id
+*.taralite.com
+kartaview.org
 api.grabpay.com
 *.grabpay.com
 xtramile.grabpay.com
@@ -3380,11 +3394,6 @@ gamma.grab.co
 manage.grab.co
 jira.grab.com
 wiki.grab.com
-*.grab-sure.com
-gifts.grab.com
-*.ovo.id
-*.taralite.com
-kartaview.org
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3544,10 +3553,6 @@ https://enterprise-demo.portswigger.net/
 www.starbucks.co.kr
 card.starbucks.com.sg
 www.starbucks.com.sg
-app.starbucks.com
-cart.starbucks.co.jp
-openapi.starbucks.com
-secureui.starbucks.com
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3558,6 +3563,10 @@ www.starbucks.fr
 www.starbucks.co.uk
 www.starbucks.com.br
 www.starbucks.ca
+cart.starbucks.co.jp
+openapi.starbucks.com
+secureui.starbucks.com
+app.starbucks.com
 www.starbucks.com
 www.starbucksreserve.com
 gift.starbucks.co.jp
@@ -3619,8 +3628,8 @@ gist.github.com
 classroom.github.com
 *.githubapp.com
 *.githubusercontent.com
-npmjs.com
 github.com
+npmjs.com
 github.com
 api.github.com
 gist.github.com
@@ -3857,7 +3866,6 @@ magentolive.com
 account.magento.com
 accounts.magento.cloud
 https://contentcredentials.org/
-www.airbnb.com
 next.airbnb.com
 api.airbnb.com
 support-api.airbnb.com
@@ -3878,6 +3886,7 @@ www.hoteltonight.com
 *.hoteltonight.com
 *.airbnb.com
 *.withairbnb.com
+www.airbnb.com
 *.hoteltonight.com
 www.airbnb.com
 next.airbnb.com
@@ -3970,6 +3979,7 @@ http://github.com/cloudflare
 one.dash.cloudflare.com
 waf.cumulusfire.net
 *.cloudflarepartners.com
+gravatar.com
 api.tumblr.com
 safe.tumblr.com
 secure.tumblr.com
@@ -3987,7 +3997,6 @@ akismet.com
 mailpoet.com
 happy.tools
 my.pressable.com
-gravatar.com
 *.tumblr.com
 *.srvcs.tumblr.com
 api.tumblr.com
@@ -4051,6 +4060,9 @@ nft.coinbase.com
 http://coinbase.com
 international.coinbase.com
 *.base.org
+www.quip.com
+*.quip.com
+slack-status.com
 slackatwork.com
 slack-redir.net
 slack-imgs.com
@@ -4059,9 +4071,6 @@ slack.com
 slackb.com
 app.slack.com
 edgeapi.slack.com
-www.quip.com
-*.quip.com
-slack-status.com
 api.slack.com
 slack.com
 api.slack.com
@@ -4103,12 +4112,12 @@ hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 api.hackerone.com
-cover-photos-us-east-2.hackerone-user-content.com
 errors.hackerone.net
+cover-photos-us-east-2.hackerone-user-content.com
 app.pullrequest.com
 hackerone.live
-www.hackerone.com
 hackerone.com
+www.hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
